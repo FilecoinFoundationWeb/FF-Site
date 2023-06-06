@@ -4,12 +4,11 @@ created-on: 2023-06-01T11:00:30.238Z
 updated-on: 2023-06-01T11:00:00.000Z
 published-on: 2023-06-01T11:00:00.000Z
 f_author: Filecoin Foundation
-f_description: "Organizations look to the decentralized web (dweb) for data
-  storage because decentralization maximizes resiliency yet allows for choice.
-  The early internet operated on a much more decentralized plane than today:
-  Users could dial into an ISP of their choice, and switch as easily as changing
-  a phone number. Websites could be run by any one of thousands of hosting
-  providers around the world, instead of just being run by Amazon by default."
+f_description: On April 27, 2023, the Filecoin network launched the
+  highly-anticipated nv19 Lightning Upgrade, marking a significant leap forward
+  in the realm of decentralized storage. This technical milestone brings a host
+  of enhancements and improvements to the Filecoin ecosystem, enabling greater
+  efficiency, security, and usability.
 f_featured: false
 f_image:
   url: /assets/images/06012023-lightningupgrade.png
