@@ -10,7 +10,7 @@ f_description: Against the backdrop of Consensus 2023, one of the largest annual
   bringing the project to life.
 f_featured: false
 f_image:
-  url: /assets/images/06012023-lightningupgrade.png
+  url: /assets/images/051823-austin-recap.png
   alt: null
 f_post-date: 2023-06-05T11:00:00.000Z
 tags: blog
