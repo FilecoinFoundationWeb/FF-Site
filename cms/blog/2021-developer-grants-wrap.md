@@ -1,21 +1,22 @@
 ---
-title: 2021 Developer Grants Wrap
-created-on: 2021-12-30T00:00:00.000Z
-updated-on: 2021-12-30T00:00:00.000Z
-published-on: 2021-12-30T00:00:00.000Z
-f_author: Filecoin Foundation
-f_description: The Filecoin Foundation (FF) and Protocol Labs regularly award
-  funding to critical development projects to foster a more robust and efficient
-  decentralized web through the Filecoin ecosystem.
 f_featured: false
-f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a85bc0269a688e68b42_1-tzcw63hnl-wlwgyzqjfbjw.png
-  alt: null
-f_post-date: 2021-12-30T00:00:00.000Z
-tags: blog
-layout: "[blog].html"
+f_post-date: '2021-12-30T00:00:00.000Z'
+title: 2021 Developer Grants Wrap
+f_description: >-
+  The Filecoin Foundation (FF) and Protocol Labs regularly award funding to
+  critical development projects to foster a more robust and efficient
+  decentralized web through the Filecoin ecosystem.
+f_author: Filecoin Foundation
 slug: 2021-developer-grants-wrap
-date: 2021-12-30T00:00:00.000Z
+f_image:
+  url: >-
+    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a85bc0269a688e68b42_1-tzcw63hnl-wlwgyzqjfbjw.png
+  alt: null
+updated-on: '2023-04-21T07:25:57.311Z'
+created-on: '2023-04-21T07:25:57.311Z'
+published-on: '2023-04-21T07:33:56.200Z'
+layout: '[blog].html'
+tags: blog
 ---
 
 The Filecoin Foundation (FF) and Protocol Labs regularly award funding to critical development projects to foster a more robust and efficient decentralized web through the Filecoin ecosystem.
