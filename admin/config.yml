@@ -3339,23 +3339,15 @@ collections:
             label: Text
             name: '-d474b62'
             widget: text
-          - hint: 'Original text: Bug Bounty, key: -6276bfe9'
+          - hint: 'Original text: Community Calendar, key: 802a1d5'
             label: Text
-            name: '-6276bfe9'
+            name: 802a1d5
             widget: string
           - hint: >-
-              Original text: We created a program to reward all security
-              researchers, hackers and security afficionados that invest time
-              into finding bugs on the Filecoin protocol and its respective
-              implementations., key: -5c4fb59f
+              Original text: The latest events and meetings hosted by the
+              Foundation and our ecosystem partners, key: 34b62894
             label: Text
-            name: '-5c4fb59f'
-            widget: text
-          - hint: >-
-              Original text: Reported security vulnerabilities are eligible for
-              a Bug Bounty., key: 5a05595d
-            label: Text
-            name: 5a05595d
+            name: 34b62894
             widget: string
           - hint: 'Original text: Email for more info, key: -7a049a2'
             label: Text
@@ -4582,10 +4574,11 @@ collections:
             name: 41f5702e
             widget: string
           - hint: >-
-              Original link: https://immunefi.com/bounty/filecoin/, key:
-              -178c9db
+              Original link:
+              https://calendar.google.com/calendar/u/1/r?cid=Y19rMWdrZm9vbTE3ZzBqOGM2YmFtNnVmNDNqMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t,
+              key: 68d99935
             label: Link
-            name: '-178c9db'
+            name: 68d99935
             widget: string
           - hint: >-
               Original link:
