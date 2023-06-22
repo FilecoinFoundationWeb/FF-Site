@@ -1,6 +1,6 @@
 # Filecoin Foundation Website
 
-![Filecoin Foundation Logo](https://fil.org/assets/images/logo.svg)
+![Filecoin Foundation Logo](https://fil-foundation.on.fleek.co/logos/FF/SVG%20%28Vector%20-%20Web%29/FF_Wordmark_Horizontal_Blue.svg)
 
 The Filecoin Foundation website is a decentralized website built on [Webflow](https://webflow.com/) and exported to a Jamstack project using [Udesly](https://www.udesly.com/). It leverages [NetlifyCMS](https://decapcms.org/) as a Git-based CMS to enable contributors to edit dynamic content without the need for knowledge of Git or Markdown. The final site is published to [Fleek](https://fleek.co/), allowing it to be hosted on the Filecoin network and accessed via [IPFS](https://ipfs.tech/).
 
@@ -30,7 +30,7 @@ The source code and content of the Filecoin Foundation website are licensed unde
 
 ## Acknowledgments
 
-- The Filecoin Foundation website is built on the power of Webflow, Udesly, NetlifyCMS, Fleek, Filecoin, and IPFS.
+- The Filecoin Foundation website is built on the power of [Webflow](https://webflow.com/), [Udesly](https://www.udesly.com/), [NetlifyCMS](https://decapcms.org/), [Fleek](https://fleek.co/), [Filecoin](https://filecoin.io/), and [IPFS](https://ipfs.tech/).
 - Thanks to the open-source community for their valuable contributions and support.
 
 ## Contact
