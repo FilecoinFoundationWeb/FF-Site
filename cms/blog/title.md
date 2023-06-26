@@ -1,5 +1,5 @@
 ---
-title: title
+title: Unique title
 created-on: 2023-06-26T16:12:18.714Z
 updated-on: 2023-06-26T16:12:18.845Z
 published-on: 2023-06-26T16:12:18.919Z
