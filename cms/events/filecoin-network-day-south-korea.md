@@ -3,6 +3,7 @@ title: Filecoin Network Day - South Korea
 created-on: 2023-06-27T16:21:11.302Z
 updated-on: 2023-06-27T16:21:11.325Z
 published-on: 2023-06-27T16:21:11.352Z
+f_featured: false
 f_description: Seoul, Korea
 f_cta: https://www.filecoinnetworkday.kr/
 f_cta-text: Learn More
