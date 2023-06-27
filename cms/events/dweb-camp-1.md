@@ -11,6 +11,7 @@ f_end-date: 2023-06-25T15:30:55.996Z
 f_image:
   url: /assets/images/dweb-camp.png
 f_event-date: 2023-06-27T15:30:56.007Z
+f_event-type: Event
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:30:56.014Z
