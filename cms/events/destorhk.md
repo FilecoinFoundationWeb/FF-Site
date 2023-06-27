@@ -11,6 +11,7 @@ f_end-date: 2023-08-15T15:30:53.227Z
 f_image:
   url: /assets/images/destore-hk-2023.png
 f_event-date: 2023-06-27T15:30:53.234Z
+f_event-type: Event
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:30:53.241Z
