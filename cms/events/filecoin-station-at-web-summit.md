@@ -11,6 +11,7 @@ f_image:
   url: /assets/images/websummit-2023.png
 f_event-date: 2023-06-27T15:30:57.231Z
 f_event-type: Event
+f_icon-type: Info
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:30:57.250Z
