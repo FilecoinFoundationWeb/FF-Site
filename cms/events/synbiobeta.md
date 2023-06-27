@@ -11,6 +11,7 @@ f_end-date: 2023-05-23T15:30:55.060Z
 f_image:
   url: /assets/images/synbiobeta-2023.png
 f_event-date: 2023-06-27T15:30:55.070Z
+f_event-type: Event
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:30:55.079Z
