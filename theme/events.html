@@ -848,7 +848,7 @@ color: #08072e;
             </div>
             <div class="w-tab-content">
               <div data-w-tab="Events" class="w-tab-pane w--tab-active">
-                {%- assign collection = collections.events | filter: "f_event-type,eq,Event", "ALL", page.inputPath | sort: "-f_event-date" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
+                {%- assign collection = collections.events | filter: "f_event-type,eq,Event", "ALL", page.inputPath | sort: "-f_featured, -f_event-date" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
                   {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list events-page w-dyn-items">
                     {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
                       <div class="card event-card-events-page">
@@ -910,7 +910,7 @@ color: #08072e;
                         </div>
                       </div>
                     </div>{%- endfor -%}
-                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page-eb798b3-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page--8abd04a-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
