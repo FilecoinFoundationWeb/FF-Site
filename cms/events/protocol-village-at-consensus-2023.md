@@ -7,7 +7,7 @@ f_description: Protocol Village is where developers discuss the future of the to
 f_cta: https://consensus2023.coindesk.com/agenda/venue/-protocol-village
 f_cta-text: Learn More
 f_start-date: 2023-04-26T15:31:08.683Z
-f_end-date: 2023-06-28T15:31:08.707Z
+f_end-date: 2023-04-28T15:31:08.707Z
 f_image:
   url: /assets/images/protocol-village-2023.png
 f_event-date: 2023-06-27T15:31:08.730Z
