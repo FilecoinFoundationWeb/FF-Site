@@ -3,6 +3,7 @@ title: DeStorHK
 created-on: 2023-06-27T15:30:53.184Z
 updated-on: 2023-06-27T15:30:53.198Z
 published-on: 2023-06-27T15:30:53.211Z
+f_featured: false
 f_description: Hong Kong
 f_cta: https://fil-hk.io/destor-en/
 f_cta-text: Learn More

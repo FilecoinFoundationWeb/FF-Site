@@ -3,6 +3,7 @@ title: FIL Bangalore
 created-on: 2023-06-27T15:50:53.871Z
 updated-on: 2023-06-27T15:50:53.888Z
 published-on: 2023-06-27T15:50:53.898Z
+f_featured: false
 f_description: Bangalore, India
 f_cta: https://fil-bangalore.io/
 f_cta-text: Learn More

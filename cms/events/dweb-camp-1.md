@@ -3,6 +3,7 @@ title: DWeb Camp 2023
 created-on: 2023-06-27T15:30:55.950Z
 updated-on: 2023-06-27T15:30:55.964Z
 published-on: 2023-06-27T15:30:55.978Z
+f_featured: false
 f_description: Navarro, CA
 f_cta: https://dwebcamp.org/
 f_cta-text: Learn More

@@ -3,6 +3,7 @@ title: SynBioBeta
 created-on: 2023-06-27T15:30:55.013Z
 updated-on: 2023-06-27T15:30:55.027Z
 published-on: 2023-06-27T15:30:55.037Z
+f_featured: false
 f_description: "Oakland, CA "
 f_cta: https://www.synbiobeta.com/?gclid=Cj0KCQjwsIejBhDOARIsANYqkD3rXO4MsIuZKZoLXt3Zyg51dOyWhYIx618pDpuz9cwqyIeBv8qXPwAaAg4gEALw_wcB
 f_cta-text: Learn More

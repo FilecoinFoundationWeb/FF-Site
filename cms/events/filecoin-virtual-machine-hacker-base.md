@@ -3,6 +3,7 @@ title: Filecoin Virtual Machine Hacker Base
 created-on: 2023-06-27T15:30:59.181Z
 updated-on: 2023-06-27T15:30:59.191Z
 published-on: 2023-06-27T15:30:59.198Z
+f_featured: false
 f_description: Denver, CO
 f_cta: https://events.fil.org/fvm-hackerbase
 f_cta-text: Learn More

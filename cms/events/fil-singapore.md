@@ -1,5 +1,5 @@
 ---
-f_featured: true
+f_featured: false
 f_event-date: '2022-09-26T00:00:00.000Z'
 f_start-date: '2022-09-24T00:00:00.000Z'
 f_end-date: '2022-09-25T00:00:00.000Z'

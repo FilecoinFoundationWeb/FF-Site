@@ -1,6 +1,7 @@
 ---
 f_featured: false
 f_event-date: '2021-04-12T22:00:00.000Z'
+f_featured: false
 f_cta: https://www.youtube.com/watch?v=BIvFtwCeOjU
 f_description: null
 f_image-background-position: null

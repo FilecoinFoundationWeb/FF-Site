@@ -3,6 +3,7 @@ title: Filecoin Network Base
 created-on: 2023-06-27T15:46:15.126Z
 updated-on: 2023-06-27T15:46:15.134Z
 published-on: 2023-06-27T15:46:15.140Z
+f_featured: false
 f_cta: https://networkbase.io/austin/
 f_cta-text: Learn More
 f_start-date: 2023-04-24T15:46:15.146Z
