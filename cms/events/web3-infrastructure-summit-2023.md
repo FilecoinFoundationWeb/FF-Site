@@ -1,0 +1,23 @@
+---
+title: Web3 Infrastructure Summit 2023
+created-on: 2023-06-27T17:42:44.404Z
+updated-on: 2023-06-27T17:42:44.416Z
+published-on: 2023-06-27T17:42:44.428Z
+f_description: London, England
+f_cta: https://rockscarmedia.com/events/web3-infrastructure-summit-2023/#:~:text=Hosted%20by%20RockScar%20the%20Web3,NFTs%2C%20and%20other%20Web3%20applications.
+f_cta-text: Learn More
+f_start-date: 2023-06-15T17:42:44.441Z
+f_end-date: 2023-06-15T17:42:00.000Z
+f_image:
+  url: /assets/images/web3-infra-2023.png
+f_event-date: 2023-06-15T17:42:00.000Z
+f_event-type: Event
+f_icon-type: Info
+tags: events
+layout: "[events].html"
+date: 2023-06-27T17:42:44.478Z
+seo:
+  noindex: false
+  twitter:title: summary
+  twitter:card: summary
+---
