@@ -12,6 +12,7 @@ f_image:
   url: /assets/images/destore-hk-2023.png
 f_event-date: 2023-06-27T15:30:53.234Z
 f_event-type: Event
+f_icon-type: Info
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:30:53.241Z
