@@ -3,13 +3,14 @@ title: Filecoin Station at Web Summit
 created-on: 2023-06-27T15:30:57.095Z
 updated-on: 2023-06-27T15:30:57.115Z
 published-on: 2023-06-27T15:30:57.149Z
+f_description: Lisbon, Portugal
 f_cta: https://websummit.com/blog/web-summit-2022-2-for-1-tickets
 f_cta-text: Learn More
 f_start-date: 2022-11-01T15:30:57.167Z
 f_end-date: 2022-11-04T15:30:57.184Z
 f_image:
   url: /assets/images/websummit-2023.png
-f_event-date: 2023-06-27T15:30:57.231Z
+f_event-date: 2022-11-01T15:30:00.000Z
 f_event-type: Event
 f_icon-type: Info
 tags: events
