@@ -4,7 +4,7 @@ created-on: 2023-06-27T15:30:53.184Z
 updated-on: 2023-06-27T15:30:53.198Z
 published-on: 2023-06-27T15:30:53.211Z
 f_description: Hong Kong
-f_cta: fil-hk.io/destor-en
+f_cta: https://fil-hk.io/destor-en/
 f_cta-text: Learn More
 f_start-date: 2023-08-15T15:30:53.222Z
 f_end-date: 2023-08-15T15:30:53.227Z
