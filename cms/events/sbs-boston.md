@@ -10,6 +10,7 @@ f_end-date: 2023-04-13T15:32:41.654Z
 f_image:
   url: /assets/images/sbs-boston-2023.png
 f_event-date: 2023-04-13T15:32:41.661Z
+f_event-type: Event
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:32:41.668Z
