@@ -9,7 +9,7 @@ f_cta-text: Learn
 f_start-date: 2023-06-21T15:30:55.987Z
 f_end-date: 2023-06-25T15:30:55.996Z
 f_image:
-  ? url
+  url: /assets/images/dweb-camp.png
 f_event-date: 2023-06-27T15:30:56.007Z
 tags: events
 layout: "[events].html"
