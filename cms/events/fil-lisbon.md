@@ -1,7 +1,7 @@
 ---
 title: FIL Lisbon
 created-on: 2023-05-03T08:05:53.586Z
-updated-on: 2023-05-03T08:13:59.970Z
+updated-on: 2023-06-27T12:34:15.553Z
 published-on: 2023-05-03T08:22:38.798Z
 f_featured: true
 f_description: Lisbon, Portugal
