@@ -11,6 +11,8 @@ f_end-date: 2023-04-15T15:30:53.477Z
 f_image:
   url: /assets/images/fil-hong-kong.png
 f_event-date: 2023-06-27T15:30:53.695Z
+f_event-type: Event
+f_icon-type: Info
 tags: events
 layout: "[events].html"
 date: 2023-06-27T15:30:53.782Z
