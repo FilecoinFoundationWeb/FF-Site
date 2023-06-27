@@ -5,7 +5,7 @@ updated-on: 2023-06-27T17:27:58.515Z
 published-on: 2023-06-27T17:27:58.530Z
 f_description:  San Francisco, CA
 f_cta: https://foresight.org/vision-weekends-2022/
-f_cta-text: Learn MOre
+f_cta-text: Learn More
 f_start-date: 2022-12-02T18:27:58.553Z
 f_end-date: 2022-12-04T18:27:00.000Z
 f_image:
