@@ -11,7 +11,7 @@ f_start-date: 2023-02-28T16:39:25.712Z
 f_end-date: 2023-03-01T16:39:25.716Z
 f_image:
   url: /assets/images/fvm-hackerbase-2023.png
-f_event-date: 2023-06-27T15:39:25.721Z
+f_event-date: 2023-02-28T16:39:00.000Z
 f_event-type: Event
 f_icon-type: Info
 tags: events
