@@ -6,10 +6,7 @@ f_end-date: '2022-09-25T00:00:00.000Z'
 f_cta: https://fil-singapore.io/
 f_icon-type: Info
 f_event-type: Event
-f_description: >-
-  A two-day event with insightful talks from top-notch speakers and panel
-  discussions from the world's foremost Filecoin ecological participants and
-  Web3 co-builders.
+f_description: Singapore
 title: FIL Singapore
 f_cta-text: Learn More
 slug: fil-singapore
