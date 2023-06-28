@@ -21,6 +21,11 @@ seo:
     leveraging Filecoin for ethical compensation and transparency. Dive into an
     insightful conversation with Allie Haire on the future of AI and blockchain
     in art.
+  title: "Decentralizing Art: A Deep Dive into Waterlily.ai's Use of FVM and AI"
+  description: Explore Waterlily.ai's innovative approach to AI-generated art,
+    leveraging Filecoin for ethical compensation and transparency. Dive into an
+    insightful conversation with Allie Haire on the future of AI and blockchain
+    in art.
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1552122538&color=%23193396&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/filecoin-foundation" title="Filecoin Foundation" target="_blank" style="color: #cccccc; text-decoration: none;">Filecoin Foundation</a> · <a href="https://soundcloud.com/filecoin-foundation/decentralizing-art-a-deep-dive-into-waterlilyais-use-of-fvm-and-ai" title="Decentralizing Art: A Deep Dive into Waterlily.ai&#x27;s Use of FVM and AI" target="_blank" style="color: #cccccc; text-decoration: none;">Decentralizing Art: A Deep Dive into Waterlily.ai&#x27;s Use of FVM and AI</a></div>
 
