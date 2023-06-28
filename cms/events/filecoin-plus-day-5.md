@@ -7,7 +7,7 @@ f_event-type: Event
 title: Filecoin Plus Day
 f_cta-text: Watch Recording
 slug: filecoin-plus-day-5
-updated-on: '2023-05-03T08:19:40.777Z'
+updated-on: '2023-06-27T17:45:43.957Z'
 created-on: '2023-05-03T08:06:25.842Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:

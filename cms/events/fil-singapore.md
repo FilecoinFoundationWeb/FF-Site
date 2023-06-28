@@ -13,7 +13,7 @@ f_description: >-
 title: FIL Singapore
 f_cta-text: Learn More
 slug: fil-singapore
-updated-on: '2023-05-03T08:18:50.982Z'
+updated-on: '2023-06-27T17:46:15.427Z'
 created-on: '2023-05-03T08:05:54.983Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
