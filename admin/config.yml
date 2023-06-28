@@ -80,6 +80,78 @@ collections:
             name: additional_tags
             widget: text
             required: false
+  - name: project_partners
+    label: Project Partners
+    folder: cms/project-partners
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_blurb
+        label: Blurb
+        widget: string
+        required: false
+      - hint: ''
+        name: f_link-to-blogpost
+        label: Link to Blogpost
+        widget: string
+        required: false
+      - hint: ''
+        name: f_external-link
+        label: External Link
+        widget: string
+        required: false
+      - hint: ''
+        name: f_logo
+        label: Logo
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: project-partners
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[project-partners].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - name: events
     label: Events
     folder: cms/events
@@ -113,6 +185,7 @@ collections:
         label: Featured
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_description
         label: Description
@@ -249,6 +322,7 @@ collections:
         label: Featured
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_preview-text
         label: Preview Text
@@ -340,6 +414,7 @@ collections:
         label: Featured
         widget: boolean
         required: false
+        default: false
       - hint: ''
         name: f_image
         label: Image
@@ -3960,10 +4035,6 @@ collections:
             label: Text
             name: 324770c6
             widget: string
-          - hint: 'Original text: Hackatons, key: 40bdfec0'
-            label: Text
-            name: 40bdfec0
-            widget: string
           - hint: 'Original text: All, key: 10181'
             label: Text
             name: '10181'
@@ -4200,6 +4271,24 @@ collections:
               thoughts., key: 495b8152
             label: Text
             name: 495b8152
+            widget: string
+          - hint: 'Original text: Project Partners, key: 54cb6612'
+            label: Text
+            name: 54cb6612
+            widget: string
+          - hint: >-
+              Original text:  and we will notify you if there is a Public Data
+              Awards program launched for your city.
+                                  , key: -650dfef3
+            label: Text
+            name: '-650dfef3'
+            widget: text
+          - hint: >-
+              Original text:  about the Filecoin community’s commitment to
+              energy efficiency.
+                                  , key: 8e6e4d5
+            label: Text
+            name: 8e6e4d5
             widget: string
       - label: Links
         name: links

@@ -1351,7 +1351,15 @@ blockquote {
   padding-bottom: 2rem;
 }
 
-.content-section.case-studies, .content-section.hackathons {
+.content-section.case-studies {
+  padding-top: 8rem;
+}
+
+.content-section.case-studies.color-white {
+  padding-bottom: 10rem;
+}
+
+.content-section.hackathons {
   padding-top: 8rem;
 }
 
@@ -1564,6 +1572,15 @@ blockquote {
 
 .card.case-study.background-azure {
   background-color: #0090ff;
+}
+
+.card.partners {
+  background-color: #154ed9;
+  border-radius: 20px;
+  flex-direction: column;
+  padding: 3px 3px 5px;
+  display: flex;
+  position: relative;
 }
 
 .card-image {
@@ -4837,6 +4854,10 @@ blockquote {
   left: -27rem;
 }
 
+.join-the-movement-before-1.hidden {
+  display: none;
+}
+
 .join-the-movement-after-1 {
   width: 145px;
   height: 164px;
@@ -5329,6 +5350,41 @@ blockquote {
   grid-column-gap: .5rem;
   align-items: center;
   padding-top: 2.5rem;
+}
+
+.collection-list {
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.collection-item-2 {
+  flex: 0 33%;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.link-block-2 {
+  width: 100%;
+}
+
+.link-block-3 {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.div-block {
+  grid-row-gap: 20px;
+  flex-direction: column;
+  padding: 20px;
+  display: flex;
 }
 
 @media screen and (max-width: 991px) {
