@@ -1607,8 +1607,15 @@ blockquote {
 
 .card-title.secondary {
   color: #f0f7fd;
+  margin-bottom: .3rem;
   font-size: 1.25rem;
   line-height: 1.4;
+}
+
+.card-title.secondary.event-card-desc {
+  color: #d8ebfb;
+  font-size: .9rem;
+  font-weight: 400;
 }
 
 .card-description.card-image-description {
