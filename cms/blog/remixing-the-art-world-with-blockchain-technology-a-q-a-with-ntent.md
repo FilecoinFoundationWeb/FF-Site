@@ -33,13 +33,15 @@ We are an artist collective and kulturhaus designing new artistic realities thro
 
 On March 16th, 2023, we produced [PETLS](https://youtu.be/8pwyvMJrN1Q). This immersive experience combined generative art with physical environments to tell the story of growth in five parts, which opened the art world to a new and diverse community of creatives in Berlin.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8pwyvMJrN1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **How has your relationship with Filecoin Foundation impacted the development and growth of the ntent?**
 
 Independent research led us to IPFS and the Filecoin ecosystem. We felt confident that Filecoin and Protocol Labs are here to stay and that the team is genuinely passionate about helping build the foundation for our decentralized world, and not long after the discovery, we migrated our entire app.ntent.art platform to use IPFS. 
 
 With Filecoin Foundation's support, we were able to build tools, including the open source library, ntent-archive, and fully integrate the deployment of art created and launched with ntent.studio to IPFS, which has drastically improved our art asset deployment workflows and ensured the longevity of our and our collaborators' works. 
 
-To showcase the new integration, we organized an activation in Berlin highlighting [five generative art collections](https://www.ntent.art/articles/petls) published on the ntent.art platform, hosted on IPFS, and deployed using the tools created during the start of our partnership with Protocol Labs. This event was a springboard to show where ntent lives creatively and was successful in sparking interest in decentralized technology with the local art and cultural scene.
+To showcase the new integration, we organized an activation in Berlin highlighting [PETLS Photography Reel](https://www.ntent.art/articles/petls) published on the ntent.art platform, hosted on IPFS, and deployed using the tools created during the start of our partnership with Protocol Labs. This event was a springboard to show where ntent lives creatively and was successful in sparking interest in decentralized technology with the local art and cultural scene.
 
 ![](/assets/images/641cc0133287d14f6500fcea_petls-banner-photo.png)
 
