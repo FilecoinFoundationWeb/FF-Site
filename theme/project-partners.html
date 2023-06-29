@@ -1562,57 +1562,22 @@ filter: drop-shadow(5px 5px 5px rgba(0,0,0,.15));
             <div class="col">
               <div class="heading-label">{{ texts.54cb6612 }}</div>
               <div class="spacer-34"></div>
-              <div class="container-projectpartners">
-                <div class="columns-4 f2wf-columns-9">
-                  {%- assign collection = collections.project-partners | sort: "-created-on" -%}<div class="collection-list-wrapper-2 w-dyn-list">
-                    {%- unless collection.length == 0 -%}<div role="list" class="collection-list-4 w-dyn-items">
-                      {%- for item in collection -%}<div role="listitem" class="collection-item-3 w-dyn-item">
-                        <div data-w-id="4025dde6-f35d-264d-64cc-c7345a865c24" style="display:none" class="partner-modal">
-                          <div class="div-block-102"><img class="modalclose" src="{{ images.241fee59.url }}" width="40" height="40" alt="{{ images.241fee59.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" data-w-id="4025dde6-f35d-264d-64cc-c7345a865c26" loading="lazy"></div>
-                          <div class="div-block-107">
-                            <div class="projectpartner_title blue">{{ item.data.title }}</div>
-                            <p>{{ item.data.f_blurb }}</p>
-                            <a href="{{ item.data.f_external-link }}" class="button-link-with-icon inline-flex blue w-inline-block">
-                              <div class="button-text-2">{{ texts.65416d77 }}</div>
-                              <div class="icon-arrow visible move-on-hover up w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 9">
-                                  <g transform="translate(-1044 -997)">
-                                    <rect width="3" height="3" transform="translate(1044 997)" fill="#73b4ed"></rect>
-                                    <rect width="3" height="3" transform="translate(1056 997)" fill="#73b4ed"></rect>
-                                    <rect width="3" height="3" transform="translate(1047 1000)" fill="#73b4ed"></rect>
-                                    <rect width="3" height="3" transform="translate(1053 1000)" fill="#73b4ed"></rect>
-                                    <rect width="3" height="3" transform="translate(1050 1003)" fill="#73b4ed"></rect>
-                                  </g>
-                                </svg></div>
-                            </a>
-                          </div>
-                        </div>
-                        <div class="projectpartner-card">
-                          <div class="image-wrapper-6"><img loading="lazy" width="264" height="264" alt="{{ item.data.f_logo.alt }}" src="{{ item.data.f_logo.url }}" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;268px&quot;}]" class="image-42"></div>
-                          <div>
-                            <div class="div-block-108">
-                              <div class="projectpartner_title">{{ item.data.title }}</div>
-                              <a data-w-id="3f063b84-7a0f-82f2-16c8-b12d9846001d" href="{{ links.23 }}" target="_blank" class="button-link-with-icon inline-flex purple w-inline-block">
-                                <div class="button-text-2">{{ texts.690e201f }}</div>
-                                <div class="icon-arrow visible move-on-hover w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 9">
-                                    <g transform="translate(-1044 -997)">
-                                      <rect width="3" height="3" transform="translate(1044 997)" fill="#73b4ed"></rect>
-                                      <rect width="3" height="3" transform="translate(1056 997)" fill="#73b4ed"></rect>
-                                      <rect width="3" height="3" transform="translate(1047 1000)" fill="#73b4ed"></rect>
-                                      <rect width="3" height="3" transform="translate(1053 1000)" fill="#73b4ed"></rect>
-                                      <rect width="3" height="3" transform="translate(1050 1003)" fill="#73b4ed"></rect>
-                                    </g>
-                                  </svg></div>
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>{%- endfor -%}
-                    </div>{%- endunless -%}
-                    {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-                      <div>{{ texts.3d503d2b }}</div>
-                    </div>{%- endif -%}
-                  </div>
-                </div>
+              {%- assign collection = collections.project-partners | sort: "-created-on" -%}<div class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="collection-list w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="collection-item-2 w-dyn-item">
+                    <div class="card partners">
+                      <a href="{{ links.23 }}" class="link-block-2 link-block-3 w-inline-block"><img loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" src="{{ item.data.f_logo.url }}" alt="{{ item.data.f_logo.alt }}"></a>
+                      <div class="div-block">
+                        <h2 class="partners-name">{{ item.data.title }}</h2>
+                        <p class="partner-blurb">{{ item.data.f_blurb }}</p>
+                        <a href="{{ links.23 }}" class="partner-external-link">{{ texts.4b48024a }}</a>
+                      </div>
+                    </div>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
               </div>
             </div>
           </div>
