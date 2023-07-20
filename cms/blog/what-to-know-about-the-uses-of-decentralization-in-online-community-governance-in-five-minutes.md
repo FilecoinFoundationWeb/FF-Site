@@ -4,14 +4,12 @@ title: What to Know About the Uses of Decentralization in Online Community
 created-on: 2023-07-19T15:07:39.071Z
 updated-on: 2023-07-19T15:07:39.094Z
 published-on: 2023-07-19T15:07:39.110Z
-f_description: Filecoin Foundation Senior Fellow [Danny
-  O’Brien](https://twitter.com/mala) spoke with [Nathan
-  Schneider](https://twitter.com/ntnsndr), professor of media studies at the
-  University of Colorado Boulder, about decentralization and the potential
-  advantages it has for the growth of online community governance. Schneider is
-  a renowned scholar, activist, and journalist, who has been recognized for his
-  work on democratic ownership and governance models for online platforms and
-  protocols.
+f_description: Filecoin Foundation Senior Fellow Danny O’Brien spoke with Nathan
+  Schneider, professor of media studies at the University of Colorado Boulder,
+  about decentralization and the potential advantages it has for the growth of
+  online community governance. Schneider is a renowned scholar, activist, and
+  journalist, who has been recognized for his work on democratic ownership and
+  governance models for online platforms and protocols.
 f_featured: false
 f_image:
   url: /assets/images/n-schneider-blogpost-banner.png
