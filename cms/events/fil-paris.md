@@ -6,7 +6,7 @@ published-on: 2023-06-27T15:38:07.109Z
 f_featured: false
 f_description: Paris, France
 f_cta: https://fil-paris.io/
-f_cta-text: Register Now
+f_cta-text: Learn more
 f_start-date: 2023-07-15T15:38:07.119Z
 f_end-date: 2023-07-21T15:38:07.128Z
 f_image:
