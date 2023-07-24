@@ -8,6 +8,8 @@ f_cta: Register Now
 f_cta-text: https://fil-vegas.io/
 f_start-date: 2023-10-03T17:09:07.043Z
 f_end-date: 2023-10-05T17:09:07.051Z
+f_image:
+  url: /assets/images/fil-city-placeholder.png
 f_event-date: 2023-07-24T17:09:07.060Z
 f_event-type: Event
 tags: events
