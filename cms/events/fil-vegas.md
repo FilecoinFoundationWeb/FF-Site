@@ -3,7 +3,7 @@ title: FIL Vegas
 created-on: 2023-07-24T17:09:07.009Z
 updated-on: 2023-07-24T17:09:07.022Z
 published-on: 2023-07-24T17:09:07.033Z
-f_featured: false
+f_featured: true
 f_cta: Register Now
 f_cta-text: https://fil-vegas.io/
 f_start-date: 2023-10-03T17:09:07.043Z
