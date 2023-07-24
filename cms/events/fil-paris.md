@@ -3,7 +3,7 @@ title: FIL Paris
 created-on: 2023-06-27T15:38:07.082Z
 updated-on: 2023-06-27T15:38:07.098Z
 published-on: 2023-06-27T15:38:07.109Z
-f_featured: true
+f_featured: false
 f_description: Paris, France
 f_cta: https://fil-paris.io/
 f_cta-text: Register Now
