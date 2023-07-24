@@ -12,6 +12,7 @@ f_image:
   url: /assets/images/fil-city-placeholder.png
 f_event-date: 2023-07-24T17:09:07.060Z
 f_event-type: Event
+f_icon-type: Register
 tags: events
 layout: "[events].html"
 date: 2023-07-24T17:09:07.068Z
