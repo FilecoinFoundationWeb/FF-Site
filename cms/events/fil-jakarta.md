@@ -8,7 +8,7 @@ f_start-date: 2023-09-01T13:00:00.000Z
 f_end-date: 2023-09-02T11:00:23.071Z
 f_image:
   url: /assets/images/fil-city-placeholder.png
-f_event-date: 2023-07-13T14:06:23.076Z
+f_event-date: 2023-09-01T14:06:23.076Z
 f_event-type: Event
 tags: events
 layout: "[events].html"
