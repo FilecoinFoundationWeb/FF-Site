@@ -11,7 +11,7 @@ f_start-date: 2022-12-15T17:21:11.381Z
 f_end-date: 2022-12-15T18:21:00.000Z
 f_image:
   url: /assets/images/network-day-korea-2022.png
-f_event-date: 2023-12-15T17:21:00.000Z
+f_event-date: 2022-12-15T17:21:00.000Z
 f_event-type: Event
 f_icon-type: Info
 tags: events
