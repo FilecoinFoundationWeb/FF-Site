@@ -6,7 +6,7 @@ published-on: 2023-07-13T14:06:23.057Z
 f_featured: false
 f_cta: https://www.fil-jakarta.io/
 f_cta-text: Register Now
-f_start-date: 2023-09-01T13:00:00.000Z
+f_start-date: 2023-09-02T13:00:00.000Z
 f_end-date: 2023-09-02T11:00:23.071Z
 f_image:
   url: /assets/images/fil-city-placeholder.png
