@@ -1041,10 +1041,6 @@ collections:
             label: Text
             name: '45041158'
             widget: string
-          - hint: 'Original text: Future Rules Podcast, key: 64a86d1e'
-            label: Text
-            name: 64a86d1e
-            widget: string
           - hint: 'Original text: Data & Privacy Policy, key: 560079da'
             label: Text
             name: 560079da
@@ -2009,10 +2005,10 @@ collections:
             name: '-78f6e159'
             widget: string
           - hint: >-
-              Original text: Deputy Executive Director, Electronic Frontier
-              Foundation, key: 4282dd6f
+              Original text: Special Counsel, Electronic Frontier Foundation,
+              key: -62c8a0dc
             label: Text
-            name: 4282dd6f
+            name: '-62c8a0dc'
             widget: string
           - hint: 'Original text: Katie Biber, key: 1275aa82'
             label: Text
@@ -3363,9 +3359,9 @@ collections:
             label: Text
             name: '-7c0efa1d'
             widget: string
-          - hint: 'Original text: Filecoin Notary Portal, key: 7f9f5784'
+          - hint: 'Original text: Filecoin Notary and Client Portal, key: 133689e0'
             label: Text
-            name: 7f9f5784
+            name: '133689e0'
             widget: string
           - hint: >-
               Original text: The official client and notary portal, hosted by
@@ -4272,9 +4268,17 @@ collections:
             label: Text
             name: 495b8152
             widget: string
-          - hint: 'Original text: Project Partners, key: 54cb6612'
+          - hint: 'Original text: Ecosystem Projects, key: -319d1026'
             label: Text
-            name: 54cb6612
+            name: '-319d1026'
+            widget: string
+          - hint: 'Original text: Explore further >, key: 1a9befd5'
+            label: Text
+            name: 1a9befd5
+            widget: string
+          - hint: "Original text: READ\_MORE >, key: 5e06987d"
+            label: Text
+            name: 5e06987d
             widget: string
           - hint: >-
               Original text:  and we will notify you if there is a Public Data
@@ -4306,9 +4310,9 @@ collections:
             label: Link
             name: 2f
             widget: string
-          - hint: 'Original link: /about, key: 55b8e8be'
+          - hint: 'Original link: /about/, key: 61642f31'
             label: Link
-            name: 55b8e8be
+            name: 61642f31
             widget: string
           - hint: 'Original link: /about#board-panel, key: -5530dfe8'
             label: Link
@@ -4322,13 +4326,13 @@ collections:
             label: Link
             name: '-227a7b3'
             widget: string
-          - hint: 'Original link: /blog, key: 2c48051'
+          - hint: 'Original link: /blog/, key: 55cb89fe'
             label: Link
-            name: 2c48051
+            name: 55cb89fe
             widget: string
-          - hint: 'Original link: /governance, key: 7299d751'
+          - hint: 'Original link: /governance/, key: -1f5eed02'
             label: Link
-            name: 7299d751
+            name: '-1f5eed02'
             widget: string
           - hint: 'Original link: /governance#improving-filecoin, key: -648ac2e9'
             label: Link
@@ -4346,9 +4350,9 @@ collections:
             label: Link
             name: 6368d3d0
             widget: string
-          - hint: 'Original link: /ecosystem, key: 3f800db1'
+          - hint: 'Original link: /ecosystem/, key: -4f7e5762'
             label: Link
-            name: 3f800db1
+            name: '-4f7e5762'
             widget: string
           - hint: 'Original link: /ecosystem#board-panel, key: -aa08f75'
             label: Link
@@ -4358,9 +4362,9 @@ collections:
             label: Link
             name: 5e8a99d3
             widget: string
-          - hint: 'Original link: /grants, key: 6c7c43c6'
+          - hint: 'Original link: /grants/, key: 230c3529'
             label: Link
-            name: 6c7c43c6
+            name: 230c3529
             widget: string
           - hint: 'Original link: https://fil.org/grants, key: -3adb3c0a'
             label: Link
@@ -4378,21 +4382,21 @@ collections:
             label: Link
             name: '-40460fa8'
             widget: string
-          - hint: 'Original link: /public-data/award, key: 2f9d194d'
+          - hint: 'Original link: /public-data/award/, key: -3bf9ef7e'
             label: Link
-            name: 2f9d194d
+            name: '-3bf9ef7e'
             widget: string
-          - hint: 'Original link: /get-involved, key: -77fb3273'
+          - hint: 'Original link: /get-involved/, key: 7894e442'
             label: Link
-            name: '-77fb3273'
+            name: '7894e442'
             widget: string
           - hint: 'Original link: https://fil.org/get-involved, key: -34879643'
             label: Link
             name: '-34879643'
             widget: string
-          - hint: 'Original link: /public-data, key: 2674d4ff'
+          - hint: 'Original link: /public-data/, key: -57da34f0'
             label: Link
-            name: 2674d4ff
+            name: '-57da34f0'
             widget: string
           - hint: 'Original link: /get-involved#careers-intro, key: -e759522'
             label: Link
@@ -4406,9 +4410,9 @@ collections:
             label: Link
             name: 4dd56ede
             widget: string
-          - hint: 'Original link: /events, key: 694cc208'
+          - hint: 'Original link: /events/, key: -3fb480d9'
             label: Link
-            name: 694cc208
+            name: '-3fb480d9'
             widget: string
           - hint: >-
               Original link:
@@ -4478,9 +4482,9 @@ collections:
             label: Link
             name: 4223ce39
             widget: string
-          - hint: 'Original link: https://research.filecoin.io/, key: 515bd26c'
+          - hint: 'Original link: https://fil.org/, key: 2058645f'
             label: Link
-            name: 515bd26c
+            name: 2058645f
             widget: string
           - hint: >-
               Original link:
@@ -4552,13 +4556,13 @@ collections:
             label: Link
             name: 41b9673c
             widget: string
-          - hint: 'Original link: /policy, key: 7bb28621'
+          - hint: 'Original link: /policy/, key: -561c1d2'
             label: Link
-            name: 7bb28621
+            name: '-561c1d2'
             widget: string
-          - hint: 'Original link: /terms, key: 56c60eb8'
+          - hint: 'Original link: /terms/, key: -7e043789'
             label: Link
-            name: 56c60eb8
+            name: '-7e043789'
             widget: string
           - hint: 'Original link: http://hhhh, key: 1eda2b12'
             label: Link
@@ -4640,6 +4644,10 @@ collections:
           - hint: 'Original link: #filecoin-notary, key: -db1c40e'
             label: Link
             name: '-db1c40e'
+            widget: string
+          - hint: 'Original link: #get-involved, key: 59e07f81'
+            label: Link
+            name: 59e07f81
             widget: string
           - hint: 'Original link: https://plus.fil.org/, key: 6a1da7f5'
             label: Link
@@ -6032,6 +6040,19 @@ collections:
                 required: false
           - label: Image
             name: '-1b0111f7'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 241fee59
             widget: object
             fields:
               - name: url
