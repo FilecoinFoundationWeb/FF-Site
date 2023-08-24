@@ -5,8 +5,8 @@ updated-on: 2023-08-24T07:06:47.810Z
 published-on: 2023-08-24T07:06:47.816Z
 f_featured: false
 f_description: Seoul, South Korea
-f_cta: Register Now
-f_cta-text: https://www.fil-seoul.com/
+f_cta: https://www.fil-seoul.com/
+f_cta-text: Register Now
 f_start-date: 2023-09-06T07:06:47.822Z
 f_end-date: 2023-09-07T07:06:47.832Z
 f_image:
