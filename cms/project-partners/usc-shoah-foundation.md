@@ -14,7 +14,8 @@ f_logo:
   alt: null
 updated-on: '2023-06-27T22:02:18.066Z'
 created-on: '2023-06-27T21:43:22.494Z'
-published-on: null
+published-on: '2023-06-28T21:55:48.306Z'
+f_featured: false
 layout: '[project-partners].html'
 tags: project-partners
 ---
