@@ -4,8 +4,7 @@ created-on: 2023-09-06T14:03:54.229Z
 updated-on: 2023-09-06T14:03:54.256Z
 published-on: 2023-09-06T14:03:54.272Z
 f_description: In this case study, we at Filecoin Foundation explore an
-  innovative approach to website design workflow, leveraging the respective
-  Filecoin, InterPlanetary File System (IPFS), and Fleek tech stacks.
+  innovative approach to website design workflow.
 f_featured: false
 f_image:
   url: /assets/images/0905-cs-ff.png
