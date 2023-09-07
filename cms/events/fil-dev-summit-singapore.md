@@ -4,17 +4,7 @@ created-on: 2023-09-05T18:17:04.382Z
 updated-on: 2023-09-05T18:17:04.407Z
 published-on: 2023-09-05T18:17:04.420Z
 f_featured: false
-f_description: FIL Dev Summit is a gathering of developers, builders, and
-  engaged community members who want to contribute to the core protocol and
-  network evolution of Filecoin (think IPFS Thing, but bigger!). This summit is
-  more than just a meetup—it's a place for meaningful and impactful
-  conversations that help push Filecoin forward.  Discussions at the summit will
-  cover a wide range of topics, from protocol scalability and network
-  improvements to the intricacies of data onboarding and governance
-  structures.These conversations serve to share and refine improvements - where
-  participants can gain insights from diverse perspectives, challenge
-  assumptions, and collectively arrive at innovative solutions to the challenges
-  faced by the Filecoin ecosystem.
+f_description: ""
 f_cta: https://fildev.io/
 f_cta-text: Apply to Attend
 f_start-date: 2023-09-12T14:00:04.428Z
