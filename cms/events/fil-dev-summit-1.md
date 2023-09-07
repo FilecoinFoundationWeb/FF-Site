@@ -7,11 +7,11 @@ f_featured: false
 f_description: Singapore
 f_cta: https://fildev.io/
 f_cta-text: Apply to Attend
-f_start-date: 2023-09-07T15:46:33.626Z
-f_end-date: 2023-09-07T15:46:33.644Z
+f_start-date: 2023-09-12T15:46:33.626Z
+f_end-date: 2023-09-14T15:46:33.644Z
 f_image:
   url: /assets/images/fil-dev-summit.png
-f_event-date: 2023-09-07T15:46:33.665Z
+f_event-date: 2023-09-12T15:46:33.665Z
 f_event-type: Event
 f_icon-type: Register
 tags: events
