@@ -1,10 +1,10 @@
 ---
-title: FIL Dev Summit - Singapore
+title: FIL Dev Summit
 created-on: 2023-09-05T18:17:04.382Z
 updated-on: 2023-09-05T18:17:04.407Z
 published-on: 2023-09-05T18:17:04.420Z
 f_featured: false
-f_description: ""
+f_description: Singapore
 f_cta: https://fildev.io/
 f_cta-text: Apply to Attend
 f_start-date: 2023-09-12T14:00:04.428Z
