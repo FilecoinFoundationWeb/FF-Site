@@ -242,15 +242,17 @@ collections:
         widget: datetime
         required: true
       - hint: ''
-        name: f_event-type
-        label: Event Type
+        name: f_ff-involvement
+        label: FF Involvement
         widget: select
-        required: true
+        required: false
         options:
-          - label: Hackathon
-            value: Hackathon
-          - label: Event
-            value: Event
+          - label: Hosted by FF
+            value: Hosted by FF
+          - label: Supported by FF
+            value: Supported by FF
+          - label: Sponsored by FF
+            value: Sponsored by FF
       - hint: ''
         name: f_image-background-position
         label: Image Background Position
@@ -268,18 +270,6 @@ collections:
             value: Register
           - label: Watch
             value: Watch
-      - hint: ''
-        name: f_ff-involvement
-        label: FF Involvement
-        widget: select
-        required: false
-        options:
-          - label: Hosted by FF
-            value: Hosted by FF
-          - label: Supported by FF
-            value: Supported by FF
-          - label: Sponsored by FF
-            value: Sponsored by FF
       - label: Tags
         widget: hidden
         name: tags
@@ -588,6 +578,10 @@ collections:
             label: Text
             name: 12d3c
             widget: string
+          - hint: 'Original text: Sponsorships, key: -5910b103'
+            label: Text
+            name: '-5910b103'
+            widget: string
           - hint: 'Original text: Register, key: -25496d3d'
             label: Text
             name: '-25496d3d'
@@ -657,6 +651,10 @@ collections:
             label: Text
             name: 56699e4d
             widget: text
+          - hint: 'Original text: Sponsored by:, key: 1ebcf73c'
+            label: Text
+            name: 1ebcf73c
+            widget: string
           - hint: 'Original text: EXPLORE, key: -233c798d'
             label: Text
             name: '-233c798d'
@@ -753,9 +751,9 @@ collections:
             label: Text
             name: 552c03d1
             widget: string
-          - hint: 'Original text: FIL Vegas Venues, key: -297e55ef'
+          - hint: 'Original text: Venues, key: -677c2ffc'
             label: Text
-            name: '-297e55ef'
+            name: '-677c2ffc'
             widget: string
           - hint: 'Original text: Park MGM | , key: -52e47ab9'
             label: Text
@@ -1017,10 +1015,6 @@ collections:
           - hint: 'Original text: Location , key: 301676eb'
             label: Text
             name: 301676eb
-            widget: string
-          - hint: 'Original text: Sponsorships, key: -5910b103'
-            label: Text
-            name: '-5910b103'
             widget: string
           - hint: 'Original text: Close, key: 3e2edd8'
             label: Text
@@ -3701,6 +3695,169 @@ collections:
             label: Text
             name: '-2df6250f'
             widget: string
+          - hint: 'Original text: Email for more info, key: -7a049a2'
+            label: Text
+            name: '-7a049a2'
+            widget: string
+          - hint: 'Original text: Developer, key: 72a307aa'
+            label: Text
+            name: 72a307aa
+            widget: string
+          - hint: >-
+              Original text: The Foundation funds talented and eager teams that
+              want to work with us to build a more robust, efficient, and
+              decentralized web., key: 8846171
+            label: Text
+            name: '8846171'
+            widget: text
+          - hint: 'Original text: Open Grants, key: 10d9716d'
+            label: Text
+            name: 10d9716d
+            widget: string
+          - hint: >-
+              Original text: Have an idea for pushing the Filecoin ecosystem
+              forward? Grants are available to support projects that advance the
+              Filecoin ecosystem, scale users, or directly advance Filecoin’s
+              mission to preserve humanity’s most important information., key:
+              -d4c6bb3
+            label: Text
+            name: '-d4c6bb3'
+            widget: text
+          - hint: 'Original text: Requests for Proposal, key: -156c0cbb'
+            label: Text
+            name: '-156c0cbb'
+            widget: string
+          - hint: >-
+              Original text: These grants generally have clearly scoped
+              deliverables, milestones, and funding limits. While there is some
+              flexibility in RFP deliverables, we expect teams will deliver what
+              is in scope in the RFP., key: 4e788d98
+            label: Text
+            name: 4e788d98
+            widget: text
+          - hint: 'Original text: Microgrants, key: 39b1267b'
+            label: Text
+            name: 39b1267b
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Foundation awards grants to
+              early-stage projects that have developed initial protocols using
+              Filecoin., key: -7ef82b5c
+            label: Text
+            name: '-7ef82b5c'
+            widget: text
+          - hint: 'Original text: For more information on grants, , key: -4d9844fc'
+            label: Text
+            name: '-4d9844fc'
+            widget: string
+          - hint: 'Original text: email us , key: 7e4b6ebe'
+            label: Text
+            name: 7e4b6ebe
+            widget: string
+          - hint: 'Original text: or see our , key: 17b8eb9e'
+            label: Text
+            name: 17b8eb9e
+            widget: string
+          - hint: 'Original text: Github repo, key: -498a3291'
+            label: Text
+            name: '-498a3291'
+            widget: string
+          - hint: >-
+              Original text:  for a more in-depth introduction to the grants
+              program., key: 1256bab5
+            label: Text
+            name: 1256bab5
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Foundation and its sister organization
+              the Filecoin Foundation for the Decentralized Web (FFDW) provide
+              funding to build the greater decentralized web and open-source
+              communities., key: -538068bc
+            label: Text
+            name: '-538068bc'
+            widget: text
+          - hint: 'Original text: Our initiatives seek to:, key: 3d5e0c04'
+            label: Text
+            name: 3d5e0c04
+            widget: string
+          - hint: >-
+              Original text: Accelerate the adoption of open, decentralized
+              technologies, key: 2ebd2117
+            label: Text
+            name: 2ebd2117
+            widget: string
+          - hint: >-
+              Original text: Build communities that are mutually supportive and
+              self-sustaining, key: 686e61a5
+            label: Text
+            name: 686e61a5
+            widget: string
+          - hint: >-
+              Original text: Communicate the benefits of decentralization and
+              open sourcing to wider audiences, key: -546318d
+            label: Text
+            name: '-546318d'
+            widget: string
+          - hint: 'Original text: email us., key: 7e4b6ecc'
+            label: Text
+            name: 7e4b6ecc
+            widget: string
+          - hint: 'Original text: Support, key: -b54e851'
+            label: Text
+            name: '-b54e851'
+            widget: string
+          - hint: 'Original text: Growth, key: 7fa2cde7'
+            label: Text
+            name: 7fa2cde7
+            widget: string
+          - hint: >-
+              Original text:  There are stakeholders in the Filecoin ecosystem:
+              Storage Providers, Developers, Researchers, Token Holders,
+              Clients, Users. We want to support them all., key: 13b1d6a8
+            label: Text
+            name: 13b1d6a8
+            widget: text
+          - hint: >-
+              Original text: We accelerate the growth of the Filecoin ecosystem
+              through partnerships and collaborations., key: -45a4ab6b
+            label: Text
+            name: '-45a4ab6b'
+            widget: text
+          - hint: >-
+              Original text: As an open-source project, it is vital that
+              Filecoin has transparent, community-driven governance. The
+              Foundation facilitates the governance process, including the
+              Filecoin Improvement Proposals process., key: 10031f37
+            label: Text
+            name: 10031f37
+            widget: text
+          - hint: "Original text: WHAT\_WE\_DO, key: -7620613f"
+            label: Text
+            name: '-7620613f'
+            widget: string
+          - hint: >-
+              Original text: Filecoin Plus: Incentivize Useful Storage on
+              Filecoin, key: -29fc76c8
+            label: Text
+            name: '-29fc76c8'
+            widget: string
+          - hint: >-
+              Original text: A brief overview of the motivation, principles, and
+              mechanisms of Filecoin Plus, and how it incentivizes useful
+              storage on the network., key: 6e1e35f6
+            label: Text
+            name: 6e1e35f6
+            widget: text
+          - hint: >-
+              Original text: How to get involved in the Filecoin community, key:
+              -4943a1a
+            label: Text
+            name: '-4943a1a'
+            widget: string
+          - hint: 'Original text: Events & Hackathons, key: 603e9a01'
+            label: Text
+            name: 603e9a01
+            widget: string
           - hint: >-
               Original text: We support a vibrant, decentralized ecosystem with
               many independent organizations that provide funding, coordination,
@@ -3867,169 +4024,6 @@ collections:
               a Bug Bounty., key: 5a05595d
             label: Text
             name: 5a05595d
-            widget: string
-          - hint: 'Original text: Email for more info, key: -7a049a2'
-            label: Text
-            name: '-7a049a2'
-            widget: string
-          - hint: 'Original text: Developer, key: 72a307aa'
-            label: Text
-            name: 72a307aa
-            widget: string
-          - hint: >-
-              Original text: The Foundation funds talented and eager teams that
-              want to work with us to build a more robust, efficient, and
-              decentralized web., key: 8846171
-            label: Text
-            name: '8846171'
-            widget: text
-          - hint: 'Original text: Open Grants, key: 10d9716d'
-            label: Text
-            name: 10d9716d
-            widget: string
-          - hint: >-
-              Original text: Have an idea for pushing the Filecoin ecosystem
-              forward? Grants are available to support projects that advance the
-              Filecoin ecosystem, scale users, or directly advance Filecoin’s
-              mission to preserve humanity’s most important information., key:
-              -d4c6bb3
-            label: Text
-            name: '-d4c6bb3'
-            widget: text
-          - hint: 'Original text: Requests for Proposal, key: -156c0cbb'
-            label: Text
-            name: '-156c0cbb'
-            widget: string
-          - hint: >-
-              Original text: These grants generally have clearly scoped
-              deliverables, milestones, and funding limits. While there is some
-              flexibility in RFP deliverables, we expect teams will deliver what
-              is in scope in the RFP., key: 4e788d98
-            label: Text
-            name: 4e788d98
-            widget: text
-          - hint: 'Original text: Microgrants, key: 39b1267b'
-            label: Text
-            name: 39b1267b
-            widget: string
-          - hint: >-
-              Original text: The Filecoin Foundation awards grants to
-              early-stage projects that have developed initial protocols using
-              Filecoin., key: -7ef82b5c
-            label: Text
-            name: '-7ef82b5c'
-            widget: text
-          - hint: 'Original text: For more information on grants, , key: -4d9844fc'
-            label: Text
-            name: '-4d9844fc'
-            widget: string
-          - hint: 'Original text: email us , key: 7e4b6ebe'
-            label: Text
-            name: 7e4b6ebe
-            widget: string
-          - hint: 'Original text: or see our , key: 17b8eb9e'
-            label: Text
-            name: 17b8eb9e
-            widget: string
-          - hint: 'Original text: Github repo, key: -498a3291'
-            label: Text
-            name: '-498a3291'
-            widget: string
-          - hint: >-
-              Original text:  for a more in-depth introduction to the grants
-              program., key: 1256bab5
-            label: Text
-            name: 1256bab5
-            widget: string
-          - hint: >-
-              Original text: The Filecoin Foundation and its sister organization
-              the Filecoin Foundation for the Decentralized Web (FFDW) provide
-              funding to build the greater decentralized web and open-source
-              communities., key: -538068bc
-            label: Text
-            name: '-538068bc'
-            widget: text
-          - hint: 'Original text: Our initiatives seek to:, key: 3d5e0c04'
-            label: Text
-            name: 3d5e0c04
-            widget: string
-          - hint: >-
-              Original text: Accelerate the adoption of open, decentralized
-              technologies, key: 2ebd2117
-            label: Text
-            name: 2ebd2117
-            widget: string
-          - hint: >-
-              Original text: Build communities that are mutually supportive and
-              self-sustaining, key: 686e61a5
-            label: Text
-            name: 686e61a5
-            widget: string
-          - hint: >-
-              Original text: Communicate the benefits of decentralization and
-              open sourcing to wider audiences, key: -546318d
-            label: Text
-            name: '-546318d'
-            widget: string
-          - hint: 'Original text: email us., key: 7e4b6ecc'
-            label: Text
-            name: 7e4b6ecc
-            widget: string
-          - hint: 'Original text: Support, key: -b54e851'
-            label: Text
-            name: '-b54e851'
-            widget: string
-          - hint: 'Original text: Growth, key: 7fa2cde7'
-            label: Text
-            name: 7fa2cde7
-            widget: string
-          - hint: >-
-              Original text:  There are stakeholders in the Filecoin ecosystem:
-              Storage Providers, Developers, Researchers, Token Holders,
-              Clients, Users. We want to support them all., key: 13b1d6a8
-            label: Text
-            name: 13b1d6a8
-            widget: text
-          - hint: >-
-              Original text: We accelerate the growth of the Filecoin ecosystem
-              through partnerships and collaborations., key: -45a4ab6b
-            label: Text
-            name: '-45a4ab6b'
-            widget: text
-          - hint: >-
-              Original text: As an open-source project, it is vital that
-              Filecoin has transparent, community-driven governance. The
-              Foundation facilitates the governance process, including the
-              Filecoin Improvement Proposals process., key: 10031f37
-            label: Text
-            name: 10031f37
-            widget: text
-          - hint: "Original text: WHAT\_WE\_DO, key: -7620613f"
-            label: Text
-            name: '-7620613f'
-            widget: string
-          - hint: >-
-              Original text: Filecoin Plus: Incentivize Useful Storage on
-              Filecoin, key: -29fc76c8
-            label: Text
-            name: '-29fc76c8'
-            widget: string
-          - hint: >-
-              Original text: A brief overview of the motivation, principles, and
-              mechanisms of Filecoin Plus, and how it incentivizes useful
-              storage on the network., key: 6e1e35f6
-            label: Text
-            name: 6e1e35f6
-            widget: text
-          - hint: >-
-              Original text: How to get involved in the Filecoin community, key:
-              -4943a1a
-            label: Text
-            name: '-4943a1a'
-            widget: string
-          - hint: 'Original text: Events & Hackathons, key: 603e9a01'
-            label: Text
-            name: 603e9a01
             widget: string
           - hint: 'Original text: The , key: 27c1ef'
             label: Text
@@ -4758,6 +4752,12 @@ collections:
             label: Link
             name: a98fdc7
             widget: string
+          - hint: >-
+              Original link: https://filecoinfoundation.typeform.com/FILVegas,
+              key: -38276800
+            label: Link
+            name: '-38276800'
+            widget: string
           - hint: 'Original link: /register/, key: -21da9563'
             label: Link
             name: '-21da9563'
@@ -4801,12 +4801,6 @@ collections:
           - hint: 'Original link: /, key: 2f'
             label: Link
             name: 2f
-            widget: string
-          - hint: >-
-              Original link: https://filecoinfoundation.typeform.com/FILVegas,
-              key: -38276800
-            label: Link
-            name: '-38276800'
             widget: string
           - hint: 'Original link: /about/, key: 61642f31'
             label: Link
@@ -5174,6 +5168,26 @@ collections:
             name: 6a8c8b11
             widget: string
           - hint: >-
+              Original link: https://github.com/filecoin-project/devgrants, key:
+              2ac34b40
+            label: Link
+            name: 2ac34b40
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.youtube.com/watch?v=-kxNpRiEd_c&embeds_euri=https%3A%2F%2Ffil.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo,
+              key: 63539967
+            label: Link
+            name: '63539967'
+            widget: string
+          - hint: >-
+              Original link:
+              https://docs.filecoin.io/basics/how-storage-works/filecoin-plus/,
+              key: -5e94051
+            label: Link
+            name: '-5e94051'
+            widget: string
+          - hint: >-
               Original link:
               https://filecoinproject.slack.com/join/shared_invite/zt-1rsn64ck6-zs0CIThjvlvZ9fcy1LeoIg#/shared-invite/email,
               key: 73099201
@@ -5196,26 +5210,6 @@ collections:
               key: -21fe5819
             label: Link
             name: '-21fe5819'
-            widget: string
-          - hint: >-
-              Original link: https://github.com/filecoin-project/devgrants, key:
-              2ac34b40
-            label: Link
-            name: 2ac34b40
-            widget: string
-          - hint: >-
-              Original link:
-              https://www.youtube.com/watch?v=-kxNpRiEd_c&embeds_euri=https%3A%2F%2Ffil.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo,
-              key: 63539967
-            label: Link
-            name: '63539967'
-            widget: string
-          - hint: >-
-              Original link:
-              https://docs.filecoin.io/basics/how-storage-works/filecoin-plus/,
-              key: -5e94051
-            label: Link
-            name: '-5e94051'
             widget: string
           - hint: 'Original link: https://jobs.lever.co/filecoin, key: 1a0bd1e3'
             label: Link
@@ -5514,7 +5508,46 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 101fa572
+            name: 209e6de4
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3a75aec4'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-689d2370'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 44a691b4
             widget: object
             fields:
               - name: url
@@ -5606,6 +5639,19 @@ collections:
                 required: false
           - label: Image
             name: 64fe6f3f
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 101fa572
             widget: object
             fields:
               - name: url
@@ -6294,6 +6340,71 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 240c37dd
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7945237f
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-4e79c4c'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 6ced54d6
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-253c06ab'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '-693c055d'
             widget: object
             fields:
@@ -6386,71 +6497,6 @@ collections:
                 required: false
           - label: Image
             name: '-4672cb40'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 240c37dd
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 7945237f
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-4e79c4c'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6ced54d6
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-253c06ab'
             widget: object
             fields:
               - name: url
