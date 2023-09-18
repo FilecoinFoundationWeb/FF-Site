@@ -2414,7 +2414,7 @@ blockquote {
 }
 
 .tabs-menu {
-  grid-column-gap: 4rem;
+  justify-content: space-between;
   margin-bottom: 5rem;
   display: flex;
 }
@@ -6117,6 +6117,10 @@ blockquote {
     padding-right: 0;
   }
 
+  .tabs-menu {
+    justify-content: space-between;
+  }
+
   .collection-item.events-page {
     flex-basis: 50%;
   }
@@ -7824,6 +7828,10 @@ blockquote {
   .div-block-107 {
     width: 60vw;
   }
+
+  .text-block-2 {
+    font-size: 1.25rem;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -8078,6 +8086,10 @@ blockquote {
     bottom: auto;
     left: 0%;
     right: 0%;
+  }
+
+  .text-block-2 {
+    font-size: 1rem;
   }
 }
 

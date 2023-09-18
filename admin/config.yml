@@ -4728,6 +4728,18 @@ collections:
             label: Text
             name: 8e6e4d5
             widget: string
+          - hint: 'Original text: Hosted, key: -7ed0db99'
+            label: Text
+            name: '-7ed0db99'
+            widget: string
+          - hint: 'Original text: Sponsored, key: 36c52119'
+            label: Text
+            name: 36c52119
+            widget: string
+          - hint: 'Original text: Supported, key: 7643f48e'
+            label: Text
+            name: 7643f48e
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json

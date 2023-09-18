@@ -813,310 +813,27 @@ color: #08072e;
     <div class="page-events">
       <section class="page-section">
         <div class="container">
-          <div data-current="Events" data-easing="ease" data-duration-in="300" data-duration-out="100" class="tabs w-tabs">
+          <div data-current="All" data-easing="ease" data-duration-in="300" data-duration-out="100" class="tabs w-tabs">
             <div class="tabs-menu w-tab-menu">
-              <a data-w-tab="Events" class="tab-link w-inline-block w-tab-link w--current">
-                <div>{{ texts.324770c6 }}</div>
+              <a data-w-tab="All" class="tab-link w-inline-block w-tab-link w--current">
+                <div class="text-block-2">{{ texts.10181 }}</div>
                 <div class="tab-active-indicator"></div>
               </a>
-              <a data-w-tab="Hackatons" class="tab-link w-inline-block w-tab-link">
-                <div class="tab-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.86 29.719" data-v-4e04d7a0="" data-v-68701e62="">
-                    <g transform="translate(13692.176 3183.5)" data-v-4e04d7a0="">
-                      <path d="M-13682.441-3164.123a1.31,1.31,0,0,1-.811-.281l-8.174-6.427a1.312,1.312,0,0,1-.5-1.031,1.312,1.312,0,0,1,.5-1.031l8.174-6.427a1.314,1.314,0,0,1,1.844.22,1.312,1.312,0,0,1-.221,1.841l-6.865,5.4,6.865,5.4a1.312,1.312,0,0,1,.221,1.841A1.313,1.313,0,0,1-13682.441-3164.123Z" transform="translate(0.188 3.529)" class="icon__code__triangle-left" data-v-4e04d7a0=""></path>
-                      <path d="M-13690.612-3164.123a1.31,1.31,0,0,1-1.033-.5,1.312,1.312,0,0,1,.219-1.841l6.863-5.4-6.863-5.4a1.312,1.312,0,0,1-.219-1.841,1.312,1.312,0,0,1,1.842-.22l8.174,6.427a1.311,1.311,0,0,1,.5,1.031,1.311,1.311,0,0,1-.5,1.031l-8.174,6.427A1.3,1.3,0,0,1-13690.612-3164.123Z" transform="translate(24.377 3.529)" class="icon__code__slash" data-v-4e04d7a0=""></path>
-                      <path d="M.563,28.094A1.312,1.312,0,0,1-.724,26.526L4.52.3A1.311,1.311,0,1,1,7.091.818L1.847,27.04A1.312,1.312,0,0,1,.563,28.094Z" transform="translate(-13677.57 -3182.313)" class="icon__code__triangle-right" data-v-4e04d7a0=""></path>
-                    </g>
-                  </svg>
-                  <style>
-.tab-link path {
- fill: currentColor;
-}
-</style>
-                </div>
-                <div>{{ texts.-290151c0 }}</div>
+              <a data-w-tab="Hosted" class="tab-link w-inline-block w-tab-link">
+                <div class="text-block-2">{{ texts.-7ed0db99 }}</div>
                 <div class="tab-active-indicator"></div>
               </a>
-              <a data-w-tab="All" class="tab-link w-inline-block w-tab-link">
-                <div>{{ texts.10181 }}</div>
+              <a data-w-tab="Sponsored" class="tab-link w-inline-block w-tab-link">
+                <div class="text-block-2">{{ texts.36c52119 }}</div>
+                <div class="tab-active-indicator"></div>
+              </a>
+              <a data-w-tab="Supported" class="tab-link w-inline-block w-tab-link">
+                <div class="text-block-2">{{ texts.7643f48e }}</div>
                 <div class="tab-active-indicator"></div>
               </a>
             </div>
             <div class="w-tab-content">
-              <div data-w-tab="Events" class="w-tab-pane w--tab-active">
-                {%- assign collection = collections.events | filter: "f_event-type,eq,Event", "ALL", page.inputPath | sort: "-f_event-date, -f_featured" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
-                  {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list events-page w-dyn-items">
-                    {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
-                      <div class="card event-card-events-page">
-                        {%- unless item.data.f_image -%}<div class="card-date-block">
-                          {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
-                          </div>{%- endunless -%}
-                          {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endunless -%}
-                        </div>{%- endunless -%}
-                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
-                        <div class="event-card-content secondary">
-                          <div class="flex gap">
-                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                          </div>
-                          <div class="card-title secondary">{{ item.data.title }}</div>
-                          <div class="card-title secondary event-card-desc">{{ item.data.f_description }}</div>
-                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
-                            <div class="icon-info">
-                              {%- if item.data.f_icon-type == "Info" -%}<div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
-                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
-                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
-                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
-                                </svg>
-                                <style>
-	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
-  transition: 250ms ease-in-out;
-}
-.icon__info__circle-inner {
-  fill: transparent;
-}
-.icon__info__circle-outer, .icon__info__letter-i {
-  fill: #F0F7FD;
-}
-</style>
-                              </div>{%- endif -%}
-                              {%- if item.data.f_icon-type == "Register" -%}<div class="w-embed"><svg data-v-19340af7="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.08 9.395">
-                                  <path data-v-19340af7="" d="M1.5,2.606V14.327q.1-.1.21-.194A4.755,4.755,0,0,1,4.77,12.915a4.431,4.431,0,0,1,3.014,1.268q.056.054.11.109V2.638A4.108,4.108,0,0,1,4.77,4.073,4.5,4.5,0,0,1,1.793,2.9q-.154-.14-.293-.291M0,0H1.93A2.851,2.851,0,0,0,4.77,2.573,2.592,2.592,0,0,0,7.373,0H9.394V17.08H7.618A2.971,2.971,0,0,0,4.77,14.415,3.164,3.164,0,0,0,1.729,17.08H0Z" class="icon__ticket__outer" transform="translate(17.08) rotate(90)" fill="currentColor"></path>
-                                </svg></div>{%- endif -%}
-                              {%- if item.data.f_icon-type == "Watch" -%}<div class="w-embed"><svg data-v-0028e0d9="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9">
-                                  <path data-v-0028e0d9="" d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner" fill="transparent"></path>
-                                  <path data-v-0028e0d9="" d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer" fill="currentColor"></path>
-                                </svg></div>{%- endif -%}
-                            </div>
-                            <div class="button-text">{{ item.data.f_cta-text }}</div>
-                          </a>{%- endif -%}
-                        </div>
-                      </div>
-                    </div>{%- endfor -%}
-                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page--5812100a-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
-                      <div class="card event-card-events-page">
-                        {%- unless item.data.f_image -%}<div class="card-date-block">
-                          {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
-                          </div>{%- endunless -%}
-                          {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endunless -%}
-                        </div>{%- endunless -%}
-                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
-                        <div class="event-card-content secondary">
-                          <div class="flex gap">
-                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                          </div>
-                          <div class="card-title secondary">{{ item.data.title }}</div>
-                          <div class="card-title secondary event-card-desc">{{ item.data.f_description }}</div>
-                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
-                            <div class="icon-info">
-                              {%- if item.data.f_icon-type == "Info" -%}<div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
-                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
-                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
-                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
-                                </svg>
-                                <style>
-	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
-  transition: 250ms ease-in-out;
-}
-.icon__info__circle-inner {
-  fill: transparent;
-}
-.icon__info__circle-outer, .icon__info__letter-i {
-  fill: #F0F7FD;
-}
-</style>
-                              </div>{%- endif -%}
-                              {%- if item.data.f_icon-type == "Register" -%}<div class="w-embed"><svg data-v-19340af7="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.08 9.395">
-                                  <path data-v-19340af7="" d="M1.5,2.606V14.327q.1-.1.21-.194A4.755,4.755,0,0,1,4.77,12.915a4.431,4.431,0,0,1,3.014,1.268q.056.054.11.109V2.638A4.108,4.108,0,0,1,4.77,4.073,4.5,4.5,0,0,1,1.793,2.9q-.154-.14-.293-.291M0,0H1.93A2.851,2.851,0,0,0,4.77,2.573,2.592,2.592,0,0,0,7.373,0H9.394V17.08H7.618A2.971,2.971,0,0,0,4.77,14.415,3.164,3.164,0,0,0,1.729,17.08H0Z" class="icon__ticket__outer" transform="translate(17.08) rotate(90)" fill="currentColor"></path>
-                                </svg></div>{%- endif -%}
-                              {%- if item.data.f_icon-type == "Watch" -%}<div class="w-embed"><svg data-v-0028e0d9="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9">
-                                  <path data-v-0028e0d9="" d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner" fill="transparent"></path>
-                                  <path data-v-0028e0d9="" d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer" fill="currentColor"></path>
-                                </svg></div>{%- endif -%}
-                            </div>
-                            <div class="button-text">{{ item.data.f_cta-text }}</div>
-                          </a>{%- endif -%}
-                        </div>
-                      </div>
-                    </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
-                  {%- if pagination.length == 0 -%}<div class="w-dyn-empty">
-                    <div>{{ texts.3d503d2b }}</div>
-                  </div>{%- endif -%}
-                  <div role="navigation" aria-label="List" class="w-pagination-wrapper events-pagination">
-                    <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous hidden" style="display: none;"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
-                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
-                      </svg>
-                      <div class="w-inline-block">{{ texts.-4811e0e9 }}</div>
-                    </a>
-                    {%- if pagination[1] -%}<a href="{{ links.23 }}" aria-label="Next Page" class="w-pagination-next hidden">
-                      <div class="w-inline-block">{{ texts.24ff13 }}</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
-                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
-                      </svg>
-                    </a>{%- endif -%}
-                    <a data-action="load-more" data-w-id="4e54cede-d5ba-8dd7-75f8-006fc788551a" href="{{ links.23 }}" class="see-more-button w-inline-block">
-                      <div class="button-text">{{ texts.3b268f22 }}</div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div data-w-tab="Hackatons" class="w-tab-pane">
-                {%- assign collection = collections.events | filter: "f_event-type,eq,Hackaton", "ALL", page.inputPath | sort: "-f_event-date" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
-                  {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list events-page w-dyn-items">
-                    {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
-                      <div class="card event-card-events-page">
-                        {%- unless item.data.f_image -%}<div class="card-date-block">
-                          {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
-                          </div>{%- endunless -%}
-                          {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endunless -%}
-                        </div>{%- endunless -%}
-                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
-                        <div class="event-card-content secondary">
-                          <div class="flex gap">
-                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                          </div>
-                          <div class="card-title secondary">{{ item.data.title }}</div>
-                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
-                            <div class="icon-info">
-                              <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
-                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
-                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
-                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
-                                </svg>
-                                <style>
-	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
-  transition: 250ms ease-in-out;
-}
-.icon__info__circle-inner {
-  fill: transparent;
-}
-.icon__info__circle-outer, .icon__info__letter-i {
-  fill: #F0F7FD;
-}
-</style>
-                              </div>
-                            </div>
-                            <div class="button-text">{{ item.data.f_cta-text }}</div>
-                          </a>{%- endif -%}
-                        </div>
-                      </div>
-                    </div>{%- endfor -%}
-                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page-6b51282b-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
-                      <div class="card event-card-events-page">
-                        {%- unless item.data.f_image -%}<div class="card-date-block">
-                          {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
-                            <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
-                          </div>{%- endunless -%}
-                          {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endif -%}
-                          {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
-                          </div>{%- endunless -%}
-                        </div>{%- endunless -%}
-                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
-                        <div class="event-card-content secondary">
-                          <div class="flex gap">
-                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
-                          </div>
-                          <div class="card-title secondary">{{ item.data.title }}</div>
-                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
-                            <div class="icon-info">
-                              <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
-                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
-                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
-                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
-                                </svg>
-                                <style>
-	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
-  transition: 250ms ease-in-out;
-}
-.icon__info__circle-inner {
-  fill: transparent;
-}
-.icon__info__circle-outer, .icon__info__letter-i {
-  fill: #F0F7FD;
-}
-</style>
-                              </div>
-                            </div>
-                            <div class="button-text">{{ item.data.f_cta-text }}</div>
-                          </a>{%- endif -%}
-                        </div>
-                      </div>
-                    </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
-                  {%- if pagination.length == 0 -%}<div class="hidden w-dyn-empty">
-                    <div>{{ texts.3d503d2b }}</div>
-                  </div>{%- endif -%}
-                  <div role="navigation" aria-label="List" class="w-pagination-wrapper events-pagination">
-                    <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous" style="display: none;"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
-                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
-                      </svg>
-                      <div class="w-inline-block">{{ texts.-4811e0e9 }}</div>
-                    </a>
-                    {%- if pagination[1] -%}<a href="{{ links.23 }}" aria-label="Next Page" class="w-pagination-next">
-                      <div class="w-inline-block">{{ texts.24ff13 }}</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
-                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
-                      </svg>
-                    </a>{%- endif -%}
-                    <a data-action="load-more" data-w-id="64594448-6e69-1c30-a904-82012cafa4a2" href="{{ links.23 }}" class="see-more-button w-inline-block">
-                      <div class="button-text">{{ texts.3b268f22 }}</div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div data-w-tab="All" class="w-tab-pane">
+              <div data-w-tab="All" class="w-tab-pane w--tab-active">
                 {%- assign collection = collections.events | sort: "-f_event-date" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
                   {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list w-dyn-items">
                     {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
@@ -1240,6 +957,409 @@ color: #08072e;
                       </svg>
                     </a>{%- endif -%}
                     <a data-action="load-more" data-w-id="f0abf644-3938-fc3a-0645-f92e4c44969c" href="{{ links.23 }}" class="see-more-button w-inline-block">
+                      <div class="button-text">{{ texts.3b268f22 }}</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div data-w-tab="Hosted" class="w-tab-pane">
+                {%- assign collection = collections.events | filter: "f_ff-involvement,eq,Hosted by FF", "ALL", page.inputPath | sort: "-f_event-date, -f_featured" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
+                  {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list events-page w-dyn-items">
+                    {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                      <div class="card event-card-events-page">
+                        {%- unless item.data.f_image -%}<div class="card-date-block">
+                          {%- if item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                          </div>{%- endunless -%}
+                          {%- if item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endunless -%}
+                        </div>{%- endunless -%}
+                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
+                        <div class="event-card-content secondary">
+                          <div class="flex gap">
+                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          </div>
+                          <div class="card-title secondary">{{ item.data.title }}</div>
+                          <div class="card-title secondary event-card-desc">{{ item.data.f_description }}</div>
+                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
+                            <div class="icon-info">
+                              {%- if item.data.f_icon-type == "Info" -%}<div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
+                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
+                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
+                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
+                                </svg>
+                                <style>
+	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
+  transition: 250ms ease-in-out;
+}
+.icon__info__circle-inner {
+  fill: transparent;
+}
+.icon__info__circle-outer, .icon__info__letter-i {
+  fill: #F0F7FD;
+}
+</style>
+                              </div>{%- endif -%}
+                              {%- if item.data.f_icon-type == "Register" -%}<div class="w-embed"><svg data-v-19340af7="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.08 9.395">
+                                  <path data-v-19340af7="" d="M1.5,2.606V14.327q.1-.1.21-.194A4.755,4.755,0,0,1,4.77,12.915a4.431,4.431,0,0,1,3.014,1.268q.056.054.11.109V2.638A4.108,4.108,0,0,1,4.77,4.073,4.5,4.5,0,0,1,1.793,2.9q-.154-.14-.293-.291M0,0H1.93A2.851,2.851,0,0,0,4.77,2.573,2.592,2.592,0,0,0,7.373,0H9.394V17.08H7.618A2.971,2.971,0,0,0,4.77,14.415,3.164,3.164,0,0,0,1.729,17.08H0Z" class="icon__ticket__outer" transform="translate(17.08) rotate(90)" fill="currentColor"></path>
+                                </svg></div>{%- endif -%}
+                              {%- if item.data.f_icon-type == "Watch" -%}<div class="w-embed"><svg data-v-0028e0d9="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9">
+                                  <path data-v-0028e0d9="" d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner" fill="transparent"></path>
+                                  <path data-v-0028e0d9="" d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer" fill="currentColor"></path>
+                                </svg></div>{%- endif -%}
+                            </div>
+                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                          </a>{%- endif -%}
+                        </div>
+                      </div>
+                    </div>{%- endfor -%}
+                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page-44c8061e-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                      <div class="card event-card-events-page">
+                        {%- unless item.data.f_image -%}<div class="card-date-block">
+                          {%- if item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                          </div>{%- endunless -%}
+                          {%- if item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endunless -%}
+                        </div>{%- endunless -%}
+                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
+                        <div class="event-card-content secondary">
+                          <div class="flex gap">
+                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          </div>
+                          <div class="card-title secondary">{{ item.data.title }}</div>
+                          <div class="card-title secondary event-card-desc">{{ item.data.f_description }}</div>
+                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
+                            <div class="icon-info">
+                              {%- if item.data.f_icon-type == "Info" -%}<div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
+                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
+                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
+                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
+                                </svg>
+                                <style>
+	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
+  transition: 250ms ease-in-out;
+}
+.icon__info__circle-inner {
+  fill: transparent;
+}
+.icon__info__circle-outer, .icon__info__letter-i {
+  fill: #F0F7FD;
+}
+</style>
+                              </div>{%- endif -%}
+                              {%- if item.data.f_icon-type == "Register" -%}<div class="w-embed"><svg data-v-19340af7="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.08 9.395">
+                                  <path data-v-19340af7="" d="M1.5,2.606V14.327q.1-.1.21-.194A4.755,4.755,0,0,1,4.77,12.915a4.431,4.431,0,0,1,3.014,1.268q.056.054.11.109V2.638A4.108,4.108,0,0,1,4.77,4.073,4.5,4.5,0,0,1,1.793,2.9q-.154-.14-.293-.291M0,0H1.93A2.851,2.851,0,0,0,4.77,2.573,2.592,2.592,0,0,0,7.373,0H9.394V17.08H7.618A2.971,2.971,0,0,0,4.77,14.415,3.164,3.164,0,0,0,1.729,17.08H0Z" class="icon__ticket__outer" transform="translate(17.08) rotate(90)" fill="currentColor"></path>
+                                </svg></div>{%- endif -%}
+                              {%- if item.data.f_icon-type == "Watch" -%}<div class="w-embed"><svg data-v-0028e0d9="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9">
+                                  <path data-v-0028e0d9="" d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner" fill="transparent"></path>
+                                  <path data-v-0028e0d9="" d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer" fill="currentColor"></path>
+                                </svg></div>{%- endif -%}
+                            </div>
+                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                          </a>{%- endif -%}
+                        </div>
+                      </div>
+                    </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
+                  {%- if pagination.length == 0 -%}<div class="w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>{%- endif -%}
+                  <div role="navigation" aria-label="List" class="w-pagination-wrapper events-pagination">
+                    <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous hidden" style="display: none;"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
+                      </svg>
+                      <div class="w-inline-block">{{ texts.-4811e0e9 }}</div>
+                    </a>
+                    {%- if pagination[1] -%}<a href="{{ links.23 }}" aria-label="Next Page" class="w-pagination-next hidden">
+                      <div class="w-inline-block">{{ texts.24ff13 }}</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
+                      </svg>
+                    </a>{%- endif -%}
+                    <a data-action="load-more" data-w-id="4e54cede-d5ba-8dd7-75f8-006fc788551a" href="{{ links.23 }}" class="see-more-button w-inline-block">
+                      <div class="button-text">{{ texts.3b268f22 }}</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div data-w-tab="Sponsored" class="w-tab-pane">
+                {%- assign collection = collections.events | filter: "f_ff-involvement,eq,Sponsored by FF", "ALL", page.inputPath | sort: "-f_event-date" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
+                  {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list events-page w-dyn-items">
+                    {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                      <div class="card event-card-events-page">
+                        {%- unless item.data.f_image -%}<div class="card-date-block">
+                          {%- if item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                          </div>{%- endunless -%}
+                          {%- if item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endunless -%}
+                        </div>{%- endunless -%}
+                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
+                        <div class="event-card-content secondary">
+                          <div class="flex gap">
+                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          </div>
+                          <div class="card-title secondary">{{ item.data.title }}</div>
+                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
+                            <div class="icon-info">
+                              <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
+                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
+                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
+                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
+                                </svg>
+                                <style>
+	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
+  transition: 250ms ease-in-out;
+}
+.icon__info__circle-inner {
+  fill: transparent;
+}
+.icon__info__circle-outer, .icon__info__letter-i {
+  fill: #F0F7FD;
+}
+</style>
+                              </div>
+                            </div>
+                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                          </a>{%- endif -%}
+                        </div>
+                      </div>
+                    </div>{%- endfor -%}
+                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page--3680286-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                      <div class="card event-card-events-page">
+                        {%- unless item.data.f_image -%}<div class="card-date-block">
+                          {%- if item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                          </div>{%- endunless -%}
+                          {%- if item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endunless -%}
+                        </div>{%- endunless -%}
+                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
+                        <div class="event-card-content secondary">
+                          <div class="flex gap">
+                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          </div>
+                          <div class="card-title secondary">{{ item.data.title }}</div>
+                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
+                            <div class="icon-info">
+                              <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
+                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
+                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
+                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
+                                </svg>
+                                <style>
+	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
+  transition: 250ms ease-in-out;
+}
+.icon__info__circle-inner {
+  fill: transparent;
+}
+.icon__info__circle-outer, .icon__info__letter-i {
+  fill: #F0F7FD;
+}
+</style>
+                              </div>
+                            </div>
+                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                          </a>{%- endif -%}
+                        </div>
+                      </div>
+                    </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
+                  {%- if pagination.length == 0 -%}<div class="hidden w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>{%- endif -%}
+                  <div role="navigation" aria-label="List" class="w-pagination-wrapper events-pagination">
+                    <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous" style="display: none;"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
+                      </svg>
+                      <div class="w-inline-block">{{ texts.-4811e0e9 }}</div>
+                    </a>
+                    {%- if pagination[1] -%}<a href="{{ links.23 }}" aria-label="Next Page" class="w-pagination-next">
+                      <div class="w-inline-block">{{ texts.24ff13 }}</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
+                      </svg>
+                    </a>{%- endif -%}
+                    <a data-action="load-more" data-w-id="64594448-6e69-1c30-a904-82012cafa4a2" href="{{ links.23 }}" class="see-more-button w-inline-block">
+                      <div class="button-text">{{ texts.3b268f22 }}</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div data-w-tab="Supported" class="w-tab-pane">
+                {%- assign collection = collections.events | filter: "f_ff-involvement,eq,Supported by FF", "ALL", page.inputPath | sort: "-f_event-date" -%}{%- assign pagination = collection | paginate: 8 -%}<div class="events-page-collection-list-wrapper w-dyn-list">
+                  {%- unless pagination.length == 0 -%}<div role="list" class="events-collection-list events-page w-dyn-items">
+                    {%- for item in pagination[0] -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                      <div class="card event-card-events-page">
+                        {%- unless item.data.f_image -%}<div class="card-date-block">
+                          {%- if item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                          </div>{%- endunless -%}
+                          {%- if item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endunless -%}
+                        </div>{%- endunless -%}
+                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
+                        <div class="event-card-content secondary">
+                          <div class="flex gap">
+                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          </div>
+                          <div class="card-title secondary">{{ item.data.title }}</div>
+                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
+                            <div class="icon-info">
+                              <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
+                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
+                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
+                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
+                                </svg>
+                                <style>
+	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
+  transition: 250ms ease-in-out;
+}
+.icon__info__circle-inner {
+  fill: transparent;
+}
+.icon__info__circle-outer, .icon__info__letter-i {
+  fill: #F0F7FD;
+}
+</style>
+                              </div>
+                            </div>
+                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                          </a>{%- endif -%}
+                        </div>
+                      </div>
+                    </div>{%- endfor -%}
+                  {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page-3d5c4f2c-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="collection-item events-page w-dyn-item">
+                      <div class="card event-card-events-page">
+                        {%- unless item.data.f_image -%}<div class="card-date-block">
+                          {%- if item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div class="flex">
+                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div>{{ texts.2f }}</div>
+                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                          </div>{%- endunless -%}
+                          {%- if item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endif -%}
+                          {%- unless item.data.f_event-date -%}<div>
+                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                          </div>{%- endunless -%}
+                        </div>{%- endunless -%}
+                        {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
+                        <div class="event-card-content secondary">
+                          <div class="flex gap">
+                            {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          </div>
+                          <div class="card-title secondary">{{ item.data.title }}</div>
+                          {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
+                            <div class="icon-info">
+                              <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
+                                  <path d="M10.6,18.4a7.9,7.9,0,0,1-8-7.9,8,8,0,0,1,16,0A7.9,7.9,0,0,1,10.6,18.4Z" class="icon__info__circle-inner"></path>
+                                  <path d="M10.6,3.5a7,7,0,1,1-7,7,7,7,0,0,1,7-7m0-2a9,9,0,0,0-9,9,9,9,0,1,0,9-9Z" class="icon__info__circle-outer"></path>
+                                  <path d="M9.9,8.2V6.9h1.5V8.2Zm0,6.6V9h1.5v5.8Z" class="icon__info__letter-i"></path>
+                                </svg>
+                                <style>
+	.icon__info__circle-outer, .icon__info__circle-inner, .icon__info__letter-i {
+  transition: 250ms ease-in-out;
+}
+.icon__info__circle-inner {
+  fill: transparent;
+}
+.icon__info__circle-outer, .icon__info__letter-i {
+  fill: #F0F7FD;
+}
+</style>
+                              </div>
+                            </div>
+                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                          </a>{%- endif -%}
+                        </div>
+                      </div>
+                    </div>{%- endfor -%}{% endcapture %}{{ currentPageHTML | writeToFile: paginationFilePath }}</template>{%- endif -%}{%- endfor -%}</div>{%- endunless -%}
+                  {%- if pagination.length == 0 -%}<div class="hidden w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>{%- endif -%}
+                  <div role="navigation" aria-label="List" class="w-pagination-wrapper events-pagination">
+                    <a href="{{ links.23 }}" aria-label="Previous Page" class="w-pagination-previous" style="display: none;"><svg class="w-pagination-previous-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M8 10L4 6l4-4"></path>
+                      </svg>
+                      <div class="w-inline-block">{{ texts.-4811e0e9 }}</div>
+                    </a>
+                    {%- if pagination[1] -%}<a href="{{ links.23 }}" aria-label="Next Page" class="w-pagination-next">
+                      <div class="w-inline-block">{{ texts.24ff13 }}</div><svg class="w-pagination-next-icon" height="12px" width="12px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" transform="translate(0, 1)">
+                        <path fill="none" stroke="currentColor" fill-rule="evenodd" d="M4 2l4 4-4 4"></path>
+                      </svg>
+                    </a>{%- endif -%}
+                    <a data-action="load-more" data-w-id="77944cba-45b3-67ba-1d71-2ee7c2cbdf94" href="{{ links.23 }}" class="see-more-button w-inline-block">
                       <div class="button-text">{{ texts.3b268f22 }}</div>
                     </a>
                   </div>
