@@ -6,14 +6,14 @@ published-on: 2023-08-24T07:06:47.816Z
 f_featured: false
 f_description: Seoul, South Korea
 f_cta: https://www.fil-seoul.com/
-f_cta-text: Register Now
-f_start-date: 2023-09-06T07:06:47.822Z
+f_cta-text: Learn more
 f_end-date: 2023-09-07T07:06:47.832Z
 f_image:
   url: /assets/images/fil-seoul-bg.png
-f_event-date: 2023-09-06T07:06:47.840Z
 f_event-type: Event
-f_icon-type: Register
+f_start-date: 2023-09-06T07:06:47.822Z
+f_event-date: 2023-09-06T07:06:47.840Z
+f_icon-type: Info
 tags: events
 layout: "[events].html"
 date: 2023-08-24T07:06:47.851Z
