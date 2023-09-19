@@ -201,12 +201,12 @@ collections:
         name: f_cta
         label: CTA
         widget: string
-        required: true
+        required: false
       - hint: This text is what will appear in the button
         name: f_cta-text
         label: CTA Text
         widget: string
-        required: true
+        required: false
       - hint: This is the first day of the event
         name: f_start-date
         label: Start Date
