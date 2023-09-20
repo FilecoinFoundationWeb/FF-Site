@@ -5495,7 +5495,7 @@ blockquote {
   min-width: 268px;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  object-fit: contain;
+  object-fit: cover;
   object-position: 50% 50%;
   justify-content: center;
   align-items: center;
@@ -5527,15 +5527,15 @@ blockquote {
   height: 264px;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  object-fit: cover;
+  object-fit: fill;
   background-color: #fff;
   border-top-left-radius: .625rem;
   border-top-right-radius: .625rem;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  padding: 10px;
   display: flex;
+  overflow: hidden;
 }
 
 .projectpartner-card {
@@ -5651,7 +5651,7 @@ blockquote {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  display: flex;
+  display: none;
   position: fixed;
   top: 25%;
   bottom: 25%;
@@ -7814,6 +7814,10 @@ blockquote {
 
   .f2wf-columns-9 {
     justify-content: center;
+  }
+
+  .collection-list-wrapper-2 {
+    width: 100%;
   }
 
   .collection-list-4 {
