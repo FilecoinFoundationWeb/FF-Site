@@ -1,5 +1,5 @@
 ---
-title: Metapals
+title: MetaPals
 created-on: 2023-09-21T15:49:50.313Z
 updated-on: 2023-09-21T15:49:50.380Z
 published-on: 2023-09-21T15:49:50.394Z
