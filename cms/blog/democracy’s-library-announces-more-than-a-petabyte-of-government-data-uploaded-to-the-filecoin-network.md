@@ -13,7 +13,7 @@ f_description: The [Democracy’s
   websites at the end of presidential administrations.
 f_featured: false
 f_image:
-  url: /assets/images/1018-sps-democracyslibrary.png
+  url: /assets/images/091923-demlibrary.png
 f_post-date: 2023-09-21T17:34:18.804Z
 tags: blog
 layout: "[blog].html"
