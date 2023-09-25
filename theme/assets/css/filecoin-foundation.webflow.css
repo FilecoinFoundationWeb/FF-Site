@@ -5524,10 +5524,11 @@ blockquote {
 }
 
 .image-wrapper-6 {
-  height: 264px;
+  height: auto;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   object-fit: fill;
+  object-position: 50% 50%;
   background-color: #fff;
   border-top-left-radius: .625rem;
   border-top-right-radius: .625rem;
@@ -5535,7 +5536,6 @@ blockquote {
   justify-content: flex-start;
   align-items: flex-start;
   display: flex;
-  overflow: hidden;
 }
 
 .projectpartner-card {
