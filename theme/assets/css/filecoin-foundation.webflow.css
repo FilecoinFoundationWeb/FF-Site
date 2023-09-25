@@ -5527,7 +5527,7 @@ blockquote {
   height: auto;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  object-fit: fill;
+  object-fit: cover;
   object-position: 50% 50%;
   background-color: #fff;
   border-top-left-radius: .625rem;
