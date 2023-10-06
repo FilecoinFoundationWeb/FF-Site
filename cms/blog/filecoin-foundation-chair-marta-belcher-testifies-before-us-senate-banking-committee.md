@@ -1,28 +1,25 @@
 ---
-f_featured: false
-f_post-date: '2021-07-29T00:00:00.000Z'
-title: >-
-  Filecoin Foundation Chair Marta Belcher Testifies Before US Senate Banking
-  Committee
-f_description: >-
-  Filecoin Foundation Board Chair Marta Belcher testified before the U.S. Senate
-  Committee on Banking, Housing, and Urban Affairs on July 27 in a hearing
-  titled “Cryptocurrencies: What are they good for?” Marta’s testimony
+title: Filecoin Foundation Chair Marta Belcher Testifies Before US Senate
+  Banking Committee
+created-on: 2023-04-21T07:27:16.879Z
+updated-on: 2023-04-21T07:27:16.879Z
+published-on: 2023-04-21T07:33:56.200Z
+f_author: Filecoin Foundation
+f_description: "Filecoin Foundation Board Chair Marta Belcher testified before
+  the U.S. Senate Committee on Banking, Housing, and Urban Affairs on July 27 in
+  a hearing titled “Cryptocurrencies: What are they good for?” Marta’s testimony
   highlighted the benefits of cryptocurrency and explained Filecoin as one
   example of a use case that could serve as the foundation for the next
-  generation of the Internet.
-f_author: Filecoin Foundation
-slug: >-
-  filecoin-foundation-chair-marta-belcher-testifies-before-us-senate-banking-committee
+  generation of the Internet."
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ad4d7488e39d6b03c3a_0-oh5oa7medvgzjscu.png
+  url: /assets/images/64423ad4d7488e39d6b03c3a_0-oh5oa7medvgzjscu.png
   alt: null
-updated-on: '2023-04-21T07:27:16.879Z'
-created-on: '2023-04-21T07:27:16.879Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-07-29T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: filecoin-foundation-chair-marta-belcher-testifies-before-us-senate-banking-committee
+date: 2023-10-06T13:37:35.269Z
 ---
 
 Filecoin Foundation Board Chair Marta Belcher testified before the U.S. Senate Committee on Banking, Housing, and Urban Affairs on July 27 in a hearing titled “Cryptocurrencies: What are they good for?” Marta’s testimony highlighted the benefits of cryptocurrency and explained Filecoin as one example of a use case that could serve as the foundation for the next generation of the Internet.
