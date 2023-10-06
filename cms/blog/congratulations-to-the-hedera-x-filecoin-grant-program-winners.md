@@ -1,21 +1,20 @@
 ---
-f_featured: false
-f_post-date: '2021-10-26T00:00:00.000Z'
 title: Congratulations to the Hedera x Filecoin Grant Program Winners
-f_description: >-
-  The Filecoin Foundation is pleased to announce the winners of the Hedera x
-  Filecoin grant program. 
+created-on: 2023-04-21T07:26:28.269Z
+updated-on: 2023-04-21T07:26:28.269Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: congratulations-to-the-hedera-x-filecoin-grant-program-winners
+f_description: "The Filecoin Foundation is pleased to announce the winners of
+  the Hedera x Filecoin grant program. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aa44e4c6826a3f40982_0-3uh8nohy2qqafnfv.png
+  url: /assets/images/64423aa44e4c6826a3f40982_0-3uh8nohy2qqafnfv.png
   alt: null
-updated-on: '2023-04-21T07:26:28.269Z'
-created-on: '2023-04-21T07:26:28.269Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-10-26T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: congratulations-to-the-hedera-x-filecoin-grant-program-winners
+date: 2023-10-06T13:15:20.753Z
 ---
 
 The Filecoin Foundation is pleased to announce the winners of the [Hedera x Filecoin](https://github.com/filecoin-project/devgrants/blob/master/rfps/hedera-and-filecoin.md) grant program. This collaboration combines Filecoin’s peer-to-peer storage network with the Hedera public ledger for fast, low-cost transactions. The Hedera x Filecoin grant program will collectively award $200,000 USD to six winning projects.
