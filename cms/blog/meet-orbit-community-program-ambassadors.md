@@ -1,23 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2022-07-14T00:00:00.000Z'
 title: Meet Orbit Community Program Ambassadors
-f_description: >-
-  Though geographically distant, Berlin, Dar es Salaam, Lagos, and Nairobi, are
-  cities unified through the Filecoin Orbit Community Program, a program powered
-  by Filecoin Foundation and Protocol Labs to amplify the voice of the Filecoin,
-  IPFS, and libp2p communities.
+created-on: 2023-04-21T07:28:14.580Z
+updated-on: 2023-05-03T11:28:13.932Z
+published-on: 2023-05-03T12:47:09.568Z
 f_author: Filecoin Foundation
-slug: meet-orbit-community-program-ambassadors
-updated-on: '2023-05-03T11:28:13.932Z'
-created-on: '2023-04-21T07:28:14.580Z'
-published-on: '2023-05-03T12:47:09.568Z'
+f_description: Though geographically distant, Berlin, Dar es Salaam, Lagos, and
+  Nairobi, are cities unified through the Filecoin Orbit Community Program, a
+  program powered by Filecoin Foundation and Protocol Labs to amplify the voice
+  of the Filecoin, IPFS, and libp2p communities.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/6452454ba1a3e664bb97e029_0713-orbitcommunity.jpg
+  url: /assets/images/0713-orbitcommunity.png
   alt: null
-layout: '[blog].html'
+f_post-date: 2022-07-14T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: meet-orbit-community-program-ambassadors
+date: 2023-10-06T14:52:25.696Z
 ---
 
 Though geographically distant, Berlin, Dar es Salaam, Lagos, and Nairobi, are cities unified through the [Filecoin Orbit Community Program](https://orbitcommunity.filecoin.io/), a program powered by Filecoin Foundation and Protocol Labs to amplify the voice of the Filecoin, IPFS, and libp2p communities.
