@@ -1,24 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2023-01-26T00:00:00.000Z'
+title: "Case Study: OpSci - How an Open Science Commons Project Built on Web3
+  Infrastructure Empowers Community Discovery"
+created-on: 2023-04-21T07:26:24.934Z
+updated-on: 2023-04-21T07:26:24.934Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: null
-title: >-
-  Case Study: OpSci - How an Open Science Commons Project Built on Web3
-  Infrastructure Empowers Community Discovery
-f_description: >-
-  How an Open Science Commons Project Built on Web3 Infrastructure Empowers
-  Community Discovery
+f_description: How an Open Science Commons Project Built on Web3 Infrastructure
+  Empowers Community Discovery
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aa01fe00b144076104e_0224-cs-opsci.png
+  url: /assets/images/0224-cs-opsci.png
   alt: null
-slug: >-
-  case-study-opsci-how-an-open-science-commons-project-built-on-web3-infrastructure-empowers-community-discovery
-updated-on: '2023-04-21T07:26:24.934Z'
-created-on: '2023-04-21T07:26:24.934Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2023-01-26T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: case-study-opsci-how-an-open-science-commons-project-built-on-web3-infrastructure-empowers-community-discovery
+date: 2023-10-06T12:47:07.018Z
 ---
 
 Key Highlights:
