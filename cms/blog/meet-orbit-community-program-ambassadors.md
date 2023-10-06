@@ -18,7 +18,6 @@ layout: "[blog].html"
 slug: meet-orbit-community-program-ambassadors
 date: 2023-10-06T14:52:25.696Z
 ---
-
 Though geographically distant, Berlin, Dar es Salaam, Lagos, and Nairobi, are cities unified through the [Filecoin Orbit Community Program](https://orbitcommunity.filecoin.io/), a program powered by Filecoin Foundation and Protocol Labs to amplify the voice of the Filecoin, IPFS, and libp2p communities.
 
 Filecoin Orbit Ambassadors work to organize events, create content around their work, and activate their local communities to ensure that anyone ready to get involved with the Filecoin network has access to educational resources and support to thrive. In just 4 months, our Filecoin Orbit Community members organized 20 events and 3 conferences in 12 cities, totaling over 3,000 participants.
@@ -27,7 +26,7 @@ Here are several stories from Filecoin Orbit Ambassadors including what they do 
 
 **Leading the Next Generation of Learning, Brian Ahimbisibwe**
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bf3820f68204d1de11_brian_720.jpeg)
+![](/assets/images/643e68bf3820f68204d1de11_brian_720.jpeg)
 
 Brian Ahimbisibwe’s interest with crypto can be traced all the way back to his experience as an economics teacher. Through studying its market cycles, he found his roots in blockchain.
 
@@ -43,7 +42,7 @@ Head over to the [Orbit Uganda Meetup Group](https://mobile.twitter.com/UgandaOr
 
 **Creating Stronger Bonds through Filecoin, Chukwuemeka Enoch Mbaebie — ETH Nigeria**
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bf3820f61378d1de13_code-pix-1062x598.jpeg)
+![](/assets/images/643e68bf3820f61378d1de13_code-pix-1062x598.jpeg)
 
 Chukwuemeka Enoch Mbaebie is a software developer, alumni of the Ethereum Foundation’s Devcon, and a member of ETH Nigeria. For Enoch, the Filecoin Orbit Community Program opened up the opportunity to meld his passion for advocacy with his professional skill set.
 
@@ -59,7 +58,7 @@ Explore the [Orbit Nigeria Meetup Group](https://www.meetup.com/orbit-community-
 
 **Building The Future of Decentralized Markets, Timo Lee — Secured Finance**
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bf3820f64ae7d1de26_timo_lee_360.jpeg)
+![](/assets/images/643e68bf3820f64ae7d1de26_timo_lee_360.jpeg)
 
 Timo Lee, a Berlin-based Community Lead for Secured Finance, is helping spur financial innovation in the Filecoin community. An early follower of IPFS technology, he’s driven to help provide access to the emerging financial markets and business opportunities in crypto.
 
@@ -73,7 +72,7 @@ Secured Finance is aiming to build robust financial and crypto finance markets a
 
 **Advocating Filecoin Developer Success, Allan Mang’eni — Wengi Web**
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bf3820f6eab8d1de10_allan-mang-eni.jpeg)
+![](/assets/images/643e68bf3820f6eab8d1de10_allan-mang-eni.jpeg)
 
 Allan Mang’eni is an experienced software developer and developer advocate at Wengi Web hailing from Nairobi, Kenya. His experience with the Filecoin project has been one of opportunity and possibility.
 
@@ -83,7 +82,7 @@ As a developer, there are many factors to consider when planning a new project, 
 
 Developing the next generation of applications is only one part of Allan’s work. As an Orbit Ambassador, he’s able to give back to the Web3 community and contribute to its growth, and he has several personal goals as a Filecoin Orbit Ambassador.
 
-“One \[goal\] is to grow the local Filecoin community. Another is to work towards having a storage provider network in my country. The third goal is to advocate for using renewable energy to provide Filecoin storage. And finally, I’m passionate about working with local authorities to help educate about Bitcoin, Filecoin, and other projects in the Web3 space.”
+“One \[goal] is to grow the local Filecoin community. Another is to work towards having a storage provider network in my country. The third goal is to advocate for using renewable energy to provide Filecoin storage. And finally, I’m passionate about working with local authorities to help educate about Bitcoin, Filecoin, and other projects in the Web3 space.”
 
 Wengi Web is a blockchain research and education company fueling the next generation of developer innovation at Filecoin. Head over to their [website](http://wengiweb.com/) to learn more.
 
@@ -91,7 +90,9 @@ Get involved by checking out the [Orbit Kenya Meetup Group](https://www.meetup.c
 
 **Activating the Filecoin Community, Martin Silvester Kyanja**
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bf3820f655edd1de12_martin_720.jpeg)Martin Silvester has a background in creative marketing and digital marketing Strategy. His connection to the African tech community, curiosity about the next phase of the internet, and his desire to help others learn led him to the Filecoin Orbit Community Program.
+![](/assets/images/643e68bf3820f655edd1de12_martin_720.jpeg)
+
+Martin Silvester has a background in creative marketing and digital marketing Strategy. His connection to the African tech community, curiosity about the next phase of the internet, and his desire to help others learn led him to the Filecoin Orbit Community Program.
 
 Through these events, Martin got to witness the excitement and enthusiasm for the network firsthand. In just a handful of months, he’s watched the digital landscape rapidly shift toward new economic opportunities in the growing African tech community.
 
@@ -107,4 +108,4 @@ Joining the Filecoin community is easy and has a place for everyone of all inter
 
 Want to dive deeper? Get involved with the specialized Filecoin groups and teams below to help you take your next steps into the community. [Join the second cohort of Orbit Ambassadors here](https://orbitcommunity.filecoin.io/#apply-now), and subscribe to the [Filecoin Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=ZmlsZWNvaW4ub3JnX2o3bW1ldjI0ZzgwcmVsbzU2cHFtMWVsMWUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to stay up to date on our community events.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bf3820f639f6d1de27_dsc05157-collage.jpeg)
+![](/assets/images/643e68bf3820f639f6d1de27_dsc05157-collage.jpeg)
