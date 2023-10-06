@@ -1,25 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2023-04-11T00:00:00.000Z'
+title: Dev Grant Spotlight - Numbers Protocol Puts Digital Creators in Control
+  of Their Assets
+created-on: 2023-04-21T07:26:43.215Z
+updated-on: 2023-04-21T07:26:43.215Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: null
-title: >-
-  Dev Grant Spotlight - Numbers Protocol Puts Digital Creators in Control of
-  Their Assets
-f_description: >-
-  Numbers Protocol: Revolutionizing the creator economy by empowering artists to
-  control, monetize, and protect their digital assets in the Web2 and Web3
-  landscape.
+f_description: "Numbers Protocol: Revolutionizing the creator economy by
+  empowering artists to control, monetize, and protect their digital assets in
+  the Web2 and Web3 landscape."
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ab3922f06a30c16ad48_0315-dgs-numbers.png
+  url: /assets/images/0315-dgs-numbers.png
   alt: null
-slug: >-
-  dev-grant-spotlight-numbers-protocol-puts-digital-creators-in-control-of-their-assets
-updated-on: '2023-04-21T07:26:43.215Z'
-created-on: '2023-04-21T07:26:43.215Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2023-04-11T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: dev-grant-spotlight-numbers-protocol-puts-digital-creators-in-control-of-their-assets
+date: 2023-10-06T14:50:14.926Z
 ---
 
 The creator economy is valued at more than [$100 billion](https://www.zippia.com/advice/creator-economy-statistics/#:~:text=There%20are%20an%20estimated%2050,to%20be%20worth%20%24104.2%20billion.). But according to a [2022 survey from Tipalti](https://tipalti.com/tipalti-study-identifies-compensation-issues-as-threat-to-creator-economy-success/), 90% of creators expressed issues with just getting paid, and 40% said content monetization was their greatest challenge.
