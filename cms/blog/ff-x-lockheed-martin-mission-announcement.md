@@ -11,7 +11,7 @@ f_description: "Today, Filecoin Foundation (FF) announced a first-of-its-kind
   Demonstrator spacecraft."
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423abffa70d18226700010_01-lockheed.png
+  url: /assets/images/01-lockheed-p-1080.png
   alt: null
 f_post-date: 2023-01-17T00:00:00.000Z
 tags: blog
