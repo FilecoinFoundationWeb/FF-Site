@@ -9,7 +9,7 @@ f_description: "This winter, two new programs launched that make it easier than
   Station."
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b11e3c08f9a474f5215_12202022-saturnandstation.png
+  url: /assets/images/12202022-saturnandstation.png
   alt: null
 f_post-date: 2023-01-16T00:00:00.000Z
 tags: blog
@@ -17,7 +17,6 @@ layout: "[blog].html"
 slug: meet-the-new-programs-making-it-easier-to-contribute-to-the-filecoin-network
 date: 2023-06-06T21:04:27.611Z
 ---
-
 This winter, two new programs launched that make it easier than ever to contribute to the Filecoin network: Filecoin Saturn and Filecoin Station.
 
 Filecoin is the world's largest decentralized storage network, allowing users to store, request, and transfer data on the network via a verifiable marketplace. And now, these new programs will allow a new cohort of users and small enterprises to contribute to a more decentralized, efficient, and robust future for the internet.
@@ -32,7 +31,7 @@ Filecoin Saturn delivers on two key goals of Filecoin: to empower fast, open acc
 
 Faster, more robust retrievals will unlock the next generation of Filecoin growth and impact. And Filecoin Saturn is completely open-source and community-run, enabling people from all over the world to participate.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c395dde7170b2b8771_screen-shot-2023-01-05-at-12-01-41-pm.png)
+![](/assets/images/643e68c395dde7170b2b8771_screen-shot-2023-01-05-at-12-01-41-pm.png)
 
 Learn how to set up a [Filecoin Saturn](https://strn.network/) node and learn more in [The Block](https://www.theblock.co/post/180450/filecoin-releases-new-content-delivery-network-called-saturn) and [Axios.](https://www.axios.com/newsletters/axios-crypto-db0eb110-3321-4160-b08f-93f104c5700a.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioscryptocurrency&stream=business)
 
@@ -40,7 +39,7 @@ Learn how to set up a [Filecoin Saturn](https://strn.network/) node and learn mo
 
 In the alpha stage, [Filecoin Station](https://www.filstation.app/) is a desktop application that will act as an entry point to a selection of modules in the Filecoin ecosystem. The program connects your computer’s idle resources to the Filecoin network and will reward you with FIL for contributing your resources and services to each module.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c395dde737e42b876f_screen-shot-2023-01-05-at-12-03-28-pm.png)
+![](/assets/images/643e68c395dde737e42b876f_screen-shot-2023-01-05-at-12-03-28-pm.png)
 
 Right now, most computer’s hardware sits idle most of the time. With Filecoin Station, users can safely contribute underutilized resources to Filecoin’s global data economy. There’s nothing to configure. Launch the app and Station securely connects computers to Filecoin’s global peer-to-peer network and begins completing network jobs such as caching content near the edge of the network. And very soon, Filecoin Station will reward participants with FIL.
 
@@ -48,4 +47,4 @@ The Filecoin Station testnet is live and the beta launch is expected in March 20
 
 Learn how to participate and what is coming next for the Filecoin Saturn by watching the FIL Lisbon talk [Coming Soon Earn Filecoin From Your Desktop](https://www.youtube.com/watch?v=GzDkm1Kscqk&list=PLp3zrT1ewY0kWhcrnEWz1r3r2k97TjPz2&index=8).
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c395dde74c7b2b8770_screen-shot-2023-01-05-at-12-05-03-pm.png)
+![](/assets/images/643e68c395dde74c7b2b8770_screen-shot-2023-01-05-at-12-05-03-pm.png)
