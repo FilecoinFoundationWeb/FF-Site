@@ -1,26 +1,25 @@
 ---
-f_featured: false
-f_post-date: '2022-05-22T00:00:00.000Z'
 title: Filecoin Foundation and Lockheed Martin Bring Decentralized Storage to Space
+created-on: 2023-04-21T07:27:12.094Z
+updated-on: 2023-04-21T07:27:12.094Z
+published-on: 2023-04-21T07:33:56.200Z
+f_author: Filecoin Foundation
 f_description: >-
   The companies are working together to deploy the Interplanetary File System in
   space as key digital infrastructure to transform how data is shared in the
   space economy
 
 
-  Filecoin Foundation (FF) and Lockheed Martin are working together to develop a
-  program for deploying the Interplanetary File System (IPFS) in space.
-f_author: Filecoin Foundation
-slug: filecoin-foundation-and-lockheed-martin-bring-decentralized-storage-to-space
+  Filecoin Foundation (FF) and Lockheed Martin are working together to develop a program for deploying the Interplanetary File System (IPFS) in space.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423abffa70d18226700010_01-lockheed.png
+  url: /assets/images/01-lockheed-p-1080.png
   alt: null
-updated-on: '2023-04-21T07:27:12.094Z'
-created-on: '2023-04-21T07:27:12.094Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-05-22T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: filecoin-foundation-and-lockheed-martin-bring-decentralized-storage-to-space
+date: 2023-10-06T13:09:05.514Z
 ---
 
 **Filecoin Foundation and Lockheed Martin Bring Decentralized Storage to Space**
