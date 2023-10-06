@@ -1,26 +1,24 @@
 ---
-f_featured: false
-f_post-date: '2023-04-13T00:00:00.000Z'
+title: "FIP0056 Update: Proposal Rejected Following Community Feedback and
+  Deliberation"
+created-on: 2023-04-21T07:27:41.011Z
+updated-on: 2023-04-21T07:27:41.011Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: null
-title: >-
-  FIP0056 Update: Proposal Rejected Following Community Feedback and
-  Deliberation
-f_description: >-
-  Over the past several months, the Filecoin community has been actively
-  deliberating FIP0056.  This FIP is the second iteration of a proposed Sector
-  Duration Multiplier (SDM), which would deliver additional block rewards to
-  storage providers who elect to commit storage resources to the network for a
-  longer period of time.  
+f_description: "Over the past several months, the Filecoin community has been
+  actively deliberating FIP0056.  This FIP is the second iteration of a proposed
+  Sector Duration Multiplier (SDM), which would deliver additional block rewards
+  to storage providers who elect to commit storage resources to the network for
+  a longer period of time.  "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aecf053c9bee87f58d2_fip0056-not-accepted.png
+  url: /assets/images/0621-2022-01.png
   alt: null
-slug: fip0056-update-proposal-rejected-following-community-feedback-and-deliberation
-updated-on: '2023-04-21T07:27:41.011Z'
-created-on: '2023-04-21T07:27:41.011Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2023-04-13T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: fip0056-update-proposal-rejected-following-community-feedback-and-deliberation
+date: 2023-10-06T13:03:03.700Z
 ---
 
 Over the past several months, the Filecoin community has been actively deliberating [FIP0056](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0056.md). This FIP is the second iteration of a proposed Sector Duration Multiplier (SDM), which would deliver additional block rewards to storage providers who elect to commit storage resources to the network for a longer period of time.
