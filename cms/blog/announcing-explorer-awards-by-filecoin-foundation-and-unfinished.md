@@ -1,22 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2022-06-09T00:00:00.000Z'
 title: Announcing Explorer Awards by Filecoin Foundation and Unfinished
+created-on: 2023-04-21T07:25:58.996Z
+updated-on: 2023-04-21T07:25:58.996Z
+published-on: 2023-04-21T07:33:56.200Z
+f_author: Filecoin Foundation
 f_description: >
   We are excited to announce that Filecoin Foundation and Unfinished are
   launching Explorer Awards, a joint program to support the growth of the
   decentralized web movement and help others catalyze their Web3 learning.
-f_author: Filecoin Foundation
-slug: announcing-explorer-awards-by-filecoin-foundation-and-unfinished
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a86b068b000505c2451_1-5kqdhf6ve0iu8sgizag4wg.png
+  url: /assets/images/0609-ffxunfinished.png
   alt: null
-updated-on: '2023-04-21T07:25:58.996Z'
-created-on: '2023-04-21T07:25:58.996Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-06-09T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: announcing-explorer-awards-by-filecoin-foundation-and-unfinished
+date: 2023-10-06T13:29:41.504Z
 ---
 
 _New joint award program supports Web3 education and learning_
