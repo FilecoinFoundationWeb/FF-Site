@@ -36,7 +36,7 @@ Since 2020, Filecoin’s open ecosystem of developers, storage providers, storag
 
 * 14.7K+ contributors on GitHub
 * More than 3,050 projects
-* More than 450 organizations building on the network, 
+* More than 450 organizations building on the network
 
 **Community Highlights**
 
