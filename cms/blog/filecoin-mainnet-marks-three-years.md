@@ -18,7 +18,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-This week, Filecoin Foundation celebrates the three-year anniversary of the Filecoin network’s mainnet launch. And our vision for a better, more decentralized web has never been more urgent. 
+This week, Filecoin Foundation celebrates the three-year anniversary of the Filecoin network’s Mainnet launch. And our vision for a better, more decentralized web has never been more urgent. 
 
 Today’s internet is largely centralized, and most people say they don’t like that their data is in the hands of a few, ultra-powerful companies. In fact, 65% of Americans say they do not feel in control of how the information they share with websites and companies is used, according to a 2022 [Filecoin Foundation survey](https://fil.org/blog/new-survey-american-consumers-are-ready-to-change-up-to-web3/).
 
