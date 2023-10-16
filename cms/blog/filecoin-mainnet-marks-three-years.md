@@ -7,7 +7,7 @@ f_description: This week, Filecoin Foundation celebrates the three-year
   anniversary of the Filecoin network’s  mainnet launch.
 f_featured: false
 f_image:
-  url: /assets/images/filecoin-mainnet-anniversary.png
+  url: /assets/images/image-3-.png
   alt: Filecoin network growth over 3 years
 f_post-date: 2023-10-16T17:45:17.469Z
 tags: blog
