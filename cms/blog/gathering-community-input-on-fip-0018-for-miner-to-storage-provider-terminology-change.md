@@ -1,24 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2021-08-13T00:00:00.000Z'
-title: >-
-  Gathering Community Input on FIP-0018 for ‘Miner’ to ‘Storage Provider’
+title: Gathering Community Input on FIP-0018 for ‘Miner’ to ‘Storage Provider’
   Terminology Change
-f_description: >-
-  The Filecoin community is currently considering Filecoin Improvement Proposal
-  (FIP) 0018, which proposes to rebrand network “miners” as “storage providers”.
-f_author: 'Filecoin Foundation '
-slug: >-
-  gathering-community-input-on-fip-0018-for-miner-to-storage-provider-terminology-change
+created-on: 2023-04-21T07:27:42.678Z
+updated-on: 2023-04-21T07:27:42.678Z
+published-on: 2023-04-21T07:33:56.200Z
+f_author: "Filecoin Foundation "
+f_description: The Filecoin community is currently considering Filecoin
+  Improvement Proposal (FIP) 0018, which proposes to rebrand network “miners” as
+  “storage providers”.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aeed7488e70c8b0498d_0-r8dt7wlxhyygwcgj.png
+  url: /assets/images/fip-header.png
   alt: null
-updated-on: '2023-04-21T07:27:42.678Z'
-created-on: '2023-04-21T07:27:42.678Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-08-13T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: gathering-community-input-on-fip-0018-for-miner-to-storage-provider-terminology-change
+date: 2023-10-18T19:47:00.706Z
 ---
 
 The Filecoin community is currently considering Filecoin Improvement Proposal (FIP) 0018, which proposes to rebrand network “miners” as “storage providers”.
