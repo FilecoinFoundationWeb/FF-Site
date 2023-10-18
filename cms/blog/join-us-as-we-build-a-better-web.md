@@ -1,23 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2021-01-23T00:00:00.000Z'
 title: Join us as we Build a Better Web
-f_description: >-
-  More than half of the world’s population is online and connected.
+created-on: 2023-04-21T07:28:02.613Z
+updated-on: 2023-04-21T07:28:02.613Z
+published-on: 2023-04-21T07:33:56.200Z
+f_author: Filecoin Foundation
+f_description: More than half of the world’s population is online and connected.
   Collectively, we create more than 2.5 quintillion bytes of data daily — from
   photos and videos, tweets and texts, Reddit posts and research reports, and so
   much more.
-f_author: Filecoin Foundation
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b02e3c08f20a74f51df_1-l9a-l_g2zxiuk3zdsi5lwq.png
+  url: /assets/images/64423b02e3c08f20a74f51df_1-l9a-l_g2zxiuk3zdsi5lwq-1-.png
   alt: null
-slug: join-us-as-we-build-a-better-web
-updated-on: '2023-04-21T07:28:02.613Z'
-created-on: '2023-04-21T07:28:02.613Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-01-23T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: join-us-as-we-build-a-better-web
+date: 2023-10-18T18:24:25.538Z
 ---
 
 _“The internet is in the middle of a revolution: centralized proprietary services are being replaced with decentralized open ones; trusted parties replaced with verifiable computation; brittle location addresses replaced with resilient content addresses; inefficient monolithic services replaced with peer-to-peer algorithmic markets.” —_ [_Filecoin White Paper_](https://filecoin.io/filecoin.pdf)_, 2017_
