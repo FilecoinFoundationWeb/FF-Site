@@ -9,7 +9,7 @@ f_description: Today, the Filecoin community approved Filecoin Improvement
   market and those who participate in it as storage providers.
 f_featured: false
 f_image:
-  url: /assets/images/image-1.png
+  url: /assets/images/fip18.png
   alt: null
 f_post-date: 2021-08-20T00:00:00.000Z
 tags: blog
