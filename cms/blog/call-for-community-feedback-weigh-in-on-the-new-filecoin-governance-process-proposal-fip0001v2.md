@@ -37,7 +37,7 @@ The FIP0001v2 draft introduces procedural changes to the governance process. For
 
 The new categorization of the FIPs aims to streamline reviews and decision making leading to more community engagement and transparency, and reducing ambiguity throughout the process. 
 
-Consensus Pathway
+**Consensus Pathway**
 
 This FIP draft also introduces defined consensus mechanisms and pathways aimed at optimizing governance within Filecoin. Part of this includes setting up distinct governance constituencies thereby decentralizing decision-making from just the Core Devs as is currently the case. 
 
@@ -53,7 +53,7 @@ The Guild isn't just an advisory panel; it's a decentralized entity designed to 
 
 The Guild doesn't replace Core Developers; it complements them by adding layers of scrutiny and expertise in areas that require multidimensional evaluation.
 
-Pathways for Different FIP Types
+**Pathways for Different FIP Types**
 
 Technical FIPs: Soft or hard consensus is employed based on the nature and controversy level of the proposal.
 
@@ -63,11 +63,11 @@ Security FIPs: Decision-making is predominantly the responsibility of Core Devs,
 
 FRCs (Filecoin Request for Comments): Do not require consensus and are essentially community standards or recommendations.
 
-Community Engagement
+**Community Engagement**
 
 The FIP0001v2 initiative has been a community-driven project and to this end, all improvements proposed were developed in close consultation with a wide range of stakeholders within the Filecoin ecosystem. Community members are always encouraged to weigh in, ask questions, make suggestions, and generally participate in this process to refine our governance procedures. More information related to community feedback regarding this initiative can be found [here](https://github.com/filecoin-project/FIPs/discussions/799). 
 
-Conclusion
+**Conclusion**
 
 The introduction of FIP0001v2 offers an opportunity to enhance the governance of the Filecoin network making it more effective, resilient, and responsive to the community's needs and responding to the scale at which Filecoin is growing. We strongly encourage community engagement with this FIP. 
 
