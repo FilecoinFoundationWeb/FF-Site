@@ -1,21 +1,20 @@
 ---
-f_featured: false
-f_post-date: '2022-01-21T00:00:00.000Z'
 title: Introducing the Orbit Community Program
-f_description: >-
-  We’re excited to announce the launch of the Orbit Community Program, powered
-  by Filecoin Foundation and Protocol Labs. 
+created-on: 2023-04-21T07:27:53.945Z
+updated-on: 2023-04-21T07:27:53.945Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
+f_description: "We’re excited to announce the launch of the Orbit Community
+  Program, powered by Filecoin Foundation and Protocol Labs. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423af9f053c96e1e7f5eaa_1-5awy18vct-2rcstnukjrgq.png
+  url: /assets/images/0114-orbitcommunity-twitter.png
   alt: null
-slug: introducing-the-orbit-community-program
-updated-on: '2023-04-21T07:27:53.945Z'
-created-on: '2023-04-21T07:27:53.945Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-01-21T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: introducing-the-orbit-community-program
+date: 2023-10-18T15:25:32.523Z
 ---
 
 We’re excited to announce the launch of the [Orbit Community Program](https://orbitcommunity.filecoin.io/), powered by [Filecoin Foundation](https://fil.org/) and [Protocol Labs](https://protocol.ai/). This program will foster a global community of advocates dedicated to advancing the larger Web3 ecosystem by amplifying the voice of Filecoin, IPFS, and libp2p (both online and offline!), organizing meetups and events, and creating unique content and educational resources.
