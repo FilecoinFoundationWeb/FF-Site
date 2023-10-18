@@ -1,22 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2021-08-20T00:00:00.000Z'
 title: Filecoin Community Approves Change to Storage Provider Terminology
-f_description: >-
-  Today, the Filecoin community approved Filecoin Improvement Proposal 18
-  (FIP-0018), which reframes how we message around the storage market and those
-  who participate in it as storage providers.
+created-on: 2023-04-21T07:27:01.201Z
+updated-on: 2023-04-21T07:27:01.201Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: filecoin-community-approves-change-to-storage-provider-terminology
+f_description: Today, the Filecoin community approved Filecoin Improvement
+  Proposal 18 (FIP-0018), which reframes how we message around the storage
+  market and those who participate in it as storage providers.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ac40425d39a15f29e1e_0-yrh980dmnioxm4gm.png
+  url: /assets/images/image-1.png
   alt: null
-updated-on: '2023-04-21T07:27:01.201Z'
-created-on: '2023-04-21T07:27:01.201Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-08-20T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: filecoin-community-approves-change-to-storage-provider-terminology
+date: 2023-10-18T19:38:53.916Z
 ---
 
 Today, the Filecoin community approved [Filecoin Improvement Proposal 18 (FIP-0018)](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0018.md), which reframes how we message around the storage market and those who participate in it as storage providers. The decision was made after several weeks of soliciting input and feedback on FIP-0018 from across the Filecoin community.
