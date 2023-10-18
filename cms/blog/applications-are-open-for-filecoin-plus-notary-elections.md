@@ -1,21 +1,20 @@
 ---
-f_featured: false
-f_post-date: '2022-02-21T00:00:00.000Z'
 title: Applications are Open for Filecoin Plus Notary Elections
-f_description: >-
-  This month, the Filecoin Plus program will kick off its third round of
-  elections.
+created-on: 2023-04-21T07:26:10.744Z
+updated-on: 2023-04-21T07:26:10.744Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: applications-are-open-for-filecoin-plus-notary-elections
+f_description: This month, the Filecoin Plus program will kick off its third
+  round of elections.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a92a6ec41f1752a3d8e_1-hqcdvvvtl_59qgtoz8btwg.png
+  url: /assets/images/0218-filpluselection.png
   alt: null
-updated-on: '2023-04-21T07:26:10.744Z'
-created-on: '2023-04-21T07:26:10.744Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-02-21T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: applications-are-open-for-filecoin-plus-notary-elections
+date: 2023-10-18T16:17:17.455Z
 ---
 
 This month, the Filecoin Plus program will kick off its third round of elections. Applications will be solicited from hundreds of community members and organizations, inviting them to join the Filecoin Network as Notaries.
