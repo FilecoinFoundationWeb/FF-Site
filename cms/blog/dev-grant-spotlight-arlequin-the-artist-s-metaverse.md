@@ -10,7 +10,7 @@ f_description: Arlequin — the Artists Metaverse — is a community-driven,
   Interplanetary File System (IPFS) via nft.storage.
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aa70425d34fa6f2743e_1-s1umhgp4fz8mfyk3fixjia.png
+  url: /assets/images/64423aa70425d34fa6f2743e_1-s1umhgp4fz8mfyk3fixjia.png
   alt: null
 f_post-date: 2022-06-14T00:00:00.000Z
 tags: blog
