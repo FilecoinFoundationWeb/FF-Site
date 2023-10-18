@@ -1,36 +1,35 @@
 ---
-f_featured: false
-f_post-date: '2022-01-28T00:00:00.000Z'
-title: 'Surveying the Filecoin Community: Priorities and Opportunities for 2022'
-f_description: >-
-  As a core building block of the Web3 world, the Filecoin network is both
-  open-source and decentralized. 
+title: "Surveying the Filecoin Community: Priorities and Opportunities for 2022"
+created-on: 2023-04-21T07:32:03.550Z
+updated-on: 2023-04-21T07:32:03.550Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: surveying-the-filecoin-community-priorities-and-opportunities-for-2022
+f_description: "As a core building block of the Web3 world, the Filecoin network
+  is both open-source and decentralized. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66cbb75bbf237f8e1292_1-1dqtfatumnkf7vdkmw1rhq.png
+  url: /assets/images/643e66cbb75bbf237f8e1292_1-1dqtfatumnkf7vdkmw1rhq.png
   alt: null
-updated-on: '2023-04-21T07:32:03.550Z'
-created-on: '2023-04-21T07:32:03.550Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-01-28T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: surveying-the-filecoin-community-priorities-and-opportunities-for-2022
+date: 2023-10-18T15:18:29.461Z
 ---
-
 As a core building block of the Web3 world, the Filecoin network is both open-source and decentralized. This means that ecosystem coordinators — including Filecoin Foundation––are responsible for ensuring that the Filecoin ecosystem is a product of its community, building pathways for community members to define network-wide priorities, influencing the allocation of resources, and identifying other development opportunities.
 
 The Filecoin Community Survey is one such pathway. Designed collaboratively by staff at Filecoin Foundation and Protocol Labs, the survey was an open-ended and anonymous feedback tool to help foster continued development and growth of the ecosystem. Everyone in the Filecoin community was welcome to participate. The survey was distributed via Filecoin Slack channels and Twitter and responses were collected for approximately four weeks.
 
 Survey respondents were asked to give feedback in three key areas:
 
-1.  What motivates you to be a part of the Filecoin community?
-2.  What opportunities should the Filecoin community focus on in 2022?
-3.  What roadblocks do you see the Filecoin ecosystem facing, and how should we address them?
+1. What motivates you to be a part of the Filecoin community?
+2. What opportunities should the Filecoin community focus on in 2022?
+3. What roadblocks do you see the Filecoin ecosystem facing, and how should we address them?
 
 A summary of the survey results is as follows:
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bf3ba15285b944f316f_0-rcya83ml5udpq_ji.png)  
+![](/assets/images/64423bf3ba15285b944f316f_0-rcya83ml5udpq_ji.png)
+
 In general, community members were relatively consistent in their messaging: they believe the Filecoin project is a critical piece of infrastructure for the decentralized web, but that there are many opportunities that must be seized to advance the utility of the Filecoin network.
 
 Most immediately, community members voiced support for four key enhancements: **increased community support**, **clearer governance standards**, **broader network interoperability**, and **improved dealmaking process** for both clients and storage providers.
