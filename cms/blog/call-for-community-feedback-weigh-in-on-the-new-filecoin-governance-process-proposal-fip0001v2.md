@@ -29,7 +29,7 @@ The FIP0001v2 draft introduces procedural changes to the governance process. For
 3. **Community FIP**: Pertains to processes, norms, or tools essential to the Filecoin community. These FIPs are more than recommendations and typically cannot be ignored, including governance changes. Subject to heightened scrutiny and consensus requirements
 4. **Security FIP**:  Addresses network security issues.
 
-* Level 1: Targets future-looking scenarios without immediate risk. This may include remediations for newly identified bugs or fixes to address unforeseen network behavior due to new FIP implementation.
+   * Level 1: Targets future-looking scenarios without immediate risk. This may include remediations for newly identified bugs or fixes to address unforeseen network behavior due to new FIP implementation.
 
 <!---->
 
