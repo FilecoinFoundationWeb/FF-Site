@@ -1,22 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2023-02-28T00:00:00.000Z'
-f_author: null
 title: Dev Grant Spotlight - Fileverse
-f_description: >-
-  This is the latest post in our series highlighting the builders and innovators
-  creating new tools and services on the Filecoin network. Learn more about
-  Filecoin Foundation’s Dev Grants program.
-slug: dev-grant-spotlight-fileverse
+created-on: 2023-04-21T07:26:37.139Z
+updated-on: 2023-04-21T07:26:37.139Z
+published-on: 2023-04-21T07:33:56.200Z
+f_author: null
+f_description: This is the latest post in our series highlighting the builders
+  and innovators creating new tools and services on the Filecoin network. Learn
+  more about Filecoin Foundation’s Dev Grants program.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aad5b72a2424a84a0f5_0228-sps-fileverse.png
+  url: /assets/images/rectangle-31-.png
   alt: null
-updated-on: '2023-04-21T07:26:37.139Z'
-created-on: '2023-04-21T07:26:37.139Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2023-02-28T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: dev-grant-spotlight-fileverse
+date: 2023-10-18T19:48:34.215Z
 ---
 
 _This is the latest post in our series highlighting the builders and innovators creating new tools and services on the Filecoin network. Learn more about Filecoin Foundation’s_ [_Dev Grants program_](https://fil.org/grants/)_._
