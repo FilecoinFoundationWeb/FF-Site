@@ -11,7 +11,7 @@ f_description: The Filecoin Orbit program is hosting Filecoin Virtual Machine
   to compete for $6,000 in prizes!
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66bc2595442b26a52f57_0208-orbitfvm.png
+  url: /assets/images/0208-orbitfvm.png
   alt: null
 f_post-date: 2023-02-08T00:00:00.000Z
 tags: blog
