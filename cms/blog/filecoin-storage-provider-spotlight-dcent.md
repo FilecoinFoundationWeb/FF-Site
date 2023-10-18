@@ -1,25 +1,23 @@
 ---
-f_featured: false
-f_post-date: '2022-05-25T00:00:00.000Z'
 title: Filecoin Storage Provider Spotlight — Dcent
-f_description: >-
-  As an early storage provider in the Filecoin ecosystem, Dcent has been active
-  in growing and encouraging the local community, organizing meetups and other
-  events, as well as providing advice to others in the network.
+created-on: 2023-04-21T07:27:24.629Z
+updated-on: 2023-04-21T07:27:24.629Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: filecoin-storage-provider-spotlight-dcent
+f_description: As an early storage provider in the Filecoin ecosystem, Dcent has
+  been active in growing and encouraging the local community, organizing meetups
+  and other events, as well as providing advice to others in the network.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423adcb068b03b305c69f0_1-ha6ly_941agefpqw-f1zkq.png
+  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423adcb068b03b305c69f0_1-ha6ly_941agefpqw-f1zkq.png
   alt: null
-updated-on: '2023-04-21T07:27:24.629Z'
-created-on: '2023-04-21T07:27:24.629Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-05-25T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: filecoin-storage-provider-spotlight-dcent
+date: 2023-10-18T19:31:04.585Z
 ---
-
-_This is one in a series of periodic blog posts devoted to profiling Filecoin storage providers. In these posts, we examine what they bring to — and the benefits they derive from — the Filecoin ecosystem._
+*This is one in a series of periodic blog posts devoted to profiling Filecoin storage providers. In these posts, we examine what they bring to — and the benefits they derive from — the Filecoin ecosystem.*
 
 As an early storage provider in the Filecoin ecosystem, [Dcent](http://dcent.nl/) has been active in growing and encouraging the local community, organizing meetups and other events, as well as providing advice to others in the network.
 
@@ -29,7 +27,8 @@ The Dcent team’s commitment to the Filecoin community is evident through its a
 
 As one of the largest European storage centers on the Filecoin network, Dcent has built a modular data center that generates approximately 40% of its annual energy consumption through solar energy. In fact, the company says it runs “net neutral” on most sunny summer days. Building renewable data centers is important in addressing environmental concerns raised by the energy demands of these facilities, Hoogland said. “It’s important to battle climate change and find efficient ways to generate energy while not disrupting our planet or our ability to live on it.”
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68bca29825901a9d02ad_1-4hpzgsz1coqkerlil9wvjw.jpeg)  
+![](/assets/images/rectangle-29-.png)
+
 Dcent’s facilities near Amsterdam have access to the largest broadband fiber network in Europe and are built with full redundancy of all critical components. Dcent currently has a capacity of 30 PiB of raw storage, and the team expects that to grow to 100 PiB by the end of 2022. In addition to expanding its hardware footprint, Dcent’s future plans include improvements to its software, including optimizations that will double the performance of existing hardware.
 
 [Learn about](https://filecoinfoundation.medium.com/) other storage providers building on the Filecoin network.
