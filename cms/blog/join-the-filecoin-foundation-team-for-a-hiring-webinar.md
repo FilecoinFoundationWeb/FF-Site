@@ -1,21 +1,20 @@
 ---
-f_featured: false
-f_post-date: '2021-02-12T00:00:00.000Z'
 title: Join the Filecoin Foundation Team for a Hiring Webinar
-f_description: >-
-  The Filecoin Foundation is part of the community building the next generation
-  of the web.
+created-on: 2023-04-21T07:28:00.856Z
+updated-on: 2023-04-21T07:28:00.856Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: join-the-filecoin-foundation-team-for-a-hiring-webinar
+f_description: The Filecoin Foundation is part of the community building the
+  next generation of the web.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b004e4c68dc35f473ac_0-zlsuhdrlo5hqa1zy.png
+  url: /assets/images/64423b004e4c68dc35f473ac_0-zlsuhdrlo5hqa1zy.png
   alt: null
-updated-on: '2023-04-21T07:28:00.856Z'
-created-on: '2023-04-21T07:28:00.856Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-02-12T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: join-the-filecoin-foundation-team-for-a-hiring-webinar
+date: 2023-10-18T14:54:14.151Z
 ---
 
 The Filecoin Foundation is part of the community building the next generation of the web. Our mission is to develop, enrich, support, and grow both the Filecoin and Web3 ecosystems. We want to cultivate and create value for everyone involved in building the decentralized future of the web.
