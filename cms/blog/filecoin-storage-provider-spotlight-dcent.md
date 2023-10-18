@@ -9,7 +9,7 @@ f_description: As an early storage provider in the Filecoin ecosystem, Dcent has
   and other events, as well as providing advice to others in the network.
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423adcb068b03b305c69f0_1-ha6ly_941agefpqw-f1zkq.png
+  url: /assets/images/0524-sps-dcent.png
   alt: null
 f_post-date: 2022-05-25T00:00:00.000Z
 tags: blog
