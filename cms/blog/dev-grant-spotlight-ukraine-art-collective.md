@@ -9,7 +9,7 @@ f_description: Ukraine Art Collective’s (UkraineArtCo) mission is to unite
   Ukrainian people in their fight for freedom.
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ab8fa70d13d126ff4f7_1-4bia5dzrvjftkirryi_bxq.png
+  url: /assets/images/64423ab8fa70d13d126ff4f7_1-4bia5dzrvjftkirryi_bxq.png
   alt: null
 f_post-date: 2022-05-11T00:00:00.000Z
 tags: blog
