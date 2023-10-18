@@ -31,13 +31,9 @@ The FIP0001v2 draft introduces procedural changes to the governance process. For
 
    * Level 1: Targets future-looking scenarios without immediate risk. This may include remediations for newly identified bugs or fixes to address unforeseen network behavior due to new FIP implementation.
 
-<!---->
+   * Level 2: Targets immediate, high-risk vulnerabilities. Addresses n-day or zero-day threats.
 
-* Level 2: Targets immediate, high-risk vulnerabilities. Addresses n-day or zero-day threats.
-
-<!---->
-
-* Level 3: Remedies emergency network conditions requiring irregular state changes. Examples include chain halts and fund draining.
+Level 3: Remedies emergency network conditions requiring irregular state changes. Examples include chain halts and fund draining.
 
 5. **Filecoin Request for Comment (FRC)**: Informational documents suggesting standards and best practices. Reviewed but not mandated by community consensus.
 
