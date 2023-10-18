@@ -108,4 +108,4 @@ Joining the Filecoin community is easy and has a place for everyone of all inter
 
 Want to dive deeper? Get involved with the specialized Filecoin groups and teams below to help you take your next steps into the community. [Join the second cohort of Orbit Ambassadors here](https://orbitcommunity.filecoin.io/#apply-now), and subscribe to the [Filecoin Community Calendar](https://calendar.google.com/calendar/u/0/r?cid=ZmlsZWNvaW4ub3JnX2o3bW1ldjI0ZzgwcmVsbzU2cHFtMWVsMWUwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to stay up to date on our community events.
 
-![](/assets/images/643e68bf3820f639f6d1de27_dsc05157-collage.jpeg)
+![](/assets/images/643e68bf3820f639f6d1de27_dsc05157-collage-1-.jpeg)
