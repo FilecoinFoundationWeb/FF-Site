@@ -1,25 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2022-02-16T00:00:00.000Z'
-title: >-
-  How Swash is Leveraging Filecoin’s Decentralized Storage Network to Preserve
-  and Protect Consumer Data
-f_description: >-
-  Cisco predicts that by 2022, internet protocol (IP) traffic will surpass all
-  prior “internet years” up to 2016 combined. As internet traffic multiplies,
-  two trends are developing in parallel.
+title: How Swash is Leveraging Filecoin’s Decentralized Storage Network to
+  Preserve and Protect Consumer Data
+created-on: 2023-04-21T07:27:47.348Z
+updated-on: 2023-04-21T07:27:47.348Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
+f_description: Cisco predicts that by 2022, internet protocol (IP) traffic will
+  surpass all prior “internet years” up to 2016 combined. As internet traffic
+  multiplies, two trends are developing in parallel.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423af3e3c08f488e4f519c_1-pyb3swiscnbniykvqyrrdq.png
+  url: /assets/images/64423af3e3c08f488e4f519c_1-pyb3swiscnbniykvqyrrdq.png
   alt: null
-slug: >-
-  how-swash-is-leveraging-filecoin-s-decentralized-storage-network-to-preserve-and-protect-consumer-data
-updated-on: '2023-04-21T07:27:47.348Z'
-created-on: '2023-04-21T07:27:47.348Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-02-16T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: how-swash-is-leveraging-filecoin-s-decentralized-storage-network-to-preserve-and-protect-consumer-data
+date: 2023-10-18T18:09:08.262Z
 ---
 
 [Cisco](https://www.networkworld.com/article/3323063/cisco-predicts-nearly-5-zettabytes-of-ip-traffic-per-year-by-2022.html) predicts that by 2022, internet protocol (IP) traffic will surpass all prior “internet years” up to 2016 combined. As internet traffic multiplies, [two trends are developing](https://www.mckinsey.com/business-functions/risk-and-resilience/our-insights/the-consumer-data-opportunity-and-the-privacy-imperative) in parallel. First, consumer insights are becoming increasingly sought after, with advertising growing into a [600 billion dollar industry](https://www.independent.co.uk/news/business/comment/facebook-apple-netflix-amazon-google-tech-stocks-marketing-consumer-data-a8999016.html) that is heavily dominated by a handful of tech companies. And on the other side, consumers are becoming increasingly aware of the value of their data and more deliberate about how and where they share that data.
