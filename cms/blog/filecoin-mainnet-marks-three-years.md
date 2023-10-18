@@ -27,7 +27,7 @@ Since 2020, Filecoin’s open ecosystem of developers, storage providers, storag
 **Massive amounts of data:**
 
 * Today the Filecoin network has more than [10 EiB](https://dashboard.starboard.ventures/capacity-services) of storage capacity 
-* More than [3,300 storage providers](https://filecoin.io/blog/posts/filecoin-news-75/) 
+* M﻿ore than [3,300 storage provider systems](https://filecoin.io/blog/posts/filecoin-news-75/)
 * [1.6 EiB of data](https://dashboard.starboard.ventures/capacity-services) is stored on the network 
 * [50M deals](https://dashboard.starboard.ventures/market-deals) 
 * [130.4M NFTs](https://nft.storage/stats/)
