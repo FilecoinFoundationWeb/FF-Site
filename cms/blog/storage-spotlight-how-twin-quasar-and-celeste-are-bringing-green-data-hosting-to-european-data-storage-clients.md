@@ -17,7 +17,8 @@ layout: "[blog].html"
 date: 2023-10-19T13:00:00.000Z
 seo:
   noindex: false
-  twitter:title: summary
+  twitter:title: "Storage Spotlight: How Twin Quasar and CELESTE are bringing
+    green data hosting to European data storage clients"
   twitter:card: summary
   og:image: /assets/images/twin-quasar-celeste-filecoin-blog-image.png
 ---
