@@ -66,7 +66,7 @@ Learn more at [fvm.filecoin.io](https://fvm.filecoin.io/). 
 
 **Retrievals**
 
-Project Saturn, a decentralized CDN network built on Filecoin launched in 2022, aims to democratize the CDN market In just under a year, Saturn has reached over 4,800 global points of presence and the capacity to serve 478 million daily requests.
+Project Saturn, a decentralized CDN network built on Filecoin launched in 2022, aims to democratize the CDN market. In just under a year, Saturn has reached over 4,800 global points of presence and the capacity to serve 478 million daily requests.
 
 Learn more at [retrieval.market](https://retrieval.market/).
 
