@@ -22,7 +22,7 @@ seo:
   twitter:card: Twin Quasar and CELESTE have teamed up to build an environmentally
     friendly and cost-effective alternative for data storage on the Filecoin
     network.
-  og:image: /assets/images/twin-quasar-celeste-filecoin-blog-image.png
+  og:image: ""
   og:title: "Storage Spotlight: How Twin Quasar and CELESTE are bringing green
     data hosting to European data storage clients"
 ---
