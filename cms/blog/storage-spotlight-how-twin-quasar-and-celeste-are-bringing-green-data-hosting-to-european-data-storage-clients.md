@@ -19,14 +19,15 @@ seo:
   noindex: false
   twitter:title: summary
   twitter:card: summary
+  og:image: /assets/images/twin-quasar-celeste-filecoin-blog-image.png
 ---
-Supported by Filecoin Foundation and Protocol Labs, [Filecoin Green](https://green.filecoin.io/) aims to measure the environmental impacts of Filecoin and verifiably drive them below zero, building infrastructure along the way that allows anyone to make transparent and substantive environmental claims. Among the  projects supported by Filecoin Green is a collaboration between [Twin Quasar and CELESTE](https://www.twinquasar.io/green-hosting) to offer more cost-effective hosting solutions in Europe. 
+Supported by Filecoin Foundation and Protocol Labs, [Filecoin Green](https://green.filecoin.io/) aims to measure the environmental impacts of Filecoin and verifiably drive them below zero, building infrastructure along the way that allows anyone to make transparent and substantive environmental claims. Among the projects supported by Filecoin Green is a collaboration between [Twin Quasar and CELESTE](https://www.twinquasar.io/green-hosting) to offer more cost-effective hosting solutions in Europe. 
 
 The two organizations have teamed up to build an environmentally friendly and cost-effective alternative for data storage on the Filecoin network. These B2B solutions, designed for existing and prospective Filecoin storage providers (SPs), leverage renewable energy options in the heart of Paris.
 
 Twin Quasar uses the French capital’s position as an IP transit hub with super low latency connectivity and high density to offer data storage for a fraction of the cost of other offerings. To put this in perspective – Paris represents 30% of the global datasphere and is the largest market of data consumers and data producers in the world (two times the size of the U.S.).
 
-![](https://lh7-us.googleusercontent.com/IuMAdj-mK8taWHZ4uF-HKi8SQMaa4-JMCeVjX-QKMfm0e_Pe6cJ2xBupTItBbW1UVY3giuScNaKPQsWG2XyrShBbhmjb7HGlRipVy23lVsdtynMNtZMA4c9qYRZJo8d50cDjxIEUg407h1lf6bR1uV0)
+![IDC Global Datasphere by Region Chart](https://lh7-us.googleusercontent.com/IuMAdj-mK8taWHZ4uF-HKi8SQMaa4-JMCeVjX-QKMfm0e_Pe6cJ2xBupTItBbW1UVY3giuScNaKPQsWG2XyrShBbhmjb7HGlRipVy23lVsdtynMNtZMA4c9qYRZJo8d50cDjxIEUg407h1lf6bR1uV0)
 
 CELESTE, the major telecommunication, cloud, and cybersecurity provider for businesses, operates its own infrastructure of over 10,000 km of optical fiber network in France and Switzerland, five ecological data centers in Europe, and more than 1,500 peering agreements.
 
