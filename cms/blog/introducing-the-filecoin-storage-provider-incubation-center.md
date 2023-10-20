@@ -1,21 +1,20 @@
 ---
-f_featured: false
-f_post-date: '2021-07-07T00:00:00.000Z'
 title: Introducing the Filecoin Storage Provider Incubation Center
-f_description: >-
-  The Filecoin Foundation is committed to growing and supporting the Filecoin
-  ecosystem — miners, developers, and storage clients alike. 
+created-on: 2023-04-21T07:27:50.623Z
+updated-on: 2023-04-21T07:27:50.623Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
+f_description: "The Filecoin Foundation is committed to growing and supporting
+  the Filecoin ecosystem — miners, developers, and storage clients alike. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423af6922f06485416edb4_0-2f5wphyw2vlhepsa.png
+  url: /assets/images/image-c-21.png
   alt: null
-slug: introducing-the-filecoin-storage-provider-incubation-center
-updated-on: '2023-04-21T07:27:50.623Z'
-created-on: '2023-04-21T07:27:50.623Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-07-07T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: introducing-the-filecoin-storage-provider-incubation-center
+date: 2023-10-20T17:23:51.799Z
 ---
 
 The Filecoin Foundation is committed to growing and supporting the Filecoin ecosystem — miners, developers, and storage clients alike. To date, more than 2,500 miners participate in the Filecoin economy, collectively contributing more than [7 EiB](https://filscan.io/) of storage capacity.
