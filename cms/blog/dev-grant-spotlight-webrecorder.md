@@ -1,25 +1,24 @@
 ---
-f_featured: false
-f_post-date: '2022-06-21T00:00:00.000Z'
 title: Dev Grant Spotlight — Webrecorder
-f_description: >-
-  The Webrecorder project builds and maintains an ecosystem of open-source Web
-  archiving tools that can be used by anyone to create high-fidelity and
-  accurate archives of any web content. Webrecorder’s mission is to support ‘web
-  archiving for all’, building browser-based tools to enable institutions all
-  over the world to create web archives, from a single to running larger crawls
-  in the cloud.
+created-on: 2023-04-21T07:26:51.048Z
+updated-on: 2023-04-21T07:26:51.048Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
+f_description: The Webrecorder project builds and maintains an ecosystem of
+  open-source Web archiving tools that can be used by anyone to create
+  high-fidelity and accurate archives of any web content. Webrecorder’s mission
+  is to support ‘web archiving for all’, building browser-based tools to enable
+  institutions all over the world to create web archives, from a single to
+  running larger crawls in the cloud.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423abad7488e50e2b0315b_1-rstqywegshunibu-q8r98a.png
+  url: /assets/images/image-c-14.png
   alt: null
-slug: dev-grant-spotlight-webrecorder
-updated-on: '2023-04-21T07:26:51.048Z'
-created-on: '2023-04-21T07:26:51.048Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-06-21T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: dev-grant-spotlight-webrecorder
+date: 2023-10-20T18:01:20.781Z
 ---
 
 _This is the latest post in our series highlighting the builders and innovators creating new tools and services on the Filecoin network. Learn more about Filecoin Foundation’s_ [_Dev Grants program_](https://fil.org/grants/)_._
