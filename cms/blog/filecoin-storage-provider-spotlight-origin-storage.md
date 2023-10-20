@@ -1,22 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2022-05-18T00:00:00.000Z'
 title: Filecoin Storage Provider Spotlight — Origin Storage
-f_description: >-
-  Origin Storage was founded in 2018 with a mission to provide underlying
-  technology solutions for the Web3 ecosystem with safe, flexible, and reliable
-  products and services. 
+created-on: 2023-04-21T07:27:32.480Z
+updated-on: 2023-04-21T07:27:32.480Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: filecoin-storage-provider-spotlight-origin-storage
+f_description: "Origin Storage was founded in 2018 with a mission to provide
+  underlying technology solutions for the Web3 ecosystem with safe, flexible,
+  and reliable products and services. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ae4922f06b8fe16d536_0-q5v4tuifjr2gxigr.png
+  url: /assets/images/image-c-01.png
   alt: null
-updated-on: '2023-04-21T07:27:32.480Z'
-created-on: '2023-04-21T07:27:32.480Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-05-18T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: filecoin-storage-provider-spotlight-origin-storage
+date: 2023-10-20T18:36:24.618Z
 ---
 
 _This is one in a series of periodic blog posts devoted to profiling Filecoin storage providers. In these posts, we examine what they bring to — and the benefits they derive from — the Filecoin ecosystem._
