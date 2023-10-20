@@ -1,25 +1,23 @@
 ---
-f_featured: false
-f_post-date: '2022-07-20T00:00:00.000Z'
 title: Dev Grant Spotlight — Renovi
-f_description: >-
-  If you build it they will come. That’s the aim of Renovi, a metaverse
-  marketplace and design studio that works with global brands and businesses to
-  create, develop, and implement their Web3 strategies.
+created-on: 2023-04-21T07:26:46.825Z
+updated-on: 2023-04-21T07:26:46.825Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
+f_description: If you build it they will come. That’s the aim of Renovi, a
+  metaverse marketplace and design studio that works with global brands and
+  businesses to create, develop, and implement their Web3 strategies.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ab6922f06095d16ad4b_1-nqbud79s02tiifsgldewiw.png
+  url: /assets/images/image-c-11.png
   alt: null
-slug: dev-grant-spotlight-renovi
-updated-on: '2023-04-21T07:26:46.825Z'
-created-on: '2023-04-21T07:26:46.825Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2022-07-20T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: dev-grant-spotlight-renovi
+date: 2023-10-20T18:03:29.272Z
 ---
-
-_This is the latest post in our series highlighting the builders and innovators creating new tools and services on the Filecoin network. Learn more about Filecoin Foundation’s_ [_Dev Grants program_](https://fil.org/grants/)_._
+*This is the latest post in our series highlighting the builders and innovators creating new tools and services on the Filecoin network. Learn more about Filecoin Foundation’s* *[Dev Grants program](https://fil.org/grants/).*
 
 [If you build it they will come](https://en.wikipedia.org/wiki/Field_of_Dreams). That’s the aim of Renovi, a metaverse marketplace and design studio that works with global brands and businesses to create, develop, and implement their Web3 strategies.
 
@@ -33,12 +31,14 @@ Renovi Studios has already become an established business in the Web3 space — 
 
 Recently, Renovi supported brands including Diageo, DKNY, and GM, building their metaverse experiences at Decentraland’s Fashion Week. The brands leveraged Renovi’s design expertise to develop pop-up stores and brand activations. Some of these housed digital wearables — many of these digital assets could also be purchased as physical goods.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68ad40282d3aa6abf60f_1-b7onfdl9pl-qk-imrdbbeq.png)“Renovi was started with a mission to build a marketplace in which everyone can participate and sell 3D assets in the metaverse, giving creators the ability to monetize their NFTs,” said Renovi Co-founder Adonis Zachariades.
+![](/assets/images/image-c-12.png)
 
-In Q1 of 2022, Renovi sponsored the largest virtual build-a-thon and startup competition, the Next Top Metaverse Build, which attracted more than 160 participants _with support and prizes from Decentraland, Sandbox and the guidance of the University of Nicosia_. Aimed at university students, architects and design professionals from around the world, the competition challenged participants to create virtual designs for categories including buildings, casinos, festival grounds, museums and NFT galleries.
+“Renovi was started with a mission to build a marketplace in which everyone can participate and sell 3D assets in the metaverse, giving creators the ability to monetize their NFTs,” said Renovi Co-founder Adonis Zachariades.
+
+In Q1 of 2022, Renovi sponsored the largest virtual build-a-thon and startup competition, the Next Top Metaverse Build, which attracted more than 160 participants *with support and prizes from Decentraland, Sandbox and the guidance of the University of Nicosia*. Aimed at university students, architects and design professionals from around the world, the competition challenged participants to create virtual designs for categories including buildings, casinos, festival grounds, museums and NFT galleries.
 
 Zachariades says in the future the metaverse will serve as a new source for freelance and consultative work. To help accelerate that, Renovi is cultivating a community of architects, 3D designers and artists in related fields who can showcase and solicit work via the platform.
 
 “We are committed to supporting what is a very niche and specific market,” Zachariades said. “Architects and artists can be particular about their work, and because the files they produce are so large, quality is often sacrificed when uploaded to Web2 platforms. We want to empower architects and 3D designers and their ability to unleash their designs away from physical limitations, while still allowing the public to experience them.”
 
-_The Filecoin Dev Grants program helps advance projects and aims to award additional grants to boost development in the Filecoin ecosystem. Check out our other grant recipients and learn how you can apply for_ [_Open Grants_](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-open-grants) _and_ [_Microgrants_](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-open-grants)_._
+*The Filecoin Dev Grants program helps advance projects and aims to award additional grants to boost development in the Filecoin ecosystem. Check out our other grant recipients and learn how you can apply for* *[Open Grants](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-open-grants)* *and* *[Microgrants](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-open-grants).*
