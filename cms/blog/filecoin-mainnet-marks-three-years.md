@@ -91,5 +91,3 @@ FIP001v2 initiative is a project led by the Filecoin Foundation introducing chan
 Today, we say a big thank you to the storage providers, builders, researchers, enterprises, clients, and all those helping to build a better internet and preserve humanity's most important information!
 
 **To celebrate, we’re offering 10% on the [Filecoin Foundation Swag Store](https://swag.fil.org/) with the code HBDFILECOIN (ends on Friday, Oct. 20).**
-
-And join us at the Filecoin Foundation Network Base in Istanbul, Nov. 14 -16, alongside LabWeek and Devconnect to help us celebrate crossing this milestone. [Register today](https://networkbase.io/register-istanbul/)!
