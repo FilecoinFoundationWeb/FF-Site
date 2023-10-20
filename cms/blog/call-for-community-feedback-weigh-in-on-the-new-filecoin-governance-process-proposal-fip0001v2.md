@@ -19,21 +19,21 @@ seo:
   noindex: false
   twitter:title: summary
   twitter:card: summary
+  og:image: /assets/images/231017-fip0001v2.png
 ---
-After several months of in-depth research, consultations, and community engagements, Filecoin Foundation is proud to announce the release of the FIP0001v2 draft, coinciding with the 3 year anniversary of the Filecoin Mainnet launch. FIP0001v2 is the Filecoin Foundation’s coordination effort to improve the FIPs process and scale Filecoin network governance capabilities. The FIP0001v2 draft is a significant milestone, representing a single proposal for achieving these goals, which was only possible  after months of input into the needs, preferences, and pain points that Filecoin community members have expressed in regard to the governance process. You can read the full draft of this FIP on [GitHub](https://github.com/filecoin-project/FIPs/pull/850).
+After several months of in-depth research, consultations, and community engagements, Filecoin Foundation is proud to announce the release of the FIP0001v2 draft, coinciding with the 3 year anniversary of the Filecoin Mainnet launch. FIP0001v2 is the Filecoin Foundation’s coordination effort to improve the FIPs process and scale Filecoin network governance capabilities. The FIP0001v2 draft is a significant milestone, representing a single proposal for achieving these goals, which was only possible after months of input into the needs, preferences, and pain points that Filecoin community members have expressed in regard to the governance process. You can read the full draft of this FIP on [GitHub](https://github.com/filecoin-project/FIPs/pull/850).
 
-The FIP0001v2 draft introduces procedural changes to the governance process. For example, it proposes five distinct FIP types: 
+The FIP0001v2 draft introduces procedural changes to the governance process. For example, it proposes five distinct FIP types:
 
-1. **Technical FIP**:  Technical FIPs are those that seek to change the way the Filecoin protocol works. These are changes that require network consensus and often introduce changes, bug fixes, or enhancements to Filecoin network operations.  Most FIPs are Technical FIPs. 
-2. **Cryptoeconomic FIP**: These FIPs seek to  alter economic policy within the Filecoin network. Unlike Technical FIPs- which may introduce secondary economic impacts- these FIPs intentionally modify the network's economic logic and are subject to heightened scrutiny and consensus requirements.
-3. **Community FIP**: Pertains to processes, norms, or tools essential to the Filecoin community. These FIPs are more than recommendations and typically cannot be ignored, including governance changes. Subject to heightened scrutiny and consensus requirements
-4. **Security FIP**:  Addresses network security issues.
+1. Technical FIP:  Technical FIPs are those that seek to change the way the Filecoin protocol works. These are changes that require network consensus and often introduce changes, bug fixes, or enhancements to Filecoin network operations.  Most FIPs are Technical FIPs. Cryptoeconomic FIP: These FIPs seek to alter economic policy within the Filecoin network. Unlike Technical FIPs- which may introduce secondary economic impacts- these FIPs intentionally modify the network's economic logic and are subject to heightened scrutiny and consensus requirements.
+
+   **3. Community FIP: Pertains to processes, norms, or tools essential to the Filecoin community. These FIPs are more than recommendations and typically cannot be ignored, including governance changes. Subject to heightened scrutiny and consensus requirements.**
+2. **Security FIP**:  Addresses network security issues.
 
    * Level 1: Targets future-looking scenarios without immediate risk. This may include remediations for newly identified bugs or fixes to address unforeseen network behavior due to new FIP implementation.
    * Level 2: Targets immediate, high-risk vulnerabilities. Addresses n-day or zero-day threats.
-
    * Level 3: Remedies emergency network conditions requiring irregular state changes. Examples include chain halts and fund draining.
-5. **Filecoin Request for Comment (FRC)**: Informational documents suggesting standards and best practices. Reviewed but not mandated by community consensus.
+3. **Filecoin Request for Comment (FRC)**: Informational documents suggesting standards and best practices. Reviewed but not mandated by community consensus.
 
 The new categorization of the FIPs aims to streamline reviews and decision making leading to more community engagement and transparency, and reducing ambiguity throughout the process. 
 
