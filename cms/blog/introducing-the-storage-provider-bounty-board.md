@@ -1,23 +1,22 @@
 ---
-f_featured: false
-f_post-date: '2021-09-02T00:00:00.000Z'
 title: Introducing the Storage Provider Bounty Board
-f_description: >-
-  The Filecoin Foundation has launched Storage Provider Bounty Board, an open
-  tool for coordinating work priorities and tapping the collective knowledge of
-  the Filecoin ecosystem in crowdsourcing solutions for the storage provider
-  community.
+created-on: 2023-04-21T07:27:55.426Z
+updated-on: 2023-04-21T07:27:55.426Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: introducing-the-storage-provider-bounty-board
+f_description: The Filecoin Foundation has launched Storage Provider Bounty
+  Board, an open tool for coordinating work priorities and tapping the
+  collective knowledge of the Filecoin ecosystem in crowdsourcing solutions for
+  the storage provider community.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423afbe3c08f75384f51be_0-fv013jdnr9q3onlj.png
+  url: /assets/images/image-c-08.png
   alt: null
-updated-on: '2023-04-21T07:27:55.426Z'
-created-on: '2023-04-21T07:27:55.426Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-09-02T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: introducing-the-storage-provider-bounty-board
+date: 2023-10-20T18:09:16.004Z
 ---
 
 The Filecoin Foundation has launched [Storage Provider Bounty Board](https://github.com/filecoin-project/community/blob/master/storage-provider-bounty-program/BOUNTIES.md), an open tool for coordinating work priorities and tapping the collective knowledge of the Filecoin ecosystem in crowdsourcing solutions for the storage provider community.
