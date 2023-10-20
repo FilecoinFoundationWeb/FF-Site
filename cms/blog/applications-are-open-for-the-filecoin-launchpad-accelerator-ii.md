@@ -1,21 +1,20 @@
 ---
-f_featured: false
-f_post-date: '2021-04-27T00:00:00.000Z'
 title: Applications are open for the Filecoin Launchpad Accelerator II
-f_description: >-
-  Filecoin Launchpad Accelerator, powered by Tachyon, is seeking applications
-  for its next cohort of innovators. 
+created-on: 2023-04-21T07:26:12.273Z
+updated-on: 2023-04-21T07:26:12.273Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
+f_description: "Filecoin Launchpad Accelerator, powered by Tachyon, is seeking
+  applications for its next cohort of innovators. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a94f053c9f4097f3b10_0-aaamlbpai-ncvzxq.png
+  url: /assets/images/image-c-26.png
   alt: null
-slug: applications-are-open-for-the-filecoin-launchpad-accelerator-ii
-updated-on: '2023-04-21T07:26:12.273Z'
-created-on: '2023-04-21T07:26:12.273Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-04-27T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: applications-are-open-for-the-filecoin-launchpad-accelerator-ii
+date: 2023-10-20T16:30:13.115Z
 ---
 
 [Filecoin Launchpad Accelerator](https://mesh.xyz/tachyon/), powered by [Tachyon](https://mesh.xyz/tachyon/), is seeking applications for its next cohort of innovators. The program is designed to support projects that build on and bridge the [IPFS](https://ipfs.io/), [Filecoin](https://filecoin.io/), and [Ethereum](https://ethereum.org/) communities with tools, middleware, and apps.
