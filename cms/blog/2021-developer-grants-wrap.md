@@ -9,7 +9,7 @@ f_description: The Filecoin Foundation (FF) and Protocol Labs regularly award
   decentralized web through the Filecoin ecosystem.
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a85bc0269a688e68b42_1-tzcw63hnl-wlwgyzqjfbjw.png
+  url: /assets/images/image-c-16.png
   alt: null
 f_post-date: 2021-12-30T00:00:00.000Z
 tags: blog
