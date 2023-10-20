@@ -28,10 +28,10 @@ After several months of in-depth research, consultations, and community engageme
 
 The FIP0001v2 draft introduces procedural changes to the governance process. For example, it proposes five distinct FIP types:
 
-1. **Technical FIP**:  Technical FIPs are those that seek to change the way the Filecoin protocol works. These are changes that require network consensus and often introduce changes, bug fixes, or enhancements to Filecoin network operations. Most FIPs are Technical FIPs. 
+1. **Technical FIP**: Technical FIPs are those that seek to change the way the Filecoin protocol works. These are changes that require network consensus and often introduce changes, bug fixes, or enhancements to Filecoin network operations. Most FIPs are Technical FIPs. 
 2. **Cryptoeconomic FIP**: These FIPs seek to  alter economic policy within the Filecoin network. Unlike Technical FIPs- which may introduce secondary economic impacts- these FIPs intentionally modify the network's economic logic and are subject to heightened scrutiny and consensus requirements.
 3. **Community FIP**: Pertains to processes, norms, or tools essential to the Filecoin community. These FIPs are more than recommendations and typically cannot be ignored, including governance changes. Subject to heightened scrutiny and consensus requirements.
-4. **Security FIP**:  Addresses network security issues.
+4. **Security FIP**: Addresses network security issues.
 
    * Level 1: Targets future-looking scenarios without immediate risk. This may include remediations for newly identified bugs or fixes to address unforeseen network behavior due to new FIP implementation.
    * Level 2: Targets immediate, high-risk vulnerabilities. Addresses n-day or zero-day threats.
