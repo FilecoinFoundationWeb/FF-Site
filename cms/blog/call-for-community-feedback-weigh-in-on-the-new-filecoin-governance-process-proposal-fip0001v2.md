@@ -11,10 +11,10 @@ f_featured: false
 f_image:
   url: /assets/images/231017-fip0001v2.png
   alt: "Filecoin Foundation FIP 0001v2 Governance "
-f_post-date: 2023-10-18T18:21:45.361Z
+f_post-date: 2023-10-20T15:49:36.953Z
 tags: blog
 layout: "[blog].html"
-date: 2023-10-18T18:21:45.376Z
+date: 2023-10-20T15:49:38.087Z
 seo:
   noindex: false
   twitter:title: "Call for Community Feedback: Weigh in on the new Filecoin
