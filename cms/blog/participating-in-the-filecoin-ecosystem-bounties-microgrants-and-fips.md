@@ -1,21 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2021-09-09T00:00:00.000Z'
-title: 'Participating in the Filecoin Ecosystem: Bounties, Microgrants, and FIPs'
-f_description: >-
-  As an open-source, decentralized protocol, the success of the Filecoin network
-  is inextricably linked with the development of its community. 
+title: "Participating in the Filecoin Ecosystem: Bounties, Microgrants, and FIPs"
+created-on: 2023-04-21T07:31:43.965Z
+updated-on: 2023-04-21T07:31:43.965Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: participating-in-the-filecoin-ecosystem-bounties-microgrants-and-fips
+f_description: "As an open-source, decentralized protocol, the success of the
+  Filecoin network is inextricably linked with the development of its community.
+  "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66be3820f6c155cf173d_0-dzzl6tj7ulmastre.png
+  url: /assets/images/image-c-20.png
   alt: null
-updated-on: '2023-04-21T07:31:43.965Z'
-created-on: '2023-04-21T07:31:43.965Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-09-09T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: participating-in-the-filecoin-ecosystem-bounties-microgrants-and-fips
+date: 2023-10-20T17:25:01.795Z
 ---
 
 As an open-source, decentralized protocol, the success of the Filecoin network is inextricably linked with the development of its community. It is for this reason that the Filecoin Foundation supports community capacity building, or finding ways to empower the development of individuals, ideas, resources, and solutions within the Filecoin ecosystem.
