@@ -1,22 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2021-08-30T00:00:00.000Z'
 title: New Wave 9 Developer Grant Recipients
-f_description: >-
-  The Filecoin Foundation and Protocol Labs award funding on a monthly basis to
-  critical development projects to foster a more robust and efficient
-  decentralized web through the Filecoin ecosystem. 
+created-on: 2023-04-21T07:31:38.800Z
+updated-on: 2023-04-21T07:31:38.800Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: new-wave-9-developer-grant-recipients
+f_description: "The Filecoin Foundation and Protocol Labs award funding on a
+  monthly basis to critical development projects to foster a more robust and
+  efficient decentralized web through the Filecoin ecosystem. "
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423adad7488e2d12b03c4c_0-p0cj9xkwk4w40hph.png
+  url: /assets/images/image-c-17.png
   alt: null
-updated-on: '2023-04-21T07:31:38.800Z'
-created-on: '2023-04-21T07:31:38.800Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-08-30T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: new-wave-9-developer-grant-recipients
+date: 2023-10-20T16:26:40.741Z
 ---
 
 The Filecoin Foundation and Protocol Labs award funding on a monthly basis to critical development projects to foster a more robust and efficient decentralized web through the Filecoin ecosystem. You can learn more about the DevGrants [here](https://github.com/markg85/devgrants/blob/IPFS-support-in-FFmpeg-based-media-players/open-grants/open-proposal-IPFS-support-in-FFmpeg-based-media-players.md).
