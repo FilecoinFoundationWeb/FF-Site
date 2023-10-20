@@ -1,22 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2021-12-01T00:00:00.000Z'
 title: Recapping Filecoin Foundation’s 2021 Governance Summit
-f_description: >-
-  Last month, Filecoin Foundation came together to host its first-ever
-  Governance Summit, a three-day series of meetings, brainstorming sessions, and
-  design sprints.
+created-on: 2023-04-21T07:31:45.550Z
+updated-on: 2023-04-21T07:31:45.550Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: recapping-filecoin-foundation-s-2021-governance-summit
+f_description: Last month, Filecoin Foundation came together to host its
+  first-ever Governance Summit, a three-day series of meetings, brainstorming
+  sessions, and design sprints.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423be1b13e039cb8961062_0-8zvcgo9t9pkcj-rw.png
+  url: /assets/images/image-c-18.png
   alt: null
-updated-on: '2023-04-21T07:31:45.550Z'
-created-on: '2023-04-21T07:31:45.550Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-12-01T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: recapping-filecoin-foundation-s-2021-governance-summit
+date: 2023-10-20T17:33:15.845Z
 ---
 
 Last month, Filecoin Foundation came together to host its first-ever Governance Summit, a three-day series of meetings, brainstorming sessions, and design sprints. The Summit was designed to give the Foundation team an opportunity to deeply understand, analyze, and propose improvements to the mechanisms and processes of community governance.
