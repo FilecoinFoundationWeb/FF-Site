@@ -1,22 +1,21 @@
 ---
-f_featured: false
-f_post-date: '2021-07-09T00:00:00.000Z'
 title: Venus v1.0.0 Passes Least Authority Security Audit
-f_description: >-
-  With the recent security audit performed by Least Authority, Venus has
-  released venus v1.0.0, which will enable global storage providers and clients
-  to store valuable data securely on Filecoin.
+created-on: 2023-04-21T07:32:15.053Z
+updated-on: 2023-04-21T07:32:15.053Z
+published-on: 2023-04-21T07:33:56.200Z
 f_author: Filecoin Foundation
-slug: venus-v1-0-0-passes-least-authority-security-audit
+f_description: With the recent security audit performed by Least Authority,
+  Venus has released venus v1.0.0, which will enable global storage providers
+  and clients to store valuable data securely on Filecoin.
+f_featured: false
 f_image:
-  url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bfe586716849bede3db_0-fwfqgjfwk4wj0ban.png
+  url: /assets/images/image-c-28.png
   alt: null
-updated-on: '2023-04-21T07:32:15.053Z'
-created-on: '2023-04-21T07:32:15.053Z'
-published-on: '2023-04-21T07:33:56.200Z'
-layout: '[blog].html'
+f_post-date: 2021-07-09T00:00:00.000Z
 tags: blog
+layout: "[blog].html"
+slug: venus-v1-0-0-passes-least-authority-security-audit
+date: 2023-10-20T16:21:26.145Z
 ---
 
 With the recent security audit performed by [](https://twitter.com/LeastAuthority) [Least Authority](https://leastauthority.com/), Venus has released venus v1.0.0, which will enable global storage providers and clients to store valuable data securely on Filecoin.
