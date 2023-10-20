@@ -8,7 +8,7 @@ f_description: The Filecoin Plus community recently held elections for notaries
   for the second time since its launch.
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66c26911ac23b323a63b_0-9eoae5fat3od7y2m.png
+  url: /assets/images/image-c-34.png
   alt: null
 f_post-date: 2021-06-29T00:00:00.000Z
 tags: blog
