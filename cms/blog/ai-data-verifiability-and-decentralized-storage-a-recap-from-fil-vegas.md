@@ -42,8 +42,6 @@ Mark Yusko summed it up: "The people here are the ones with incredible convictio
 * Decentralized Storage Alliance (DSA): The first ever event to bring together all 16 DSA organizations, including AMD, EY, and Seagate, together to discuss the future of decentralized storage. 
 * DeStor: Hosted 23 workshops, five mainstage presentations, and recorded over 14 video interviews –– all dedicated to guiding the community towards increasing paid storage opportunities.
 
-
-
 ## Takeaways from Las Vegas
 
 FIL Vegas evolved into a space for newcomers and veterans in the ecosystem to find their conviction in the future and to begin building towards it. Legacy Filecoiners, such as Holon, Seal Storage, Internet Archive, USC Libraries, and web3mine, all worked with newer community members on partnerships, roadmaps, and architectures. While newer participants such as Steeldome, EY, Intel, Zenlayer, and Telarus got to see the potential of Filecoin and the dedication of its community first hand  –– each leaving with a set of action items to progress their involvement.   
@@ -52,7 +50,7 @@ FIL Vegas evolved into a space for newcomers and veterans in the ecosystem to fi
 
 To the hundreds of attendees from around the world who joined us on the ground in Las Vegas. Thank you! And a very special thank you to the sponsors of the week: PiKNiK, web3mine, Fluence, STFIL, SFT, and Huddle01. If you attended FIL Vegas, please take a moment to provide your feedback in a [short survey](https://filecoinfoundation.typeform.com/vegasfeedback).
 
-
+![](/assets/images/screen-shot-2023-10-23-at-6.13.05-pm.png)
 
 Interested in learning more about the Decentralized Storage Alliance and how you can get involved? [Learn more](https://dsalliance.io/get-involved).
 
