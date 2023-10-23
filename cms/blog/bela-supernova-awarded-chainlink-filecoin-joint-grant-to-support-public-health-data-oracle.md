@@ -11,7 +11,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a97d1b025cf67f903ec_1-k1bbzfo-mulctcjeu5e_da.png
+    /assets/images/64423a97d1b025cf67f903ec_1-k1bbzfo-mulctcjeu5e_da.png
   alt: null
 slug: >-
   bela-supernova-awarded-chainlink-filecoin-joint-grant-to-support-public-health-data-oracle

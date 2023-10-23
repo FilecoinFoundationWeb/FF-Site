@@ -14,7 +14,7 @@ slug: >-
   linkstorage-awarded-chainlink-filecoin-joint-grant-to-create-blockchain-data-storage-protocol
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b050425d3f577f2eb36_1-qzfjf0m6l6_fzcxuic-8zg.png
+    /assets/images/64423b050425d3f577f2eb36_1-qzfjf0m6l6_fzcxuic-8zg.png
   alt: null
 updated-on: '2023-04-21T07:28:05.882Z'
 created-on: '2023-04-21T07:28:05.882Z'

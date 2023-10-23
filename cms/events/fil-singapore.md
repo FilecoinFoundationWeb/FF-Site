@@ -15,7 +15,7 @@ created-on: '2023-05-03T08:05:54.983Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645218e87f5430741f6d9bd6_fil-singapore.jpg
+    /assets/images/645218e87f5430741f6d9bd6_fil-singapore.jpg
   alt: null
 layout: '[events].html'
 tags: events

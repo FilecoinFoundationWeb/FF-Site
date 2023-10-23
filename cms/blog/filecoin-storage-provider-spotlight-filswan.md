@@ -10,7 +10,7 @@ f_description: >-
   closer to the data source.
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423adea6ec4171202a5cf2_1-hdrc5daoaw6mxtrklvxhcg.png
+    /assets/images/64423adea6ec4171202a5cf2_1-hdrc5daoaw6mxtrklvxhcg.png
   alt: null
 slug: filecoin-storage-provider-spotlight-filswan
 updated-on: '2023-04-21T07:27:26.180Z'

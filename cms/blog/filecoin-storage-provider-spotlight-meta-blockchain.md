@@ -10,7 +10,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ae18d1be72cd2ceb12e_1-avr_3ujwveph-055eq1s_q.png
+    /assets/images/64423ae18d1be72cd2ceb12e_1-avr_3ujwveph-055eq1s_q.png
   alt: null
 slug: filecoin-storage-provider-spotlight-meta-blockchain
 updated-on: '2023-04-21T07:27:29.284Z'

@@ -10,7 +10,7 @@ title: USC Shoah Foundation
 slug: usc-shoah-foundation
 f_logo:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/649b5c68173d9738cd53533b_230820414-e7e95d89-1fc2-4594-a180-96f5fd32a591.png
+    /assets/images/649b5c68173d9738cd53533b_230820414-e7e95d89-1fc2-4594-a180-96f5fd32a591.png
   alt: null
 updated-on: '2023-06-27T22:02:18.066Z'
 created-on: '2023-06-27T21:43:22.494Z'

@@ -14,7 +14,7 @@ slug: >-
   case-study-seal-storage-making-web3-accessible-for-all-through-ecosystem-leadership-and-the-filecoin-network-1
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aa28d1be743ddce7ab2_1-inwzqgetwegv3q8q0c4fea.webp
+    /assets/images/64423aa28d1be743ddce7ab2_1-inwzqgetwegv3q8q0c4fea.webp
   alt: null
 updated-on: '2023-04-21T07:26:26.517Z'
 created-on: '2023-04-21T07:26:26.517Z'

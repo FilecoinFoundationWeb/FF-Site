@@ -17,7 +17,7 @@ f_cta-text: Read more
 slug: decentralized-future-council
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c0e9694346204c8f09f_decentralized-future-council.png
+    /assets/images/64423c0e9694346204c8f09f_decentralized-future-council.png
   alt: null
 updated-on: '2023-04-21T07:32:31.010Z'
 created-on: '2023-04-21T07:32:31.010Z'

@@ -14,7 +14,7 @@ title: Institute for Education Dinners
 slug: institute-for-education-dinners
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c11482126f7828e7eea_institute-for-educational-dinners.png
+    /assets/images/64423c11482126f7828e7eea_institute-for-educational-dinners.png
   alt: null
 updated-on: '2023-04-21T07:32:33.964Z'
 created-on: '2023-04-21T07:32:33.964Z'

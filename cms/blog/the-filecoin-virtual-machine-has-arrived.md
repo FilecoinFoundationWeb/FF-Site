@@ -10,7 +10,7 @@ f_description: >-
   programmable for the first time.
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bf9da735f547c392f21_unnamed-14.png
+    /assets/images/64423bf9da735f547c392f21_unnamed-14.png
   alt: null
 slug: the-filecoin-virtual-machine-has-arrived
 updated-on: '2023-04-21T07:32:09.984Z'

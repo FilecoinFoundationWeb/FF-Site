@@ -12,7 +12,7 @@ title: The Internet Archive
 slug: the-internet-archive
 f_logo:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/649b581caf56f6df617c9ca8_230818725-21fe2ba8-6508-4dd0-988d-7e22f7681dc6.png
+    /assets/images/649b581caf56f6df617c9ca8_230818725-21fe2ba8-6508-4dd0-988d-7e22f7681dc6.png
   alt: null
 updated-on: '2023-06-27T21:43:58.281Z'
 created-on: '2023-06-27T21:43:58.281Z'

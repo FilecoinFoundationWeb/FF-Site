@@ -11,7 +11,7 @@ f_cta-text: Learn More
 slug: ethdenver
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215f9a2b74616855546de_ethdenver.png
+    /assets/images/645215f9a2b74616855546de_ethdenver.png
   alt: null
 updated-on: '2023-05-03T08:06:17.813Z'
 created-on: '2023-05-03T08:06:17.813Z'

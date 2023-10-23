@@ -13,7 +13,7 @@ slug: >-
   dzk-foundation-awarded-chainlink-filecoin-joint-grant-to-support-zk-rollup-research
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423abce3c08f49114f50eb_1-9utuc70k3mbyvlsllf7dqa.png
+    /assets/images/64423abce3c08f49114f50eb_1-9utuc70k3mbyvlsllf7dqa.png
   alt: null
 updated-on: '2023-04-21T07:26:52.479Z'
 created-on: '2023-04-21T07:26:52.479Z'

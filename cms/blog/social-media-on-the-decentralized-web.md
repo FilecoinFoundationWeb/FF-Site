@@ -10,7 +10,7 @@ f_author: Filecoin Foundation
 slug: social-media-on-the-decentralized-web
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423be63db3a0a2416bac69_1-vcqlzywn6ec6brxs8lmzng.webp
+    /assets/images/64423be63db3a0a2416bac69_1-vcqlzywn6ec6brxs8lmzng.webp
   alt: null
 updated-on: '2023-04-21T07:31:50.469Z'
 created-on: '2023-04-21T07:31:50.469Z'

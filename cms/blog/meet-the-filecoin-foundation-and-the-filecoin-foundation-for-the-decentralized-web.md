@@ -24,7 +24,7 @@ The boards and advisors of the Filecoin Foundation (FF) and the Filecoin Foundat
 
 Below is an overview of FF and FFDW board members and advisors along with highlights from that discussion:
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe40dd997f1b0_1-sljgxdvn3ixspjp8v2-i4g.jpeg)
+![](/assets/images/643e68c10a5fe40dd997f1b0_1-sljgxdvn3ixspjp8v2-i4g.jpeg)
 
 \*\*Marta Belcher  
 Chair of the Board, FF and FFDW  
@@ -32,7 +32,7 @@ Chair of the Board, FF and FFDW
 
 _“The decentralized web can help us preserve humanity’s most important data. The centralized nature of today’s internet means that users have no choice but to trust intermediaries with their data. And the fact that file storage is essentially a monopoly means that there is a single point of failure for much of today’s internet. Decentralizing the web can empower users, enhance security, and ensure that data can be stored reliably over time. I am so excited to be part of these Foundations to accelerate the growth of this important technology and to support the Filecoin and decentralized web communities.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe44d6897f1b7_1-rmxbjyh2g_0pw0nhnmafha.png)
+![](/assets/images/643e68c10a5fe44d6897f1b7_1-rmxbjyh2g_0pw0nhnmafha.png)
 
 \*\*Rainey Reitman  
 Board of Directors, FFDW  
@@ -40,7 +40,7 @@ Board of Directors, FFDW
 
 _“Every day, I see how the centralized web fails ordinary technology users. An internet that has been built for profit at the cost of consumer choice and privacy isn’t what people need. We have to create a digital ecosystem that can’t be controlled by a few tech monopolies. The Filecoin Foundation will be a crucial link in that ecosystem.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4193c97f1b3_1-xyuwxyvdthi94i42kdqgzg.jpeg)
+![](/assets/images/643e68c10a5fe4193c97f1b3_1-xyuwxyvdthi94i42kdqgzg.jpeg)
 
 \*\*Brian Behlendorf  
 Board of Directors, FF and FFDW  
@@ -48,7 +48,7 @@ Board of Directors, FF and FFDW
 
 _“There’s a temptation to think that the future of the web will be all about software, protocols, and algorithms. But the internet wasn’t built by software; it was built by people. To advance the next generation of the web, we need to bring people together into a trusted community.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe41b8297f1b1_1-vuaa2ihhrbrl8y1mgdy2ja.jpeg)
+![](/assets/images/643e68c10a5fe41b8297f1b1_1-vuaa2ihhrbrl8y1mgdy2ja.jpeg)
 
 \*\*Marcia Hofmann  
 Board of Directors, FF; Advisor, FFDW  
@@ -56,7 +56,7 @@ Board of Directors, FF; Advisor, FFDW
 
 _“The promise of the decentralized web is to shift decision-making power from the few to the many. If successful, this change will not only make it possible for ordinary people to have more control over the technologies they use, but also spur competition among innovators to build different and better options. We aim to ensure this promise becomes a reality.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4f19d97f1b4_1-dahvaqfslkmxufl6v-pmlq.jpeg)
+![](/assets/images/643e68c10a5fe4f19d97f1b4_1-dahvaqfslkmxufl6v-pmlq.jpeg)
 
 \*\*Brewster Kahle  
 Advisor, FF and FFDW  
@@ -64,7 +64,7 @@ Advisor, FF and FFDW
 
 _“Decentralized storage offers hope for long term digital preservation and access — in this way many archives and memory institutions can help back each other up. The Filecoin Foundation and IPFS community understand the importance of digital stewardship and are concretely helping support these efforts.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe49b3a97f1b8_1-mb02kuruwgjh1x-7u_3zlw.png)
+![](/assets/images/643e68c10a5fe49b3a97f1b8_1-mb02kuruwgjh1x-7u_3zlw.png)
 
 \*\*Sheila Warren  
 Advisor, FFDW  
@@ -72,7 +72,7 @@ Advisor, FFDW
 
 _“It’s beginning to become axiomatic that any innovative tech stack has a blockchain layer. But we’re still far away from the ubiquity of blockchain technology that will enable the decentralized web to really take off. To get to where we need to be, it’ll take a global, cross-sector effort.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4ba0d97f1ba_1-rxt62f5lqt0sxwtgk8r-qw.jpeg)
+![](/assets/images/643e68c10a5fe4ba0d97f1ba_1-rxt62f5lqt0sxwtgk8r-qw.jpeg)
 
 \*\*Joseph Lubin  
 Advisor, FF and FFDW  
@@ -80,7 +80,7 @@ Advisor, FF and FFDW
 
 _“I see deep parallels between the Ethereum ecosystem and the Filecoin ecosystem. As the Filecoin ecosystem grows, it will occupy a crucial role in the re-architecturing of the world’s information and economic systems. We’re only now really initiating the transition to a fully decentralized web space. I see the Filecoin Foundation as a way to accelerate that transition and make the decentralized web a reality, and I’m excited to be a part of it.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4aa3e97f1ae_1-augyiyl2pjkwtddthjqepg.jpeg)
+![](/assets/images/643e68c10a5fe4aa3e97f1ae_1-augyiyl2pjkwtddthjqepg.jpeg)
 
 \*\*Kristin Smith  
 Advisor, FF and FFDW  
@@ -88,7 +88,7 @@ Advisor, FF and FFDW
 
 _“The entire crypto space needs regulatory clarity and legislative support before it can truly flourish. Part of what we need to do, as innovators and blockchain supporters, is to go on the offensive and secure regulatory and legislative wins for crypto. Doing so starts with building a robust community network.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe41e0e97f1af_1-uvcydix4iw1dg4s0oyjv0g.jpeg)
+![](/assets/images/643e68c10a5fe41e0e97f1af_1-uvcydix4iw1dg4s0oyjv0g.jpeg)
 
 \*\*Katie Biber  
 Advisor, FF and FFDW  
@@ -96,7 +96,7 @@ Advisor, FF and FFDW
 
 _“The easiest way to make crypto mainstream is to make products regular people actually want to use.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe42f9797f1b6_0-tl3dqabbngjxacj7.png)
+![](/assets/images/643e68c10a5fe42f9797f1b6_0-tl3dqabbngjxacj7.png)
 
 \*\*Georgia Quinn  
 Advisor, FF and FFDW  
@@ -104,7 +104,7 @@ Advisor, FF and FFDW
 
 _“One of the biggest roadblocks to crypto adoption is its reliance on a nomenclature that was borrowed from traditional finance. What the crypto space needs is an education campaign to show people the powerful use cases of crypto projects, beyond the limits of traditional finance.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4864a97f1b9_1-cdnqrde3qer6f5lr9h9hng.jpeg)
+![](/assets/images/643e68c10a5fe4864a97f1b9_1-cdnqrde3qer6f5lr9h9hng.jpeg)
 
 \*\*Sandra Ro  
 Advisor, FF and FFDW  
@@ -112,7 +112,7 @@ Advisor, FF and FFDW
 
 _“Fundamentally, building the decentralized web is about building back better for a new era of internet technology defined by fairness and equity. The centralized web systematically disempowers web users and tech companies from the world’s poorest and most underdeveloped regions. But decentralizing the web could change that.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4385597f1b5_1-axddaq_vs0-mux-hurxp_a.png)
+![](/assets/images/643e68c10a5fe4385597f1b5_1-axddaq_vs0-mux-hurxp_a.png)
 
 **Alex Feerst**  
 \*\*Advisor, FF and FFDW  
@@ -120,7 +120,7 @@ _“Fundamentally, building the decentralized web is about building back better 
 
 _“People want to make their own decisions about what content they interact with and about how they distribute and share it. Only the decentralized web has the potential to fully distribute decisionmaking in this area and empower ordinary web users to choose for themselves. I’m incredibly excited to join the Filecoin Foundation and help change the way the world shares content.”_
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68c10a5fe4679c97f1b2_1-xfify3ekgvwoeqejoikxqw.jpeg)
+![](/assets/images/643e68c10a5fe4679c97f1b2_1-xfify3ekgvwoeqejoikxqw.jpeg)
 
 \*\*Wendy Hanamura  
 Advisor, FF and FFDW  

@@ -13,7 +13,7 @@ title: Filecoin Orbit Lounge at DC Fintech Week
 f_cta-text: Register
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215fc18e20d1c30805b6c_2021-filecoin-orbit-lounge-event.png
+    /assets/images/645215fc18e20d1c30805b6c_2021-filecoin-orbit-lounge-event.png
   alt: null
 slug: filecoin-orbit-lounge-at-dc-fintech-week
 updated-on: '2023-05-03T08:06:20.831Z'

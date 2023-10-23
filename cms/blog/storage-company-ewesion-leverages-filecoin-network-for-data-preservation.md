@@ -10,7 +10,7 @@ f_author: Filecoin Foundation
 slug: storage-company-ewesion-leverages-filecoin-network-for-data-preservation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66c80a810364460c68bb_1-b1odemnhfczn_24q2linww.png
+    /assets/images/643e66c80a810364460c68bb_1-b1odemnhfczn_24q2linww.png
   alt: null
 updated-on: '2023-04-21T07:31:57.523Z'
 created-on: '2023-04-21T07:31:57.523Z'
@@ -33,7 +33,7 @@ Founded in 2019 by Benny Li, Ewesion is a platform for creative artists that ser
 
 Ewesion is the largest picture provider for the Tencent public cloud today. It provides functional design and editing tools to its users as well as secure storage of their final creations. It is quickly becoming the image repository of choice, aiming to power and preserve content to elevate visual communications.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bedb13e030090961989_0-ds-rp-2ps7f4wkfo.jpeg)
+![](/assets/images/64423bedb13e030090961989_0-ds-rp-2ps7f4wkfo.jpeg)
 
 While Ewesion is just a few years old, it is growing rapidly. In fact, the company has added more than 20 people to its staff in the past 6 months and plans to expand its storage capabilities to audio and video by the end of 2022.
 

@@ -9,7 +9,7 @@ f_author: Filecoin Foundation
 slug: thanks-for-participating-in-fip-0014
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bf6ba1528b0814f3496_0-w3wa_u-ynigzoedy.png
+    /assets/images/64423bf6ba1528b0814f3496_0-w3wa_u-ynigzoedy.png
   alt: null
 updated-on: '2023-04-21T07:32:06.493Z'
 created-on: '2023-04-21T07:32:06.493Z'

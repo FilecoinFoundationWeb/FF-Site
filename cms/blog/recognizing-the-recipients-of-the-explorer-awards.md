@@ -12,7 +12,7 @@ created-on: '2023-04-21T07:31:47.059Z'
 published-on: '2023-05-03T12:47:09.568Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645244ea3a4dd637ee3c0347_0609-ffxunfinished.jpg
+    /assets/images/645244ea3a4dd637ee3c0347_0609-ffxunfinished.jpg
   alt: null
 layout: '[blog].html'
 tags: blog

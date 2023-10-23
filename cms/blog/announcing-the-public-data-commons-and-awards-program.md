@@ -9,7 +9,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a8c4e4c682bdff3f2e5_1-1hvgrfumdxuavwm1qy5flw.webp
+    /assets/images/64423a8c4e4c682bdff3f2e5_1-1hvgrfumdxuavwm1qy5flw.webp
   alt: null
 slug: announcing-the-public-data-commons-and-awards-program
 updated-on: '2023-04-21T07:26:04.681Z'

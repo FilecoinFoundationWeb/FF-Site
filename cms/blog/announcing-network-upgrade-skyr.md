@@ -10,7 +10,7 @@ f_author: 'Filecoin Foundation '
 slug: announcing-network-upgrade-skyr
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a88f053c985627f3ae7_1-ko-wwh4crpe6t8ioqymtfq.png
+    /assets/images/64423a88f053c985627f3ae7_1-ko-wwh4crpe6t8ioqymtfq.png
   alt: null
 updated-on: '2023-04-21T07:26:00.623Z'
 created-on: '2023-04-21T07:26:00.623Z'

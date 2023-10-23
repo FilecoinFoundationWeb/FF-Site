@@ -11,7 +11,7 @@ f_cta-text: Watch Recording
 slug: ethereal-2021
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64521600a359ff88f536ffc5_ethereal-2021.png
+    /assets/images/64521600a359ff88f536ffc5_ethereal-2021.png
   alt: null
 updated-on: '2023-05-03T08:06:24.261Z'
 created-on: '2023-05-03T08:06:24.261Z'

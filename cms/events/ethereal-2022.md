@@ -12,7 +12,7 @@ f_cta-text: Watch Recording
 slug: ethereal-2022
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215f7455b5b63d0f5b5e8_marta-snowden.png
+    /assets/images/645215f7455b5b63d0f5b5e8_marta-snowden.png
   alt: null
 updated-on: '2023-05-03T08:06:16.127Z'
 created-on: '2023-05-03T08:06:16.127Z'

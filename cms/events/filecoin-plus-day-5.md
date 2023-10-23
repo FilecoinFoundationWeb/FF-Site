@@ -12,7 +12,7 @@ created-on: '2023-05-03T08:06:25.842Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/6452191a0250ed07cbd15415_luma-_-fil-day.jpg
+    /assets/images/6452191a0250ed07cbd15415_luma-_-fil-day.jpg
   alt: null
 layout: '[events].html'
 tags: events

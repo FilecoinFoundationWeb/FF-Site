@@ -13,7 +13,7 @@ slug: >-
   filecoin-foundation-and-ffdw-team-up-with-the-internet-archive-to-preserve-government-datasets-in-new-democracy-s-library-initiative
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423acba6ec41b8da2a46d0_1-jrf-dri7quysyfpqa5rpaw.webp
+    /assets/images/64423acba6ec41b8da2a46d0_1-jrf-dri7quysyfpqa5rpaw.webp
   alt: null
 updated-on: '2023-04-21T07:27:07.444Z'
 created-on: '2023-04-21T07:27:07.444Z'

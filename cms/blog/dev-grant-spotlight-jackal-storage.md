@@ -9,7 +9,7 @@ f_author: Filecoin Foundation
 slug: dev-grant-spotlight-jackal-storage
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ab18d1be70ae7ce9031_1-qwnolzesajrp3gjwrthflg.png
+    /assets/images/64423ab18d1be70ae7ce9031_1-qwnolzesajrp3gjwrthflg.png
   alt: null
 updated-on: '2023-04-21T07:26:41.530Z'
 created-on: '2023-04-21T07:26:41.530Z'

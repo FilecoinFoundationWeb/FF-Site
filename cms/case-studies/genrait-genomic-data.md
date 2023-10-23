@@ -14,7 +14,7 @@ f_cta-text: Read more
 slug: genrait-genomic-data
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c0bca39dd79531f30fc_genrait-case-study-image.svg
+    /assets/images/64423c0bca39dd79531f30fc_genrait-case-study-image.svg
   alt: null
 updated-on: '2023-04-21T07:32:27.926Z'
 created-on: '2023-04-21T07:32:27.926Z'

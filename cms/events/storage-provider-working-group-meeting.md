@@ -11,7 +11,7 @@ f_cta-text: Watch Recording
 slug: storage-provider-working-group-meeting
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64521604a359ff699f3705ec_storage-provider-working-group.png
+    /assets/images/64521604a359ff699f3705ec_storage-provider-working-group.png
   alt: null
 updated-on: '2023-05-03T08:06:28.619Z'
 created-on: '2023-05-03T08:06:28.619Z'

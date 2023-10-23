@@ -9,7 +9,7 @@ f_author: Filecoin Foundation
 slug: filecoin-foundation-2022-annual-report
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ac6b068b0a9945c5010_0206-ff-22-annual-report.png
+    /assets/images/64423ac6b068b0a9945c5010_0206-ff-22-annual-report.png
   alt: null
 updated-on: '2023-04-21T07:27:02.761Z'
 created-on: '2023-04-21T07:27:02.761Z'

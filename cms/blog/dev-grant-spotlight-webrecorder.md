@@ -33,7 +33,7 @@ The company is also developing a portable format for storing web archives on bot
 
 Webrecorder will also explore approaches to improve trust in web archives, including a way to ensure data authenticity through cryptographic signing and verification at the web archive format level.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68b14ffb8450be1b581f_1-ip1xplbd-qwk2yi0wwygva.png)  
+![](/assets/images/643e68b14ffb8450be1b581f_1-ip1xplbd-qwk2yi0wwygva.png)  
 In addition, Webrecorder actively helps a number of web archiving initiatives throughout the world, including projects with the group called [Saving Ukrainian Cultural Heritage Online](http://sucho.org/) (SUCHO), which works to prevent information and cultural memory from disappearing. The SUCHO group consists of hundreds of volunteer archivists, programmers and librarians using [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler), through the [Browsertrix.Cloud](https://browsertrix.cloud/) system, an open-source high-fidelity crawling system with a friendly user interface, as well as the [ArchiveWeb.page Express](https://express.archiveweb.page/) system for fully browser-based Web archiving to record and archive Websites before servers lose connections or are destroyed.
 
 “Our collaboration with Webrecorder is key to the IPFS and Filecoin mission: making a web that works for the most impacted users in critical situations, and ensuring the safety of the digital human experience for future generations,” said Dietrich Ayala, IPFS Ecosystem Lead at Protocol Labs. “Webrecorder provides the specs, libraries, tools and services to build bridges between the HTTP web and any of these new technologies, and bring the last 30+ years of the web along too.”

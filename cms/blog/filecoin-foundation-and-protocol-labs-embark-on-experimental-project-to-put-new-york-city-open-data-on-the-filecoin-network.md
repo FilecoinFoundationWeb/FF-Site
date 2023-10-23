@@ -13,7 +13,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ad14e4c686170f43f8e_1-_l1pjw5m2ayuddshdifbcg.png
+    /assets/images/64423ad14e4c686170f43f8e_1-_l1pjw5m2ayuddshdifbcg.png
   alt: null
 slug: >-
   filecoin-foundation-and-protocol-labs-embark-on-experimental-project-to-put-new-york-city-open-data-on-the-filecoin-network
@@ -34,7 +34,7 @@ The Filecoin Foundation, an independent organization that supports the Filecoin 
 
 “As CTO, I’m constantly thinking about how we can use new technology to better serve New Yorkers, including how we store and safeguard New York City’s data,” said John Paul Farmer, Chief Technology Officer of New York City. “We are a global hub for innovation and home to the second-largest tech sector on the planet. It is important for us to be at the vanguard. This is a terrific opportunity to test how decentralized technology can benefit New York City.”
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68b986bdcbb36d14692e_1-eq3jsg4nmtxupatc2byjmw.png)
+![](/assets/images/643e68b986bdcbb36d14692e_1-eq3jsg4nmtxupatc2byjmw.png)
 
 Moving NYC Open Data onto the decentralized web will create a **more reliable, more resilient, more secure, and more cost-effective** archive of the city’s public records.
 

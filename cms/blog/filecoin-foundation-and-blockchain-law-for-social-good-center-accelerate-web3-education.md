@@ -11,7 +11,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ac9e3c08f1a784f5119_1-dvxhahnhu5a5qk3xidlxga.png
+    /assets/images/64423ac9e3c08f1a784f5119_1-dvxhahnhu5a5qk3xidlxga.png
   alt: null
 slug: >-
   filecoin-foundation-and-blockchain-law-for-social-good-center-accelerate-web3-education

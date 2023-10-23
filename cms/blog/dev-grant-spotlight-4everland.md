@@ -10,7 +10,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aa58d1be7828cce7d89_1-45khiwwqpsgwtnrtjpkoqa.png
+    /assets/images/64423aa58d1be7828cce7d89_1-45khiwwqpsgwtnrtjpkoqa.png
   alt: null
 slug: dev-grant-spotlight-4everland
 updated-on: '2023-04-21T07:26:29.881Z'

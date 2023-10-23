@@ -14,7 +14,7 @@ slug: >-
   filswan-awarded-chainlink-filecoin-joint-grant-to-create-multi-chain-decentralized-data-storage-payment-solution
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ae9ef619d8d6eb60ed0_1-pvi22ssfyyn-thpuj3ltgg.png
+    /assets/images/64423ae9ef619d8d6eb60ed0_1-pvi22ssfyyn-thpuj3ltgg.png
   alt: null
 updated-on: '2023-04-21T07:27:37.543Z'
 created-on: '2023-04-21T07:27:37.543Z'

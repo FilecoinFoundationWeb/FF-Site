@@ -21,7 +21,7 @@ f_cta-text: Read more here
 slug: techcongress
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c0d9694340894c8ee76_tech-congress-case-study.png
+    /assets/images/64423c0d9694340894c8ee76_tech-congress-case-study.png
   alt: null
 updated-on: '2023-04-21T07:32:29.461Z'
 created-on: '2023-04-21T07:32:29.461Z'

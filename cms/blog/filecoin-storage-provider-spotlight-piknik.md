@@ -10,7 +10,7 @@ f_author: Filecoin Foundation
 slug: filecoin-storage-provider-spotlight-piknik
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ae5a6ec4107462a6350_0-dab1y7whx7fuaol0.png
+    /assets/images/64423ae5a6ec4107462a6350_0-dab1y7whx7fuaol0.png
   alt: null
 updated-on: '2023-04-21T07:27:34.032Z'
 created-on: '2023-04-21T07:27:34.032Z'

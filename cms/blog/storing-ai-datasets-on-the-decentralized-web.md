@@ -12,7 +12,7 @@ f_author: Filecoin Foundation
 slug: storing-ai-datasets-on-the-decentralized-web
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66c9def161164793d8aa_0-ykastlsfwq52kr4r.png
+    /assets/images/643e66c9def161164793d8aa_0-ykastlsfwq52kr4r.png
   alt: null
 updated-on: '2023-04-21T07:31:59.463Z'
 created-on: '2023-04-21T07:31:59.463Z'
@@ -53,7 +53,7 @@ Datasets directly inform AI systems, so the evolution of datasets will cause AI 
 
 As AI becomes easier to use for the average person and open-source tools become more widely available, the number of system dependencies that emerge will increase. I imagine this scenario, but for AI:
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bef4e4c685cbdf57e66_0-fneh-1x6d2b1adwc.png)
+![](/assets/images/64423bef4e4c685cbdf57e66_0-fneh-1x6d2b1adwc.png)
 
 Another reason why it’s important to maintain records of these datasets is to comply with state and local AI audit requirements. These requirements are being debated in many places and have already become law in some places, such as the one New York City [passed in December](https://www.marketplace.org/2021/12/10/new-nyc-law-restricts-hiring-based-on-artificial-intelligence/) regarding how employers use AI in the recruiting, interview, and hiring process.
 

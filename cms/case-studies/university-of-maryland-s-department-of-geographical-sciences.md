@@ -19,7 +19,7 @@ title: University of Maryland’s Department of Geographical Sciences
 slug: university-of-maryland-s-department-of-geographical-sciences
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c10b13e03732b964054_university-of-maryland-case-study.svg
+    /assets/images/64423c10b13e03732b964054_university-of-maryland-case-study.svg
   alt: null
 updated-on: '2023-04-21T07:32:32.448Z'
 created-on: '2023-04-21T07:32:32.448Z'

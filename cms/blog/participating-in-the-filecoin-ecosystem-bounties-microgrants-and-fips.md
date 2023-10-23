@@ -43,5 +43,5 @@ All of these programs to grow and support the Filecoin network are open and full
 
 In summary:
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68b74c24b9bbcc6ff4ef_1-qp5u_ymqnh7e1mxutnsmka.png)\
+![](/assets/images/643e68b74c24b9bbcc6ff4ef_1-qp5u_ymqnh7e1mxutnsmka.png)\
 Regardless of which program excites you the most, we hope you find space to leverage your expertise and contribute to the community in one of our available programs. Keep an eye on [Filecoin Foundation Twitter](https://twitter.com/FilFoundation) and the [Filecoin Community Newsletter](https://mailchi.mp/filecoin.io/filecoin-news-issue-66114?e=40a083d0cb) for information about new programs, new opportunities, and other ways to connect.

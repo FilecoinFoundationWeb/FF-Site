@@ -8,7 +8,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ab50425d36d72f2895f_1-brm0bxgpfk7-tr5tfyq-la.png
+    /assets/images/64423ab50425d36d72f2895f_1-brm0bxgpfk7-tr5tfyq-la.png
   alt: null
 slug: dev-grant-spotlight-portrait
 updated-on: '2023-04-21T07:26:45.129Z'

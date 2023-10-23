@@ -37,6 +37,6 @@ As part of the Filecoin ecosystem presence at Consensus, Jonathan Dotan, Starlin
 
 FIL Austin was also in the metaverse! The [Filecoin Community Space](https://play.decentraland.org/?position=-4%2C-133&realm=dg&island=I6l4q), deployed in Decentraland, featured community-curated NFTs that told diverse stories around Web3 values. Attendees experienced a tour through our new virtual locale and heard from the folks that built the space about why these digital domiciles are so important moving forward.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68b595dde73b512b7580_1-sxjkfvgiga2wqdrjerjfca.jpeg)**Panels and talks at FIL Austin**
+![](/assets/images/643e68b595dde73b512b7580_1-sxjkfvgiga2wqdrjerjfca.jpeg)**Panels and talks at FIL Austin**
 
 Headlining FIL Austin was a full day of programming featuring two tracks and talks from Web3 thought leaders, entrepreneurs, and Filecoin ecosystem builders. From NFTs, to the metaverse, to actual outer space, discussions throughout the day focused on how the Filecoin network provides the infrastructure to build a resilient decentralized Web. Relive the whole experience with on-demand [recordings](https://www.youtube.com/playlist?list=PLp3zrT1ewY0nKSt_IKNhxNyRCzI7KiWwS) of all FIL Austin Main Stage programming.

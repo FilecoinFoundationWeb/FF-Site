@@ -8,7 +8,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bfbca39dd7d4d1f170f_1-mbcuqyncw-uoyzwsbrapqw.png
+    /assets/images/64423bfbca39dd7d4d1f170f_1-mbcuqyncw-uoyzwsbrapqw.png
   alt: null
 slug: the-foundations-roles-in-the-filecoin-ecosystem
 updated-on: '2023-04-21T07:32:11.556Z'

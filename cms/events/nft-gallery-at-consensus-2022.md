@@ -11,7 +11,7 @@ f_description: >-
 title: NFT Gallery at Consensus 2022
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215f075d57ed1e4d02693_nft-gallery-at-consensus.png
+    /assets/images/645215f075d57ed1e4d02693_nft-gallery-at-consensus.png
   alt: null
 slug: nft-gallery-at-consensus-2022
 updated-on: '2023-05-03T08:06:08.616Z'

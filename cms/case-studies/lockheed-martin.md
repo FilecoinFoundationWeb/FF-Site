@@ -19,7 +19,7 @@ title: Lockheed Martin
 f_cta-text: Read more
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c135867166ff8ee025c_lockheed-martin.png
+    /assets/images/64423c135867166ff8ee025c_lockheed-martin.png
   alt: null
 slug: lockheed-martin
 updated-on: '2023-04-21T07:32:35.393Z'

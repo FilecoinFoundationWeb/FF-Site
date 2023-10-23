@@ -10,7 +10,7 @@ f_author: Filecoin Foundation
 slug: new-survey-american-consumers-are-ready-to-change-up-to-web3
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66ba7403cdfbea565a6e_1-57prfcg89azmw_kf5bqvjw.webp
+    /assets/images/643e66ba7403cdfbea565a6e_1-57prfcg89azmw_kf5bqvjw.webp
   alt: null
 updated-on: '2023-04-21T07:31:36.890Z'
 created-on: '2023-04-21T07:31:36.890Z'
@@ -25,7 +25,7 @@ The survey of over 1,000 American adults found that only 22% think that the inte
 
 Additionally, the findings indicate widespread data loss and lack of control over data. A majority of Americans (71%) have lost information/records due to link rot. Plus, 42% of Americans have been locked out of an account, 33% of Americans have lost photos they could never get back, 32% have been unable to access old email accounts, and 25% have lost data.
 
-**![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bd84574c35487fb4b5b_1-vc6fomdajgchg3me1iyhia.webp)Americans don’t feel in control of their own data:**
+**![](/assets/images/64423bd84574c35487fb4b5b_1-vc6fomdajgchg3me1iyhia.webp)Americans don’t feel in control of their own data:**
 
 *   83% of Americans want technology companies to do more to enable them the ability to control how their personal information is used.
     
@@ -35,7 +35,7 @@ Additionally, the findings indicate widespread data loss and lack of control ove
     
 *   61% feel they have lost control of what happens to their personal information online.
     
-    ![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bd84574c33a49fb4b5a_1-xsdo4dupzzkp8uwbvqyymg.webp)
+    ![](/assets/images/64423bd84574c33a49fb4b5a_1-xsdo4dupzzkp8uwbvqyymg.webp)
     
 
 **In a future world where Americans could experience the internet differently, they would like the ability to:**

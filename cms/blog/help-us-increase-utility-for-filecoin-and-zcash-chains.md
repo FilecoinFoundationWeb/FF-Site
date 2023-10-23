@@ -10,7 +10,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423af1e3c08fa6464f5199_0-kt1qsyhnwcfriwtg.png
+    /assets/images/64423af1e3c08fa6464f5199_0-kt1qsyhnwcfriwtg.png
   alt: null
 slug: help-us-increase-utility-for-filecoin-and-zcash-chains
 updated-on: '2023-04-21T07:27:45.806Z'

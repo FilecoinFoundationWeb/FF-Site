@@ -13,7 +13,7 @@ created-on: '2023-04-21T07:26:21.578Z'
 published-on: '2023-05-03T12:47:09.568Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/6452458c4af3f5baef0c433c_0-4zwhgcutykrxqrsw.jpg
+    /assets/images/6452458c4af3f5baef0c433c_0-4zwhgcutykrxqrsw.jpg
   alt: null
 layout: '[blog].html'
 tags: blog
@@ -29,7 +29,7 @@ Very often, especially for [decentralized applications](https://ethereum.org/en/
 
 In this section, we will be working on the UI for the pet store app in React.js. While you’re expected to have some familiarity with the library, I will do my best to use common features instead of advanced ones.
 
-After we are done, we will have built a simple marketplace app on the local blockchain that users can mint and query their NFTs, which looks like this:![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a9bd1b0256d85f907e2_0-al1sv2xu4ah_bwdo.png)Setting up
+After we are done, we will have built a simple marketplace app on the local blockchain that users can mint and query their NFTs, which looks like this:![](/assets/images/64423a9bd1b0256d85f907e2_0-al1sv2xu4ah_bwdo.png)Setting up
 
 Make sure you are in the project directory (next to `package.json`). Install the following packages:
 
@@ -38,7 +38,7 @@ Make sure you are in the project directory (next to `package.json`). Install the
 
 The Flow packages will help in connecting our React app to the Cadence code. The `nft.storage` package will help in uploading the image during minting and retrieving data from Filecoin/IPFS network. In order to do so, you will need to [sign up](https://nft.storage/) and generate an API key. After you have signed up, navigate to the "API Keys" tab, and click to create a new key, as shown here:
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68a886bdcba56f145410_0-o1_kfjr70xca1hs3.png)  
+![](/assets/images/643e68a886bdcba56f145410_0-o1_kfjr70xca1hs3.png)  
 Copy and save the key as we will need it later on when we work on the [minting logic](https://dev.to/pancy/building-an-nft-store-on-flow-part-2-2i0o#minting-logic).
 
 To get styling out of the way, let’s download [Skeleton CSS](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip), unzip all the CSS files into the `src` directory, and import all the `.css` files in the `App.css` main stylesheet in the project:
@@ -69,7 +69,7 @@ We will get an error since the `FileSelector.js` component we imported in the co
 
 If you import `Form.js` component into `App.js` and insert it anywhere inside the main `App` container, you should see your form that looks similar what you see here:
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68a886bdcb65ae145411_0-hwo-7fcrcrxifxej-2.png)Minting
+![](/assets/images/643e68a886bdcb65ae145411_0-hwo-7fcrcrxifxej-2.png)Minting
 
 Here comes the most crucial step of all NFTs — Minting. Minting an NFT is officially creating it and establishing its existence and initial ownership on-chain, making the token “authentic”. For this step, we will hook up the `Mint` button to actually mint a token based on user's input.
 

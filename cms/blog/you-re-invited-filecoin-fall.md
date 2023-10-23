@@ -10,7 +10,7 @@ f_description: "As we enjoy the last days of summer, we’re already planning fo
   in the ecosystem over the next few months."
 f_featured: false
 f_image:
-  url: https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c054821268e6e8e743b_1-rdpz1p6lnwm1fnnk37urdw.png
+  url: /assets/images/64423c054821268e6e8e743b_1-rdpz1p6lnwm1fnnk37urdw.png
   alt: null
 f_post-date: 2022-08-18T00:00:00.000Z
 tags: blog

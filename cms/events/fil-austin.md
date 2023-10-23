@@ -15,7 +15,7 @@ created-on: '2023-05-03T08:06:07.140Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645218c34b08773d70df834b_fil-austin.jpg
+    /assets/images/645218c34b08773d70df834b_fil-austin.jpg
   alt: null
 layout: '[events].html'
 tags: events

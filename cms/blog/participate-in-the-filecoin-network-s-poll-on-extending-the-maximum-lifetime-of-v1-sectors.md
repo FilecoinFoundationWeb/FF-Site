@@ -13,7 +13,7 @@ slug: >-
   participate-in-the-filecoin-network-s-poll-on-extending-the-maximum-lifetime-of-v1-sectors
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bdeb13e032a58960cfb_1-xicc70v_m64rcu1wlbq6qq.png
+    /assets/images/64423bdeb13e032a58960cfb_1-xicc70v_m64rcu1wlbq6qq.png
   alt: null
 updated-on: '2023-04-21T07:31:42.463Z'
 created-on: '2023-04-21T07:31:42.463Z'

@@ -9,7 +9,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aafa6ec4151d52a3dc9_0-eczvdfkkiozsdvgv.jpeg
+    /assets/images/64423aafa6ec4151d52a3dc9_0-eczvdfkkiozsdvgv.jpeg
   alt: null
 slug: dev-grant-spotlight-geo-web
 updated-on: '2023-04-21T07:26:40.008Z'

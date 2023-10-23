@@ -8,7 +8,7 @@ title: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423bd7ba1528be454f2e64_0211-zcash-twitter.png
+    /assets/images/64423bd7ba1528be454f2e64_0211-zcash-twitter.png
   alt: null
 slug: >-
   new-agreement-between-filecoin-foundation-and-electric-coin-co-simplifies-halo-licensing-and-creates-grant-pool-for-filecoin-zcash-projects

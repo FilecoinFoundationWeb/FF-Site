@@ -8,7 +8,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b04fa70d18281705693_0-0y1ex6vkr4htxclc.png
+    /assets/images/64423b04fa70d18281705693_0-0y1ex6vkr4htxclc.png
   alt: null
 slug: join-us-in-celebrating-filecoin-mainnet-s-one-year-milestone
 updated-on: '2023-04-21T07:28:04.262Z'

@@ -12,7 +12,7 @@ title: Sustainable Blockchain Summit
 f_cta-text: Learn More
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215eb05e191292b09744d_sbs.png
+    /assets/images/645215eb05e191292b09744d_sbs.png
   alt: null
 slug: sustainable-blockchain-summit
 updated-on: '2023-05-03T08:06:03.608Z'

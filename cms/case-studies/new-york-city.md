@@ -15,7 +15,7 @@ f_cta-text: Read more
 slug: new-york-city
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c08bc026983e1e866d1_nyc-open-data-graph.png
+    /assets/images/64423c08bc026983e1e866d1_nyc-open-data-graph.png
   alt: null
 updated-on: '2023-05-04T10:54:23.226Z'
 created-on: '2023-04-21T07:32:24.640Z'

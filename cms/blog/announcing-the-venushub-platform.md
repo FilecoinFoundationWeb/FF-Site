@@ -8,7 +8,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423a911fe00b2cb076101a_1-_gcjaae5jjlt5kkzewfd6g.png
+    /assets/images/64423a911fe00b2cb076101a_1-_gcjaae5jjlt5kkzewfd6g.png
   alt: null
 slug: announcing-the-venushub-platform
 updated-on: '2023-04-21T07:26:09.179Z'

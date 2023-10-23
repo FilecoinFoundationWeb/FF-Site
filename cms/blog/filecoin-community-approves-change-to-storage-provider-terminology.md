@@ -35,7 +35,7 @@ Filecoin’s long-term vision has always been to create a decentralized, efficie
 
 The following table lays out the new terminology mapping.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68b74c24b9bbcc6ff4ef_1-qp5u_ymqnh7e1mxutnsmka.png)
+![](/assets/images/643e68b74c24b9bbcc6ff4ef_1-qp5u_ymqnh7e1mxutnsmka.png)
 
 You can also read more about these terms in the [FIP-0018 Github repository](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0018.md#the-new-terminology-mapping).
 

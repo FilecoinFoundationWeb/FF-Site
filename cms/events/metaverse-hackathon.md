@@ -13,7 +13,7 @@ f_cta-text: Learn More
 slug: metaverse-hackathon
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215fba2b7469c5c5546ea_image_ldbpld.png
+    /assets/images/645215fba2b7469c5c5546ea_image_ldbpld.png
   alt: null
 updated-on: '2023-05-03T08:06:19.314Z'
 created-on: '2023-05-03T08:06:19.314Z'

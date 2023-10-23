@@ -9,7 +9,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ae74e4c68130ff45382_1-tjiihglruqcaybnpwmudmg.png
+    /assets/images/64423ae74e4c68130ff45382_1-tjiihglruqcaybnpwmudmg.png
   alt: null
 slug: filecoin-storage-provider-spotlight-seal-storage-technology
 updated-on: '2023-04-21T07:27:36.061Z'

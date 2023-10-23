@@ -15,7 +15,7 @@ f_cta-text: Buy your tickets
 slug: filecoin-club
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64521608455b5bc68cf5c6fa_filecoin-club.png
+    /assets/images/64521608455b5bc68cf5c6fa_filecoin-club.png
   alt: null
 updated-on: '2023-05-03T08:06:32.669Z'
 created-on: '2023-05-03T08:06:32.669Z'

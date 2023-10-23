@@ -9,7 +9,7 @@ f_author: Filecoin Foundation
 slug: meet-filecoin-foundation-senior-fellow-danny-o-brien
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b0c0425d33126f2f20d_0-62iqqktk7czvo78e.jpeg
+    /assets/images/64423b0c0425d33126f2f20d_0-62iqqktk7czvo78e.jpeg
   alt: null
 updated-on: '2023-04-21T07:28:12.620Z'
 created-on: '2023-04-21T07:28:12.620Z'

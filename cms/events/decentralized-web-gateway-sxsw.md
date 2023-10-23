@@ -18,7 +18,7 @@ created-on: '2023-05-03T08:06:12.960Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64521857e09e4edc0d57e6df_dweb-gateway-sxsw.jpg
+    /assets/images/64521857e09e4edc0d57e6df_dweb-gateway-sxsw.jpg
   alt: null
 layout: '[events].html'
 tags: events

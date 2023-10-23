@@ -19,7 +19,7 @@ title: GainForest
 f_cta-text: Read more about web3 and the sustainable data movement here.
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c0ada735fb3c9393680_filecoin-green-case-study-logo.svg
+    /assets/images/64423c0ada735fb3c9393680_filecoin-green-case-study-logo.svg
   alt: null
 slug: gainforest
 updated-on: '2023-04-21T07:32:26.300Z'

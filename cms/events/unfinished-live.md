@@ -13,7 +13,7 @@ f_cta-text: Learn More
 slug: unfinished-live
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215e44977982552923065_unfinished-live.png
+    /assets/images/645215e44977982552923065_unfinished-live.png
   alt: null
 updated-on: '2023-05-03T08:05:56.433Z'
 created-on: '2023-05-03T08:05:56.433Z'

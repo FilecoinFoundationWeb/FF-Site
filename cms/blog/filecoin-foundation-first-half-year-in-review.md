@@ -10,7 +10,7 @@ f_author: Filecoin Foundation
 slug: filecoin-foundation-first-half-year-in-review
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423ad6d7488e70c7b03c3d_1-6lpmwpmsydkqniohiklqla.png
+    /assets/images/64423ad6d7488e70c7b03c3d_1-6lpmwpmsydkqniohiklqla.png
   alt: null
 updated-on: '2023-04-21T07:27:18.330Z'
 created-on: '2023-04-21T07:27:18.330Z'

@@ -15,7 +15,7 @@ created-on: '2023-05-03T08:06:02.191Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/6452196b59d1f8a352664f3b_korea-sp.jpg
+    /assets/images/6452196b59d1f8a352664f3b_korea-sp.jpg
   alt: null
 layout: '[events].html'
 tags: events

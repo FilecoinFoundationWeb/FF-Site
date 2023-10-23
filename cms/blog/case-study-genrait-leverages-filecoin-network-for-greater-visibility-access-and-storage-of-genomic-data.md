@@ -38,7 +38,7 @@ The GenRAIT team envisions a world in which genomic data can be used by everyone
 
 The amount of data in the scientific community is exponentially growing, and each human genome is tens — if not hundreds — of gigabytes per individual file, forcing scientists to compress the raw files or only save a subset of the genome — which is a substantial loss. Often, in order to use the same data, scientists have to resequence (if they’re lucky enough to still have a sample), or the data has to be thrown out. By some estimates, [80% of a researcher’s time is often lost to “data wrangling,”](https://www.datanami.com/2020/07/06/data-prep-still-dominates-data-scientists-time-survey-finds/) leaving only 20% to conduct research and analysis, so a large focus of GenRAIT’s platform is providing a one-stop shop to store that data. The GenRAIT founders believe that by providing the tools scientists need to store and analyze the data, scientists can focus on the research and innovation.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68aa0a5fe4f2f797ed84_0-ia6kbearu75cbfls.png)
+![](/assets/images/643e68aa0a5fe4f2f797ed84_0-ia6kbearu75cbfls.png)
 
 **Enabling access to proactive information rather than reactive**
 

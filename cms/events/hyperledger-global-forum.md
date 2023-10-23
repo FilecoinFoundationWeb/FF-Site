@@ -12,7 +12,7 @@ f_cta-text: Watch Recording
 slug: hyperledger-global-forum
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215feaee26f3101cebc4b_hyperledger-global-forum.jpeg
+    /assets/images/645215feaee26f3101cebc4b_hyperledger-global-forum.jpeg
   alt: null
 updated-on: '2023-05-03T08:06:22.608Z'
 created-on: '2023-05-03T08:06:22.608Z'

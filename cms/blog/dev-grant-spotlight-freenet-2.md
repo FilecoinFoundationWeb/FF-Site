@@ -9,7 +9,7 @@ f_author: Filecoin Foundation
 slug: dev-grant-spotlight-freenet-2
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423aae5b72a20c3b84a368_0-y9cgmvjvrgwywsvt.png
+    /assets/images/64423aae5b72a20c3b84a368_0-y9cgmvjvrgwywsvt.png
   alt: null
 updated-on: '2023-04-21T07:26:38.609Z'
 created-on: '2023-04-21T07:26:38.609Z'

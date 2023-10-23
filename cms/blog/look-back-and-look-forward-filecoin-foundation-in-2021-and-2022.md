@@ -8,7 +8,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423b078d1be7013acecd8c_0-wrv5zur8bytkshra.png
+    /assets/images/64423b078d1be7013acecd8c_0-wrv5zur8bytkshra.png
   alt: null
 slug: look-back-and-look-forward-filecoin-foundation-in-2021-and-2022
 updated-on: '2023-04-21T07:28:07.363Z'

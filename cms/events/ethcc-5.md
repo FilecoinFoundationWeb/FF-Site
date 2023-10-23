@@ -13,7 +13,7 @@ f_cta-text: Learn More
 slug: ethcc-5
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/645215ed18e20de7428046f6_ethcc.png
+    /assets/images/645215ed18e20de7428046f6_ethcc.png
   alt: null
 updated-on: '2023-05-03T08:06:05.771Z'
 created-on: '2023-05-03T08:06:05.771Z'

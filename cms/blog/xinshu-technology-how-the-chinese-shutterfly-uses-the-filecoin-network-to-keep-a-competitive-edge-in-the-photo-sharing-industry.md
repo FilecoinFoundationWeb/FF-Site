@@ -13,7 +13,7 @@ slug: >-
   xinshu-technology-how-the-chinese-shutterfly-uses-the-filecoin-network-to-keep-a-competitive-edge-in-the-photo-sharing-industry
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e66da3820f63a69cf3f15_1-mspvlfvj4hi7yykisqwcfg.png
+    /assets/images/643e66da3820f63a69cf3f15_1-mspvlfvj4hi7yykisqwcfg.png
   alt: null
 updated-on: '2023-04-21T07:32:20.158Z'
 created-on: '2023-04-21T07:32:20.158Z'
@@ -36,7 +36,7 @@ tags: blog
 
 Launched in 2019 by Weiping Li and Liu Ming, Xinshu Technology helps memories last a lifetime — and then some — for thousands of Chinese families and businesses.
 
-![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423c044574c3a72afb57df_1-neeofe-vtn7ubqlxz1irda.png)
+![](/assets/images/64423c044574c3a72afb57df_1-neeofe-vtn7ubqlxz1irda.png)
 
 The company, often compared to America’s Shutterfly, works with a growing network of freelance Chinese photographers to help them store and share their original work with customers and provide the end-user with the ability to purchase prints, albums, and other tailor-made items through its mobile app.
 

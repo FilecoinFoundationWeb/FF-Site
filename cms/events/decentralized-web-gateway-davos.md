@@ -16,7 +16,7 @@ created-on: '2023-05-03T08:06:10.093Z'
 published-on: '2023-05-03T08:22:38.798Z'
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64521829e09e4e566257e24c_dweb-gateway-davos.jpg
+    /assets/images/64521829e09e4e566257e24c_dweb-gateway-davos.jpg
   alt: null
 layout: '[events].html'
 tags: events

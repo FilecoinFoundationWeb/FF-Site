@@ -14,7 +14,7 @@ slug: >-
   filecoin-foundation-and-filecoin-foundation-for-the-decentralized-web-expand-boards
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423acca6ec4184be2a4866_1-kequqilr3jvs6nq_e7naqq.png
+    /assets/images/64423acca6ec4184be2a4866_1-kequqilr3jvs6nq_e7naqq.png
   alt: null
 updated-on: '2023-04-21T07:27:09.042Z'
 created-on: '2023-04-21T07:27:09.042Z'

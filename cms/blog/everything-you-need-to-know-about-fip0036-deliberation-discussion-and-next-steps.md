@@ -11,7 +11,7 @@ f_description: >-
 f_author: Filecoin Foundation
 f_image:
   url: >-
-    https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/64423abda6ec4131c52a3df0_1-et2gg4agkn7chfbur-8a6g.webp
+    /assets/images/64423abda6ec4131c52a3df0_1-et2gg4agkn7chfbur-8a6g.webp
   alt: null
 slug: >-
   everything-you-need-to-know-about-fip0036-deliberation-discussion-and-next-steps
@@ -42,7 +42,7 @@ With FIP0036, the CryptoEconLab has proposed economic changes that seek to bette
     
 *   Increase Sector Initial Consensus Pledge multiplier from 30% to 50%.
     
-    ![](https://uploads-ssl.webflow.com/643e4502504dc0f566325dfb/643e68b3809f6b3b46ce740c_1-ovn71sa_ni4z_pd90f4uwg.webp)The FIP further specifies that any changes to QAP will occur only during 1) new sector pledges, and/or 2) sector extension. Newly proposed sector duration minimums and maximums will be introduced gradually (increasing by six months every week until the specified bounds are met) to minimize network shocks and better support storage providers.
+    ![](/assets/images/643e68b3809f6b3b46ce740c_1-ovn71sa_ni4z_pd90f4uwg.webp)The FIP further specifies that any changes to QAP will occur only during 1) new sector pledges, and/or 2) sector extension. Newly proposed sector duration minimums and maximums will be introduced gradually (increasing by six months every week until the specified bounds are met) to minimize network shocks and better support storage providers.
     
     Read on to understand the background, considerations, and FIL Poll, a unique polling tool built for the Filecoin community that will allow storage providers, token holders, Core Devs, and deal clients to vote to reject or accept the FIP.
     
