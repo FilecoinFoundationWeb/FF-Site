@@ -35,3 +35,29 @@ Our three AI keynotes, [Scale AI’s Vijay Karunamurthy](https://www.youtube.com
 Hearing from the investor community renewed enthusiasm and a sense of purpose for the network. Keynotes from Kyle Samani of Multicoin Capital and Mark Yusko, CEO of Morgan Creek Capital, energized the community and raised new possibilities for the growth and success of the ecosystem. 
 
 Mark Yusko summed it up: "The people here are the ones with incredible conviction and incredible passion, and I had some of the best conversations I've had in a long time. These are people building real tech with real solutions.”
+
+## Beyond the Main Stage
+
+* ESPA: This was the largest ESPA event in the accelerator’s two year history with over 100 attendees, 62 organizations from 17 different countries, and 70 workshops held during the week.  
+* Decentralized Storage Alliance (DSA): The first ever event to bring together all 16 DSA organizations, including AMD, EY, and Seagate, together to discuss the future of decentralized storage. 
+* DeStor: Hosted 23 workshops, five mainstage presentations, and recorded over 14 video interviews –– all dedicated to guiding the community towards increasing paid storage opportunities.
+
+
+
+## Takeaways from Las Vegas
+
+FIL Vegas evolved into a space for newcomers and veterans in the ecosystem to find their conviction in the future and to begin building towards it. Legacy Filecoiners, such as Holon, Seal Storage, Internet Archive, USC Libraries, and web3mine, all worked with newer community members on partnerships, roadmaps, and architectures. While newer participants such as Steeldome, EY, Intel, Zenlayer, and Telarus got to see the potential of Filecoin and the dedication of its community first hand  –– each leaving with a set of action items to progress their involvement.   
+
+## What’s Next?
+
+To the hundreds of attendees from around the world who joined us on the ground in Las Vegas. Thank you! And a very special thank you to the sponsors of the week: PiKNiK, web3mine, Fluence, STFIL, SFT, and Huddle01. If you attended FIL Vegas, please take a moment to provide your feedback in a [short survey](https://filecoinfoundation.typeform.com/vegasfeedback).
+
+
+
+Interested in learning more about the Decentralized Storage Alliance and how you can get involved? [Learn more](https://dsalliance.io/get-involved).
+
+Searching for Filecoin Storage or Service Providers? Visit the new [DeStor Network directory](https://directory.destor.com/).
+
+Are you an Independent Software Vendor that wants to easily add Filecoin as a storage tier? Sign up for the private beta of the [DeStor REST API](https://destor.com/destor-rest-api-for-filecoin). 
+
+Did we miss you in Vegas? If you’re interested in exploring ecosystem partnerships, data storage, or becoming a Storage Provider, [fill out this form](https://filecoinfoundation.typeform.com/filvegas), and an expert will be in touch with you soon.
