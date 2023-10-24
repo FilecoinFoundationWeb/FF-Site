@@ -18,7 +18,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Vegas was humming with the sound of hundreds of excited Filecoin ecosystem participants gathering under one roof to discuss decentralized storage in the age of artificial intelligence (AI). Let’s dive into some highlights from FIL Vegas.
+This month, hundreds of Filecoin ecosystem participants from around the world gathered in Las Vegas to discuss decentralized storage in the age of artificial intelligence (AI). Let’s dive into some highlights from FIL Vegas.
 
 This marquee event brought together Storage Providers with ecosystem enablers and AI experts. The resulting collaborations seeded the ground for a new era in internet infrastructure. 
 
