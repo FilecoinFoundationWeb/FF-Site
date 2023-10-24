@@ -34,9 +34,9 @@ Keynote addresses from [ Scale AI’s Vijay Karunamurthy](https://www.youtube.c
 
 ![](/assets/images/vlc_0265_day_2.jpg)
 
-[Watch the talks.](https://www.youtube.com/playlist?list=PLp3zrT1ewY0l6mwL6ymdwHapRHmSbbVAO)
-
 We also heard from Kyle Samani and Mark Yusko on new avenues for growth across the Filecoinecosystem. “The people here are the ones with incredible conviction and incredible passion, and I had some of the best conversations I've had in a long time,” Yusko said. “These are people building real tech with real solutions.”
+
+[Watch the talks.](https://www.youtube.com/playlist?list=PLp3zrT1ewY0l6mwL6ymdwHapRHmSbbVAO)
 
 ## Beyond the Main Stage
 
@@ -47,8 +47,6 @@ We also heard from Kyle Samani and Mark Yusko on new avenues for growth across t
 ## What’s Next?
 
 To the hundreds of attendees from around the world who joined us on the ground in Las Vegas. Thank you! And a very special thank you to the sponsors of the week: PiKNiK, web3mine, Fluence, STFIL, SFT, and Huddle01. If you attended FIL Vegas, please take a moment to [provide your feedback](https://filecoinfoundation.typeform.com/vegasfeedback?typeform-source=deploy-preview-223--fil.netlify.app).
-
-![](/assets/images/screen-shot-2023-10-23-at-6.13.05-pm.png)
 
 Interested in learning more about the Decentralized Storage Alliance and how you can get involved? [Learn more](https://dsalliance.io/get-involved).
 
