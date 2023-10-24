@@ -18,11 +18,7 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-
-
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kvPk8u--qxs?si=s65e9xPNDzE--7hb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kvPk8u--qxs?si=YrpUQ8TysikIc3Mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Vegas was humming with the sound of hundreds of excited Filecoin ecosystem participants gathering under one roof to discuss decentralized storage in the age of artificial intelligence (AI). Let’s dive into some highlights from FIL Vegas.
 
