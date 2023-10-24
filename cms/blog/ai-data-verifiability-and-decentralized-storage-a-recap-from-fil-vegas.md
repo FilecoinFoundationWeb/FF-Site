@@ -26,8 +26,8 @@ This marquee event brought together Storage Providers with ecosystem enablers an
 
 ## What Happened in Vegas?
 
-AI and data verifiability were the thematic pegs for FIL Vegas. Why AI? As Chris Hackney of AI Guardian explained, the growth of AI-related data is accelerating faster than anyone can forecast.\
-\
+AI and data verifiability were the thematic pegs for FIL Vegas. Why AI? As Chris Hackney of AI Guardian explained, the growth of AI-related data is accelerating faster than anyone can forecast. 
+
 Businesses are thinking about how to preserve and prove the integrity of the datasets underlying their AI models. Decentralized storage provides a reliable solution for the massive datasets that are the backbone of these networks, offering unparalleled resilience, scale, and savings.
 
 Keynote addresses from [ Scale AI’s Vijay Karunamurthy](https://www.youtube.com/watch?v=IPh4sxBfk_E), [AI Guardian’s Chris Hackney,](https://www.youtube.com/watch?v=VDJkwH-EjVU&list=PLp3zrT1ewY0l6mwL6ymdwHapRHmSbbVAO&index=2&t=25s) and AMD’s Jörg Roskowetz explored emerging trends and challenges for AI innovation and set the stage for how Filecoin will play a major role in AI’s rapid growth.
@@ -36,7 +36,7 @@ Keynote addresses from [ Scale AI’s Vijay Karunamurthy](https://www.youtube.c
 
 [Watch the talks.](https://www.youtube.com/playlist?list=PLp3zrT1ewY0l6mwL6ymdwHapRHmSbbVAO)
 
-We also heard from Kyle Samani and Mark Yusko on new avenues for growth across the ecosystem. “The people here are the ones with incredible conviction and incredible passion, and I had some of the best conversations I've had in a long time,” Yusko said. “These are people building real tech with real solutions.”
+We also heard from Kyle Samani and Mark Yusko on new avenues for growth across the Filecoinecosystem. “The people here are the ones with incredible conviction and incredible passion, and I had some of the best conversations I've had in a long time,” Yusko said. “These are people building real tech with real solutions.”
 
 ## Beyond the Main Stage
 
