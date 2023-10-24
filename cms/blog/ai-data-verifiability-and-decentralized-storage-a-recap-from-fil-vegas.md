@@ -18,9 +18,15 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
+
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kvPk8u--qxs?si=s65e9xPNDzE--7hb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+
 Vegas was humming with the sound of hundreds of excited Filecoin ecosystem participants gathering under one roof to discuss decentralized storage in the age of artificial intelligence (AI). Let’s dive into some highlights from FIL Vegas.
 
-This marquee event brought together Storage Providers with ecosystem enablers, AI experts, and capital providers. The resulting collaborations were transformational, seeding the ground to usher in a new internet infrastructure. 
+This marquee event brought together Storage Providers with ecosystem enablers, AI experts, and capital providers. The resulting collaborations were transformational, seeding the ground to  usher in a new internet infrastructure. 
 
 ## So…..What Happened in Vegas?
 
@@ -40,7 +46,7 @@ Mark Yusko summed it up: "The people here are the ones with incredible convictio
 
 * ESPA: This was the largest ESPA event in the accelerator’s two year history with over 100 attendees, 62 organizations from 17 different countries, and 70 workshops held during the week.  
 * Decentralized Storage Alliance (DSA): The first ever event to bring together all 16 DSA organizations, including AMD, EY, and Seagate, together to discuss the future of decentralized storage. 
-* DeStor: Hosted 23 workshops and five mainstage presentations all dedicated to guiding the community towards more storage opportunities.
+* DeStor: Hosted 23 workshops, five mainstage presentations, and recorded over 14 video interviews –– all dedicated to guiding the community towards increasing paid storage opportunities.
 
 ## Takeaways from Las Vegas
 
