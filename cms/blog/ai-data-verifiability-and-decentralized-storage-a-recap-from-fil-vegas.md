@@ -32,6 +32,8 @@ As AI becomes more regulated, companies may be required to save and prove integr
 
 Our three AI keynotes, [Scale AI’s Vijay Karunamurthy](https://www.youtube.com/watch?v=IPh4sxBfk_E), [AI Guardian’s Chris Hackney,](https://www.youtube.com/watch?v=VDJkwH-EjVU&list=PLp3zrT1ewY0l6mwL6ymdwHapRHmSbbVAO&index=2&t=25s) and AMD’s Jörg Roskowetz illustrated the emerging trends and challenges for AI innovation and set the stage for how Filecoin will play a major role in AI’s radical growth. 
 
+![](/assets/images/vlc_0265_day_2.jpg)
+
 [Watch the talks.](https://www.youtube.com/playlist?list=PLp3zrT1ewY0l6mwL6ymdwHapRHmSbbVAO)
 
 Hearing from the investor community renewed enthusiasm and a sense of purpose for the network. Keynotes from Kyle Samani of Multicoin Capital and Mark Yusko, CEO of Morgan Creek Capital, energized the community and raised new possibilities for the growth and success of the ecosystem. 
