@@ -20,7 +20,7 @@ seo:
 ---
 This month, hundreds of Filecoin ecosystem participants from around the world gathered in Las Vegas to discuss decentralized storage in the age of artificial intelligence (AI). Let’s dive into some highlights from FIL Vegas.
 
-This marquee event brought together Storage Providers with ecosystem enablers and AI experts. The resulting collaborations seeded the ground for a new era in internet infrastructure. 
+This marquee event brought together Storage Providers with ecosystem enablers and AI leaders. The resulting collaborations seeded the ground for a new era in internet infrastructure. 
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/kvPk8u--qxs?si=YrpUQ8TysikIc3Mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
