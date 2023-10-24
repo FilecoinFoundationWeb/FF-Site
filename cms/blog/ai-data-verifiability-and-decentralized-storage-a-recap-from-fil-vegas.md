@@ -40,7 +40,7 @@ Mark Yusko summed it up: "The people here are the ones with incredible convictio
 
 * ESPA: This was the largest ESPA event in the accelerator’s two year history with over 100 attendees, 62 organizations from 17 different countries, and 70 workshops held during the week.  
 * Decentralized Storage Alliance (DSA): The first ever event to bring together all 16 DSA organizations, including AMD, EY, and Seagate, together to discuss the future of decentralized storage. 
-* DeStor: Hosted 23 workshops, five mainstage presentations, and recorded over 14 video interviews –– all dedicated to guiding the community towards increasing paid storage opportunities.
+* DeStor: Hosted 23 workshops and five mainstage presentations all dedicated to guiding the community towards more storage opportunities.
 
 ## Takeaways from Las Vegas
 
