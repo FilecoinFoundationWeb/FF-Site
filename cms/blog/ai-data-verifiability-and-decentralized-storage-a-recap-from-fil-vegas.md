@@ -22,7 +22,7 @@ Vegas was humming with the sound of hundreds of excited Filecoin ecosystem parti
 
 This marquee event brought together Storage Providers with ecosystem enablers, AI experts, and capital providers. The resulting collaborations were transformational, seeding the ground to  usher in a new internet infrastructure. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kvPk8u--qxs?si=YrpUQ8TysikIc3Mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/kvPk8u--qxs?si=YrpUQ8TysikIc3Mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## So…..What Happened in Vegas?
 
