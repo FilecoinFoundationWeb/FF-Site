@@ -4424,6 +4424,64 @@ collections:
             label: Text
             name: '-4ffbe6fe'
             widget: string
+          - hint: 'Original text: English Church, Davos, Switzerland, key: -315179e3'
+            label: Text
+            name: '-315179e3'
+            widget: string
+          - hint: >-
+              Original text: Housed in the historic church across from the
+              Congress Centre Gates, the Filecoin Sanctuary is a setting
+              uniquely suited for discussing the world’s most enduring
+              challenges and the potential of emerging technologies. Hosted by
+              Filecoin Foundation and brought to you by CNBC, this remarkable
+              venue embodies the spirit of Davos as both timeless and
+              progressive, offering an opportunity to catalyze change together
+              with some of the greatest thinkers and doers of our time., key:
+              -4f1c3ce4
+            label: Text
+            name: '-4f1c3ce4'
+            widget: text
+          - hint: 'Original text: SPONSOR, key: -4c592106'
+            label: Text
+            name: '-4c592106'
+            widget: string
+          - hint: 'Original text: Partnership Opportunities, key: 5f628e55'
+            label: Text
+            name: 5f628e55
+            widget: string
+          - hint: >-
+              Original text: Unlock boundless potential through a partnership
+              with Filecoin Foundation and CNBC. Host a reception, participate
+              in the on-stage debate, explore compelling branding possibilities,
+              and so much more. Fill out the form and our team will get in touch
+              with you., key: 4468920c
+            label: Text
+            name: 4468920c
+            widget: text
+          - hint: 'Original text: Get in Touch, key: -53f399f2'
+            label: Text
+            name: '-53f399f2'
+            widget: string
+          - hint: >-
+              Original text: Keep up with The Filecoin Sanctuary news by
+              subscribing to the newsletter, key: -14299ed8
+            label: Text
+            name: '-14299ed8'
+            widget: string
+          - hint: 'Original text: Subscribe Now, key: -72c4e940'
+            label: Text
+            name: '-72c4e940'
+            widget: string
+          - hint: >-
+              Original text: Learn more about Filecoin Foundation events, key:
+              -38499f4b
+            label: Text
+            name: '-38499f4b'
+            widget: string
+          - hint: 'Original text: Contact Now, key: 65c17a96'
+            label: Text
+            name: 65c17a96
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -4936,6 +4994,19 @@ collections:
           - hint: 'Original link: /davos-registration/, key: -5862e489'
             label: Link
             name: '-5862e489'
+            widget: string
+          - hint: >-
+              Original link: https://maps.app.goo.gl/ZAWaxcJyB8Dzhhvo7, key:
+              -73487ac7
+            label: Link
+            name: '-73487ac7'
+            widget: string
+          - hint: >-
+              Original link:
+              https://filecoinfoundation.typeform.com/FFDavos?typeform-source=www.google.com,
+              key: -b4ad629
+            label: Link
+            name: '-b4ad629'
             widget: string
       - label: Images
         name: images
@@ -6260,6 +6331,45 @@ collections:
                 required: false
           - label: Image
             name: '-47604a3d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i5f8bd8b0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '77651504'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4ee85037
             widget: object
             fields:
               - name: url
