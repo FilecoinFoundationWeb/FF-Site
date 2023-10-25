@@ -17,6 +17,12 @@ seo:
   noindex: false
   twitter:title: summary
   twitter:card: summary
+  og:image: /assets/images/filecoin-mainnet-anniversary.png
+  og:title: Filecoin Mainnet Marks Three Years!
+  title: Filecoin Mainnet Marks Three Years!
+  description: This week, Filecoin Foundation celebrates the three-year
+    anniversary of the Filecoin network’s Mainnet launch. And our vision for a
+    better, more decentralized web has never been more urgent.
 ---
 This week, Filecoin Foundation celebrates the three-year anniversary of the Filecoin network’s Mainnet launch. And our vision for a better, more decentralized web has never been more urgent. 
 
