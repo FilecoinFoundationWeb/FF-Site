@@ -18,8 +18,7 @@ layout: "[blog].html"
 slug: join-us-as-we-build-a-better-web
 date: 2023-10-18T18:24:25.538Z
 ---
-
-_“The internet is in the middle of a revolution: centralized proprietary services are being replaced with decentralized open ones; trusted parties replaced with verifiable computation; brittle location addresses replaced with resilient content addresses; inefficient monolithic services replaced with peer-to-peer algorithmic markets.” —_ [_Filecoin White Paper_](https://filecoin.io/filecoin.pdf)_, 2017_
+*“The internet is in the middle of a revolution: centralized proprietary services are being replaced with decentralized open ones; trusted parties replaced with verifiable computation; brittle location addresses replaced with resilient content addresses; inefficient monolithic services replaced with peer-to-peer algorithmic markets.” —* *[Filecoin White Paper](https://filecoin.io/filecoin.pdf), 2017*
 
 [More than half](https://datareportal.com/reports/digital-2020-october-global-statshot) of the world’s population is online and connected. Collectively, we create more than [2.5 quintillion bytes](https://www.takeo.ai/can-you-guess-how-much-data-is-generated-every-day/) of data daily — from photos and videos, tweets and texts, Reddit posts and research reports, and so much more.
 
@@ -29,7 +28,7 @@ But today’s internet is highly centralized; our web infrastructure is dominate
 
 The next generation of the internet will correct this. And our team at the Filecoin Foundation and the Filecoin Foundation for the Decentralized Web (FFDW) is working to build and support that new web.
 
-Web3 is more distributed, more user-focused, and more efficient than today’s web. And it’s powered by decentralized protocols like Filecoin. At the Foundation, we’re proud to be a part of the community building this new web. And our team is growing! We’re looking for a [Developer Evangelist](https://jobs.lever.co/filecoin/3c3abe18-0d92-440a-a1c4-99612b00f429), a [Program Manager](https://jobs.lever.co/filecoin/19a2631c-9102-412f-b186-304a8b677d50), and a [Startup Operator](https://jobs.lever.co/filecoin/4a07b3ba-f3c2-4fd3-bc88-57f4da030b77) to join our team and grow the web3 ecosystem.
+Web3 is more distributed, more user-focused, and more efficient than today’s web. And it’s powered by decentralized protocols like Filecoin. At the Foundation, we’re proud to be a part of the community building this new web. And our team is growing! We’re looking for a Developer Evangelist, a Program Manager, and a Startup Operator to join our team and grow the web3 ecosystem.
 
 **The Role of Filecoin and the Work of the Foundation**
 
@@ -41,4 +40,4 @@ The Filecoin Foundation and FFDW are charged with bringing that mission to fruit
 
 This is a monumental task, and one that requires support from the brightest minds in technology and civil liberties to be successful. We’ve lined up a [steller board and advisors](https://youtu.be/6OY4xAs3Grg) for both foundations to shepherd this project and grow the ecosystem. And we’re looking for more bright minds to round out our team.
 
-If you’re interested in the Filecoin project and passionate about the benefits of web3 to decentralize the web, [apply today](https://jobs.lever.co/filecoin)! And be on the lookout for an upcoming webinar to learn more about these positions and what’s in store for the Filecoin Foundation and FFDW.
+If you’re interested in the Filecoin project and passionate about the benefits of web3 to decentralize the web, [apply today](https://fil.org/get-involved/#careers-intro)! And be on the lookout for an upcoming webinar to learn more about these positions and what’s in store for the Filecoin Foundation and FFDW.
