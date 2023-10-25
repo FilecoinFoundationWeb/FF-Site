@@ -28,7 +28,7 @@ But today’s internet is highly centralized; our web infrastructure is dominate
 
 The next generation of the internet will correct this. And our team at the Filecoin Foundation and the Filecoin Foundation for the Decentralized Web (FFDW) is working to build and support that new web.
 
-Web3 is more distributed, more user-focused, and more efficient than today’s web. And it’s powered by decentralized protocols like Filecoin. At the Foundation, we’re proud to be a part of the community building this new web. And our team is growing! We’re looking for a [Developer Evangelist](https://jobs.lever.co/filecoin/3c3abe18-0d92-440a-a1c4-99612b00f429), a [Program Manager](https://jobs.lever.co/filecoin/19a2631c-9102-412f-b186-304a8b677d50), and a [Startup Operator](https://jobs.lever.co/filecoin/4a07b3ba-f3c2-4fd3-bc88-57f4da030b77) to join our team and grow the web3 ecosystem.
+Web3 is more distributed, more user-focused, and more efficient than today’s web. And it’s powered by decentralized protocols like Filecoin. At the Foundation, we’re proud to be a part of the community building this new web. And our team is growing! We’re looking for a Developer Evangelist, a Program Manager, and a Startup Operator to join our team and grow the web3 ecosystem.
 
 **The Role of Filecoin and the Work of the Foundation**
 
