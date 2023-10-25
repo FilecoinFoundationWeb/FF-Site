@@ -39,7 +39,7 @@ Bounties are awarded for closing and/or fixing an issue. Bounties range from $50
 
 ## **How to submit an open issue**
 
-Open issues can be proposed by anyone in the Filecoin community. The Filecoin Foundation provides templates to help address your issue to make sure you describe them clearly and as detail as possible. Issues can be proposed [here](https://github.com/filecoin-project/community/issues/new/choose).
+Open issues can be proposed by anyone in the Filecoin community. The Filecoin Foundation provides templates to help address your issue to make sure you describe them clearly and as detail as possible. Issues can be proposed [here](https://github.com/filecoin-project/community/tree/master/storage-provider-bounty-program#contributing-to-an-open-issue).
 
 ## **Reward Distribution**
 
