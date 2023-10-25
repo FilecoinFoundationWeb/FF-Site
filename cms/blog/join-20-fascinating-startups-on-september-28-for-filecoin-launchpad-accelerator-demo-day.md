@@ -66,4 +66,4 @@ Below is a snapshot of each team. And you can find [more information](https://me
 
 **WeatherXM** **Inc**. is a community-powered weather network that rewards station owners and provides accurate weather services to Web3 enterprises.
 
-[REGISTER NOW](https://share.hsforms.com/1sOOp2P0hRJuuzhLG-BS4RQ3orpu) to see these startups in action on September 28 @ 11:00 AM EDT for the Filecoin II Launchpad Accelerator Demo Day! And don’t forget to [\*\*submit your application \*\*](https://prdpjz4zqoq.typeform.com/to/RxQSZ9dq?typeform-source=mesh.xyz)to be part of the Winter 2021 cohort for the upcoming Filecoin Launchpad Accelerator III program!
+[REGISTER NOW](https://share.hsforms.com/1sOOp2P0hRJuuzhLG-BS4RQ3orpu) to see these startups in action on September 28 @ 11:00 AM EDT for the Filecoin II Launchpad Accelerator Demo Day! And don’t forget to [**submit your application**](https://prdpjz4zqoq.typeform.com/to/RxQSZ9dq?typeform-source=mesh.xyz)to be part of the Winter 2021 cohort for the upcoming Filecoin Launchpad Accelerator III program!

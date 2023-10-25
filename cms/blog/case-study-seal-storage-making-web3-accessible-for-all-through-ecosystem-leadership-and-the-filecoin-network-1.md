@@ -70,9 +70,9 @@ Seal is an established leader in the ecosystem. The team is made up of enterpris
 
 **CIO and Co-Founder —** [**Andrew McFarlane**](https://www.linkedin.com/in/mcfarlaneandrew/) **—** bringing more than four years of blockchain engineering and business experience, Andrew is deep in the crypto space having launched node infrastructure and invested in 20+ cryptonetworks. Andrew specialized in cybersecurity at Deloitte, and built network infrastructure for video streaming at Canada’s largest telecom. Andrew holds a bachelor’s degree in Computer Engineering and an MBA from The University of Toronto.
 
-**COO and Co-Founder —** [\*\*Alex Altman \*\*](https://www.linkedin.com/in/alex-altman-1b9499134/)— an established leader in the Canadian crypto space, with 5+ years of experience as an investor, consultant and financial manager. Alex began his career working in private equity where he was directly involved with the diligence and underwriting of investment opportunities primarily in the real-estate space.
+**COO and Co-Founder —** [**Alex Altman**](https://www.linkedin.com/in/alex-altman-1b9499134/)— an established leader in the Canadian crypto space, with 5+ years of experience as an investor, consultant and financial manager. Alex began his career working in private equity where he was directly involved with the diligence and underwriting of investment opportunities primarily in the real-estate space.
 
-**CTO —** [\*\*Jacques Swanepoel \*\*](https://www.linkedin.com/in/jacques-swanepoel/)— bringing 30 years of experience as a chief technology officer, entrepreneur and software engineer, Jacques is an expert in virtualization, disaster recovery planning, designing and managing multi-cloud solutions. He has in-depth knowledge of a vast range of networking and storage systems, including distributed systems.
+**CTO —** [**Jacques Swanepoel**](https://www.linkedin.com/in/jacques-swanepoel/)— bringing 30 years of experience as a chief technology officer, entrepreneur and software engineer, Jacques is an expert in virtualization, disaster recovery planning, designing and managing multi-cloud solutions. He has in-depth knowledge of a vast range of networking and storage systems, including distributed systems.
 
 **Seal’s success to date**
 
