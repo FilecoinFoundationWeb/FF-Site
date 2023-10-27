@@ -611,10 +611,6 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: Close, key: 3e2edd8'
-            label: Text
-            name: 3e2edd8
-            widget: string
           - hint: 'Original text: About, key: 3c2336d'
             label: Text
             name: 3c2336d
@@ -769,6 +765,80 @@ collections:
           - hint: 'Original text: /, key: 2f'
             label: Text
             name: 2f
+            widget: string
+          - hint: "Original text: FEATURED\_BLOG, key: -7f418f2c"
+            label: Text
+            name: '-7f418f2c'
+            widget: string
+          - hint: 'Original text: Share to: , key: 8c7f2a2'
+            label: Text
+            name: 8c7f2a2
+            widget: string
+          - hint: 'Original text: Back, key: 1f7907'
+            label: Text
+            name: 1f7907
+            widget: string
+          - hint: 'Original text: Next Article, key: -47ec337'
+            label: Text
+            name: '-47ec337'
+            widget: string
+          - hint: 'Original text: View all posts, key: bda6cf9'
+            label: Text
+            name: bda6cf9
+            widget: string
+          - hint: >-
+              Original text: For media and collaboration inquiries, , key:
+              2b4a4742
+            label: Text
+            name: 2b4a4742
+            widget: string
+          - hint: 'Original text: drop us a line, key: 25efb424'
+            label: Text
+            name: 25efb424
+            widget: string
+          - hint: 'Original text: ., key: 2e'
+            label: Text
+            name: 2e
+            widget: string
+          - hint: >-
+              Original text: For more information on our ecosystem grants, ,
+              key: 14d77b8
+            label: Text
+            name: 14d77b8
+            widget: string
+          - hint: 'Original text: email us, key: 2d5d45a2'
+            label: Text
+            name: 2d5d45a2
+            widget: string
+          - hint: >-
+              Original text: Filecoin Foundation for the Decentralized Web, key:
+              45041158
+            label: Text
+            name: '45041158'
+            widget: string
+          - hint: 'Original text: Data & Privacy Policy, key: 560079da'
+            label: Text
+            name: 560079da
+            widget: string
+          - hint: 'Original text: Terms of Use, key: 38622077'
+            label: Text
+            name: '38622077'
+            widget: string
+          - hint: >-
+              Original text: Content on this site is licensed under a , key:
+              7434b87f
+            label: Text
+            name: 7434b87f
+            widget: string
+          - hint: >-
+              Original text: Creative Commons Attribution 4.0 International
+              license, key: 105c037b
+            label: Text
+            name: 105c037b
+            widget: string
+          - hint: 'Original text: Close, key: 3e2edd8'
+            label: Text
+            name: 3e2edd8
             widget: string
           - hint: 'Original text: Let’s build the internet of everyone, key: 1f0ac7c1'
             label: Text
@@ -1048,10 +1118,6 @@ collections:
             label: Text
             name: 79a701bd
             widget: string
-          - hint: 'Original text: ., key: 2e'
-            label: Text
-            name: 2e
-            widget: string
           - hint: 'Original text: FIL Austin, key: -334ea4f'
             label: Text
             name: '-334ea4f'
@@ -1074,72 +1140,6 @@ collections:
             label: Text
             name: 1991a642
             widget: text
-          - hint: >-
-              Original text: For media and collaboration inquiries, , key:
-              2b4a4742
-            label: Text
-            name: 2b4a4742
-            widget: string
-          - hint: 'Original text: drop us a line, key: 25efb424'
-            label: Text
-            name: 25efb424
-            widget: string
-          - hint: >-
-              Original text: For more information on our ecosystem grants, ,
-              key: 14d77b8
-            label: Text
-            name: 14d77b8
-            widget: string
-          - hint: 'Original text: email us, key: 2d5d45a2'
-            label: Text
-            name: 2d5d45a2
-            widget: string
-          - hint: >-
-              Original text: Filecoin Foundation for the Decentralized Web, key:
-              45041158
-            label: Text
-            name: '45041158'
-            widget: string
-          - hint: 'Original text: Data & Privacy Policy, key: 560079da'
-            label: Text
-            name: 560079da
-            widget: string
-          - hint: 'Original text: Terms of Use, key: 38622077'
-            label: Text
-            name: '38622077'
-            widget: string
-          - hint: >-
-              Original text: Content on this site is licensed under a , key:
-              7434b87f
-            label: Text
-            name: 7434b87f
-            widget: string
-          - hint: >-
-              Original text: Creative Commons Attribution 4.0 International
-              license, key: 105c037b
-            label: Text
-            name: 105c037b
-            widget: string
-          - hint: "Original text: FEATURED\_BLOG, key: -7f418f2c"
-            label: Text
-            name: '-7f418f2c'
-            widget: string
-          - hint: 'Original text: Share to: , key: 8c7f2a2'
-            label: Text
-            name: 8c7f2a2
-            widget: string
-          - hint: 'Original text: Back, key: 1f7907'
-            label: Text
-            name: 1f7907
-            widget: string
-          - hint: 'Original text: Next Article, key: -47ec337'
-            label: Text
-            name: '-47ec337'
-            widget: string
-          - hint: 'Original text: View all posts, key: bda6cf9'
-            label: Text
-            name: bda6cf9
-            widget: string
           - hint: 'Original text: Style Guide, key: -7aba473'
             label: Text
             name: '-7aba473'
@@ -1877,240 +1877,6 @@ collections:
             label: Text
             name: '-316cede6'
             widget: string
-          - hint: 'Original text: Effective Date: October 20, 2021, key: -c135044'
-            label: Text
-            name: '-c135044'
-            widget: string
-          - hint: >-
-              Original text: These Terms of Use (“Terms”) govern your use of the
-              Filecoin Foundation website and any other website that the
-              Filecoin Foundation operates and that links to these Terms
-              (collectively, the “Website”)., key: -464b084d
-            label: Text
-            name: '-464b084d'
-            widget: text
-          - hint: >-
-              Original text: Please review these Terms carefully before using
-              the Website. We may change these Terms or modify any features of
-              the Website at any time. The most current version of the Terms can
-              be viewed by clicking on the “Terms of Use” link posted through
-              the Website. You accept the Terms by using the Website, and you
-              accept any changes to the Terms by continuing to use the Website
-              after we post the changes., key: 31bca865
-            label: Text
-            name: 31bca865
-            widget: text
-          - hint: 'Original text: Privacy, key: 5079bb68'
-            label: Text
-            name: 5079bb68
-            widget: string
-          - hint: >-
-              Original text: By using the Website, you consent to our processing
-              your information consistent with our , key: -830cb5
-            label: Text
-            name: '-830cb5'
-            widget: string
-          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
-            label: Text
-            name: '-3fbde6f6'
-            widget: string
-          - hint: 'Original text: Prohibited Conduct, key: 1dff41e2'
-            label: Text
-            name: 1dff41e2
-            widget: string
-          - hint: >-
-              Original text: You may not access or use, or attempt to access or
-              use, the Website to take any action that could harm us or any
-              third party, interfere with the operation of the Website, or use
-              the Website in a manner that violates any laws. For example, and
-              without limitation, you may not: engage in unauthorized spidering,
-              “scraping,” or harvesting of content or personal information, or
-              use any other unauthorized automated means to compile information;
-              take any action that imposes an unreasonable or disproportionately
-              large load on our network or infrastructure; use any device,
-              software, or routine to interfere or attempt to interfere with the
-              proper working of the Website or any activity conducted on the
-              Website or attempt to probe, scan, test the vulnerability of, or
-              breach the security of any system or network; attempt to decipher,
-              decompile, disassemble, or reverse-engineer any of the software
-              comprising or in any way making up a part of the Website; engage
-              in any other conduct that restricts or inhibits any person from
-              using or enjoying the Website, or that, in our sole judgment,
-              exposes us or any of our users, affiliates, or any other third
-              party to any liability, damages, or detriment of any type., key:
-              3c7fe720
-            label: Text
-            name: 3c7fe720
-            widget: text
-          - hint: >-
-              Original text: Violations of system or network security may result
-              in civil or criminal liability. We may investigate and work with
-              law enforcement authorities to prosecute users who violate these
-              Terms. We may suspend or terminate your access to the Website for
-              any or no reason at any time without notice., key: 14bdbb30
-            label: Text
-            name: 14bdbb30
-            widget: text
-          - hint: 'Original text: Intellectual Property, key: 3ddce415'
-            label: Text
-            name: 3ddce415
-            widget: string
-          - hint: >-
-              Original text: The Website is owned and operated by the Filecoin
-              Foundation. You acknowledge and agree that, as between the
-              parties, we own all right, title and interest in and to the
-              Website, including: (a) all information, data, software, text,
-              displays and visual interfaces, graphics, images, video, and
-              audio, and all other elements of the Website, and the design,
-              selection, and arrangement thereof; and (b) all intellectual
-              property and other legal rights (including, but not limited to,
-              any and all copyrights, patents, patent applications, trade
-              secrets, trademarks and other intangible rights) therein. You may
-              not publish, reproduce, distribute, display, perform, edit, adapt,
-              modify, or otherwise exploit any part of the Website without our
-              written consent. You will not earn or acquire any ownership rights
-              in any copyrights, patents, trade secrets, trademarks or other
-              intellectual property rights on account of these Terms or any
-              access to or use of the Website., key: -6b556da9
-            label: Text
-            name: '-6b556da9'
-            widget: text
-          - hint: 'Original text: Links to third-party content, key: -2b524965'
-            label: Text
-            name: '-2b524965'
-            widget: string
-          - hint: >-
-              Original text: The Website may contain links to third-party
-              content. We do not control, endorse, sponsor, recommend, or
-              otherwise accept responsibility for such content. Use of any
-              linked third-party content is at your own risk., key: 5f1b1d78
-            label: Text
-            name: 5f1b1d78
-            widget: text
-          - hint: 'Original text: Communications with you, key: 18b04308'
-            label: Text
-            name: 18b04308
-            widget: string
-          - hint: >-
-              Original text: If you provide your email address or other contact
-              information to us, we may communicate with you about the Website
-              and our products and services, including through one or more third
-              party e-mail or survey services, via the contact information you
-              provide to us through the Website. You consent to receive
-              communications from us that may: (i) solicit feedback via e-mail,
-              surveys, bug reports, or other methods we may determine; (ii)
-              collect additional information regarding issues you report in your
-              feedback; (iii) notify you of changes to the Website, our products
-              or services, or these Terms; and (iv) tell you about our programs,
-              products or services., key: -28ea35b5
-            label: Text
-            name: '-28ea35b5'
-            widget: text
-          - hint: >-
-              Original text: DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY,
-              key: -110a3db9
-            label: Text
-            name: '-110a3db9'
-            widget: string
-          - hint: >-
-              Original text: YOUR USE OF THE WEBSITE IS AT YOUR OWN RISK. THE
-              WEBSITE IS PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND, EITHER
-              EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF
-              MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-              NON-INFRINGEMENT, OR OTHER VIOLATION OF RIGHTS. WE DO NOT WARRANT
-              THE ADEQUACY, CURRENCY, ACCURACY, LIKELY RESULTS, OR COMPLETENESS
-              OF THE WEBSITE OR ANY THIRD-PARTY SITES LINKED TO OR FROM THE
-              WEBSITE, OR THAT THE FUNCTIONS PROVIDED WILL BE UNINTERRUPTED,
-              VIRUS, OR ERROR-FREE. WE EXPRESSLY DISCLAIM ANY LIABILITY FOR ANY
-              ERRORS OR OMISSIONS IN THE CONTENT INCLUDED IN THE WEBSITE OR ANY
-              THIRD-PARTY SITES LINKED TO OR FROM THE WEBSITE. SOME
-              JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES,
-              SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU., key:
-              1f17b613
-            label: Text
-            name: 1f17b613
-            widget: text
-          - hint: >-
-              Original text: IN NO EVENT WILL WE, OR OUR AFFILIATES, DIRECTORS,
-              OFFICERS, EMPLOYEES, AGENTS, OR ASSIGNS BE LIABLE FOR ANY DIRECT
-              OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE
-              DAMAGES, LOST PROFITS, OR OTHER DAMAGES WHATSOEVER ARISING IN
-              CONNECTION WITH THE USE OF THE WEBSITE, ANY INTERRUPTION IN
-              AVAILABILITY OF THE WEBSITE, DELAY IN OPERATION OR TRANSMISSION,
-              COMPUTER VIRUS, LOSS OF DATA, OR USE, MISUSE, RELIANCE, REVIEW,
-              MANIPULATION, OR OTHER UTILIZATION IN ANY MANNER WHATSOEVER OF THE
-              WEBSITE OR THE DATA COLLECTED THROUGH THE WEBSITE, EVEN IF ONE OR
-              MORE OF THEM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES
-              OR LOSS. ANY CLAIM ARISING OUT OF OR CONNECTED WITH THE WEBSITE
-              WILL BE LIMITED TO THE GREATER OF $100 OR THE AMOUNT THAT YOU PAID
-              TO ACCESS THE WEBSITE., key: fa6d76e
-            label: Text
-            name: fa6d76e
-            widget: text
-          - hint: 'Original text: INDEMNIFICATION, key: 50cb0997'
-            label: Text
-            name: 50cb0997
-            widget: string
-          - hint: >-
-              Original text: YOU AGREE TO INDEMNIFY, DEFEND AND HOLD US AND OUR
-              AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS AND ASSIGNS
-              HARMLESS FROM AND AGAINST ANY AND ALL LOSSES, COSTS, EXPENSES
-              (INCLUDING REASONABLE ATTORNEYS’ FEES AND EXPENSES), CLAIMS,
-              DAMAGES AND LIABILITIES RELATED TO OR ASSOCIATED WITH YOUR USE OF
-              THE WEBSITE AND ANY ALLEGED VIOLATION BY YOU OF THESE TERMS. WE
-              RESERVE THE RIGHT TO ASSUME THE EXCLUSIVE DEFENSE OF ANY CLAIM FOR
-              WHICH WE ARE ENTITLED TO INDEMNIFICATION UNDER THIS SECTION. IN
-              SUCH EVENT, YOU SHALL PROVIDE US WITH SUCH COOPERATION AS WE
-              REASONABLY REQUEST., key: -ebe819b
-            label: Text
-            name: '-ebe819b'
-            widget: text
-          - hint: 'Original text: CHOICE OF LAW AND FORUM, key: -78771b0'
-            label: Text
-            name: '-78771b0'
-            widget: string
-          - hint: >-
-              Original text: You agree that your access to and use of the
-              Website will be governed by and will be construed in accordance
-              with the law of the State of California without regard to
-              principles of conflicts of laws. You agree that any claim or
-              dispute against us arising out of or relating to the Website must
-              be resolved by a federal district court located in California,
-              unless agreed upon by all parties., key: -36092a41
-            label: Text
-            name: '-36092a41'
-            widget: text
-          - hint: 'Original text: Miscellaneous, key: -70b3ac32'
-            label: Text
-            name: '-70b3ac32'
-            widget: string
-          - hint: >-
-              Original text: These Terms constitute the entire agreement between
-              you and us, superseding any prior or contemporaneous
-              communications and proposals (whether oral, written or electronic)
-              between you and us, regarding the subject matter hereof. In the
-              event that any provision of these Terms is held unenforceable, it
-              will not affect the validity or enforceability of the remaining
-              provisions and will be replaced by an enforceable provision that
-              comes closest to the intention underlying the unenforceable
-              provision. You agree that no joint venture, partnership,
-              employment, or agency relationship exists between you and us as a
-              result of these Terms or your access to and use of the Website.
-              Our failure to enforce any provisions of these Terms or respond to
-              a violation by any party does not waive our right to subsequently
-              enforce any terms or conditions of the Terms or respond to any
-              violations. Nothing contained in these Terms is in derogation of
-              our right to comply with governmental, court, and law enforcement
-              requests or requirements relating to your use of the Website or
-              information provided to or gathered by us with respect to such
-              use., key: 9167f58
-            label: Text
-            name: 9167f58
-            widget: text
-          - hint: 'Original text: ‍, key: 200d'
-            label: Text
-            name: 200d
-            widget: string
           - hint: 'Original text: About us, key: 645f0031'
             label: Text
             name: 645f0031
@@ -2151,6 +1917,10 @@ collections:
             label: Text
             name: '341e7703'
             widget: text
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
           - hint: >-
               Original text: However, the foundation has a unique position
               within that ecosystem to help cultivate research, development, and
@@ -2389,6 +2159,236 @@ collections:
               incentivize useful storage on the Filecoin network., key: 54e14edd
             label: Text
             name: 54e14edd
+            widget: text
+          - hint: 'Original text: Effective Date: October 20, 2021, key: -c135044'
+            label: Text
+            name: '-c135044'
+            widget: string
+          - hint: >-
+              Original text: These Terms of Use (“Terms”) govern your use of the
+              Filecoin Foundation website and any other website that the
+              Filecoin Foundation operates and that links to these Terms
+              (collectively, the “Website”)., key: -464b084d
+            label: Text
+            name: '-464b084d'
+            widget: text
+          - hint: >-
+              Original text: Please review these Terms carefully before using
+              the Website. We may change these Terms or modify any features of
+              the Website at any time. The most current version of the Terms can
+              be viewed by clicking on the “Terms of Use” link posted through
+              the Website. You accept the Terms by using the Website, and you
+              accept any changes to the Terms by continuing to use the Website
+              after we post the changes., key: 31bca865
+            label: Text
+            name: 31bca865
+            widget: text
+          - hint: 'Original text: Privacy, key: 5079bb68'
+            label: Text
+            name: 5079bb68
+            widget: string
+          - hint: >-
+              Original text: By using the Website, you consent to our processing
+              your information consistent with our , key: -830cb5
+            label: Text
+            name: '-830cb5'
+            widget: string
+          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
+            label: Text
+            name: '-3fbde6f6'
+            widget: string
+          - hint: 'Original text: Prohibited Conduct, key: 1dff41e2'
+            label: Text
+            name: 1dff41e2
+            widget: string
+          - hint: >-
+              Original text: You may not access or use, or attempt to access or
+              use, the Website to take any action that could harm us or any
+              third party, interfere with the operation of the Website, or use
+              the Website in a manner that violates any laws. For example, and
+              without limitation, you may not: engage in unauthorized spidering,
+              “scraping,” or harvesting of content or personal information, or
+              use any other unauthorized automated means to compile information;
+              take any action that imposes an unreasonable or disproportionately
+              large load on our network or infrastructure; use any device,
+              software, or routine to interfere or attempt to interfere with the
+              proper working of the Website or any activity conducted on the
+              Website or attempt to probe, scan, test the vulnerability of, or
+              breach the security of any system or network; attempt to decipher,
+              decompile, disassemble, or reverse-engineer any of the software
+              comprising or in any way making up a part of the Website; engage
+              in any other conduct that restricts or inhibits any person from
+              using or enjoying the Website, or that, in our sole judgment,
+              exposes us or any of our users, affiliates, or any other third
+              party to any liability, damages, or detriment of any type., key:
+              3c7fe720
+            label: Text
+            name: 3c7fe720
+            widget: text
+          - hint: >-
+              Original text: Violations of system or network security may result
+              in civil or criminal liability. We may investigate and work with
+              law enforcement authorities to prosecute users who violate these
+              Terms. We may suspend or terminate your access to the Website for
+              any or no reason at any time without notice., key: 14bdbb30
+            label: Text
+            name: 14bdbb30
+            widget: text
+          - hint: 'Original text: Intellectual Property, key: 3ddce415'
+            label: Text
+            name: 3ddce415
+            widget: string
+          - hint: >-
+              Original text: The Website is owned and operated by the Filecoin
+              Foundation. You acknowledge and agree that, as between the
+              parties, we own all right, title and interest in and to the
+              Website, including: (a) all information, data, software, text,
+              displays and visual interfaces, graphics, images, video, and
+              audio, and all other elements of the Website, and the design,
+              selection, and arrangement thereof; and (b) all intellectual
+              property and other legal rights (including, but not limited to,
+              any and all copyrights, patents, patent applications, trade
+              secrets, trademarks and other intangible rights) therein. You may
+              not publish, reproduce, distribute, display, perform, edit, adapt,
+              modify, or otherwise exploit any part of the Website without our
+              written consent. You will not earn or acquire any ownership rights
+              in any copyrights, patents, trade secrets, trademarks or other
+              intellectual property rights on account of these Terms or any
+              access to or use of the Website., key: -6b556da9
+            label: Text
+            name: '-6b556da9'
+            widget: text
+          - hint: 'Original text: Links to third-party content, key: -2b524965'
+            label: Text
+            name: '-2b524965'
+            widget: string
+          - hint: >-
+              Original text: The Website may contain links to third-party
+              content. We do not control, endorse, sponsor, recommend, or
+              otherwise accept responsibility for such content. Use of any
+              linked third-party content is at your own risk., key: 5f1b1d78
+            label: Text
+            name: 5f1b1d78
+            widget: text
+          - hint: 'Original text: Communications with you, key: 18b04308'
+            label: Text
+            name: 18b04308
+            widget: string
+          - hint: >-
+              Original text: If you provide your email address or other contact
+              information to us, we may communicate with you about the Website
+              and our products and services, including through one or more third
+              party e-mail or survey services, via the contact information you
+              provide to us through the Website. You consent to receive
+              communications from us that may: (i) solicit feedback via e-mail,
+              surveys, bug reports, or other methods we may determine; (ii)
+              collect additional information regarding issues you report in your
+              feedback; (iii) notify you of changes to the Website, our products
+              or services, or these Terms; and (iv) tell you about our programs,
+              products or services., key: -28ea35b5
+            label: Text
+            name: '-28ea35b5'
+            widget: text
+          - hint: >-
+              Original text: DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY,
+              key: -110a3db9
+            label: Text
+            name: '-110a3db9'
+            widget: string
+          - hint: >-
+              Original text: YOUR USE OF THE WEBSITE IS AT YOUR OWN RISK. THE
+              WEBSITE IS PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND, EITHER
+              EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF
+              MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+              NON-INFRINGEMENT, OR OTHER VIOLATION OF RIGHTS. WE DO NOT WARRANT
+              THE ADEQUACY, CURRENCY, ACCURACY, LIKELY RESULTS, OR COMPLETENESS
+              OF THE WEBSITE OR ANY THIRD-PARTY SITES LINKED TO OR FROM THE
+              WEBSITE, OR THAT THE FUNCTIONS PROVIDED WILL BE UNINTERRUPTED,
+              VIRUS, OR ERROR-FREE. WE EXPRESSLY DISCLAIM ANY LIABILITY FOR ANY
+              ERRORS OR OMISSIONS IN THE CONTENT INCLUDED IN THE WEBSITE OR ANY
+              THIRD-PARTY SITES LINKED TO OR FROM THE WEBSITE. SOME
+              JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES,
+              SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU., key:
+              1f17b613
+            label: Text
+            name: 1f17b613
+            widget: text
+          - hint: >-
+              Original text: IN NO EVENT WILL WE, OR OUR AFFILIATES, DIRECTORS,
+              OFFICERS, EMPLOYEES, AGENTS, OR ASSIGNS BE LIABLE FOR ANY DIRECT
+              OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE
+              DAMAGES, LOST PROFITS, OR OTHER DAMAGES WHATSOEVER ARISING IN
+              CONNECTION WITH THE USE OF THE WEBSITE, ANY INTERRUPTION IN
+              AVAILABILITY OF THE WEBSITE, DELAY IN OPERATION OR TRANSMISSION,
+              COMPUTER VIRUS, LOSS OF DATA, OR USE, MISUSE, RELIANCE, REVIEW,
+              MANIPULATION, OR OTHER UTILIZATION IN ANY MANNER WHATSOEVER OF THE
+              WEBSITE OR THE DATA COLLECTED THROUGH THE WEBSITE, EVEN IF ONE OR
+              MORE OF THEM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES
+              OR LOSS. ANY CLAIM ARISING OUT OF OR CONNECTED WITH THE WEBSITE
+              WILL BE LIMITED TO THE GREATER OF $100 OR THE AMOUNT THAT YOU PAID
+              TO ACCESS THE WEBSITE., key: fa6d76e
+            label: Text
+            name: fa6d76e
+            widget: text
+          - hint: 'Original text: INDEMNIFICATION, key: 50cb0997'
+            label: Text
+            name: 50cb0997
+            widget: string
+          - hint: >-
+              Original text: YOU AGREE TO INDEMNIFY, DEFEND AND HOLD US AND OUR
+              AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS AND ASSIGNS
+              HARMLESS FROM AND AGAINST ANY AND ALL LOSSES, COSTS, EXPENSES
+              (INCLUDING REASONABLE ATTORNEYS’ FEES AND EXPENSES), CLAIMS,
+              DAMAGES AND LIABILITIES RELATED TO OR ASSOCIATED WITH YOUR USE OF
+              THE WEBSITE AND ANY ALLEGED VIOLATION BY YOU OF THESE TERMS. WE
+              RESERVE THE RIGHT TO ASSUME THE EXCLUSIVE DEFENSE OF ANY CLAIM FOR
+              WHICH WE ARE ENTITLED TO INDEMNIFICATION UNDER THIS SECTION. IN
+              SUCH EVENT, YOU SHALL PROVIDE US WITH SUCH COOPERATION AS WE
+              REASONABLY REQUEST., key: -ebe819b
+            label: Text
+            name: '-ebe819b'
+            widget: text
+          - hint: 'Original text: CHOICE OF LAW AND FORUM, key: -78771b0'
+            label: Text
+            name: '-78771b0'
+            widget: string
+          - hint: >-
+              Original text: You agree that your access to and use of the
+              Website will be governed by and will be construed in accordance
+              with the law of the State of California without regard to
+              principles of conflicts of laws. You agree that any claim or
+              dispute against us arising out of or relating to the Website must
+              be resolved by a federal district court located in California,
+              unless agreed upon by all parties., key: -36092a41
+            label: Text
+            name: '-36092a41'
+            widget: text
+          - hint: 'Original text: Miscellaneous, key: -70b3ac32'
+            label: Text
+            name: '-70b3ac32'
+            widget: string
+          - hint: >-
+              Original text: These Terms constitute the entire agreement between
+              you and us, superseding any prior or contemporaneous
+              communications and proposals (whether oral, written or electronic)
+              between you and us, regarding the subject matter hereof. In the
+              event that any provision of these Terms is held unenforceable, it
+              will not affect the validity or enforceability of the remaining
+              provisions and will be replaced by an enforceable provision that
+              comes closest to the intention underlying the unenforceable
+              provision. You agree that no joint venture, partnership,
+              employment, or agency relationship exists between you and us as a
+              result of these Terms or your access to and use of the Website.
+              Our failure to enforce any provisions of these Terms or respond to
+              a violation by any party does not waive our right to subsequently
+              enforce any terms or conditions of the Terms or respond to any
+              violations. Nothing contained in these Terms is in derogation of
+              our right to comply with governmental, court, and law enforcement
+              requests or requirements relating to your use of the Website or
+              information provided to or gathered by us with respect to such
+              use., key: 9167f58
+            label: Text
+            name: 9167f58
             widget: text
           - hint: 'Original text: Last Updated: January 25, 2023, key: 7394b9a3'
             label: Text
@@ -4382,22 +4382,63 @@ collections:
             name: 3b32b6d
             widget: string
           - hint: >-
-              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Cras consequat congue libero. Donec vitae erat convallis
-              justo scelerisque pulvinar in et elit. Aenean vitae suscipit
-              sapien, eget imperdiet neque. Curabitur eget elit aliquet dolor
-              fermentum mattis. Integer vel massa in leo ultricies fermentum.
-              Aliquam molestie elementum nunc. Nulla vitae rhoncus orci, vitae
-              vehicula ex. Suspendisse fringilla finibus malesuada. Integer at
-              diam iaculis, tristique sapien eu, ornare odio. Suspendisse at
-              rutrum velit, ac fermentum sem. Proin ac pharetra neque. Donec
-              sodales porta purus eu pulvinar. Vivamus id nulla scelerisque,
-              laoreet nisi sed, facilisis ante. Sed consequat enim eget mauris
-              suscipit, ac consectetur massa mollis. Pellentesque ultrices
-              placerat cursus., key: 44cb6522
+              Original text: Housed in the historic church across from the
+              Congress Centre Gates, the Filecoin Sanctuary is a setting
+              uniquely suited for discussing the world’s most enduring
+              challenges and the potential of emerging technologies. Hosted by
+              Filecoin Foundation and brought to you by CNBC, this remarkable
+              venue embodies the spirit of Davos as both timeless and
+              progressive, offering an opportunity to catalyze change together
+              with some of the greatest thinkers and doers of our time., key:
+              -4f1c3ce4
             label: Text
-            name: 44cb6522
+            name: '-4f1c3ce4'
             widget: text
+          - hint: 'Original text: Sponsor, key: -13ec1506'
+            label: Text
+            name: '-13ec1506'
+            widget: string
+          - hint: 'Original text: Partnership Opportunities, key: 5f628e55'
+            label: Text
+            name: 5f628e55
+            widget: string
+          - hint: >-
+              Original text: Unlock boundless potential through a partnership
+              with Filecoin Foundation and CNBC. Host a reception, participate
+              in the on-stage debate, explore compelling branding possibilities,
+              and so much more. Fill out the form and our team will get in touch
+              with you., key: 4468920c
+            label: Text
+            name: 4468920c
+            widget: text
+          - hint: 'Original text: Get in Touch, key: -53f399f2'
+            label: Text
+            name: '-53f399f2'
+            widget: string
+          - hint: 'Original text: SPONSOR, key: -4c592106'
+            label: Text
+            name: '-4c592106'
+            widget: string
+          - hint: >-
+              Original text: Keep up with Davos news by subscribing to the
+              newsletter, key: -24a3ebdb
+            label: Text
+            name: '-24a3ebdb'
+            widget: string
+          - hint: 'Original text: Subscribe Now, key: -72c4e940'
+            label: Text
+            name: '-72c4e940'
+            widget: string
+          - hint: >-
+              Original text: Learn more about Filecoin Foundation events, key:
+              -38499f4b
+            label: Text
+            name: '-38499f4b'
+            widget: string
+          - hint: 'Original text: Contact Now, key: 65c17a96'
+            label: Text
+            name: 65c17a96
+            widget: string
           - hint: 'Original text: LEARN MORE, key: 552c03d1'
             label: Text
             name: 552c03d1
@@ -4424,64 +4465,6 @@ collections:
             label: Text
             name: '-4ffbe6fe'
             widget: string
-          - hint: 'Original text: English Church, Davos, Switzerland, key: -315179e3'
-            label: Text
-            name: '-315179e3'
-            widget: string
-          - hint: >-
-              Original text: Housed in the historic church across from the
-              Congress Centre Gates, the Filecoin Sanctuary is a setting
-              uniquely suited for discussing the world’s most enduring
-              challenges and the potential of emerging technologies. Hosted by
-              Filecoin Foundation and brought to you by CNBC, this remarkable
-              venue embodies the spirit of Davos as both timeless and
-              progressive, offering an opportunity to catalyze change together
-              with some of the greatest thinkers and doers of our time., key:
-              -4f1c3ce4
-            label: Text
-            name: '-4f1c3ce4'
-            widget: text
-          - hint: 'Original text: SPONSOR, key: -4c592106'
-            label: Text
-            name: '-4c592106'
-            widget: string
-          - hint: 'Original text: Partnership Opportunities, key: 5f628e55'
-            label: Text
-            name: 5f628e55
-            widget: string
-          - hint: >-
-              Original text: Unlock boundless potential through a partnership
-              with Filecoin Foundation and CNBC. Host a reception, participate
-              in the on-stage debate, explore compelling branding possibilities,
-              and so much more. Fill out the form and our team will get in touch
-              with you., key: 4468920c
-            label: Text
-            name: 4468920c
-            widget: text
-          - hint: 'Original text: Get in Touch, key: -53f399f2'
-            label: Text
-            name: '-53f399f2'
-            widget: string
-          - hint: >-
-              Original text: Keep up with The Filecoin Sanctuary news by
-              subscribing to the newsletter, key: -14299ed8
-            label: Text
-            name: '-14299ed8'
-            widget: string
-          - hint: 'Original text: Subscribe Now, key: -72c4e940'
-            label: Text
-            name: '-72c4e940'
-            widget: string
-          - hint: >-
-              Original text: Learn more about Filecoin Foundation events, key:
-              -38499f4b
-            label: Text
-            name: '-38499f4b'
-            widget: string
-          - hint: 'Original text: Contact Now, key: 65c17a96'
-            label: Text
-            name: 65c17a96
-            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -4490,13 +4473,13 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: #, key: 23'
-            label: Link
-            name: '23'
-            widget: string
           - hint: 'Original link: /, key: 2f'
             label: Link
             name: 2f
+            widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
             widget: string
           - hint: 'Original link: /about/, key: 61642f31'
             label: Link
@@ -4538,10 +4521,6 @@ collections:
             label: Link
             name: 6368d3d0
             widget: string
-          - hint: 'Original link: /ecosystem/, key: -4f7e5762'
-            label: Link
-            name: '-4f7e5762'
-            widget: string
           - hint: 'Original link: /ecosystem#board-panel, key: -aa08f75'
             label: Link
             name: '-aa08f75'
@@ -4573,10 +4552,6 @@ collections:
           - hint: 'Original link: /public-data/award/, key: -3bf9ef7e'
             label: Link
             name: '-3bf9ef7e'
-            widget: string
-          - hint: 'Original link: /get-involved/, key: 7894e442'
-            label: Link
-            name: '7894e442'
             widget: string
           - hint: 'Original link: https://fil.org/get-involved, key: -34879643'
             label: Link
@@ -4634,6 +4609,50 @@ collections:
             label: Link
             name: '29985539'
             widget: string
+          - hint: 'Original link: /ecosystem/, key: -4f7e5762'
+            label: Link
+            name: '-4f7e5762'
+            widget: string
+          - hint: 'Original link: /get-involved/, key: 7894e442'
+            label: Link
+            name: '7894e442'
+            widget: string
+          - hint: 'Original link: mailto:hello@fil.org, key: 6a225709'
+            label: Link
+            name: 6a225709
+            widget: string
+          - hint: 'Original link: mailto:devgrants@fil.org, key: -7572349d'
+            label: Link
+            name: '-7572349d'
+            widget: string
+          - hint: 'Original link: https://ffdweb.org/, key: -d1fa66'
+            label: Link
+            name: '-d1fa66'
+            widget: string
+          - hint: >-
+              Original link: https://forkast.news/podcast/the-future-rules/,
+              key: 41b9673c
+            label: Link
+            name: 41b9673c
+            widget: string
+          - hint: 'Original link: https://github.com/filecoin-project, key: 31561323'
+            label: Link
+            name: '31561323'
+            widget: string
+          - hint: 'Original link: /policy/, key: -561c1d2'
+            label: Link
+            name: '-561c1d2'
+            widget: string
+          - hint: 'Original link: /terms/, key: -7e043789'
+            label: Link
+            name: '-7e043789'
+            widget: string
+          - hint: >-
+              Original link: https://creativecommons.org/licenses/by/4.0/, key:
+              21f09c83
+            label: Link
+            name: 21f09c83
+            widget: string
           - hint: >-
               Original link:
               https://www.youtube.com/watch?v=WqwVq0921Y8&embeds_euri=https%3A%2F%2Ffil.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo,
@@ -4644,10 +4663,6 @@ collections:
           - hint: 'Original link: https://docs.filecoin.io/, key: 422b664c'
             label: Link
             name: 422b664c
-            widget: string
-          - hint: 'Original link: https://github.com/filecoin-project, key: 31561323'
-            label: Link
-            name: '31561323'
             widget: string
           - hint: 'Original link: https://liftoff.filecoin.io/, key: 6d74a8e1'
             label: Link
@@ -4728,45 +4743,9 @@ collections:
             label: Link
             name: '583898e0'
             widget: string
-          - hint: 'Original link: mailto:hello@fil.org, key: 6a225709'
-            label: Link
-            name: 6a225709
-            widget: string
-          - hint: 'Original link: mailto:devgrants@fil.org, key: -7572349d'
-            label: Link
-            name: '-7572349d'
-            widget: string
-          - hint: 'Original link: https://ffdweb.org/, key: -d1fa66'
-            label: Link
-            name: '-d1fa66'
-            widget: string
-          - hint: >-
-              Original link: https://forkast.news/podcast/the-future-rules/,
-              key: 41b9673c
-            label: Link
-            name: 41b9673c
-            widget: string
-          - hint: 'Original link: /policy/, key: -561c1d2'
-            label: Link
-            name: '-561c1d2'
-            widget: string
-          - hint: 'Original link: /terms/, key: -7e043789'
-            label: Link
-            name: '-7e043789'
-            widget: string
-          - hint: >-
-              Original link: https://creativecommons.org/licenses/by/4.0/, key:
-              21f09c83
-            label: Link
-            name: 21f09c83
-            widget: string
           - hint: 'Original link: http://hhhh, key: 1eda2b12'
             label: Link
             name: 1eda2b12
-            widget: string
-          - hint: 'Original link: https://fil.org/policy, key: -2ba4f9af'
-            label: Link
-            name: '-2ba4f9af'
             widget: string
           - hint: >-
               Original link: https://www.youtube.com/watch?v=6OY4xAs3Grg, key:
@@ -4792,6 +4771,10 @@ collections:
               -2c31fd3
             label: Link
             name: '-2c31fd3'
+            widget: string
+          - hint: 'Original link: https://fil.org/policy, key: -2ba4f9af'
+            label: Link
+            name: '-2ba4f9af'
             widget: string
           - hint: 'Original link: https://fil.org/employees, key: -48acf9fa'
             label: Link
@@ -5031,6 +5014,45 @@ collections:
                 required: false
           - label: Image
             name: i66ce7ad
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i5f8bd8b0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '77651504'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4ee85037
             widget: object
             fields:
               - name: url
@@ -6330,7 +6352,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-47604a3d'
+            name: '-5f8bd8b0'
             widget: object
             fields:
               - name: url
@@ -6343,7 +6365,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: i5f8bd8b0
+            name: 4f20ae3b
             widget: object
             fields:
               - name: url
@@ -6356,20 +6378,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '77651504'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 4ee85037
+            name: 4ecc2135
             widget: object
             fields:
               - name: url
