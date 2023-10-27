@@ -23,6 +23,7 @@ seo:
   noindex: false
   twitter:title: summary
   twitter:card: summary
+  title: Insights into Responsible AI with the Founder of AI Guardian
 ---
 <iframe src="https://podcasters.spotify.com/pod/show/filecoin-foundation/embed/episodes/The-Moral-Compass-of-AI-with-Chris-Hackney--DWeb-Decoded-16-e2a2j0l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
