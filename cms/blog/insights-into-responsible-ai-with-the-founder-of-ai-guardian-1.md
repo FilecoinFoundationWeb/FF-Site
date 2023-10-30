@@ -23,6 +23,8 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
+**<iframe src="https://podcasters.spotify.com/pod/show/filecoin-foundation/embed/episodes/The-Moral-Compass-of-AI-with-Chris-Hackney--DWeb-Decoded-16-e2a2j0l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>**
+
 In the current generation of machine learning, an artificial intelligence (AI) model’s abilities are directly tied to the size and diversity of the datasets it draws upon. It’s important to think about how and where these massive troves of data are stored, and who can access them for the long term –– particularly if future regulations will require companies to prove the integrity of the data underlying their AI infrastructure. Decentralized data storage is a reliable solution for preserving AI datasets–– offering unparalleled resilience, scale, and cost savings. 
 
 Laying the groundwork for responsible AI adoption, AI Guardian is building a governance, risk, and compliance platform to help organizations harness the benefits of AI, while mitigating the risks and maintaining proper legal and regulatory compliance. Spearheading these efforts is Chris Hackney, the founder of AI Guardian, who recently joined Filecoin Foundation’s [Dweb Decoded](https://www.youtube.com/playlist?list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy) to discuss responsible AI and the urgency of establishing ethical safeguards in AI practices to avoid potential misuse or misinterpretation of AI technology. Here are a few takeaways from that discussion:
