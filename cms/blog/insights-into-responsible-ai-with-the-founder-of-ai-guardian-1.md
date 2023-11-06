@@ -45,22 +45,22 @@ And for more on AI, the Filecoin ecosystem, and the future of decentralized tech
 
 Subscribe:
 
-IPFS: https://ipfspodcasting.net/Feed/454/DWebDecoded
+[IPFS](https://ipfspodcasting.net/Feed/454/DWebDecoded)
 
-Apple Podcasts: <https://podcasts.apple.com/us/podcast/dweb-decoded/id1702936954>
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/dweb-decoded/id1702936954)
 
-Spotify: <https://open.spotify.com/show/5GPjDV4AVv7xwmg0ByySac?si=af7b9bf4b2994237>
+[Spotify](https://open.spotify.com/show/5GPjDV4AVv7xwmg0ByySac?si=af7b9bf4b2994237)
 
-Google Podcasts: <https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lNmIzZDQwNC9wb2RjYXN0L3Jzcw>
+[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lNmIzZDQwNC9wb2RjYXN0L3Jzcw)
 
-Amazon Music: <https://music.amazon.com/podcasts/2dcdde2f-be5c-41e6-bd0d-dc09adf27894/dweb-decoded>
+[Amazon Music](https://music.amazon.com/podcasts/2dcdde2f-be5c-41e6-bd0d-dc09adf27894/dweb-decoded)
 
-iHeartRadio: <https://iheart.com/podcast/120429254/>
+[iHeartRadio](https://iheart.com/podcast/120429254/)
 
-YouTube: <https://www.youtube.com/playlist?list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy>
+[YouTube](https://www.youtube.com/playlist?list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy)
 
-Pocket Casts: <https://pca.st/50sgk357>
+[Pocket Casts](https://pca.st/50sgk357)
 
-TuneIn: <https://tunein.com/podcasts/Technology-Podcasts/DWeb-Decoded-p3766841/>
+[TuneIn](https://tunein.com/podcasts/Technology-Podcasts/DWeb-Decoded-p3766841/)
 
-Podchaser: <https://www.podchaser.com/podcasts/dweb-decoded-5433303>
+[Podchaser](https://www.podchaser.com/podcasts/dweb-decoded-5433303)
