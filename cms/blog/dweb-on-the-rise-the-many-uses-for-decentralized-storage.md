@@ -13,7 +13,7 @@ f_description: "Organizations look to the decentralized web (dweb) for data
 f_featured: false
 f_image:
   url: /assets/images/0905-dweb-on-the-rise.png
-  alt: null
+  alt: Logos for Huddle01, OP Games, Mona, and Currents.fm
 f_post-date: 2023-05-15T11:00:25.038Z
 tags: blog
 layout: "[blog].html"
