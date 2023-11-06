@@ -24,7 +24,7 @@ Across the week, more than 600 people visited the Network Base to co-work, netwo
 
 Take a look at all the talks from FIL Network Base [here](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kwXj2NgQU6ZrbLlb_Uwmc0)!
 
-![](/assets/images/filecoin-network-base-1.jpg)
+![FIL Network Base attendees talking during Gaming on Filecoin Day](/assets/images/filecoin-network-base-1.jpg)
 
 **Day 1 - Gaming on Filecoin**
 
