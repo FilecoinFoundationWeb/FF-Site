@@ -13,7 +13,7 @@ f_description: In the current generation of machine learning, an artificial
   offering unparalleled resilience, scale, and cost savings.
 f_featured: false
 f_image:
-  url: /assets/images/insights-into-responsible-ai.png
+  url: /assets/images/chris-hackney.png
 f_post-date: 2023-10-30T14:01:55.262Z
 tags: blog
 layout: "[blog].html"
