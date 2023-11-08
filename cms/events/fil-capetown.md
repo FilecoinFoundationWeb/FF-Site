@@ -1,9 +1,10 @@
 ---
-title: "FIL Capetown "
+title: FIL Cape Town 2024
 created-on: 2023-11-08T13:58:58.089Z
 updated-on: 2023-11-08T13:58:58.102Z
 published-on: 2023-11-08T13:58:58.110Z
 f_featured: false
+f_description: "Cape Town, Africa "
 f_cta: https://fil-capetown.io/
 f_cta-text: Register Now
 f_start-date: 2023-11-21T13:58:58.117Z
