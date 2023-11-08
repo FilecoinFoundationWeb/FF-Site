@@ -10,7 +10,7 @@ f_cta-text: Register Now
 f_start-date: 2023-11-21T13:58:58.117Z
 f_end-date: 2023-11-21T13:58:58.123Z
 f_image:
-  url: /assets/images/fil-city-placeholder.png
+  url: /assets/images/fil-cape-town-logo.png
 f_event-date: 2023-11-08T13:58:58.128Z
 f_icon-type: Register
 tags: events
