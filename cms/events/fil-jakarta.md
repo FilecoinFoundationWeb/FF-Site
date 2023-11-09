@@ -7,7 +7,7 @@ f_cta: https://www.fil-jakarta.io/
 f_cta-text: Learn more
 f_start-date: 2023-09-02T13:00:00.000Z
 f_image:
-  url: /assets/images/screenshot-2023-11-09-123447.png
+  url: /assets/images/fil-jakarta.png
 f_event-type: Event
 published-on: 2023-07-13T14:06:23.057Z
 f_end-date: 2023-09-02T11:00:23.071Z
