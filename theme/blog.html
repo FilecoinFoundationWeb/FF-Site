@@ -29,7 +29,10 @@
   <!--  Plausible  -->
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
-        }</style></head>
+        }</style><style>picture { border: 0;
+        max-width: 100%;
+        vertical-align: middle;
+        display: inline-block; }</style></head>
 <body>
   <div class="master-container">
     <div class="global-css w-embed">
@@ -288,7 +291,7 @@ color: #08072e;
     <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
       <div class="container navbar w-container">
         <div class="site-nav">
-          <a href="{{ links.2f }}" class="brand-link w-nav-brand"><img src="{{ images.-2a484e45.url }}" loading="lazy" alt="{{ images.-2a484e45.alt | trim | escape }}" class="brand-image"></a>
+          <a href="{{ links.2f }}" class="brand-link w-nav-brand">{%- image "/assets/images/logo.svg", "", '[]', 'loading="lazy" class="brand-image"' -%}</a>
           <div class="desktop-menu">
             <div data-hover="true" data-delay="0" class="nav-dropdown w-dropdown">
               <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -313,7 +316,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block"><img src="{{ images.7ffce08b.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.7ffce08b.alt | trim | escape }}" class="dropdown-image">
+                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
                       <div class="dropdown-text-block title">{{ texts.3c2336d }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.2e416e28 }}</p>
@@ -352,7 +355,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block"><img class="dropdown-image" src="{{ images.e51d1be.url }}" alt="{{ images.e51d1be.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy">
+                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="dropdown-image" loading="lazy"' -%}
                       <div class="dropdown-text-block title">{{ texts.-6c911dfe }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.5cc189a }}</p>
@@ -391,7 +394,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-4f7e5762 }}" class="dropdown-top-link w-inline-block"><img src="{{ images.67cc1139.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.67cc1139.alt | trim | escape }}" class="dropdown-image">
+                    <a href="{{ links.-4f7e5762 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
                       <div class="dropdown-text-block title">{{ texts.-22899720 }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.-7701a10c }}</p>
@@ -426,7 +429,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block"><img src="{{ images.-3a8ebaa4.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.-3a8ebaa4.alt | trim | escape }}" class="dropdown-image">
+                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
                       <div class="dropdown-text-block title">{{ texts.7f9c4ef7 }}</div>
                     </a>
                     <p class="dropdown-text-block">
@@ -468,7 +471,7 @@ color: #08072e;
                   </div>
                   <div class="dropdown-relative-wrapper cols">
                     <div class="dropdown-block-left">
-                      <a href="{{ links.7894e442 }}" class="dropdown-top-link w-inline-block"><img src="{{ images.7a0da712.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.7a0da712.alt | trim | escape }}" class="dropdown-image">
+                      <a href="{{ links.7894e442 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
                         <div class="dropdown-text-block title">{{ texts.4422b111 }}</div>
                       </a>
                       <p class="dropdown-text-block">
@@ -575,10 +578,10 @@ color: #08072e;
           </div>
           <nav role="navigation" class="tablet-menu w-nav-menu">
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="{{ images.7ffce08b.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.7ffce08b.alt | trim | escape }}" class="tablet-dropdown-image">
+              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
                 <div class="dropdown-link link-block">
                   <div>{{ texts.3c2336d }}</div>
-                </div><img src="{{ images.56121fd7.url }}" loading="lazy" alt="{{ images.56121fd7.alt | trim | escape }}" class="dropdown-tablet-chevron">
+                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -599,10 +602,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img class="tablet-dropdown-image" src="{{ images.e51d1be.url }}" alt="{{ images.e51d1be.alt | trim | escape }}" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy">
+              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="tablet-dropdown-image" loading="lazy"' -%}
                 <div class="dropdown-link link-block">
                   <div>{{ texts.-6c911dfe }}</div>
-                </div><img src="{{ images.56121fd7.url }}" loading="lazy" alt="{{ images.56121fd7.alt | trim | escape }}" class="dropdown-tablet-chevron">
+                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -623,10 +626,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="{{ images.67cc1139.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.67cc1139.alt | trim | escape }}" class="tablet-dropdown-image">
+              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
                 <div class="dropdown-link link-block">
                   <div>{{ texts.-22899720 }}</div>
-                </div><img src="{{ images.56121fd7.url }}" loading="lazy" alt="{{ images.56121fd7.alt | trim | escape }}" class="dropdown-tablet-chevron">
+                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -643,10 +646,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="{{ images.-3a8ebaa4.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.-3a8ebaa4.alt | trim | escape }}" class="tablet-dropdown-image">
+              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
                 <div class="dropdown-link link-block">
                   <div>{{ texts.7f9c4ef7 }}</div>
-                </div><img src="{{ images.56121fd7.url }}" loading="lazy" alt="{{ images.56121fd7.alt | trim | escape }}" class="dropdown-tablet-chevron">
+                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -669,10 +672,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="{{ images.7a0da712.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="{{ images.7a0da712.alt | trim | escape }}" class="tablet-dropdown-image">
+              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
                 <div class="dropdown-link link-block">
                   <div>{{ texts.4422b111 }}</div>
-                </div><img src="{{ images.56121fd7.url }}" loading="lazy" alt="{{ images.56121fd7.alt | trim | escape }}" class="dropdown-tablet-chevron">
+                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -897,7 +900,7 @@ color: #08072e;
         <div class="container relative">
           {%- assign collection = collections.blog | filter: "f_featured,eq,true", "ALL", page.inputPath | limit: 1 | sort: "-created-on" -%}<div class="w-dyn-list">
             {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
-              {%- for item in collection -%}<div role="listitem" class="relative w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;944px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="full-image radius">
+              {%- for item in collection -%}<div role="listitem" class="relative w-dyn-item">{%- image item.data.f_image.url, item.data.f_image.alt, '[{"max":767,"size":"92vw"},{"max":991,"size":"95vw"},{"max":10000,"size":"944px"}]', 'loading="lazy" class="full-image radius"' -%}
                 <div class="post-background-layers">
                   <div class="post-layer layer-1"></div>
                   <div class="post-layer layer-2"></div>
@@ -948,7 +951,7 @@ color: #08072e;
           <div class="col-8_sm-10_mi-12 w-form">
             <form id="wf-form-Inline-Search-Form" name="wf-form-Inline-Search-Form" data-name="inline_search" action="https://search" method="get" class="search-filter-bar" data-wf-page-id="644b96f6cbad95183bc52adb" data-wf-element-id="86307e5f-0cdf-2f25-6f9e-8aa055940566">
               <div class="search-filter-bar-container">
-                <div class="search-icon-container"><img src="{{ images.674b369a.url }}" loading="lazy" alt="{{ images.674b369a.alt | trim | escape }}" class="search-icon-image"></div><input type="text" class="search-input w-input" maxlength="256" name="q" data-name="q" placeholder="search blog articles" id="q">
+                <div class="search-icon-container">{%- image "/assets/images/search-icon.svg", "", '[]', 'loading="lazy" class="search-icon-image"' -%}</div><input type="text" class="search-input w-input" maxlength="256" name="q" data-name="q" placeholder="search blog articles" id="q">
               </div>
             </form>
             <div class="hidden w-form-done">
@@ -1011,7 +1014,7 @@ input.addEventListener('input', () => {
           {%- assign collection = collections.blog | sort: "-f_post-date" -%}{%- assign pagination = collection | paginate: 9 -%}<div class="full-width w-dyn-list">
             {%- unless pagination.length == 0 -%}<div role="list" class="blog-posts w-dyn-items">
               {%- for item in pagination[0] -%}<div role="listitem" class="blog-post w-dyn-item">
-                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;282.07293701171875px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="blog-card-image">{%- endif -%}
+                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}{%- image item.data.f_image.url, item.data.f_image.alt, '[{"max":479,"size":"87vw"},{"max":991,"size":"41vw"},{"max":10000,"size":"282.07293701171875px"}]', 'loading="lazy" class="blog-card-image"' -%}{%- endif -%}
                   {%- unless item.data.f_image -%}<div class="blog-card-date-image">
                     <div class="flex">
                       <div>{{ item.data.f_post-date | formatDate: "MM" }}</div>
@@ -1036,7 +1039,7 @@ input.addEventListener('input', () => {
                 </a>
               </div>{%- endfor -%}
             {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page--72f6103d-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="blog-post w-dyn-item">
-                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;282.07293701171875px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="blog-card-image">{%- endif -%}
+                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}{%- image item.data.f_image.url, item.data.f_image.alt, '[{"max":479,"size":"87vw"},{"max":991,"size":"41vw"},{"max":10000,"size":"282.07293701171875px"}]', 'loading="lazy" class="blog-card-image"' -%}{%- endif -%}
                   {%- unless item.data.f_image -%}<div class="blog-card-date-image">
                     <div class="flex">
                       <div>{{ item.data.f_post-date | formatDate: "MM" }}</div>
