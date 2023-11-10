@@ -29,10 +29,7 @@
   <!--  Plausible  -->
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
-        }</style><style>picture { border: 0;
-        max-width: 100%;
-        vertical-align: middle;
-        display: inline-block; }</style></head>
+        }</style></head>
 <body>
   <div class="master-container">
     <div class="global-css w-embed">
@@ -291,7 +288,7 @@ color: #08072e;
     <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
       <div class="container navbar w-container">
         <div class="site-nav">
-          <a href="{{ links.2f }}" class="brand-link w-nav-brand">{%- image "/assets/images/logo.svg", "", '[]', 'loading="lazy" class="brand-image"' -%}</a>
+          <a href="{{ links.2f }}" class="brand-link w-nav-brand"><img src="/assets/images/logo.svg" loading="lazy" alt="" class="brand-image"></a>
           <div class="desktop-menu">
             <div data-hover="true" data-delay="0" class="nav-dropdown w-dropdown">
               <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -316,7 +313,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/multi-persons.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.3c2336d }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.2e416e28 }}</p>
@@ -355,7 +352,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="dropdown-image" loading="lazy"' -%}
+                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block"><img class="dropdown-image" src="/assets/images/shield.png" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w">
                       <div class="dropdown-text-block title">{{ texts.-6c911dfe }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.5cc189a }}</p>
@@ -394,7 +391,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-4f7e5762 }}" aria-current="page" class="dropdown-top-link w-inline-block w--current">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.-4f7e5762 }}" aria-current="page" class="dropdown-top-link w-inline-block w--current"><img src="/assets/images/multi-circle.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.-22899720 }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.-7701a10c }}</p>
@@ -429,7 +426,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/money-bag.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.7f9c4ef7 }}</div>
                     </a>
                     <p class="dropdown-text-block">
@@ -471,7 +468,7 @@ color: #08072e;
                   </div>
                   <div class="dropdown-relative-wrapper cols">
                     <div class="dropdown-block-left">
-                      <a href="{{ links.7894e442 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                      <a href="{{ links.7894e442 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/raised-hands-large.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                         <div class="dropdown-text-block title">{{ texts.4422b111 }}</div>
                       </a>
                       <p class="dropdown-text-block">
@@ -578,10 +575,10 @@ color: #08072e;
           </div>
           <nav role="navigation" class="tablet-menu w-nav-menu">
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/multi-persons.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.3c2336d }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -602,10 +599,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="tablet-dropdown-image" loading="lazy"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img class="tablet-dropdown-image" src="/assets/images/shield.png" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.-6c911dfe }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -626,10 +623,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/multi-circle.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.-22899720 }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -646,10 +643,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/money-bag.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.7f9c4ef7 }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -672,10 +669,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/raised-hands-large.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.4422b111 }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -966,7 +963,7 @@ color: #08072e;
             </div>
             <div class="col-5_md-9_mi-10">
               <div class="column-content-right">
-                <div class="blocks-right full">{%- image "/assets/images/hero-image2x.png", "", '[{"max":767,"size":"100vw"},{"max":991,"size":"80vw"},{"max":10000,"size":"50vw"}]', 'class="blocks-hero-image" loading="lazy"' -%}
+                <div class="blocks-right full"><img class="blocks-hero-image" src="/assets/images/hero-image2x.png" alt="" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;80vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;50vw&quot;}]" sizes="(max-width: 767px) 100vw, (max-width: 991px) 80vw, 50vw" loading="lazy" srcset="/assets/images/hero-image2x-p-500.png 500w, /assets/images/hero-image2x-p-800.png 800w, /assets/images/hero-image2x.png 1042w">
                   <div class="w-embed">
                     <style>
 .blocks-hero-image {
@@ -1101,7 +1098,7 @@ color: #08072e;
         <div class="desktop-spacer-9"></div>
         <div class="content-section hero">
           <div class="container">
-            <div class="col-5_sm-4_mi-6">{%- image "/assets/images/upstairs.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy"' -%}</div>
+            <div class="col-5_sm-4_mi-6"><img src="/assets/images/upstairs.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt=""></div>
             <div class="col-4_sm-9_mi-10">
               <div class="content-container">
                 <div class="content-label"><strong>{{ texts.-11b27d67 }}</strong></div>
@@ -1129,25 +1126,25 @@ color: #08072e;
           <div class="container">
             <div class="col-9_sm-8_mi-10_ti-8">
               <div class="container-cards-directors">
-                <div class="card-director">{%- image "/assets/images/colinevran.png", "", '[{"max":479,"size":"51vw"},{"max":767,"size":"28vw"},{"max":991,"size":"22vw"},{"max":10000,"size":"132px"}]', 'loading="lazy" class="card-director-image"' -%}
+                <div class="card-director"><img src="/assets/images/colinevran.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="" class="card-director-image">
                   <div class="card-director-content">
                     <p class="card-director-title">{{ texts.1794c53 }}</p>
                     <p class="card-director-description">{{ texts.-e8c8a22 }}</p>
                   </div>
                 </div>
-                <div class="card-director">{%- image "/assets/images/mosh.png", "", '[{"max":479,"size":"51vw"},{"max":767,"size":"28vw"},{"max":991,"size":"22vw"},{"max":10000,"size":"132px"}]', 'loading="lazy" class="card-director-image"' -%}
+                <div class="card-director"><img src="/assets/images/mosh.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="" class="card-director-image">
                   <div class="card-director-content">
                     <p class="card-director-title">{{ texts.2151f84d }}</p>
                     <p class="card-director-description">{{ texts.-52341095 }}</p>
                   </div>
                 </div>
-                <div class="card-director">{%- image "/assets/images/stefaan-vervaet.png", "", '[{"max":479,"size":"51vw"},{"max":767,"size":"28vw"},{"max":991,"size":"22vw"},{"max":10000,"size":"132px"}]', 'loading="lazy" class="card-director-image"' -%}
+                <div class="card-director"><img src="/assets/images/stefaan-vervaet.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="" class="card-director-image">
                   <div class="card-director-content">
                     <p class="card-director-title">{{ texts.-36abe357 }}</p>
                     <p class="card-director-description">{{ texts.-592f052b }}</p>
                   </div>
                 </div>
-                <div class="card-director">{%- image "/assets/images/dietrich-ayala.jpg", "", '[{"max":479,"size":"51vw"},{"max":767,"size":"28vw"},{"max":991,"size":"22vw"},{"max":10000,"size":"132px"}]', 'loading="lazy" class="card-director-image"' -%}
+                <div class="card-director"><img src="/assets/images/dietrich-ayala.jpg" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="" class="card-director-image">
                   <div class="card-director-content">
                     <p class="card-director-title">{{ texts.-2fd7aef2 }}</p>
                     <p class="card-director-description">{{ texts.-3a3ad7e2 }}</p>
@@ -1176,27 +1173,27 @@ color: #08072e;
               <div class="bounty-column-content">
                 <div class="blocks-right">
                   <div class="card-list">
-                    <a href="{{ links.41f5702e }}" target="_blank" class="card_type-a w-inline-block">{%- image "/assets/images/pencil.png", "", '[]', 'loading="lazy" class="image-size-regular"' -%}
+                    <a href="{{ links.41f5702e }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/pencil.png" loading="lazy" alt="" class="image-size-regular">
                       <div class="card-title">{{ texts.133689e0 }}</div>
                       <div class="card-description">{{ texts.19449f5a }}</div>
                     </a>
-                    <a href="{{ links.31561323 }}" target="_blank" class="card_type-a w-inline-block">{%- image "/assets/images/plus.png", "", '[]', 'loading="lazy" class="image-size-regular"' -%}
+                    <a href="{{ links.31561323 }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/plus.png" loading="lazy" alt="" class="image-size-regular">
                       <div class="card-title">{{ texts.-26795c4a }}</div>
                       <div class="card-description">{{ texts.-6f57abdf }}</div>
                     </a>
-                    <a href="{{ links.-6dabc742 }}" target="_blank" class="card_type-a w-inline-block">{%- image "/assets/images/upstairs.png", "", '[]', 'loading="lazy" class="image-size-regular"' -%}
+                    <a href="{{ links.-6dabc742 }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/upstairs.png" loading="lazy" alt="" class="image-size-regular">
                       <div class="card-title">{{ texts.73434022 }}</div>
                       <div class="card-description">{{ texts.67d353e3 }}</div>
                     </a>
-                    <a href="{{ links.77bd29e1 }}" target="_blank" class="card_type-a w-inline-block">{%- image "/assets/images/stamp.png", "", '[]', 'loading="lazy" class="image-size-regular"' -%}
+                    <a href="{{ links.77bd29e1 }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/stamp.png" loading="lazy" alt="" class="image-size-regular">
                       <div class="card-title">{{ texts.3f53a7a5 }}</div>
                       <div class="card-description">{{ texts.6b113424 }}</div>
                     </a>
-                    <a href="{{ links.41f5702e }}" target="_blank" class="card_type-a w-inline-block">{%- image "/assets/images/key.png", "", '[]', 'loading="lazy" class="image-size-regular"' -%}
+                    <a href="{{ links.41f5702e }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/key.png" loading="lazy" alt="" class="image-size-regular">
                       <div class="card-title">{{ texts.-301aa369 }}</div>
                       <div class="card-description">{{ texts.-d474b62 }}</div>
                     </a>
-                    <a href="{{ links.-178c9db }}" target="_blank" class="card_type-a w-inline-block">{%- image "/assets/images/shield.png", "", '[]', 'loading="lazy" class="image-size-regular"' -%}
+                    <a href="{{ links.-178c9db }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/shield.png" loading="lazy" alt="" sizes="40px" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w" class="image-size-regular">
                       <div class="card-title">{{ texts.-6276bfe9 }}</div>
                       <div class="card-description">{{ texts.-5c4fb59f }}<br><br>{{ texts.5a05595d }}</div>
                     </a>
@@ -1321,7 +1318,7 @@ color: #08072e;
                           <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer-video"></path>
                         </svg></div>
                     </div>
-                    <div class="video-tint"></div>{%- image "/assets/images/fil-austing.png", "", '[]', 'loading="lazy" class="relative-image"' -%}
+                    <div class="video-tint"></div><img src="/assets/images/fil-austing.png" loading="lazy" alt="" sizes="100vw, (max-width: 767px) 62vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/fil-austing-p-500.png 500w, /assets/images/fil-austing-p-800.png 800w, /assets/images/fil-austing-p-1080.png 1080w, /assets/images/fil-austing.png 1278w" class="relative-image">
                   </a>
                 </div>
               </div>
@@ -1351,7 +1348,7 @@ color: #08072e;
                           <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer-video"></path>
                         </svg></div>
                     </div>
-                    <div class="video-tint"></div>{%- image "/assets/images/dweb.png", "", '[]', 'loading="lazy" class="relative-image"' -%}
+                    <div class="video-tint"></div><img src="/assets/images/dweb.png" loading="lazy" alt="" sizes="100vw, (max-width: 767px) 62vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/dweb-p-500.png 500w, /assets/images/dweb-p-800.png 800w, /assets/images/dweb-p-1080.png 1080w, /assets/images/dweb.png 1275w" class="relative-image">
                   </a>
                 </div>
               </div>

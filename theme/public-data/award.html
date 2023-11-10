@@ -29,10 +29,7 @@
   <!--  Plausible  -->
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
-        }</style><style>picture { border: 0;
-        max-width: 100%;
-        vertical-align: middle;
-        display: inline-block; }</style></head>
+        }</style></head>
 <body>
   <div class="master-container">
     <div class="global-css w-embed">
@@ -291,7 +288,7 @@ color: #08072e;
     <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
       <div class="container navbar w-container">
         <div class="site-nav">
-          <a href="{{ links.2f }}" class="brand-link w-nav-brand">{%- image "/assets/images/logo.svg", "", '[]', 'loading="lazy" class="brand-image"' -%}</a>
+          <a href="{{ links.2f }}" class="brand-link w-nav-brand"><img src="/assets/images/logo.svg" loading="lazy" alt="" class="brand-image"></a>
           <div class="desktop-menu">
             <div data-hover="true" data-delay="0" class="nav-dropdown w-dropdown">
               <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -316,7 +313,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/multi-persons.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.3c2336d }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.2e416e28 }}</p>
@@ -355,7 +352,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="dropdown-image" loading="lazy"' -%}
+                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block"><img class="dropdown-image" src="/assets/images/shield.png" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w">
                       <div class="dropdown-text-block title">{{ texts.-6c911dfe }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.5cc189a }}</p>
@@ -394,7 +391,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-4f7e5762 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.-4f7e5762 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/multi-circle.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.-22899720 }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.-7701a10c }}</p>
@@ -429,7 +426,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/money-bag.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.7f9c4ef7 }}</div>
                     </a>
                     <p class="dropdown-text-block">
@@ -471,7 +468,7 @@ color: #08072e;
                   </div>
                   <div class="dropdown-relative-wrapper cols">
                     <div class="dropdown-block-left">
-                      <a href="{{ links.7894e442 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                      <a href="{{ links.7894e442 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/raised-hands-large.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                         <div class="dropdown-text-block title">{{ texts.4422b111 }}</div>
                       </a>
                       <p class="dropdown-text-block">
@@ -578,10 +575,10 @@ color: #08072e;
           </div>
           <nav role="navigation" class="tablet-menu w-nav-menu">
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/multi-persons.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.3c2336d }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -602,10 +599,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="tablet-dropdown-image" loading="lazy"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img class="tablet-dropdown-image" src="/assets/images/shield.png" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.-6c911dfe }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -626,10 +623,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/multi-circle.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.-22899720 }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -646,10 +643,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/money-bag.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.7f9c4ef7 }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -672,10 +669,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/raised-hands-large.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <div class="dropdown-link link-block">
                   <div>{{ texts.4422b111 }}</div>
-                </div>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </div><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -830,7 +827,7 @@ color: #08072e;
               <div class="spacer-175"></div>
             </div>
             <div class="col-5_mi-11">
-              <div class="public-image-block">{%- image "/assets/images/awards-header-cluster.png", "", '[{"max":479,"size":"98vw"},{"max":767,"size":"87vw"},{"max":991,"size":"40vw"},{"max":10000,"size":"534.6590576171875px"}]', 'loading="lazy"' -%}
+              <div class="public-image-block"><img src="/assets/images/awards-header-cluster.png" alt="" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;98vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;40vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;534.6590576171875px&quot;}]" sizes="(max-width: 479px) 98vw, (max-width: 767px) 87vw, (max-width: 991px) 40vw, 534.65625px" loading="lazy" srcset="/assets/images/awards-header-cluster-p-500.png 500w, /assets/images/awards-header-cluster.png 954w">
                 <div class="w-embed">
                   <style>
 .public-image-block:before {
@@ -846,7 +843,7 @@ color: #08072e;
 </style>
                 </div>
               </div>
-            </div>{%- image "/assets/images/echo-3.svg", "", '[]', 'loading="lazy" class="awards-hero-bfeore"' -%}
+            </div><img src="/assets/images/echo-3.svg" loading="lazy" alt="" class="awards-hero-bfeore">
           </div>
         </div>
       </div>
@@ -854,7 +851,7 @@ color: #08072e;
         <div class="awards-section-1">
           <div class="awards-intro-1">
             <div class="container">
-              <div class="col-4_sm-6_mi-6_ti-10">{%- image "/assets/images/trophy-and-grid.svg", "", '[]', 'loading="lazy"' -%}
+              <div class="col-4_sm-6_mi-6_ti-10"><img src="/assets/images/trophy-and-grid.svg" loading="lazy" alt="">
                 <div class="spacer-175"></div>
               </div>
               <div class="col-7_sm-8_mi-9_ti-11">
@@ -874,7 +871,7 @@ color: #08072e;
         <div class="main-content-section-awards">
           <div class="content-section relative">
             <div class="container relative padding-top">
-              <div class="col-3_md-3_sm-4_mi-6">{%- image "/assets/images/man-with-keyboard.png", "", '[{"max":767,"size":"43vw"},{"max":991,"size":"21vw"},{"max":10000,"size":"219.99998474121094px"}]', 'loading="lazy" class="rounded-image"' -%}</div>
+              <div class="col-3_md-3_sm-4_mi-6"><img src="/assets/images/man-with-keyboard.png" loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;21vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;219.99998474121094px&quot;}]" alt="" class="rounded-image"></div>
               <div class="col-7_md-6_sm-8_sm-11">
                 <div class="richtext-content-awards w-richtext">
                   <h2>{{ texts.1fd7ef18 }}</h2>
@@ -889,21 +886,21 @@ color: #08072e;
           </div>
           <div class="content-section images">
             <div class="container relative">
-              <div class="col-6_md-6_sm-10_mi-12">{%- image "/assets/images/office-space.png", "", '[{"max":479,"size":"100vw"},{"max":767,"size":"82vw"},{"max":991,"size":"44vw"},{"max":10000,"size":"455.9942932128906px"}]', 'class="rounded-image image-1" loading="lazy"' -%}</div>
-              <div class="col-3_sm-5_mi-6">{%- image "/assets/images/woman-speaking.png", "", '[{"max":10000,"size":"239.99998474121094px"}]', 'loading="lazy" class="rounded-image image-1"' -%}</div>
+              <div class="col-6_md-6_sm-10_mi-12"><img class="rounded-image image-1" src="/assets/images/office-space.png" alt="" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;82vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;44vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;455.9942932128906px&quot;}]" sizes="(max-width: 479px) 100vw, (max-width: 767px) 82vw, (max-width: 991px) 44vw, 456px" loading="lazy" srcset="/assets/images/office-space-p-500.png 500w, /assets/images/office-space.png 822w"></div>
+              <div class="col-3_sm-5_mi-6"><img src="/assets/images/woman-speaking.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;239.99998474121094px&quot;}]" alt="" class="rounded-image image-1"></div>
               <div class="container-background images-bottom"></div>
             </div>
           </div>
           <div class="content-section relative">
             <div class="container theme-dark">
-              <div class="col-6_md-6_sm-10_mi-12">{%- image "/assets/images/question-mark.png", "", '[{"max":479,"size":"66vw"},{"max":767,"size":"16vw"},{"max":10000,"size":"75px"}]', 'loading="lazy" class="faq-image"' -%}
+              <div class="col-6_md-6_sm-10_mi-12"><img src="/assets/images/question-mark.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;66vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;16vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;75px&quot;}]" alt="" class="faq-image">
                 <div class="spacer-175"></div>
                 <h1>{{ texts.-475b7d60 }}</h1>
               </div>
               <div class="col-10_mi-11">
                 <div class="spacer-175"></div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.4b2134d8 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -913,7 +910,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.789bda15 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -923,7 +920,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.-61eb8198 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -933,7 +930,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.39756328 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -943,7 +940,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.746ad9cd }}</div>
                   </div>
                   <div class="accordion-content">
@@ -953,7 +950,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.1d70fca7 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -963,7 +960,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.3a412c47 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -973,7 +970,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.-487d79e5 }}</div>
                   </div>
                   <div class="accordion-content">
@@ -983,7 +980,7 @@ color: #08072e;
                   </div>
                 </div>
                 <div class="accordion">
-                  <div class="accordion-title">{%- image "/assets/images/chevron-black.svg", "", '[]', 'loading="lazy" class="faq-chevron"' -%}
+                  <div class="accordion-title"><img src="/assets/images/chevron-black.svg" loading="lazy" alt="" class="faq-chevron">
                     <div>{{ texts.5d0e851f }}</div>
                   </div>
                   <div class="accordion-content">
@@ -1016,12 +1013,12 @@ color: #08072e;
                     <div class="button-text">{{ texts.-52aefc2f }}</div>
                   </a>
                 </div>
-                <div class="echo-layers">{%- image "/assets/images/pd-4.svg", "", '[]', 'loading="lazy" class="join-the-movement-before-1-awards"' -%}
+                <div class="echo-layers"><img src="/assets/images/pd-4.svg" loading="lazy" alt="" class="join-the-movement-before-1-awards">
                   <div class="echo-layer echo-1"></div>
-                  <div class="echo-layer echo-2">{%- image "/assets/images/echo-1.svg", "", '[]', 'loading="lazy" class="echo-before-1"' -%}{%- image "/assets/images/echo-2.svg", "", '[]', 'loading="lazy" class="echo-before-2"' -%}</div>
+                  <div class="echo-layer echo-2"><img src="/assets/images/echo-1.svg" loading="lazy" alt="" class="echo-before-1"><img src="/assets/images/echo-2.svg" loading="lazy" alt="" class="echo-before-2"></div>
                   <div class="echo-layer echo-3"></div>
                   <div class="echo-layer echo-4"></div>
-                  <div class="echo-layer echo-5"></div>{%- image "/assets/images/pd-2.svg", "", '[]', 'loading="lazy" class="join-the-movement-after-1"' -%}{%- image "/assets/images/echo-3.svg", "", '[]', 'loading="lazy" class="echo-before-3"' -%}
+                  <div class="echo-layer echo-5"></div><img src="/assets/images/pd-2.svg" loading="lazy" alt="" class="join-the-movement-after-1"><img src="/assets/images/echo-3.svg" loading="lazy" alt="" class="echo-before-3">
                 </div>
               </div>
             </div>
