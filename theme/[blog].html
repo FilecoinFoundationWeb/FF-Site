@@ -27,10 +27,7 @@
   <!--  Plausible  -->
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
-        }</style><style>picture { border: 0;
-        max-width: 100%;
-        vertical-align: middle;
-        display: inline-block; }</style></head>
+        }</style></head>
 <body>
   <div class="master-container">
     <div class="global-css w-embed">
@@ -289,7 +286,7 @@ color: #08072e;
     <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
       <div class="container navbar w-container">
         <div class="site-nav">
-          <a href="{{ links.2f }}" class="brand-link w-nav-brand">{%- image "/assets/images/logo.svg", "", '[]', 'loading="lazy"' -%}</a>
+          <a href="{{ links.2f }}" class="brand-link w-nav-brand"><img src="/assets/images/logo.svg" loading="lazy" alt=""></a>
           <div class="desktop-menu">
             <div data-hover="true" data-delay="0" class="nav-dropdown w-dropdown">
               <div class="nav-dropdown-toggle w-dropdown-toggle">
@@ -314,7 +311,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.61642f31 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/multi-persons.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.3c2336d }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.2e416e28 }}</p>
@@ -353,7 +350,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="dropdown-image" loading="lazy"' -%}
+                    <a href="{{ links.-1f5eed02 }}" class="dropdown-top-link w-inline-block"><img class="dropdown-image" src="/assets/images/shield.png" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w">
                       <div class="dropdown-text-block title">{{ texts.-6c911dfe }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.5cc189a }}</p>
@@ -392,7 +389,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.23 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.23 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/multi-circle.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.-22899720 }}</div>
                     </a>
                     <p class="dropdown-text-block">{{ texts.-7701a10c }}</p>
@@ -427,7 +424,7 @@ color: #08072e;
                     </div>
                   </div>
                   <div class="dropdown-relative-wrapper">
-                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                    <a href="{{ links.230c3529 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/money-bag.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                       <div class="dropdown-text-block title">{{ texts.7f9c4ef7 }}</div>
                     </a>
                     <p class="dropdown-text-block">
@@ -469,7 +466,7 @@ color: #08072e;
                   </div>
                   <div class="dropdown-relative-wrapper cols">
                     <div class="dropdown-block-left">
-                      <a href="{{ links.23 }}" class="dropdown-top-link w-inline-block">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="dropdown-image"' -%}
+                      <a href="{{ links.23 }}" class="dropdown-top-link w-inline-block"><img src="/assets/images/raised-hands-large.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="dropdown-image">
                         <div class="dropdown-text-block title">{{ texts.4422b111 }}</div>
                       </a>
                       <p class="dropdown-text-block">
@@ -576,10 +573,10 @@ color: #08072e;
           </div>
           <nav role="navigation" class="tablet-menu w-nav-menu">
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-persons.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/multi-persons.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <a href="{{ links.23 }}" class="dropdown-link link-block w-inline-block">
                   <div>{{ texts.3c2336d }}</div>
-                </a>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </a><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -600,10 +597,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/shield.png", "", '[{"max":10000,"size":"100vw"}]', 'class="tablet-dropdown-image" loading="lazy"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img class="tablet-dropdown-image" src="/assets/images/shield.png" alt="" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" loading="lazy" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w">
                 <a href="{{ links.23 }}" class="dropdown-link link-block w-inline-block">
                   <div>{{ texts.-6c911dfe }}</div>
-                </a>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </a><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -624,10 +621,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/multi-circle.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/multi-circle.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <a href="{{ links.23 }}" class="dropdown-link link-block w-inline-block">
                   <div>{{ texts.-22899720 }}</div>
-                </a>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </a><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -644,10 +641,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/money-bag.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/money-bag.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <a href="{{ links.23 }}" class="dropdown-link link-block w-inline-block">
                   <div>{{ texts.7f9c4ef7 }}</div>
-                </a>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </a><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -670,10 +667,10 @@ color: #08072e;
               </nav>
             </div>
             <div data-hover="false" data-delay="0" class="tablet-nav-dropdown w-dropdown">
-              <div class="tablet-dropdown-toggle w-dropdown-toggle">{%- image "/assets/images/raised-hands-large.png", "", '[{"max":10000,"size":"100vw"}]', 'loading="lazy" class="tablet-dropdown-image"' -%}
+              <div class="tablet-dropdown-toggle w-dropdown-toggle"><img src="/assets/images/raised-hands-large.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt="" class="tablet-dropdown-image">
                 <a href="{{ links.23 }}" class="dropdown-link link-block w-inline-block">
                   <div>{{ texts.4422b111 }}</div>
-                </a>{%- image "/assets/images/chevron.svg", "", '[]', 'loading="lazy" class="dropdown-tablet-chevron"' -%}
+                </a><img src="/assets/images/chevron.svg" loading="lazy" alt="" class="dropdown-tablet-chevron">
               </div>
               <nav class="tablet-dropdown-container w-dropdown-list">
                 <div class="tablet-dropdown-content">
@@ -965,7 +962,7 @@ color: #08072e;
               <div class="post-date">{{ f_post-date | formatDate: "MMMM d, yyyy" }}</div>
               <h1 class="post-title">{{ title }}</h1>
             </div>
-            <div class="col-10_md-8_sm-10_mi-12">{%- image f_image.url, f_image.alt, '[{"max":767,"size":"16px"},{"max":991,"size":"2vw"},{"max":10000,"size":"16px"}]', 'loading="lazy" class="post-image"' -%}</div>
+            <div class="col-10_md-8_sm-10_mi-12"><img loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;16px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;2vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16px&quot;}]" src="{{ f_image.url }}" alt="{{ f_image.alt }}" class="post-image"></div>
           </div>
         </div>
       </section>
