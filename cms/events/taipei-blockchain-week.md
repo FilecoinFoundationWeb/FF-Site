@@ -11,6 +11,8 @@ f_end-date: 2022-12-17T18:19:00.000Z
 f_image:
   url: /assets/images/tapei-blockchain-2022.png
 f_event-date: 2022-12-12T18:19:00.000Z
+f_ff-involvement: Sponsored by FF
+f_icon-type: Info
 tags: events
 layout: "[events].html"
 date: 2023-06-27T17:19:06.362Z
