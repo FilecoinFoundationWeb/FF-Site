@@ -2,7 +2,7 @@
 title: The Filecoin Sanctuary | Davos 2024
 created-on: 2023-11-08T14:03:29.741Z
 updated-on: 2023-11-08T14:03:29.749Z
-f_featured: false
+f_featured: true
 f_description:  Davos, Switzerland
 f_cta: https://fil.org/davos/
 f_cta-text: Register Now
