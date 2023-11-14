@@ -2,7 +2,7 @@
 title: FIL Vegas
 created-on: 2023-07-24T17:09:07.009Z
 published-on: 2023-07-24T17:09:07.033Z
-f_featured: true
+f_featured: false
 f_cta-text: Learn More
 f_image:
   url: /assets/images/fil-vegas-event-header.png
