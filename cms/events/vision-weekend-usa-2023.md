@@ -11,7 +11,7 @@ f_start-date: 2023-12-01T14:08:27.294Z
 f_end-date: 2023-12-03T14:08:27.299Z
 f_image:
   url: /assets/images/vision-weekend.jpeg
-f_event-date: 2023-11-08T14:08:27.306Z
+f_event-date: 2023-12-01T14:08:27.306Z
 f_ff-involvement: Sponsored by FF
 f_icon-type: Info
 tags: events
