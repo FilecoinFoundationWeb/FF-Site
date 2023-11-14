@@ -3,7 +3,7 @@ title: FIL Vegas
 created-on: 2023-07-24T17:09:07.009Z
 published-on: 2023-07-24T17:09:07.033Z
 f_featured: true
-f_cta-text: Register Now
+f_cta-text: Learn More
 f_image:
   url: /assets/images/fil-vegas-event-header.png
 f_event-type: Event
@@ -13,7 +13,7 @@ f_start-date: 2023-10-03T17:09:07.043Z
 f_end-date: 2023-10-05T17:09:07.051Z
 f_event-date: 2023-10-03T17:09:07.060Z
 f_ff-involvement: Hosted by FF
-f_icon-type: Register
+f_icon-type: Info
 tags: events
 layout: "[events].html"
 date: 2023-07-24T17:09:07.068Z
