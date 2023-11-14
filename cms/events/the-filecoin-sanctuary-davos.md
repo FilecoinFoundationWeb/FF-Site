@@ -1,5 +1,5 @@
 ---
-title: The Filecoin Sanctuary | Davos
+title: The Filecoin Sanctuary | Davos 2023
 created-on: 2023-06-27T15:51:17.030Z
 updated-on: 2023-06-27T15:51:17.038Z
 f_featured: false
