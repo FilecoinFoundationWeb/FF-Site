@@ -673,10 +673,6 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: Close, key: 3e2edd8'
-            label: Text
-            name: 3e2edd8
-            widget: string
           - hint: 'Original text: About, key: 3c2336d'
             label: Text
             name: 3c2336d
@@ -831,6 +827,80 @@ collections:
           - hint: 'Original text: /, key: 2f'
             label: Text
             name: 2f
+            widget: string
+          - hint: "Original text: FEATURED\_BLOG, key: -7f418f2c"
+            label: Text
+            name: '-7f418f2c'
+            widget: string
+          - hint: 'Original text: Share to: , key: 8c7f2a2'
+            label: Text
+            name: 8c7f2a2
+            widget: string
+          - hint: 'Original text: Back, key: 1f7907'
+            label: Text
+            name: 1f7907
+            widget: string
+          - hint: 'Original text: Next Article, key: -47ec337'
+            label: Text
+            name: '-47ec337'
+            widget: string
+          - hint: 'Original text: View all posts, key: bda6cf9'
+            label: Text
+            name: bda6cf9
+            widget: string
+          - hint: >-
+              Original text: For media and collaboration inquiries, , key:
+              2b4a4742
+            label: Text
+            name: 2b4a4742
+            widget: string
+          - hint: 'Original text: drop us a line, key: 25efb424'
+            label: Text
+            name: 25efb424
+            widget: string
+          - hint: 'Original text: ., key: 2e'
+            label: Text
+            name: 2e
+            widget: string
+          - hint: >-
+              Original text: For more information on our ecosystem grants, ,
+              key: 14d77b8
+            label: Text
+            name: 14d77b8
+            widget: string
+          - hint: 'Original text: email us, key: 2d5d45a2'
+            label: Text
+            name: 2d5d45a2
+            widget: string
+          - hint: >-
+              Original text: Filecoin Foundation for the Decentralized Web, key:
+              45041158
+            label: Text
+            name: '45041158'
+            widget: string
+          - hint: 'Original text: Data & Privacy Policy, key: 560079da'
+            label: Text
+            name: 560079da
+            widget: string
+          - hint: 'Original text: Terms of Use, key: 38622077'
+            label: Text
+            name: '38622077'
+            widget: string
+          - hint: >-
+              Original text: Content on this site is licensed under a , key:
+              7434b87f
+            label: Text
+            name: 7434b87f
+            widget: string
+          - hint: >-
+              Original text: Creative Commons Attribution 4.0 International
+              license, key: 105c037b
+            label: Text
+            name: 105c037b
+            widget: string
+          - hint: 'Original text: Close, key: 3e2edd8'
+            label: Text
+            name: 3e2edd8
             widget: string
           - hint: 'Original text: Let’s build the internet of everyone, key: 1f0ac7c1'
             label: Text
@@ -1110,10 +1180,6 @@ collections:
             label: Text
             name: 79a701bd
             widget: string
-          - hint: 'Original text: ., key: 2e'
-            label: Text
-            name: 2e
-            widget: string
           - hint: 'Original text: FIL Austin, key: -334ea4f'
             label: Text
             name: '-334ea4f'
@@ -1136,72 +1202,6 @@ collections:
             label: Text
             name: 1991a642
             widget: text
-          - hint: >-
-              Original text: For media and collaboration inquiries, , key:
-              2b4a4742
-            label: Text
-            name: 2b4a4742
-            widget: string
-          - hint: 'Original text: drop us a line, key: 25efb424'
-            label: Text
-            name: 25efb424
-            widget: string
-          - hint: >-
-              Original text: For more information on our ecosystem grants, ,
-              key: 14d77b8
-            label: Text
-            name: 14d77b8
-            widget: string
-          - hint: 'Original text: email us, key: 2d5d45a2'
-            label: Text
-            name: 2d5d45a2
-            widget: string
-          - hint: >-
-              Original text: Filecoin Foundation for the Decentralized Web, key:
-              45041158
-            label: Text
-            name: '45041158'
-            widget: string
-          - hint: 'Original text: Data & Privacy Policy, key: 560079da'
-            label: Text
-            name: 560079da
-            widget: string
-          - hint: 'Original text: Terms of Use, key: 38622077'
-            label: Text
-            name: '38622077'
-            widget: string
-          - hint: >-
-              Original text: Content on this site is licensed under a , key:
-              7434b87f
-            label: Text
-            name: 7434b87f
-            widget: string
-          - hint: >-
-              Original text: Creative Commons Attribution 4.0 International
-              license, key: 105c037b
-            label: Text
-            name: 105c037b
-            widget: string
-          - hint: "Original text: FEATURED\_BLOG, key: -7f418f2c"
-            label: Text
-            name: '-7f418f2c'
-            widget: string
-          - hint: 'Original text: Share to: , key: 8c7f2a2'
-            label: Text
-            name: 8c7f2a2
-            widget: string
-          - hint: 'Original text: Back, key: 1f7907'
-            label: Text
-            name: 1f7907
-            widget: string
-          - hint: 'Original text: Next Article, key: -47ec337'
-            label: Text
-            name: '-47ec337'
-            widget: string
-          - hint: 'Original text: View all posts, key: bda6cf9'
-            label: Text
-            name: bda6cf9
-            widget: string
           - hint: 'Original text: Style Guide, key: -7aba473'
             label: Text
             name: '-7aba473'
@@ -4552,13 +4552,13 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: #, key: 23'
-            label: Link
-            name: '23'
-            widget: string
           - hint: 'Original link: /, key: 2f'
             label: Link
             name: 2f
+            widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
             widget: string
           - hint: 'Original link: /about/, key: 61642f31'
             label: Link
@@ -4600,10 +4600,6 @@ collections:
             label: Link
             name: 6368d3d0
             widget: string
-          - hint: 'Original link: /ecosystem/, key: -4f7e5762'
-            label: Link
-            name: '-4f7e5762'
-            widget: string
           - hint: 'Original link: /ecosystem#board-panel, key: -aa08f75'
             label: Link
             name: '-aa08f75'
@@ -4635,10 +4631,6 @@ collections:
           - hint: 'Original link: /public-data/award/, key: -3bf9ef7e'
             label: Link
             name: '-3bf9ef7e'
-            widget: string
-          - hint: 'Original link: /get-involved/, key: 7894e442'
-            label: Link
-            name: '7894e442'
             widget: string
           - hint: 'Original link: https://fil.org/get-involved, key: -34879643'
             label: Link
@@ -4696,6 +4688,50 @@ collections:
             label: Link
             name: '29985539'
             widget: string
+          - hint: 'Original link: /ecosystem/, key: -4f7e5762'
+            label: Link
+            name: '-4f7e5762'
+            widget: string
+          - hint: 'Original link: /get-involved/, key: 7894e442'
+            label: Link
+            name: '7894e442'
+            widget: string
+          - hint: 'Original link: mailto:hello@fil.org, key: 6a225709'
+            label: Link
+            name: 6a225709
+            widget: string
+          - hint: 'Original link: mailto:devgrants@fil.org, key: -7572349d'
+            label: Link
+            name: '-7572349d'
+            widget: string
+          - hint: 'Original link: https://ffdweb.org/, key: -d1fa66'
+            label: Link
+            name: '-d1fa66'
+            widget: string
+          - hint: >-
+              Original link: https://forkast.news/podcast/the-future-rules/,
+              key: 41b9673c
+            label: Link
+            name: 41b9673c
+            widget: string
+          - hint: 'Original link: https://github.com/filecoin-project, key: 31561323'
+            label: Link
+            name: '31561323'
+            widget: string
+          - hint: 'Original link: /policy/, key: -561c1d2'
+            label: Link
+            name: '-561c1d2'
+            widget: string
+          - hint: 'Original link: /terms/, key: -7e043789'
+            label: Link
+            name: '-7e043789'
+            widget: string
+          - hint: >-
+              Original link: https://creativecommons.org/licenses/by/4.0/, key:
+              21f09c83
+            label: Link
+            name: 21f09c83
+            widget: string
           - hint: >-
               Original link:
               https://www.youtube.com/watch?v=WqwVq0921Y8&embeds_euri=https%3A%2F%2Ffil.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo,
@@ -4706,10 +4742,6 @@ collections:
           - hint: 'Original link: https://docs.filecoin.io/, key: 422b664c'
             label: Link
             name: 422b664c
-            widget: string
-          - hint: 'Original link: https://github.com/filecoin-project, key: 31561323'
-            label: Link
-            name: '31561323'
             widget: string
           - hint: 'Original link: https://liftoff.filecoin.io/, key: 6d74a8e1'
             label: Link
@@ -4789,38 +4821,6 @@ collections:
               583898e0
             label: Link
             name: '583898e0'
-            widget: string
-          - hint: 'Original link: mailto:hello@fil.org, key: 6a225709'
-            label: Link
-            name: 6a225709
-            widget: string
-          - hint: 'Original link: mailto:devgrants@fil.org, key: -7572349d'
-            label: Link
-            name: '-7572349d'
-            widget: string
-          - hint: 'Original link: https://ffdweb.org/, key: -d1fa66'
-            label: Link
-            name: '-d1fa66'
-            widget: string
-          - hint: >-
-              Original link: https://forkast.news/podcast/the-future-rules/,
-              key: 41b9673c
-            label: Link
-            name: 41b9673c
-            widget: string
-          - hint: 'Original link: /policy/, key: -561c1d2'
-            label: Link
-            name: '-561c1d2'
-            widget: string
-          - hint: 'Original link: /terms/, key: -7e043789'
-            label: Link
-            name: '-7e043789'
-            widget: string
-          - hint: >-
-              Original link: https://creativecommons.org/licenses/by/4.0/, key:
-              21f09c83
-            label: Link
-            name: 21f09c83
             widget: string
           - hint: 'Original link: http://hhhh, key: 1eda2b12'
             label: Link
