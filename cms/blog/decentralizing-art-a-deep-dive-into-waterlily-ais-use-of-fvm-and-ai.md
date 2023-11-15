@@ -9,7 +9,7 @@ f_description: Explore Waterlily.ai's innovative approach to AI-generated art,
   art.
 f_featured: false
 f_image:
-  url: /assets/images/06012023-ntent.png
+  url: /assets/images/06262023-waterlilly.png
 f_post-date: 2023-06-28T15:39:01.188Z
 tags: blog
 layout: "[blog].html"
