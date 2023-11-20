@@ -97,4 +97,4 @@ UXIT’s guiding principle is that a competent, but inexperienced user should be
 
 The UXIT team can help the broader Filecoin ecosystem with user testing in the design phase, pre- or post-launch. Reach out to [stefan@fil.org](mailto:stafan@fil.org) to work with FF’s UXIT team.
 
-And to learn about upcoming events like Filecoin Day, subscribe to [The Upload](https://upload.fil.org/), Filecoin Foundation's newsletter for big ideas and news about the Filecoin ecosystem and the decentralized web.
+*And to learn about upcoming events like Filecoin Day, subscribe to [The Upload](https://upload.fil.org/), Filecoin Foundation's newsletter for big ideas and news about the Filecoin ecosystem and the decentralized web.*
