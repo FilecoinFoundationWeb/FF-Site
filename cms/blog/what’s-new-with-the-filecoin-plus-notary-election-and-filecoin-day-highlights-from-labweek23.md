@@ -51,8 +51,6 @@ Filecoin Plus Day also covered the program principles, open source tooling, comp
 
 Watch the full Filecoin Plus Day recording on [YouTube](https://www.youtube.com/watch?v=57Ua4AEWe_g).
 
-
-
 **Filecoin Day**
 
 **Updates from FF & FFDW**
@@ -66,8 +64,6 @@ She also recapped a busy year of impactful events for the Foundation:
 * Filecoin Orbit –– a community-run program of volunteers that host Filecoin events around the world –– had 150 ambassadors host over 190 events in 40+ countries.
 
 Klimen outlined FF and FFDW’s social impact work with partners like Democracy’s Library, MuckRock, MIT Open Learning, and University of Maryland’s Easier Data Initiative, and highlighted the newly launched [DWeb Impact Resources Hub](https://ffdweb.org/resources/) –– a massive collection of blog posts, research papers, news, and tutorials at the intersection of the decentralized web and social good.
-
-
 
 **Filecoin and AI: Building the Next Generation of Data Storage**
 
@@ -98,7 +94,5 @@ Stef Magdalinksi, FF’s Senior Tech Lead, walked us through the User Experience
 UXIT’s guiding principle is that a competent, but inexperienced user should be able to successfully achieve their goal in using a tool, without running into bugs, or needing to break out to refer to additional resources.
 
 The UXIT team can help the broader Filecoin ecosystem with user testing in the design phase, pre- or post-launch. Reach out to [stefan@fil.org](mailto:stafan@fil.org) to work with FF’s UXIT team.
-
-
 
 And to learn about upcoming events like Filecoin Day, subscribe to [The Upload](https://upload.fil.org/), Filecoin Foundation's newsletter for big ideas and news about the Filecoin ecosystem and the decentralized web.
