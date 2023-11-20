@@ -81,8 +81,6 @@ FF Co-Founding Officer Clara Tsao discussed why the future of AI and enterprise 
 
 <div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/yEQz2Bfis0Y?si=29gKIzFdScqYlLdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-
-
 Danny O’Brien, Senior Fellow and DWeb Strategy at FF, presented compelling applications of data on the decentralized web, including: genomics, geodata, human rights applications, archiving the web, electoral results, open-source/free software resources, and more. 
 
 He also highlighted proton packs, or tooling currently available in the ecosystem, that the average person can plug in and use, such as UCAN, [Station](https://www.filstation.app/), open-source Filecoin tooling, etc.
