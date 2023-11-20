@@ -35,6 +35,7 @@ Here’s a quick rundown:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/57Ua4AEWe_g?si=nFb8apksN6EgLB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
 
+\
 Filecoin Plus (Fil+) is a layer of social trust to incentivize the storage of real, valuable data sets on the Filecoin network. Since its inception, Filecoin Plus has scaled the amount of data stored, bringing 1.8 EiB of verified deals to the network!
 
 During Filecoin Plus Day, the Fil+ team introduced key changes to the Notary election process, including:
