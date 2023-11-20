@@ -49,9 +49,11 @@ Clients looking to onboard valuable data onto the network apply to Allocators to
 
 Filecoin Plus Day also covered the program principles, open source tooling, compliance, disputes, and community ownership and governance. 
 
-Watch the full Filecoin Plus Day recording on [YouTube](https://www.youtube.com/watch?v=57Ua4AEWe_g).
+Watch the full Filecoin Plus Day recording on [](https://www.youtube.com/watch?v=57Ua4AEWe_g)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/57Ua4AEWe_g?si=nFb8apksN6EgLB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/57Ua4AEWe_g?si=nFb8apksN6EgLB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
 
 **Filecoin Day**
 
