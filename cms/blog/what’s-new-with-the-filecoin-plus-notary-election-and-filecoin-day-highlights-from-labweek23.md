@@ -31,6 +31,10 @@ Here’s a quick rundown:
 
 **Filecoin Plus Day**
 
+<div style="text-align: center;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/57Ua4AEWe_g?si=nFb8apksN6EgLB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+
 Filecoin Plus (Fil+) is a layer of social trust to incentivize the storage of real, valuable data sets on the Filecoin network. Since its inception, Filecoin Plus has scaled the amount of data stored, bringing 1.8 EiB of verified deals to the network!
 
 During Filecoin Plus Day, the Fil+ team introduced key changes to the Notary election process, including:
@@ -47,13 +51,7 @@ Allocators act as fiduciaries for the Filecoin network and are trusted to respon
 
 Clients looking to onboard valuable data onto the network apply to Allocators to receive DataCap. Data clients then use DataCap to make deals with storage providers, who are incentivized to store this verified data as it increases their share of block rewards over time. 
 
-Filecoin Plus Day also covered the program principles, open source tooling, compliance, disputes, and community ownership and governance. 
-
-Watch the full Filecoin Plus Day recording on [](https://www.youtube.com/watch?v=57Ua4AEWe_g)
-
-<div style="text-align: center;">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/57Ua4AEWe_g?si=nFb8apksN6EgLB_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div>
+Filecoin Plus Day also covered the program principles, open source tooling, compliance, disputes, and community ownership and governance. [](https://www.youtube.com/watch?v=57Ua4AEWe_g)
 
 **Filecoin Day**
 
@@ -81,6 +79,10 @@ FF Co-Founding Officer Clara Tsao discussed why the future of AI and enterprise 
 
 **Crossing the Streams: A Ghostbusters-themed Approach to Scaling the Filecoin Ecosystem**
 
+<div style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/yEQz2Bfis0Y?si=29gKIzFdScqYlLdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+
+
 Danny O’Brien, Senior Fellow and DWeb Strategy at FF, presented compelling applications of data on the decentralized web, including: genomics, geodata, human rights applications, archiving the web, electoral results, open-source/free software resources, and more. 
 
 He also highlighted proton packs, or tooling currently available in the ecosystem, that the average person can plug in and use, such as UCAN, [Station](https://www.filstation.app/), open-source Filecoin tooling, etc.
@@ -88,8 +90,6 @@ He also highlighted proton packs, or tooling currently available in the ecosyste
 O’Brien suggested that in order to scale the Filecoin ecosystem and DWeb more broadly, we need to “cross the streams:” meaning matching the tooling and unique elements of our community with promising applications and niche product market domains.
 
 Who you gonna call? [Filecoin Foundation](mailto:hello@fil.org).
-
-Watch Danny’s presentation on [YouTube](https://www.youtube.com/watch?v=yEQz2Bfis0Y).
 
 **Dogfooding Filecoin and Resources for Developers**
 
