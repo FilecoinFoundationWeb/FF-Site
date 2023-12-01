@@ -347,7 +347,7 @@ collections:
             required: false
       - hint: >-
           NOTE: This field is what the CMS uses for sort order- please enter the
-          first day of the event. 
+          first day of the event.
         name: f_event-date
         label: Event Date
         widget: datetime
@@ -605,7 +605,6 @@ collections:
             name: domain
             label: Domain
             widget: string
-            required: false
           - name: favicon
             label: Favicon
             widget: image
