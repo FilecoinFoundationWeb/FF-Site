@@ -7,7 +7,7 @@ f_image:
   alt: null
 updated-on: '2023-10-30T17:07:15.903Z'
 created-on: '2023-10-30T17:07:15.903Z'
-published-on: '2023-10-30T17:14:51.246Z'
+published-on: '2023-11-28T13:07:52.191Z'
 layout: '[davos-photos].html'
 tags: davos-photos
 ---
