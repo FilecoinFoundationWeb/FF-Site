@@ -24,13 +24,13 @@ Across the week, more than 600 people visited the Network Base to co-work, netwo
 
 Take a look at all the talks from FIL Network Base [here](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kwXj2NgQU6ZrbLlb_Uwmc0)!
 
-![](/assets/images/filecoin-network-base-1.jpg)
+![FIL Network Base attendees talking during Gaming on Filecoin Day](/assets/images/filecoin-network-base-1.jpg)
 
 **Day 1 - Gaming on Filecoin**
 
 On our first day open to the public it was all about gaming on the Filecoin Network! We hosted a Chess meet up and watched some of our Gigabrains battle it out.
 
-![](/assets/images/filecoin-network-base-2.jpg)
+![Chess board sitting on a table](/assets/images/filecoin-network-base-2.jpg)
 
 The rest of the evening featured a number of presentations on how Filecoin and the IPFS serve as foundations for immutable and interoperable web3 games.
 
