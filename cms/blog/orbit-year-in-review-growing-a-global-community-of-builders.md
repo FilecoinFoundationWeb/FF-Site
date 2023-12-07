@@ -40,19 +40,19 @@ Community-organized FIL Events**
 
 This year some Orbit Ambassadors hosted larger, multi-day conferences in Jakarta, Seoul, and Cape Town. 
 
-![](https://lh7-us.googleusercontent.com/u_VQmxVwy2PpnuhoIMTJWQsFIOY2ejupR2NlLeneT7dOF73QoQ0An5u2Jbz18TF6AHuvhXIL-ePkWNzBK61pYLb2-UZtydkuLBpaq8tJziieu8a_RbM-TlAlqF-gaQia_BBSK04m2ErSXGBh0Faz_PY)
+![Filecoin Orbit FIL Jakarta with MetaPals Event](https://lh7-us.googleusercontent.com/u_VQmxVwy2PpnuhoIMTJWQsFIOY2ejupR2NlLeneT7dOF73QoQ0An5u2Jbz18TF6AHuvhXIL-ePkWNzBK61pYLb2-UZtydkuLBpaq8tJziieu8a_RbM-TlAlqF-gaQia_BBSK04m2ErSXGBh0Faz_PY)
 
-![](https://lh7-us.googleusercontent.com/XNeOoVWzGM_EYVuSDzPhd6WCoHHWfiFhgQji2D4xzsOzp8T8YshHA_JZelsau0qqeMogW4ZU4s-NxvAbUJ49fJ4TAH2DBN4h4JYPhmSMVZNxBWNpQSM4j61XJW9H4GFlVL0p5v-FEEJ5-nRPRfGw4v4)
+![Filecoin Orbit Events](https://lh7-us.googleusercontent.com/XNeOoVWzGM_EYVuSDzPhd6WCoHHWfiFhgQji2D4xzsOzp8T8YshHA_JZelsau0qqeMogW4ZU4s-NxvAbUJ49fJ4TAH2DBN4h4JYPhmSMVZNxBWNpQSM4j61XJW9H4GFlVL0p5v-FEEJ5-nRPRfGw4v4)
 
 Hosted by Orbit Ambassador Ryan Long and [MetaPals](https://metapals.pet/), [FIL Jakarta](https://www.fil-jakarta.io/) was the most-attended in-person Filecoin event in Indonesia, drawing over 700 developers, students, storage providers, and community members participating in insightful discussions and hands-on workshops led by industry experts.
 
-![](https://lh7-us.googleusercontent.com/hi_I6856UzIAelg8ra4od-KZVF--dQjVIgJh8Kz1ySV377EKN5Qcyt6BvdCEc3h7CudP7Ptwopq0p0aGk2T3fwhDXYFiWw2ZcoqXPdM9iDnL8sBPv3C1ar-Mwp7k3FfG3kLD9mJBwbtgRPWImu0mD8c)
+![Filecoin Orbit FIL Seoul with Secured Finance Event](https://lh7-us.googleusercontent.com/hi_I6856UzIAelg8ra4od-KZVF--dQjVIgJh8Kz1ySV377EKN5Qcyt6BvdCEc3h7CudP7Ptwopq0p0aGk2T3fwhDXYFiWw2ZcoqXPdM9iDnL8sBPv3C1ar-Mwp7k3FfG3kLD9mJBwbtgRPWImu0mD8c)
 
 This two-day community-FIL event hosted by Orbit Regional Lead East Asia [Secured Finance](https://secured.finance/) served as a forum for storage providers to convene and discuss the future of the ecosystem. Watch the [FIL Seoul](https://www.fil-seoul.com/) recap [video](https://drive.google.com/file/d/1G8Uxy6Zz8IqofqPqIHVb4CqeQd7qSJJA/view?usp=sharing).
 
-![](https://lh7-us.googleusercontent.com/8qK4gQJ4qxR3y1rTg4X-5FTbdKdmYjjzetDe0sgpPWd72sIiurD79A7GgBDiEpciUrKIwZ9_KOLTsmQOkXRzrzRt5JnaLNPkh1GF-3Omkc-0bIZjGw6oHfGujgBEZxoQgZxKQ3KV6nAYPpX0RKoXIKk)
+![FIL Cape Town Event](https://lh7-us.googleusercontent.com/8qK4gQJ4qxR3y1rTg4X-5FTbdKdmYjjzetDe0sgpPWd72sIiurD79A7GgBDiEpciUrKIwZ9_KOLTsmQOkXRzrzRt5JnaLNPkh1GF-3Omkc-0bIZjGw6oHfGujgBEZxoQgZxKQ3KV6nAYPpX0RKoXIKk)
 
-![](https://lh7-us.googleusercontent.com/g7Xoyhp8gzsIaancAgKJVS1kkopfF0pLnB3WZz3R_IVf7UmQS5jWKQRJh-dl4sVKenzeb63n0rny199gsE55FlwqHqVbgKzC_fJodO6wNwgkAy8DIcTfaCs13ASAkXudhDUhZUEQtIEq9RW8lte3VvQ)
+![Filecoin Orbit Events](https://lh7-us.googleusercontent.com/g7Xoyhp8gzsIaancAgKJVS1kkopfF0pLnB3WZz3R_IVf7UmQS5jWKQRJh-dl4sVKenzeb63n0rny199gsE55FlwqHqVbgKzC_fJodO6wNwgkAy8DIcTfaCs13ASAkXudhDUhZUEQtIEq9RW8lte3VvQ)
 
 And Orbit Regional Leads for Africa hosted [FIL Cape Town](https://fil-capetown.io/), the first major Filecoin event in South Africa, drawing over 100 attendees for a day of talks on the most recent developments in the Filecoin ecosystem.
 
