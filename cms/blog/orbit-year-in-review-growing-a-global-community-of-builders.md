@@ -23,7 +23,7 @@ This year, the Filecoin Orbit program helped seed a new crop of thousands of bui
 
 Since the program’s launch, 147 Orbit Ambassadors have introduced an estimated 10,000 early-career developers, students, and enthusiasts to the Filecoin ecosystem through 190 workshops and community hackathons in over 40 countries. 
 
-**E﻿MBED ORBIT VIDEO**
+<div style="text-align: center;"></div><iframe width="560" height="315" src="https://www.youtube.com/embed/O29ugCDMVI4?si=jHf9tZ8JZMhwgNBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 Orbit Ambassadors hosted events in Austin, San Francisco, Miami, Buenos Aires, Mexico City, Rio, Zurich, Paris, Madrid, Casablanca, Lagos, Dar es Salaam, Mumbai, Chennai, Bangalore, Hong Kong, Jakarta, Singapore, Tokyo, Seoul, and many more cities around the world. The program serves as an entry point into the Filecoin Builder’s Funnel, particularly in underrepresented regions. 
 
@@ -61,6 +61,7 @@ And Orbit Regional Leads for Africa hosted [FIL Cape Town](https://fil-capetown.
 Watch Clara Tsao’s talk on Orbit from LabWeek
 
 \
+
 <div style="text-align: center;"></div><iframe width="560" height="315" src="https://www.youtube.com/embed/zV-AicKKx-Q?si=LvE1lnmFMNMXWviW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 **Upcoming Events**
