@@ -35,7 +35,9 @@ In the lead-up to the launch of the Filecoin Virtual Machine (FVM) in the spring
 
 ![](https://lh7-us.googleusercontent.com/6djtAZZNE5ntKf39vPPZvich6TO1Kqx8UWhoAtG4j6weWgiZbUpRPYq4ZsrpRJ0QyvaUACtOWVynwXMrK59uENhF8crEaPnSkJhay-uJR60YpyQq8cf5pqItIDNsZHAZRZoaBhMq0I5Kc6Xj52VgMM8)
 
-The Filecoin Orbit program has also enabled the Filecoin ecosystem to engage with the next generation of builders at top universities through workshops at their hackathons, blockchain conferences, and blockchain clubs. Orbit Ambassadors delivered educational talks at the University of Oxford, National University of Singapore, Hong Kong University of Science and Technology, University of Pennsylvania, Indian Institutes of Technology, University of Lagos, and many more.  **\
+The Filecoin Orbit program has also enabled the Filecoin ecosystem to engage with the next generation of builders at top universities through workshops at their hackathons, blockchain conferences, and blockchain clubs. Orbit Ambassadors delivered educational talks at the University of Oxford, National University of Singapore, Hong Kong University of Science and Technology, University of Pennsylvania, Indian Institutes of Technology, University of Lagos, and many more.  
+
+**\
 Community-organized FIL Events**
 
 This year some Orbit Ambassadors hosted larger, multi-day conferences in Jakarta, Seoul, and Cape Town. 
@@ -56,7 +58,10 @@ This two-day community-FIL event hosted by Orbit Regional Lead East Asia [Secure
 
 And Orbit Regional Leads for Africa hosted [FIL Cape Town](https://fil-capetown.io/), the first major Filecoin event in South Africa, drawing over 100 attendees for a day of talks on the most recent developments in the Filecoin ecosystem.
 
-[Watch Clara Tsao’s talk on Orbit from LabWeek](https://www.youtube.com/watch?v=zV-AicKKx-Q) \[EMBED]
+Watch Clara Tsao’s talk on Orbit from LabWeek
+
+\
+<div style="text-align: center;"></div><iframe width="560" height="315" src="https://www.youtube.com/embed/zV-AicKKx-Q?si=LvE1lnmFMNMXWviW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 **Upcoming Events**
 
