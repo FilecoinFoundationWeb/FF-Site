@@ -6496,7 +6496,16 @@ blockquote {
   position: static;
 }
 
-.link-dev._1, .link-dev._2, .link-dev._3 {
+.link-dev._1 {
+  height: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 64px;
+  display: flex;
+}
+
+.link-dev._2, .link-dev._3 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
