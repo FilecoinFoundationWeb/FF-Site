@@ -611,7 +611,7 @@
         <h1 class="_49px-header section-title">{{ texts.14b24780 }}</h1>
       </div>
       <p class="paragraph light centeredonmobile"><strong class="paragraph">{{ texts.3ca3dba6 }}</strong></p>
-    </div><img src="/assets/images/dscf6108.jpg" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 1439px) 31vw, 32vw" srcset="/assets/images/dscf6108-p-500.jpg 500w, /assets/images/dscf6108-p-800.jpg 800w, /assets/images/dscf6108.jpg 1000w" alt="" class="image-51 about">
+    </div><img src="/assets/images/dscf6108.jpg" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 28vw, (max-width: 1919px) 30vw, 32vw" srcset="/assets/images/dscf6108-p-500.jpg 500w, /assets/images/dscf6108-p-800.jpg 800w, /assets/images/dscf6108.jpg 1000w" alt="" class="image-51 about">
   </section>
   <div class="c-section">
     <div class="div-block-117">
@@ -666,7 +666,7 @@
   <section id="speakers" class="section-speakers">
     <div class="content-3">
       <div class="section-header">
-        <div class="_31px-header">{{ texts.3eee67e9 }}</div>
+        <div class="_31px-header subtitle">{{ texts.3eee67e9 }}</div>
         <h1 class="_49px-header">{{ texts.-7b61fb8c }}</h1>
       </div>
       <div class="columns-4 f2wf-columns-10">
@@ -684,10 +684,14 @@
                   <div class="div-block-105">
                     <div class="_25px-header leftaligned">{{ item.data.title }}</div>
                     <div class="_16px-header light hidden">{{ texts.7635fb4f }}</div>
-                    <div class="_16px-header white">{{ item.data.f_organization }}</div>
-                    <div class="_16px-header white">{{ item.data.f_organization }}</div>
-                    <div class="speakertag _2">{{ item.data.f_tag-1 }}</div>
-                    <div class="speakertag _3">{{ item.data.f_tag-2 }}</div>
+                    <div class="div-block-125">
+                      <div class="_16px-header white">{{ item.data.f_title }}</div>
+                      <div class="_16px-header blue">{{ item.data.f_organization }}</div>
+                    </div>
+                    <div class="div-block-124">
+                      <div class="speakertag _2">{{ item.data.f_tag-1 }}</div>
+                      <div class="speakertag _3">{{ item.data.f_tag-2 }}</div>
+                    </div>
                   </div>
                   <div class="div-block-104"></div>
                 </div>
@@ -707,6 +711,122 @@
       </div>
     </div>
   </section>
+  <section id="speakers" class="section-agenda">
+    <div class="container-schedule">
+      <div class="section-header-2">
+        <div class="_31px-header subtitle">{{ texts.-2a7b5aac }}</div>
+        <h1 class="_49px-header">{{ texts.-25bf0949 }}</h1>
+      </div>
+      <div data-current="Tue" data-easing="ease" data-duration-in="300" data-duration-out="100" class="tabs-2 w-tabs">
+        <div class="tabs-menu-2 w-tab-menu">
+          <a data-w-tab="Tue" class="tab-link-2 w-inline-block w-tab-link w--current">
+            <div class="button-text-4 centered-mobile">{{ texts.39ebc9bb }}</div>
+          </a>
+          <a data-w-tab="Wed" class="tab-link-2 w-inline-block w-tab-link">
+            <div class="button-text-4 centered-mobile">{{ texts.6c62f04a }}</div>
+          </a>
+          <a data-w-tab="Thur" class="tab-link-2 w-inline-block w-tab-link">
+            <div class="button-text-4 centered-mobile">{{ texts.3247e4c0 }}</div>
+          </a>
+        </div>
+        <div class="w-tab-content">
+          <div data-w-tab="Tue" class="w-tab-pane w--tab-active">
+            {%- assign collection = collections.davos-agenda | sort: "-created-on" -%}<div class="w-dyn-list">
+              {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                  <div class="wrapper-agenda">
+                    <div class="details-schedule">
+                      <div class="_16px-header agenda-time">{{ item.data.f_time }}</div>
+                      <div class="_16px-header agenda-location hidden">{{ texts.7635fb4f }}</div>
+                      <div class="div-block-122">
+                        <div class="agendatag _1">{{ item.data.f_tag-1 }}</div>
+                        <div class="agendatag _2">{{ item.data.f_tag-2 }}</div>
+                      </div>
+                    </div>
+                    <div class="info-schedule">
+                      <h2 class="_25px-header leftaligned">{{ item.data.f_title-of-event }}</h2>
+                      <div data-w-id="148d481c-6dd6-2a56-b1b0-3947f96941d9" style="display:none" class="_16px-header open green">{{ texts.62025f9f }}</div>
+                      <div data-w-id="148d481c-6dd6-2a56-b1b0-3947f96941db" class="_16px-header close red">{{ texts.3d3e5d8 }}</div>
+                      <div class="div-block-123">
+                        <h3 class="_16px-header">{{ texts.4072af65 }}</h3>
+                        <h3 class="_16px-header">{{ item.data.f_speakers }}</h3>
+                      </div>
+                      <p class="paragraph">{{ item.data.f_description }}</p>
+                    </div>
+                  </div>
+                </div>{%- endfor -%}
+              </div>{%- endunless -%}
+              {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                <div>{{ texts.3d503d2b }}</div>
+              </div>{%- endif -%}
+            </div>
+          </div>
+          <div data-w-tab="Wed" class="w-tab-pane">
+            {%- assign collection = collections.davos-agenda | sort: "-created-on" -%}<div class="w-dyn-list">
+              {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                  <div class="wrapper-agenda">
+                    <div class="details-schedule">
+                      <div class="_16px-header agenda-time">{{ item.data.f_time }}</div>
+                      <div class="_16px-header agenda-location hidden">{{ texts.7635fb4f }}</div>
+                      <div class="div-block-122">
+                        <div class="agendatag _1">{{ item.data.f_tag-1 }}</div>
+                        <div class="agendatag _2">{{ item.data.f_tag-2 }}</div>
+                      </div>
+                    </div>
+                    <div class="info-schedule">
+                      <h2 class="_25px-header leftaligned">{{ item.data.f_title-of-event }}</h2>
+                      <div data-w-id="e8276083-e1ec-ab7d-eb6e-b19bb0c4461f" style="display:none" class="_16px-header open green">{{ texts.62025f9f }}</div>
+                      <div data-w-id="e8276083-e1ec-ab7d-eb6e-b19bb0c44621" class="_16px-header close red">{{ texts.3d3e5d8 }}</div>
+                      <div class="div-block-123">
+                        <h3 class="_16px-header">{{ texts.4072af65 }}</h3>
+                        <h3 class="_16px-header">{{ item.data.f_speakers }}</h3>
+                      </div>
+                      <p class="paragraph">{{ item.data.f_description }}</p>
+                    </div>
+                  </div>
+                </div>{%- endfor -%}
+              </div>{%- endunless -%}
+              {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                <div>{{ texts.3d503d2b }}</div>
+              </div>{%- endif -%}
+            </div>
+          </div>
+          <div data-w-tab="Thur" class="w-tab-pane">
+            {%- assign collection = collections.davos-agenda | sort: "-created-on" -%}<div class="w-dyn-list">
+              {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                  <div class="wrapper-agenda">
+                    <div class="details-schedule">
+                      <div class="_16px-header agenda-time">{{ item.data.f_time }}</div>
+                      <div class="_16px-header agenda-location hidden">{{ texts.7635fb4f }}</div>
+                      <div class="div-block-122">
+                        <div class="agendatag _1">{{ item.data.f_tag-1 }}</div>
+                        <div class="agendatag _2">{{ item.data.f_tag-2 }}</div>
+                      </div>
+                    </div>
+                    <div class="info-schedule">
+                      <h2 class="_25px-header leftaligned">{{ item.data.f_title-of-event }}</h2>
+                      <div data-w-id="80aa1df8-dae9-d255-7e33-0c654e6843c5" style="display:none" class="_16px-header open green">{{ texts.62025f9f }}</div>
+                      <div data-w-id="80aa1df8-dae9-d255-7e33-0c654e6843c7" class="_16px-header close red">{{ texts.3d3e5d8 }}</div>
+                      <div class="div-block-123">
+                        <h3 class="_16px-header">{{ texts.4072af65 }}</h3>
+                        <h3 class="_16px-header">{{ item.data.f_speakers }}</h3>
+                      </div>
+                      <p class="paragraph">{{ item.data.f_description }}</p>
+                    </div>
+                  </div>
+                </div>{%- endfor -%}
+              </div>{%- endunless -%}
+              {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                <div>{{ texts.3d503d2b }}</div>
+              </div>{%- endif -%}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="container-2c">
     <div class="content-3">
       <div class="section-header">
@@ -715,7 +835,7 @@
       </div>
       <p class="paragraph light centeredonmobile"><strong class="paragraph">{{ texts.4468920c }}</strong></p>
       <a href="{{ links.-b4ad629 }}" class="button-3 w-button">{{ texts.-53f399f2 }}</a>
-    </div><img src="/assets/images/rectangle-8.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 1439px) 31vw, 32vw" srcset="/assets/images/rectangle-8-p-500.png 500w, /assets/images/rectangle-8-p-800.png 800w, /assets/images/rectangle-8-p-1080.png 1080w, /assets/images/rectangle-8-p-1600.png 1600w, /assets/images/rectangle-8.png 2937w" alt="" class="image-51">
+    </div><img src="/assets/images/rectangle-8.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 84vw, (max-width: 991px) 28vw, (max-width: 1919px) 30vw, 32vw" srcset="/assets/images/rectangle-8-p-500.png 500w, /assets/images/rectangle-8-p-800.png 800w, /assets/images/rectangle-8-p-1080.png 1080w, /assets/images/rectangle-8-p-1600.png 1600w, /assets/images/rectangle-8.png 2937w" alt="" class="image-51">
   </section>
   <section class="container-3c _250">
     <div style="padding-top:56.17021276595745%" class="w-embed-youtubevideo youtube"><iframe src="https://www.youtube.com/embed/hg8e3_gKtwU?rel=0&amp;controls=0&amp;autoplay=0&amp;mute=0&amp;start=0" frameborder="0" style="position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:auto" allow="autoplay; encrypted-media" allowfullscreen="" title="DWeb Gateway @ Davos 2022"></iframe></div>
@@ -730,7 +850,7 @@
       </div>
       <p class="paragraph light centeredonmobile"><strong class="paragraph">{{ texts.-7812038a }}</strong></p>
       <a href="{{ links.-73487ac7 }}" target="_blank" class="button-3 w-button">{{ texts.-43111cd0 }}</a>
-    </div><img src="/assets/images/davos_map.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 1439px) 31vw, 32vw" srcset="/assets/images/davos_map-p-500.png 500w, /assets/images/davos_map-p-800.png 800w, /assets/images/davos_map-p-1080.png 1080w, /assets/images/davos_map-p-1600.png 1600w, /assets/images/davos_map.png 2091w" alt="" class="image-51 map">
+    </div><img src="/assets/images/davos_map.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 84vw, (max-width: 991px) 28vw, (max-width: 1919px) 30vw, 32vw" srcset="/assets/images/davos_map-p-500.png 500w, /assets/images/davos_map-p-800.png 800w, /assets/images/davos_map-p-1080.png 1080w, /assets/images/davos_map-p-1600.png 1600w, /assets/images/davos_map.png 2091w" alt="" class="image-51 map">
   </section>
   <section class="container-2c reverse">
     <div class="content-3">

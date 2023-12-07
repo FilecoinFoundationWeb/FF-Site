@@ -140,6 +140,16 @@ collections:
         label: Moderator Name
         widget: string
         required: false
+      - hint: ''
+        name: f_tag-1
+        label: Tag 1
+        widget: string
+        required: false
+      - hint: ''
+        name: f_tag-2
+        label: Tag 2
+        widget: string
+        required: false
       - label: Tags
         widget: hidden
         name: tags
@@ -4697,6 +4707,38 @@ collections:
             label: Text
             name: 1d5c84b2
             widget: string
+          - hint: 'Original text: JOIN US, key: -2a7b5aac'
+            label: Text
+            name: '-2a7b5aac'
+            widget: string
+          - hint: 'Original text: Schedule, key: -25bf0949'
+            label: Text
+            name: '-25bf0949'
+            widget: string
+          - hint: 'Original text: Tue, Oct 3, key: 39ebc9bb'
+            label: Text
+            name: 39ebc9bb
+            widget: string
+          - hint: 'Original text: Wed, oct 4, key: 6c62f04a'
+            label: Text
+            name: 6c62f04a
+            widget: string
+          - hint: 'Original text: Thu, oct 5, key: 3247e4c0'
+            label: Text
+            name: 3247e4c0
+            widget: string
+          - hint: 'Original text: READ MORE, key: 62025f9f'
+            label: Text
+            name: 62025f9f
+            widget: string
+          - hint: 'Original text: CLOSE, key: 3d3e5d8'
+            label: Text
+            name: 3d3e5d8
+            widget: string
+          - hint: 'Original text: Speaker(s): , key: 4072af65'
+            label: Text
+            name: 4072af65
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5305,6 +5347,19 @@ collections:
                 required: false
           - label: Image
             name: i500b66ff
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i435d0245
             widget: object
             fields:
               - name: url
