@@ -60,8 +60,6 @@ And Orbit Regional Leads for Africa hosted [FIL Cape Town](https://fil-capetown.
 
 Watch Clara Tsao’s talk on Orbit from LabWeek
 
-\
-
 <div style="text-align: center;"></div><iframe width="560" height="315" src="https://www.youtube.com/embed/zV-AicKKx-Q?si=LvE1lnmFMNMXWviW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 **Upcoming Events**
