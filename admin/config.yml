@@ -80,6 +80,237 @@ collections:
             name: additional_tags
             widget: text
             required: false
+  - name: davos_agenda
+    label: Davos Agendas
+    folder: cms/davos-agenda
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_title-of-event
+        label: Title of Event
+        widget: string
+        required: false
+      - hint: 'Example: 9am (This is what will show on the front-end of the site)'
+        name: f_time
+        label: Time
+        widget: string
+        required: false
+      - hint: 'This will ensure that the agenda sorts the events correctly '
+        name: f_time-start
+        label: Time Start
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_description
+        label: Description
+        widget: string
+        required: false
+      - hint: >-
+          Please list with commas. This will appear on the front-end of the site
+          as what you put here. 
+        name: f_speakers
+        label: Speakers
+        widget: string
+        required: false
+      - hint: ''
+        name: f_moderator-name
+        label: Moderator Name
+        widget: string
+        required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: davos-agenda
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[davos-agenda].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: davos_speakers
+    label: Davos Speakers
+    folder: cms/davos-speakers
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_organization
+        label: Organization
+        widget: string
+        required: false
+      - hint: ''
+        name: f_title
+        label: Title
+        widget: string
+        required: false
+      - hint: ''
+        name: f_headshot
+        label: Headshot
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_bio
+        label: Bio
+        widget: string
+        required: false
+      - hint: ''
+        name: f_tag-1
+        label: Tag 1
+        widget: string
+        required: false
+      - hint: ''
+        name: f_tag-2
+        label: Tag 2
+        widget: string
+        required: false
+      - hint: ''
+        name: f_vip
+        label: VIP
+        widget: boolean
+        required: false
+        default: false
+      - hint: ''
+        name: f_vvip
+        label: VVIP
+        widget: boolean
+        required: false
+        default: false
+      - hint: ''
+        name: f_vvvip-1
+        label: 'VVVIP - #1'
+        widget: boolean
+        required: false
+        default: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: davos-speakers
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[davos-speakers].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: davos_sponsor_logos
+    label: Davos Sponsor Logos
+    folder: cms/davos-sponsor-logos
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: >-
+          Please make sure this is a .png with background removed AND in white
+          :) 
+        name: f_sponsor-logo
+        label: Sponsor Logo
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: davos-sponsor-logos
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[davos-sponsor-logos].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - name: davos_photos
     label: Davos Photos
     folder: cms/davos-photos
@@ -4440,6 +4671,32 @@ collections:
             label: Text
             name: 9167f58
             widget: text
+          - hint: 'Original text: Sponsored by, key: -59d8df42'
+            label: Text
+            name: '-59d8df42'
+            widget: string
+          - hint: 'Original text: DISCOVER, key: 3eee67e9'
+            label: Text
+            name: 3eee67e9
+            widget: string
+          - hint: 'Original text: Speakers, key: -7b61fb8c'
+            label: Text
+            name: '-7b61fb8c'
+            widget: string
+          - hint: >-
+              Original text: This is some text inside of a div block., key:
+              7635fb4f
+            label: Text
+            name: 7635fb4f
+            widget: string
+          - hint: 'Original text: Close Bio, key: 5a97d2a0'
+            label: Text
+            name: 5a97d2a0
+            widget: string
+          - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
+            label: Text
+            name: 1d5c84b2
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5035,6 +5292,19 @@ collections:
                 required: false
           - label: Image
             name: 5c2f0f5c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i500b66ff
             widget: object
             fields:
               - name: url
