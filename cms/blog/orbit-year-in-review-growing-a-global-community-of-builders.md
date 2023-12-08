@@ -27,7 +27,7 @@ Since the program’s launch, 147 Orbit Ambassadors have introduced an estimated
 
 Orbit Ambassadors hosted events in Austin, San Francisco, Miami, Buenos Aires, Mexico City, Rio, Zurich, Paris, Madrid, Casablanca, Lagos, Dar es Salaam, Mumbai, Chennai, Bangalore, Hong Kong, Jakarta, Singapore, Tokyo, Seoul, and many more cities around the world. The program serves as an entry point into the Filecoin Builder’s Funnel, particularly in underrepresented regions. 
 
-![](https://lh7-us.googleusercontent.com/kp3Es5J8b1Jv7VIIzKOO0UrrNbsG5jnSGSg1jxspztmMkmItiEVBNjV67QuUGn4vdrIZPQuC3FlURk5qFDNWx-jky5Yo29PE_tGN8Rt97d2Q6-GvxtA57TxvINPEyqeBnntkCkkkgTf4T9D9ggUkCBg)
+![The five stages of the Builder's Funnel Pipeline: Educate, Hack, Fund, Fuel, and Scale. ](https://lh7-us.googleusercontent.com/kp3Es5J8b1Jv7VIIzKOO0UrrNbsG5jnSGSg1jxspztmMkmItiEVBNjV67QuUGn4vdrIZPQuC3FlURk5qFDNWx-jky5Yo29PE_tGN8Rt97d2Q6-GvxtA57TxvINPEyqeBnntkCkkkgTf4T9D9ggUkCBg)
 
 The Builder’s Funnel is the pipeline to transform the projects of early builders into funded startups. In this process, Orbit serves as a gateway, welcoming builders into the ecosystem to learn about Filecoin. From there, they may participate in a hackathon, apply for a Filecoin Foundation grant to fund their project, and then grow and scale the project through an accelerator or funding. 
 
