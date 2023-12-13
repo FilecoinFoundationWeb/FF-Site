@@ -6500,6 +6500,7 @@ blockquote {
 
 .link-dev._1 {
   height: auto;
+  filter: none;
   flex-direction: column;
   justify-content: center;
   align-items: center;
