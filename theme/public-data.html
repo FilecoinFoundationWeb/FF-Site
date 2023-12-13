@@ -1568,7 +1568,7 @@ filter: drop-shadow(5px 5px 5px rgba(0,0,0,.15));
                           <div>{{ texts.-1e799b27 }}</div>
                           <div class="case-study-title clamp-2">{{ item.data.title }}</div>
                           <p class="clamp-4">{{ item.data.f_description }}</p>
-                          <a href="{{ links.23 }}" class="case-study-link"></a>
+                          <a href="{{ item.data.f_cta }}" class="case-study-link">{{ item.data.f_cta-text }}</a>
                         </div>
                       </div>
                     </div>{%- endfor -%}

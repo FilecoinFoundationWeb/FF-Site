@@ -6,9 +6,7 @@ slug: governance
 tags: pages
 seo:
   noindex: false
-  title: Governance
-  og:title: Governance
-  twitter:title: Governance
+  title: Filecoin Foundation
 ---
 
 

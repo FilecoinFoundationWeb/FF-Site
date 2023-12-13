@@ -6,9 +6,7 @@ slug: about
 tags: pages
 seo:
   noindex: false
-  title: About
-  og:title: About
-  twitter:title: About
+  title: Filecoin Foundation
 ---
 
 
