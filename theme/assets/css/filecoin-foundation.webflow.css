@@ -6289,6 +6289,10 @@ blockquote {
   font-weight: 400;
 }
 
+._31px-header.subtitle.davossubtitle {
+  background-color: var(--denim);
+}
+
 ._49px-header {
   color: #fff;
   text-align: center;
