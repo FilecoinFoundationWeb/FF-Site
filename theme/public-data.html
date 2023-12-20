@@ -4,6 +4,11 @@
   
   
   
+  
+  
+  
+  
+  
   <meta content="width=device-width, initial-scale=1" name="viewport">
   
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
@@ -150,6 +155,62 @@
   background-color: #154ED9;
   color: #F0F7FD;
   box-shadow: 0 0 6px #06094e;
+}
+.button.primary.blue:hover:before {
+  background-color: #08072e;
+}
+.button.primary.blue:hover:after {
+  background-color: #08072e;
+}
+.button.primary.blue:before {
+  background-color: #154ed9;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.blue:after {
+  background-color: #73b4ed;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.blue .button-text {
+  background-color: #08072e;
+  color: #F0F7FD;
+  box-shadow: 0 0 6px #06094e;
+}
+/* -------------------- sort-------------------- */
+.button.primary.sort:hover:before {
+  background-color: #08072e;
+}
+.button.primary.sort:hover:after {
+  background-color: #2354d9;
+}
+.button.primary.sort:before {
+  background-color: #2354d9;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.sort:after {
+  background-color: #3394ff;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.sort .button-text {
+  background-color: #08072e;
+  color: #F0F7FD;
+  box-shadow: 0 0 6px #06094e;
+}
+.button.primary.more:hover:before {
+  background-color: #204fdd;
+}
+.button.primary.more:hover:after {
+  background-color: #2354d9;
+}
+.button.primary.more:before {
+  background-color: #204fdd;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.more:after {
+  background-color: #204fdd;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.more .button-text {
+  color: #F0F7FD;
 }
 .button.primary:focus {
   outline: none;
@@ -308,6 +369,12 @@ color: #08072e;
 }
 .card-director:hover img {
  bottom: 100%;
+}
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 </style>
     </div>
@@ -846,7 +913,7 @@ color: #08072e;
           <div class="container">
             <div id="hero-image-right" class="col-7_off-5 relative">
               <div class="blocks-border">
-                <div class="image-block-public-data"><img class="full-image" src="/assets/images/congress.png" alt="A picture of the US congress applauding. " data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;47vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;48vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;498.65625px&quot;}]" sizes="(max-width: 479px) 43vw, (max-width: 767px) 47vw, (max-width: 991px) 48vw, 498.65625px" loading="lazy" srcset="/assets/images/congress-p-500.png 500w, /assets/images/congress.png 557w"></div><img src="/assets/images/pd-2.svg" loading="lazy" alt="" class="public-data-hero-artifact-2">
+                <div class="image-block-public-data"><img class="full-image" src="/assets/images/congress.png" alt="A picture of the US congress applauding. " data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;47vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;48vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;498.65625px&quot;}]" sizes="(max-width: 479px) 100vw, (max-width: 767px) 44vw, (max-width: 991px) 48vw, 498.65625px" loading="lazy" srcset="/assets/images/congress-p-500.png 500w, /assets/images/congress.png 557w"></div><img src="/assets/images/pd-2.svg" loading="lazy" alt="" class="public-data-hero-artifact-2">
               </div>
               <div class="echo-layers"><img src="/assets/images/pd-3.svg" loading="lazy" alt="" class="public-data-hero-artifact-3">
                 <div class="echo-layer echo-1"></div>
@@ -1216,7 +1283,7 @@ color: #08072e;
                 <div class="spacer-175"></div>
                 <p>{{ texts.4b40de7c }}<br><br>{{ texts.-5138b9b9 }}<br><br>{{ texts.-309697d6 }}<br><br>{{ texts.-1dfe6e17 }}</p>
               </div>
-              <div class="col-5_sm-9_mi-11 relative"><img src="/assets/images/public-datasets-cluster.png" alt="A collage of pictures showing political buildings, a woman working on a laptop, and John P Farmer, former chief technology officer for the city of New York." data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;84vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;69vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" sizes="(max-width: 767px) 84vw, (max-width: 991px) 69vw, 393.328125px" loading="lazy" srcset="/assets/images/public-datasets-cluster-p-500.png 500w, /assets/images/public-datasets-cluster.png 806w">
+              <div class="col-5_sm-9_mi-11 relative"><img src="/assets/images/public-datasets-cluster.png" alt="A collage of pictures showing political buildings, a woman working on a laptop, and John P Farmer, former chief technology officer for the city of New York." data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;84vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;69vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;393.328125px&quot;}]" sizes="(max-width: 479px) 77vw, (max-width: 767px) 80vw, (max-width: 991px) 69vw, 393.328125px" loading="lazy" srcset="/assets/images/public-datasets-cluster-p-500.png 500w, /assets/images/public-datasets-cluster.png 806w">
                 <a video-youtube="" href="{{ links.-7687ba7b }}" class="button-type-video w-inline-block">
                   <div class="play-icon w-embed"><svg data-v-0028e0d9="" data-v-68701e62="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9">
                       <path data-v-0028e0d9="" d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner" fill="white"></path>
@@ -1432,7 +1499,7 @@ color: #08072e;
                 <div class="spacer-175"></div>
               </div>
               <div class="col-5_mi-11">
-                <div class="intro-4_image-block"><img src="/assets/images/award-opportunities-cluster.png" alt="A picture collage showing people working on a laptop and a group of people standing together for a group photo. " data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;98vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;40vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;613.328125px&quot;}]" sizes="(max-width: 479px) 98vw, (max-width: 767px) 87vw, (max-width: 991px) 40vw, 613.328125px" loading="lazy" srcset="/assets/images/award-opportunities-cluster-p-500.png 500w, /assets/images/award-opportunities-cluster-p-800.png 800w, /assets/images/award-opportunities-cluster.png 920w"></div>
+                <div class="intro-4_image-block"><img src="/assets/images/award-opportunities-cluster.png" alt="A picture collage showing people working on a laptop and a group of people standing together for a group photo. " data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;98vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;40vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;613.328125px&quot;}]" sizes="(max-width: 479px) 80vw, (max-width: 767px) 82vw, (max-width: 991px) 40vw, 613.328125px" loading="lazy" srcset="/assets/images/award-opportunities-cluster-p-500.png 500w, /assets/images/award-opportunities-cluster-p-800.png 800w, /assets/images/award-opportunities-cluster.png 920w"></div>
               </div>
             </div>
           </div>

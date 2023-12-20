@@ -4,6 +4,11 @@
   
   
   
+  
+  
+  
+  
+  
   <meta content="width=device-width, initial-scale=1" name="viewport">
   
   <link href="/assets/css/normalize.css" rel="stylesheet" type="text/css">
@@ -124,6 +129,62 @@
   background-color: #154ED9;
   color: #F0F7FD;
   box-shadow: 0 0 6px #06094e;
+}
+.button.primary.blue:hover:before {
+  background-color: #08072e;
+}
+.button.primary.blue:hover:after {
+  background-color: #08072e;
+}
+.button.primary.blue:before {
+  background-color: #154ed9;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.blue:after {
+  background-color: #73b4ed;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.blue .button-text {
+  background-color: #08072e;
+  color: #F0F7FD;
+  box-shadow: 0 0 6px #06094e;
+}
+/* -------------------- sort-------------------- */
+.button.primary.sort:hover:before {
+  background-color: #08072e;
+}
+.button.primary.sort:hover:after {
+  background-color: #2354d9;
+}
+.button.primary.sort:before {
+  background-color: #2354d9;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.sort:after {
+  background-color: #3394ff;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.sort .button-text {
+  background-color: #08072e;
+  color: #F0F7FD;
+  box-shadow: 0 0 6px #06094e;
+}
+.button.primary.more:hover:before {
+  background-color: #204fdd;
+}
+.button.primary.more:hover:after {
+  background-color: #2354d9;
+}
+.button.primary.more:before {
+  background-color: #204fdd;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.more:after {
+  background-color: #204fdd;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.more .button-text {
+  color: #F0F7FD;
 }
 .button.primary:focus {
   outline: none;
@@ -282,6 +343,12 @@ color: #08072e;
 }
 .card-director:hover img {
  bottom: 100%;
+}
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 </style>
     </div>
@@ -1193,7 +1260,7 @@ color: #08072e;
                       <div class="card-title">{{ texts.-301aa369 }}</div>
                       <div class="card-description">{{ texts.-d474b62 }}</div>
                     </a>
-                    <a href="{{ links.-178c9db }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/shield.png" loading="lazy" alt="" sizes="40px" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w" class="image-size-regular">
+                    <a href="{{ links.-178c9db }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/shield.png" loading="lazy" alt="" sizes="(max-width: 479px) 18vw, 40px" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w" class="image-size-regular">
                       <div class="card-title">{{ texts.-6276bfe9 }}</div>
                       <div class="card-description">{{ texts.-5c4fb59f }}<br><br>{{ texts.5a05595d }}</div>
                     </a>
@@ -1318,7 +1385,7 @@ color: #08072e;
                           <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer-video"></path>
                         </svg></div>
                     </div>
-                    <div class="video-tint"></div><img src="/assets/images/fil-austing.png" loading="lazy" alt="" sizes="(max-width: 479px) 51vw, (max-width: 767px) 55vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/fil-austing-p-500.png 500w, /assets/images/fil-austing-p-800.png 800w, /assets/images/fil-austing-p-1080.png 1080w, /assets/images/fil-austing.png 1278w" class="relative-image">
+                    <div class="video-tint"></div><img src="/assets/images/fil-austing.png" loading="lazy" alt="" sizes="100vw, (max-width: 767px) 62vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/fil-austing-p-500.png 500w, /assets/images/fil-austing-p-800.png 800w, /assets/images/fil-austing-p-1080.png 1080w, /assets/images/fil-austing.png 1278w" class="relative-image">
                   </a>
                 </div>
               </div>
@@ -1348,7 +1415,7 @@ color: #08072e;
                           <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer-video"></path>
                         </svg></div>
                     </div>
-                    <div class="video-tint"></div><img src="/assets/images/dweb.png" loading="lazy" alt="" sizes="(max-width: 479px) 51vw, (max-width: 767px) 55vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/dweb-p-500.png 500w, /assets/images/dweb-p-800.png 800w, /assets/images/dweb-p-1080.png 1080w, /assets/images/dweb.png 1275w" class="relative-image">
+                    <div class="video-tint"></div><img src="/assets/images/dweb.png" loading="lazy" alt="" sizes="100vw, (max-width: 767px) 62vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/dweb-p-500.png 500w, /assets/images/dweb-p-800.png 800w, /assets/images/dweb-p-1080.png 1080w, /assets/images/dweb.png 1275w" class="relative-image">
                   </a>
                 </div>
               </div>

@@ -76,10 +76,183 @@ collections:
             name: twitter:creator
             widget: string
             required: false
+            name: twitter:image
+            widget: image
+            required: false
+            media_library:
+              config:
+                multiple: false
           - label: Additional HTML tags
             name: additional_tags
             widget: text
             required: false
+  - name: partners
+    label: Partners
+    folder: cms/partners
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_brand
+        label: brand
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: partners
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[partners].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
+  - name: ecosystem
+    label: Ecosystems
+    folder: cms/ecosystem
+    create: true
+    identifier_field: name
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - hint: ''
+        name: title
+        label: Name
+        widget: string
+        required: true
+      - hint: ''
+        name: created-on
+        label: Created On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: updated-on
+        label: Updated On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: published-on
+        label: Published On
+        widget: datetime
+        required: false
+      - hint: ''
+        name: f_description
+        label: Description
+        widget: string
+        required: true
+      - hint: ''
+        name: f_brand
+        label: Brand
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Image
+            widget: image
+            required: false
+            allow_multiple: false
+          - hint: Image Alt
+            name: alt
+            label: alt
+            widget: string
+            required: false
+      - hint: ''
+        name: f_latest-updates
+        label: Latest Updates
+        widget: string
+        required: false
+      - hint: ''
+        name: f_video
+        label: Video
+        widget: object
+        required: false
+        fields:
+          - hint: ''
+            name: url
+            label: Url
+            widget: string
+            required: false
+      - hint: ''
+        name: f_website
+        label: Website
+        widget: string
+        required: false
+      - hint: ''
+        name: f_repo
+        label: Repo
+        widget: string
+        required: false
+      - hint: ''
+        name: f_case-study
+        label: Case Study
+        widget: string
+        required: false
+      - hint: ''
+        name: f_social-media
+        label: Social Media
+        widget: string
+        required: false
+      - hint: ''
+        name: f_year
+        label: Year
+        widget: number
+        required: false
+      - hint: ''
+        name: f_color
+        label: color
+        widget: color
+        required: false
+        enableAlpha: true
+        allowInput: true
+      - label: Tags
+        widget: hidden
+        name: tags
+        default: ecosystem
+      - label: Layout
+        widget: hidden
+        name: layout
+        default: '[ecosystem].html'
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - *ref_0
   - name: davos_agenda
     label: Davos Agendas
     folder: cms/davos-agenda
@@ -2003,6 +2176,10 @@ collections:
             label: Text
             name: 2406b6
             widget: string
+          - hint: 'Original text: Davos, key: 3ec1f1d'
+            label: Text
+            name: 3ec1f1d
+            widget: string
           - hint: 'Original text: The Filecoin Sanctuary, key: 14b24780'
             label: Text
             name: 14b24780
@@ -2019,6 +2196,10 @@ collections:
             label: Text
             name: '-3f39fa6e'
             widget: string
+          - hint: 'Original text: Partners, key: 4ab920cb'
+            label: Text
+            name: 4ab920cb
+            widget: string
           - hint: 'Original text: ABOUT, key: 3b32b6d'
             label: Text
             name: 3b32b6d
@@ -2032,6 +2213,70 @@ collections:
             label: Text
             name: 3ca3dba6
             widget: text
+          - hint: 'Original text: DISCOVER, key: 3eee67e9'
+            label: Text
+            name: 3eee67e9
+            widget: string
+          - hint: 'Original text: Speakers, key: -7b61fb8c'
+            label: Text
+            name: '-7b61fb8c'
+            widget: string
+          - hint: >-
+              Original text: This is some text inside of a div block., key:
+              7635fb4f
+            label: Text
+            name: 7635fb4f
+            widget: string
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. Suspendisse varius enim in eros elementum tristique. Duis
+              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
+              commodo diam libero vitae erat. Aenean faucibus nibh et justo
+              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
+              tristique posuere., key: -5286fc08
+            label: Text
+            name: '-5286fc08'
+            widget: text
+          - hint: 'Original text: Close Bio, key: 5a97d2a0'
+            label: Text
+            name: 5a97d2a0
+            widget: string
+          - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
+            label: Text
+            name: 1d5c84b2
+            widget: string
+          - hint: 'Original text: JOIN US, key: -2a7b5aac'
+            label: Text
+            name: '-2a7b5aac'
+            widget: string
+          - hint: 'Original text: Schedule, key: -25bf0949'
+            label: Text
+            name: '-25bf0949'
+            widget: string
+          - hint: 'Original text: Tue, Oct 3, key: 39ebc9bb'
+            label: Text
+            name: 39ebc9bb
+            widget: string
+          - hint: 'Original text: Wed, oct 4, key: 6c62f04a'
+            label: Text
+            name: 6c62f04a
+            widget: string
+          - hint: 'Original text: Thu, oct 5, key: 3247e4c0'
+            label: Text
+            name: 3247e4c0
+            widget: string
+          - hint: 'Original text: READ MORE, key: 62025f9f'
+            label: Text
+            name: 62025f9f
+            widget: string
+          - hint: 'Original text: CLOSE, key: 3d3e5d8'
+            label: Text
+            name: 3d3e5d8
+            widget: string
+          - hint: 'Original text: Speaker(s): , key: 4072af65'
+            label: Text
+            name: 4072af65
+            widget: string
           - hint: 'Original text: Sponsor, key: -13ec1506'
             label: Text
             name: '-13ec1506'
@@ -2056,10 +2301,6 @@ collections:
           - hint: 'Original text: Explore, key: 15309273'
             label: Text
             name: '15309273'
-            widget: string
-          - hint: 'Original text: Davos, key: 3ec1f1d'
-            label: Text
-            name: 3ec1f1d
             widget: string
           - hint: >-
               Original text: Housed in the historic church across from the
@@ -3634,10 +3875,6 @@ collections:
             label: Text
             name: '-1e799b27'
             widget: string
-          - hint: 'Original text: + More, key: 4b48024a'
-            label: Text
-            name: 4b48024a
-            widget: string
           - hint: 'Original text: What is Filecoin?, key: -1055c08'
             label: Text
             name: '-1055c08'
@@ -3869,16 +4106,6 @@ collections:
             label: Text
             name: 8ee
             widget: string
-          - hint: >-
-              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Suspendisse varius enim in eros elementum tristique. Duis
-              cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
-              commodo diam libero vitae erat. Aenean faucibus nibh et justo
-              cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
-              tristique posuere., key: -5286fc08
-            label: Text
-            name: '-5286fc08'
-            widget: text
           - hint: 'Original text: P, key: 50'
             label: Text
             name: '50'
@@ -4681,63 +4908,462 @@ collections:
             label: Text
             name: 9167f58
             widget: text
-          - hint: 'Original text: Sponsored by, key: -59d8df42'
+          - hint: 'Original text: Filecoin Ecosystem Explorer, key: -5d06138e'
             label: Text
-            name: '-59d8df42'
-            widget: string
-          - hint: 'Original text: DISCOVER, key: 3eee67e9'
-            label: Text
-            name: 3eee67e9
-            widget: string
-          - hint: 'Original text: Speakers, key: -7b61fb8c'
-            label: Text
-            name: '-7b61fb8c'
+            name: '-5d06138e'
             widget: string
           - hint: >-
-              Original text: This is some text inside of a div block., key:
-              7635fb4f
+              Original text: Explore the interactive showcase of diverse
+              projects that make up the Filecoin ecosystem. Given the network’s
+              dynamic growth, this is not an exhaustive list but serves as a
+              launching pad for exploring the ecosystem. If you’re a part of the
+              Filecoin ecosystem and don’t see your project listed, share your
+              details., key: 66cdfe3e
             label: Text
-            name: 7635fb4f
+            name: 66cdfe3e
+            widget: text
+          - hint: 'Original text: submit your project, key: -de7d4cc'
+            label: Text
+            name: '-de7d4cc'
             widget: string
-          - hint: 'Original text: Close Bio, key: 5a97d2a0'
+          - hint: 'Original text: featured project, key: 38abd27'
             label: Text
-            name: 5a97d2a0
+            name: 38abd27
             widget: string
-          - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
+          - hint: 'Original text: Ecosystem projects, key: -35777446'
             label: Text
-            name: 1d5c84b2
+            name: '-35777446'
             widget: string
-          - hint: 'Original text: JOIN US, key: -2a7b5aac'
+          - hint: >-
+              Original text: Discover the diverse landscape of Filecoin
+              projects, key: 3444ec9f
             label: Text
-            name: '-2a7b5aac'
+            name: 3444ec9f
             widget: string
-          - hint: 'Original text: Schedule, key: -25bf0949'
+          - hint: 'Original text: Filters, key: 30493bdb'
             label: Text
-            name: '-25bf0949'
+            name: 30493bdb
             widget: string
-          - hint: 'Original text: Tue, Oct 3, key: 39ebc9bb'
+          - hint: 'Original text: All filters, key: 3322305c'
             label: Text
-            name: 39ebc9bb
+            name: 3322305c
             widget: string
-          - hint: 'Original text: Wed, oct 4, key: 6c62f04a'
+          - hint: 'Original text: TECH, key: 273a96'
             label: Text
-            name: 6c62f04a
+            name: 273a96
             widget: string
-          - hint: 'Original text: Thu, oct 5, key: 3247e4c0'
+          - hint: 'Original text: IPFS, key: 226434'
             label: Text
-            name: 3247e4c0
+            name: '226434'
             widget: string
-          - hint: 'Original text: READ MORE, key: 62025f9f'
+          - hint: 'Original text: TOPIC, key: 4c4d50f'
             label: Text
-            name: 62025f9f
+            name: 4c4d50f
             widget: string
-          - hint: 'Original text: CLOSE, key: 3d3e5d8'
+          - hint: 'Original text: Artificial Intelligence, key: 1c83b0e5'
             label: Text
-            name: 3d3e5d8
+            name: 1c83b0e5
             widget: string
-          - hint: 'Original text: Speaker(s): , key: 4072af65'
+          - hint: 'Original text: Education, Academia, & Health, key: cf38c0b'
             label: Text
-            name: 4072af65
+            name: cf38c0b
+            widget: string
+          - hint: 'Original text: Finance, key: 305ce7ba'
+            label: Text
+            name: 305ce7ba
+            widget: string
+          - hint: 'Original text: Media, Video, & Gaming, key: 728f9660'
+            label: Text
+            name: 728f9660
+            widget: string
+          - hint: 'Original text: Public Goods & DWeb, key: 3c4b848b'
+            label: Text
+            name: 3c4b848b
+            widget: string
+          - hint: 'Original text: Science, Climate, & Space, key: 45147ccb'
+            label: Text
+            name: 45147ccb
+            widget: string
+          - hint: 'Original text: Storage, key: -d1725a5'
+            label: Text
+            name: '-d1725a5'
+            widget: string
+          - hint: 'Original text: Tooling & Productivity, key: -4eaf8d9e'
+            label: Text
+            name: '-4eaf8d9e'
+            widget: string
+          - hint: 'Original text: Tag, key: 1477a'
+            label: Text
+            name: 1477a
+            widget: string
+          - hint: 'Original text: Storage:, key: 6a32713f'
+            label: Text
+            name: 6a32713f
+            widget: string
+          - hint: 'Original text: Data Storage and Management, key: -2e495c39'
+            label: Text
+            name: '-2e495c39'
+            widget: string
+          - hint: 'Original text: Data Retrieval, key: 978ba3e'
+            label: Text
+            name: 978ba3e
+            widget: string
+          - hint: 'Original text: Data Curation and Monetization, key: 2e3e2a27'
+            label: Text
+            name: 2e3e2a27
+            widget: string
+          - hint: 'Original text: Enterprise, key: 46f90f81'
+            label: Text
+            name: 46f90f81
+            widget: string
+          - hint: 'Original text: S3 APIs, key: 7f8e0f99'
+            label: Text
+            name: 7f8e0f99
+            widget: string
+          - hint: 'Original text: Sealing, key: -2777bb5b'
+            label: Text
+            name: '-2777bb5b'
+            widget: string
+          - hint: 'Original text: Data Prep, key: 5e4170e3'
+            label: Text
+            name: 5e4170e3
+            widget: string
+          - hint: 'Original text: Storage Infrastructure, key: 5ceade28'
+            label: Text
+            name: 5ceade28
+            widget: string
+          - hint: 'Original text: Storage Software, key: d9341ec'
+            label: Text
+            name: d9341ec
+            widget: string
+          - hint: 'Original text: GPUs, key: 217d67'
+            label: Text
+            name: 217d67
+            widget: string
+          - hint: 'Original text: Leasing and Staking, key: -6e89a9db'
+            label: Text
+            name: '-6e89a9db'
+            widget: string
+          - hint: 'Original text: Infrastructure and other, key: -49471296'
+            label: Text
+            name: '-49471296'
+            widget: string
+          - hint: 'Original text: Bridges and Oracles, key: -7b6ae3ea'
+            label: Text
+            name: '-7b6ae3ea'
+            widget: string
+          - hint: 'Original text: Tooling and Productivity, key: 736eead1'
+            label: Text
+            name: 736eead1
+            widget: string
+          - hint: >-
+              Original text: Wallets, Identity and Authentication, key:
+              -634468ab
+            label: Text
+            name: '-634468ab'
+            widget: string
+          - hint: 'Original text: Network Tools, key: -619d62d7'
+            label: Text
+            name: '-619d62d7'
+            widget: string
+          - hint: 'Original text: Developer Tools, key: 54540dc5'
+            label: Text
+            name: 54540dc5
+            widget: string
+          - hint: 'Original text: Privacy and Security, key: -58d7bebf'
+            label: Text
+            name: '-58d7bebf'
+            widget: string
+          - hint: 'Original text: AI Productivity and Utilities, key: 6864542b'
+            label: Text
+            name: 6864542b
+            widget: string
+          - hint: 'Original text: Media and Entertainment, key: -f804c7d'
+            label: Text
+            name: '-f804c7d'
+            widget: string
+          - hint: 'Original text: Arts and Collectibles, key: 77baa6d0'
+            label: Text
+            name: 77baa6d0
+            widget: string
+          - hint: 'Original text: Photo and Video, key: -7387c7bc'
+            label: Text
+            name: '-7387c7bc'
+            widget: string
+          - hint: 'Original text: Gaming, key: 7eb2204f'
+            label: Text
+            name: 7eb2204f
+            widget: string
+          - hint: 'Original text: Communication and Social, key: 4f80ca0'
+            label: Text
+            name: 4f80ca0
+            widget: string
+          - hint: 'Original text: Publishing and News, key: 155e5089'
+            label: Text
+            name: '155e5089'
+            widget: string
+          - hint: 'Original text: NFTs, key: 248657'
+            label: Text
+            name: '248657'
+            widget: string
+          - hint: 'Original text: Metaverse, key: 38f37e30'
+            label: Text
+            name: 38f37e30
+            widget: string
+          - hint: 'Original text: Education, Acadamia, and Health, key: -7ec13f82'
+            label: Text
+            name: '-7ec13f82'
+            widget: string
+          - hint: 'Original text: Universities, key: 6683a3cc'
+            label: Text
+            name: 6683a3cc
+            widget: string
+          - hint: 'Original text: Health, key: -7f661184'
+            label: Text
+            name: '-7f661184'
+            widget: string
+          - hint: 'Original text: Science, Climate, and Climate, key: 77b2339b'
+            label: Text
+            name: 77b2339b
+            widget: string
+          - hint: 'Original text: DeSci, key: 3ed6bb8'
+            label: Text
+            name: 3ed6bb8
+            widget: string
+          - hint: 'Original text: Climate, key: -69786ffb'
+            label: Text
+            name: '-69786ffb'
+            widget: string
+          - hint: 'Original text: Space, key: 4c600e6'
+            label: Text
+            name: 4c600e6
+            widget: string
+          - hint: 'Original text: Public Goods and Dweb, key: -65f2aaa6'
+            label: Text
+            name: '-65f2aaa6'
+            widget: string
+          - hint: 'Original text: Governance, DAOs, and Public Goods, key: -78e75c8d'
+            label: Text
+            name: '-78e75c8d'
+            widget: string
+          - hint: 'Original text: Dweb, key: 20b490'
+            label: Text
+            name: 20b490
+            widget: string
+          - hint: 'Original text: GLAM, key: 216bd1'
+            label: Text
+            name: 216bd1
+            widget: string
+          - hint: 'Original text: Social Impact, key: -6e731aa7'
+            label: Text
+            name: '-6e731aa7'
+            widget: string
+          - hint: 'Original text: Clear Selection, key: -45d098c7'
+            label: Text
+            name: '-45d098c7'
+            widget: string
+          - hint: 'Original text: Done, key: 2097a2'
+            label: Text
+            name: 2097a2
+            widget: string
+          - hint: 'Original text: Sort, key: 2769be'
+            label: Text
+            name: 2769be
+            widget: string
+          - hint: 'Original text: Alphabetical (A-Z), key: -b783e05'
+            label: Text
+            name: '-b783e05'
+            widget: string
+          - hint: 'Original text: Alphabetical (Z-A), key: -b6ce3c5'
+            label: Text
+            name: '-b6ce3c5'
+            widget: string
+          - hint: 'Original text: Last Updated (Newest), key: 18b33dca'
+            label: Text
+            name: 18b33dca
+            widget: string
+          - hint: 'Original text: Last Updated (Oldest), key: 587fa6d1'
+            label: Text
+            name: 587fa6d1
+            widget: string
+          - hint: 'Original text: Time on Filecoin (Newest), key: 2379dba0'
+            label: Text
+            name: 2379dba0
+            widget: string
+          - hint: 'Original text: Time on Filecoin (Oldest), key: 634644a7'
+            label: Text
+            name: 634644a7
+            widget: string
+          - hint: 'Original text: TAG, key: 1437a'
+            label: Text
+            name: 1437a
+            widget: string
+          - hint: 'Original text: Data Retieval, key: -3a00a3c6'
+            label: Text
+            name: '-3a00a3c6'
+            widget: string
+          - hint: 'Original text: Topic, key: 4d3dd0f'
+            label: Text
+            name: 4d3dd0f
+            widget: string
+          - hint: 'Original text: More, key: 24af75'
+            label: Text
+            name: 24af75
+            widget: string
+          - hint: 'Original text: 3, key: 33'
+            label: Text
+            name: '33'
+            widget: string
+          - hint: >-
+              Original text: Become an integral part of the expanding Filecoin
+              Ecosystem., key: c3284
+            label: Text
+            name: c3284
+            widget: string
+          - hint: >-
+              Original text: If you've developed on Filecoin and don't find your
+              project listed, share your details below., key: -64a2f56c
+            label: Text
+            name: '-64a2f56c'
+            widget: text
+          - hint: >-
+              Original text: Elevate your involvement with ecosystem events.,
+              key: -80542d9
+            label: Text
+            name: '-80542d9'
+            widget: string
+          - hint: >-
+              Original text: Engage with Filecoin creators at real-world
+              gatherings worldwide to discuss and refine your ideas., key:
+              834a13c
+            label: Text
+            name: 834a13c
+            widget: text
+          - hint: 'Original text: Connect with Web3 developers., key: -50461678'
+            label: Text
+            name: '-50461678'
+            widget: string
+          - hint: >-
+              Original text: Engage with Filecoin creators at real-world
+              gatherings worldwide to discuss and refine your ideas. , key:
+              -1a0799c
+            label: Text
+            name: '-1a0799c'
+            widget: text
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit., key: 5cb58f10
+            label: Text
+            name: 5cb58f10
+            widget: string
+          - hint: 'Original text: New York City, key: 51ec6c7c'
+            label: Text
+            name: 51ec6c7c
+            widget: string
+          - hint: 'Original text: + More, key: 4b48024a'
+            label: Text
+            name: 4b48024a
+            widget: string
+          - hint: >-
+              Original text: In collaboration with the New York City’s Chief
+              Technology Officer, Filecoin Foundation and Protocol Labs launched
+              a pilot program...., key: 968b6d2
+            label: Text
+            name: 968b6d2
+            widget: text
+          - hint: 'Original text: GainForest, key: -3da5eb64'
+            label: Text
+            name: '-3da5eb64'
+            widget: string
+          - hint: >-
+              Original text: Reversing deforestation and climate change through
+              blockchain tech, key: 24c596c5
+            label: Text
+            name: 24c596c5
+            widget: string
+          - hint: 'Original text: GenRAIT & Genomic Data, key: -1685c7ee'
+            label: Text
+            name: '-1685c7ee'
+            widget: string
+          - hint: 'Original text: Storing genomic data on Filecoin, key: -42309d2e'
+            label: Text
+            name: '-42309d2e'
+            widget: string
+          - hint: 'Original text: Tech Congress, key: -77be553e'
+            label: Text
+            name: '-77be553e'
+            widget: string
+          - hint: >-
+              Original text: Providing fellowships so technologists can advise
+              legislators, key: 4d8abdd
+            label: Text
+            name: 4d8abdd
+            widget: string
+          - hint: 'Original text: Decentralized Future Council, key: 211213a0'
+            label: Text
+            name: 211213a0
+            widget: string
+          - hint: >-
+              Original text: Educating policymakers on emerging technologies,
+              key: 19768afa
+            label: Text
+            name: 19768afa
+            widget: string
+          - hint: 'Original text: Explore more, key: -6d71d71e'
+            label: Text
+            name: '-6d71d71e'
+            widget: string
+          - hint: 'Original text: Search results, key: 7e85e19e'
+            label: Text
+            name: 7e85e19e
+            widget: string
+          - hint: 'Original text: Search, key: -6ca0ae38'
+            label: Text
+            name: '-6ca0ae38'
+            widget: string
+          - hint: 'Original text: No matching results., key: -75764c4'
+            label: Text
+            name: '-75764c4'
+            widget: string
+          - hint: 'Original text: Description:, key: -68b9b022'
+            label: Text
+            name: '-68b9b022'
+            widget: string
+          - hint: 'Original text: Latest Updates From Project:, key: -2453c8b8'
+            label: Text
+            name: '-2453c8b8'
+            widget: string
+          - hint: 'Original text: Key info, key: 1e3c3def'
+            label: Text
+            name: 1e3c3def
+            widget: string
+          - hint: 'Original text: Website, key: -53cd8785'
+            label: Text
+            name: '-53cd8785'
+            widget: string
+          - hint: 'Original text: Repo, key: 26cf92'
+            label: Text
+            name: 26cf92
+            widget: string
+          - hint: 'Original text: Case Study/Blog, key: 3bd9af38'
+            label: Text
+            name: 3bd9af38
+            widget: string
+          - hint: 'Original text: Social Media, key: 3eb4f971'
+            label: Text
+            name: 3eb4f971
+            widget: string
+          - hint: 'Original text: In the ecosystem since:, key: -27a828d6'
+            label: Text
+            name: '-27a828d6'
+            widget: string
+          - hint: 'Original text: Tags:, key: 4cd5f21'
+            label: Text
+            name: 4cd5f21
+            widget: string
+          - hint: 'Original text: tag, key: 1bf9a'
+            label: Text
+            name: 1bf9a
             widget: string
       - label: Links
         name: links
@@ -5220,10 +5846,6 @@ collections:
             label: Link
             name: 1f2c24b7
             widget: string
-          - hint: 'Original link: https://fil.org/publicdata/awards, key: f1e9733'
-            label: Link
-            name: f1e9733
-            widget: string
           - hint: 'Original link: https://filecoin.energy/, key: -23927b6b'
             label: Link
             name: '-23927b6b'
@@ -5281,7 +5903,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: i66ce7ad
+            name: i500b66ff
             widget: object
             fields:
               - name: url
@@ -5320,6 +5942,58 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: i435d0245
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i5c1ea996
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: i58f319fa
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4814050c
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 4ee85037
             widget: object
             fields:
@@ -5334,32 +6008,6 @@ collections:
                 required: false
           - label: Image
             name: 5c2f0f5c
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i500b66ff
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: i435d0245
             widget: object
             fields:
               - name: url
