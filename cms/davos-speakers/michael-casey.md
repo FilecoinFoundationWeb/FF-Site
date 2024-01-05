@@ -8,7 +8,7 @@ f_title: Chief Content Officer
 f_headshot:
   url: /assets/images/michael-casey-coindesk.jpeg
 f_vip: false
-f_vvip: false
+f_vvip: true
 f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
