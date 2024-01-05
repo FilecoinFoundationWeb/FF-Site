@@ -1,12 +1,23 @@
 ---
-title: "CNBC Editorial: TBC jan 17 12pm"
+title: "CATALYST SPOTLIGHT: Catalysing Global Trade - Driving Greater Connectivity"
 created-on: 2024-01-03T13:49:25.824Z
 updated-on: 2024-01-03T13:49:25.835Z
 published-on: 2024-01-03T13:49:25.842Z
-f_title-of-event: "CNBC Editorial: TBC jan 17 12pm"
-f_time: 12 PM - 12:30 PM
-f_time-start: 2024-01-17T11:00:25.848Z
-f_description: ""
+f_title-of-event: "CATALYST SPOTLIGHT: Catalysing Global Trade - Driving Greater Connectivity"
+f_time: 11:50 PM - 12:10 PM
+f_time-start: 2024-01-17T10:50:25.848Z
+f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
+  Standard Chartered     Central to global trade dynamics, major trade hubs
+  serve as the key nodes, driving greater connectivity and boosting both
+  intra-regional and global trade. Leveraging their strategic locations,
+  regional hubs within the Middle East play a pivotal role in linking Europe,
+  Asia, and Africa, presenting opportunities to facilitate global trade and
+  advance cutting-edge industrialization.     How can hubs like the UAE deepen
+  trade and investment ties with fast-growing economies? And how can
+  inter-connectivity between the Middle East and Africa promote innovation and
+  drive inclusive and sustainable growth?
+f_speakers: Sunil Kaushal, Regional CEO, Africa and Middle East (AME), Standard Chartered
+f_moderator-name: Emma Crosby, NBCU Catalyst Moderator
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-03T13:49:25.857Z
