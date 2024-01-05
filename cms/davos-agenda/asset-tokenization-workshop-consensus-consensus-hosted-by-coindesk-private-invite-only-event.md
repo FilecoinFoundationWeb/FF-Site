@@ -14,7 +14,7 @@ f_description: This breakfast roundtable will convene stakeholders from the
   Chief Content Officer Michael Casey will serve as the MC. The event will be
   held under Chatham House rules to ensure a candid and productive conversation
   among stakeholders.
-f_speakers: Michael Casey
+f_speakers: Michael Casey, Chief Content Officer at CoinDesk
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-05T13:54:27.794Z
