@@ -19,7 +19,7 @@ f_bio: Clara Tsao is the Co-founding Officer of Filecoin Foundation and Filecoin
   Chair and President of the White House Presidential Innovation Fellows
   Foundation and a Senior Advisor at Tech Against Terrorism.
 f_vip: false
-f_vvip: false
+f_vvip: true
 f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
