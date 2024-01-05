@@ -17,7 +17,7 @@ f_bio: " As the Chief Brand Officer, Brian leverages over five years of
   and adaptability in the business realm, advancing the company's international
   expansion by establishing strategic partnerships and collaborative networks,
   showcasing his ability to navigate through the business landscape."
-f_vip: false
+f_vip: true
 f_vvip: false
 f_vvvip-1: false
 tags: davos-speakers
