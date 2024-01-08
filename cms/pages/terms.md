@@ -6,9 +6,9 @@ slug: terms
 tags: pages
 seo:
   noindex: false
-  title: Terms of Use
-  og:title: Terms of Use
-  twitter:title: Terms of Use
+  title: Terms of Use · Filecoin Foundation
+  og:title: Terms of Use · Filecoin Foundation
+  twitter:title: Terms of Use · Filecoin Foundation
 ---
 
 

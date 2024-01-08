@@ -6,9 +6,9 @@ slug: awards
 tags: pages
 seo:
   noindex: false
-  title: Awards
-  og:title: Awards
-  twitter:title: Awards
+  title: Awards · Public Data · Filecoin Foundation
+  og:title: Awards · Public Data · Filecoin Foundation
+  twitter:title: Awards · Public Data · Filecoin Foundation
 ---
 
 

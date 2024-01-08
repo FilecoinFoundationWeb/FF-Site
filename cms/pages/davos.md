@@ -6,9 +6,9 @@ slug: davos
 tags: pages
 seo:
   noindex: false
-  title: Davos
-  og:title: Davos
-  twitter:title: Davos
+  title: The Filecoin Sanctuary · Davos 2024 · Filecoin Foundation
+  og:title: The Filecoin Sanctuary · Davos 2024  · Filecoin Foundation
+  twitter:title: The Filecoin Sanctuary · Davos 2024  · Filecoin Foundation
 ---
 
 
