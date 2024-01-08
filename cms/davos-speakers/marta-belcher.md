@@ -18,9 +18,9 @@ f_bio: "Marta Belcher is president and chair of Filecoin Foundation as well as
   awards, by Law360’s list of Top Attorneys Under 40, by CryptoWeekly’s list of
   Most Influential Women in Crypto, and as Business Intelligence Group’s Woman
   of the Year. "
-f_vip: false
-f_vvip: false
-f_vvvip-1: true
+f_vip: true
+f_vvip: true
+f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
 date: 2024-01-05T17:44:21.937Z
