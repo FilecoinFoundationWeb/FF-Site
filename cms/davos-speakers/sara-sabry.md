@@ -24,7 +24,7 @@ f_bio: Sara Sabry, a trailblazing astronaut and founder of Deep Space Initiative
   to inclusivity and equality, as she continues to inspire others globally
   through her impactful journey.
 f_vip: true
-f_vvip: false
+f_vvip: true
 f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
