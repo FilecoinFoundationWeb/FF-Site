@@ -20,7 +20,7 @@ f_bio: "Marta Belcher is president and chair of Filecoin Foundation as well as
   of the Year. "
 f_vip: true
 f_vvip: true
-f_vvvip-1: true
+f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
 date: 2024-01-05T17:44:21.937Z
