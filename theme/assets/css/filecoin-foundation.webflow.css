@@ -7410,7 +7410,7 @@ blockquote {
   justify-content: flex-start;
   align-items: flex-start;
   margin: 60px;
-  display: flex;
+  display: none;
 }
 
 .section-speakers.blue {
@@ -7621,7 +7621,7 @@ blockquote {
   grid-column-gap: 48px;
   grid-row-gap: 48px;
   flex-direction: column;
-  display: flex;
+  display: none;
 }
 
 .button-text-4 {
