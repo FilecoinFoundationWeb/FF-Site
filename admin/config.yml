@@ -5836,6 +5836,10 @@ collections:
             label: Link
             name: '-2ba4f9af'
             widget: string
+          - hint: 'Original link: #agenda, key: -1924ca11'
+            label: Link
+            name: '-1924ca11'
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json

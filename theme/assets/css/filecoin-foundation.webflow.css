@@ -7856,7 +7856,7 @@ blockquote {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   flex-direction: column;
-  display: flex;
+  display: none;
 }
 
 .info-schedule {
@@ -9367,6 +9367,16 @@ blockquote {
 
   .section-speakers {
     display: flex;
+  }
+
+  .tabs-menu-2 {
+    max-width: 1805.33px;
+  }
+
+  .tabs-2 {
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .project-slide__image {
