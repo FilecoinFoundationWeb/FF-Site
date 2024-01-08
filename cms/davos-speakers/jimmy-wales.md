@@ -35,8 +35,8 @@ f_bio: Ranked by Forbes Magazine as a “Web Celeb”, Jimmy Donal Wales is a U.
   Master's. After that, he took courses offered in the Ph.D. finance program at
   Indiana University. He taught at both universities during his postgraduate
   studies, but did not write the doctoral dissertation required to earn a Ph.D.
-f_vip: false
-f_vvip: false
+f_vip: true
+f_vvip: true
 f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
