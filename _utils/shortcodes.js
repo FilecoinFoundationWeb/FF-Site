@@ -35,27 +35,31 @@ function htmlEntities(str) {
 
 module.exports = function (eleventyConfig) {
 
-    eleventyConfig.addShortcode('embedVideo', async function(video) {
-        if (!video || !video.url) {
-            return ""
-        }
-        
-        let oembedUrl = null;
-        if (video.url.includes("vimeo")) {
-            oembedUrl = "https://vimeo.com/api/oembed.json?url=" + video.url;
-            
-        } else if (video.url.includes("you")) {
-          oembedUrl = `https://youtube.com/oembed?url=${video.url}&format=json`;
-        }
-
-        if (oembedUrl != null) {
-            const oembedRes = await (await fetch(oembedUrl)).json()
-            return oembedRes.html;
-        }
-
+    eleventyConfig.addShortcode("embedVideo", async function (video) {
+    if (!video || !video.url) {
         return "";
-    });
+    }
 
+    let oembedUrl = null;
+    if (video.url.includes("vimeo.com")) {
+        oembedUrl = "https://vimeo.com/api/oembed.json?url=" + video.url;
+    } else if (video.url.includes("youtube.com")) {
+        oembedUrl = `https://youtube.com/oembed?url=${video.url}&format=json`;
+    }
+
+    if (oembedUrl != null) {
+        try {
+        const response = await fetch(oembedUrl);
+        const oembedRes = await response.json();
+        return oembedRes.html ? oembedRes.html : "";
+        } catch (error) {
+        console.error("Error fetching oEmbed response: ", error);
+        return "";
+        }
+    }
+
+    return "";
+    });
 
     eleventyConfig.addShortcode('image', async function(src, alt = "", dataSizes = "", attributes = "") {
 
@@ -72,7 +76,7 @@ module.exports = function (eleventyConfig) {
         } catch(e) {
             dataSizes = [];
         }
-        
+
         if (!dataSizes) {
             dataSizes = [];
         }
@@ -84,10 +88,10 @@ module.exports = function (eleventyConfig) {
             } else {
                return next.size;
             }
-           
+
         }).join(', ').trim() : "100vw";
 
-        
+
         if (src.includes('.svg') || src.includes('.gif')) {
             return `<img src="${src}" alt="${alt}" ${attributes}>`
         }
@@ -131,7 +135,7 @@ module.exports = function (eleventyConfig) {
         if (domain.endsWith('/')) {
             domain = domain.substring(0, domain.length - 1);
         }
-        
+
         let seoString = '';
         for (let key in seo) {
             switch (key) {
@@ -159,7 +163,7 @@ module.exports = function (eleventyConfig) {
                     if (key == 'additional_tags') {
                         seoString += seo.additional_tags;
                     } else if (key.startsWith('og:')) {
-                    
+
                         let content = htmlEntities(seo[key]);
                         if (key == "og:image") {
                             if (content.startsWith("/")) {
@@ -174,7 +178,7 @@ module.exports = function (eleventyConfig) {
                     }
                     break;
                 }
-                
+
             }
         }
 
@@ -204,7 +208,7 @@ module.exports = function (eleventyConfig) {
         const baseCurrency = ecommerceFormat.currencies[0].currencyCode;
         const basePrice = price[baseCurrency] || 0;
 
-        
+
         return (await Promise.all(ecommerceFormat.currencies.map(async currency => {
 
             const currentPrice = !!price[currency.currencyCode] ? formatPrice(price[currency.currencyCode], currency) : formatPrice(await convertPrice(basePrice, baseCurrency.toUpperCase(), currency.currencyCode.toUpperCase()), currency);
