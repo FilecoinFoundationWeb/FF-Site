@@ -6,7 +6,7 @@ published-on: 2024-01-05T16:23:36.911Z
 f_organization: Wikipedia
 f_title: Co-founder
 f_headshot:
-  url: /assets/images/jimmy-wales.png
+  url: /assets/images/frame-7.png
 f_bio: Ranked by Forbes Magazine as a “Web Celeb”, Jimmy Donal Wales is a U.S.
   Internet entrepreneur, wiki pioneer, and technology visionary, who is best
   known as the Founder of Wikipedia, an international collaborative free content
