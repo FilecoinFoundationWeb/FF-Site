@@ -6262,6 +6262,10 @@ blockquote {
   -webkit-text-stroke-color: var(--jordyblue);
 }
 
+.button-3.secondary:hover {
+  color: var(--polar);
+}
+
 .cell-7 {
   grid-row-gap: 24px;
   flex-direction: column-reverse;
