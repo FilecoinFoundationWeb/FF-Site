@@ -6104,6 +6104,10 @@ blockquote {
   line-height: 200%;
 }
 
+.button-text-3.secondary {
+  color: var(--jordyblue);
+}
+
 ._39px-header {
   color: #070637;
   letter-spacing: 0;
@@ -6252,6 +6256,12 @@ blockquote {
   border-color: #fff;
 }
 
+.button-3.secondary {
+  border-color: var(--jordyblue);
+  color: var(--jordyblue);
+  -webkit-text-stroke-color: var(--jordyblue);
+}
+
 .cell-7 {
   grid-row-gap: 24px;
   flex-direction: column-reverse;
@@ -6289,6 +6299,10 @@ blockquote {
 }
 
 .cell-8 {
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
 }
 
@@ -6479,6 +6493,7 @@ blockquote {
 
 .collection-list-wrapper-3 {
   width: 100%;
+  max-width: 1320px;
   flex-direction: row;
   justify-content: space-around;
   display: flex;
@@ -7410,7 +7425,7 @@ blockquote {
   justify-content: flex-start;
   align-items: flex-start;
   margin: 60px;
-  display: none;
+  display: block;
 }
 
 .section-speakers.blue {
@@ -7621,7 +7636,7 @@ blockquote {
   grid-column-gap: 48px;
   grid-row-gap: 48px;
   flex-direction: column;
-  display: none;
+  display: block;
 }
 
 .button-text-4 {
@@ -7875,7 +7890,7 @@ blockquote {
 .div-block-124 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
-  display: flex;
+  display: none;
 }
 
 .div-block-125 {
@@ -9257,6 +9272,10 @@ blockquote {
     padding-bottom: 276px;
   }
 
+  .button-3.secondary:hover {
+    background-color: var(--deepcove);
+  }
+
   .f2wf-columns-4 {
     max-width: 1200px;
   }
@@ -9273,6 +9292,10 @@ blockquote {
   .container-3c._250 {
     height: auto;
     overflow: hidden;
+  }
+
+  ._1 {
+    filter: none;
   }
 
   .logo-wrapper-2 {
@@ -12214,6 +12237,11 @@ blockquote {
     align-items: center;
   }
 
+  .button-text-3.secondary {
+    white-space: nowrap;
+    word-break: keep-all;
+  }
+
   ._39px-header {
     font-size: 31px;
   }
@@ -13011,6 +13039,10 @@ blockquote {
   .section {
     padding-left: 0;
     padding-right: 0;
+  }
+
+  .cell-8 {
+    flex-direction: column;
   }
 
   .paragraph {
