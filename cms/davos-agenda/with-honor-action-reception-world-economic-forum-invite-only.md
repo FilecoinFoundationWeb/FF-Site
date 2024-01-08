@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:33:18.010Z
 f_title-of-event: With Honor Action Reception @ World Economic Forum (Invite-Only)
 f_time: 9:30 PM - 11:30 PM
 f_time-start: 2024-01-15T20:30:18.018Z
+f_day: Mon
 f_description: Please join With Honor Action for our 3rd Annual reception for
   the bipartisan U.S. Congressional Delegation to the World Economic Forum. With
   Honor Action is again hosting this event in partnership with McKinsey & Co.
