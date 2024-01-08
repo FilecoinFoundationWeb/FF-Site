@@ -5624,6 +5624,10 @@ collections:
             label: Link
             name: '-5862e489'
             widget: string
+          - hint: 'Original link: #agenda, key: -1924ca11'
+            label: Link
+            name: '-1924ca11'
+            widget: string
           - hint: >-
               Original link: https://maps.app.goo.gl/ZAWaxcJyB8Dzhhvo7, key:
               -73487ac7
@@ -5835,10 +5839,6 @@ collections:
           - hint: 'Original link: https://fil.org/policy, key: -2ba4f9af'
             label: Link
             name: '-2ba4f9af'
-            widget: string
-          - hint: 'Original link: #agenda, key: -1924ca11'
-            label: Link
-            name: '-1924ca11'
             widget: string
       - label: Images
         name: images
