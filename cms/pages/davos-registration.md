@@ -6,9 +6,9 @@ slug: davos-registration
 tags: pages
 seo:
   noindex: false
-  title: Davos Registration
-  og:title: Davos Registration
-  twitter:title: Davos Registration
+  title: The Filecoin Sanctuary · Davos Registration 2024 · Filecoin Foundation
+  og:title: The Filecoin Sanctuary · Davos Registration 2024 · Filecoin Foundation
+  twitter:title: The Filecoin Sanctuary · Davos Registration 2024 · Filecoin Foundation
 ---
 
 
