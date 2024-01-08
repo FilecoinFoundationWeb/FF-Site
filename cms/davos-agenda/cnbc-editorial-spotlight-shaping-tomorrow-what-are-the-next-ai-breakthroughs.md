@@ -8,6 +8,7 @@ f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: Shaping Tomorrow - What are the
   Next AI Breakthroughs"
 f_time: 3 PM - 3:40 PM
 f_time-start: 2024-01-18T14:00:10.222Z
+f_day: Thur
 f_description: "AI is developing rapidly, with high adoption rates among
   businesses and consumers globally. But what comes next? Our panels makes
   predictions for 2024.  "

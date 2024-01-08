@@ -8,6 +8,7 @@ f_title-of-event: "CATALYST SPOTLIGHT: Powering Tomorrow - Navigating the Global
   Energy Transition Through Strategic Infrastructure Investing"
 f_time: 12 PM - 1 PM
 f_time-start: 2024-01-18T11:00:37.686Z
+f_day: Thur
 f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   Nuveen     Institutional investors and wealth managers are increasingly
   prioritizing sustainable assets, renewable energy, and resilient

@@ -6,6 +6,7 @@ published-on: 2024-01-02T13:03:50.702Z
 f_title-of-event: "CATALYST SPOTLIGHT: Leading Through Change and Reinvention"
 f_time: 2:30 PM - 2:40 PM
 f_time-start: 2024-01-16T13:30:50.710Z
+f_day: Tue
 f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   PwC     In today’s ever-changing environment, leaders are faced with more
   headwinds than ever before. PwC US Senior Partner Tim Ryan will discuss

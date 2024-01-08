@@ -8,6 +8,7 @@ f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: IOT Powering the Digital Economy -
   Why Stay Focused on Sustainability?"
 f_time: 3:30 PM - 4:30 PM
 f_time-start: 2024-01-17T14:30:55.136Z
+f_day: Wed
 f_description: Sponsored by Schneider Electric     Half the world’s largest
   publicly listed companies are already committed to achieving net-zero targets.
   However, with increasing economic pressures and geopolitical uncertainty,

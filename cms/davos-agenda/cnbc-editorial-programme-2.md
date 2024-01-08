@@ -6,6 +6,7 @@ published-on: 2024-01-05T14:09:47.972Z
 f_title-of-event: CNBC EDITORIAL PROGRAMME
 f_time: 1 PM - 1:30 PM
 f_time-start: 2024-01-18T12:00:47.977Z
+f_day: Thur
 f_description: ""
 f_speakers: ""
 f_moderator-name: ""

@@ -6,6 +6,7 @@ published-on: 2024-01-02T13:05:12.399Z
 f_title-of-event: SUSTAINABLE FUTURE FORUM
 f_time: 2:40 PM - 4:30 PM
 f_time-start: 2024-01-16T13:40:12.405Z
+f_day: Tue
 f_description: Many businesses, policymakers and investors have built a shared
   commitment to sustainable production and consumption practices around the
   world. Now, facing immediate economic pressures, international conflicts,

@@ -6,6 +6,7 @@ published-on: 2024-01-05T14:04:23.357Z
 f_title-of-event: "CNBC FIRESIDE CHAT: The Future of AI With the CEO of Cohere"
 f_time: 11:20 AM - 11:40 AM
 f_time-start: 2024-01-18T10:20:23.366Z
+f_day: Thur
 f_description: Global AI company Cohere, co-headquartered in Toronto and SF, is
   one of a crop of AI companies focused on large language models. Aidan Gomez,
   the company’s co-founder, talks to CNBC Senior Tech Correspondent Arjun

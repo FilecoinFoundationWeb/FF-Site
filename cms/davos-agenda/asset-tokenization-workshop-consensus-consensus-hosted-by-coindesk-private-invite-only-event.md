@@ -8,6 +8,7 @@ f_title-of-event: Asset Tokenization Workshop | Consensus @ Consensus hosted by
   CoinDesk [Private, Invite-Only Event]
 f_time: 8 AM - 10 AM
 f_time-start: 2024-01-18T09:00:27.788Z
+f_day: Thur
 f_description: This breakfast roundtable will convene stakeholders from the
   government, banking, and digital assets spaces to explore how the asset
   tokenization trend will transform financial systems around the world. CoinDesk

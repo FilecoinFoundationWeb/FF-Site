@@ -6,6 +6,7 @@ published-on: 2024-01-05T13:58:55.891Z
 f_title-of-event: "FILECOIN FOUNDATION PRESENTS: How Web3 Tools Protect and Promote Human Rights"
 f_time: 10 AM - 10:30 AM
 f_time-start: 2024-01-18T09:00:55.897Z
+f_day: Thur
 f_description: Global connectivity and decentralized technologies offer new
   avenues for trust and transparency in humanitarian aid. Cryptographic proofs
   can establish trust in our most sensitive digital records. We share real-world

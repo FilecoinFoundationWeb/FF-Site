@@ -8,6 +8,7 @@ f_title-of-event: "CATALYST SPOTLIGHT: Abu Dhabi - Unleashing High Growth
   Markets for Global Prosperity"
 f_time: 12:30 PM - 1:30 PM
 f_time-start: 2024-01-17T11:30:37.019Z
+f_day: Wed
 f_description: CNBC Catalyst, the commercial division of CNBC, in partnership
   with Abu Dhabi Department of Economic Development will be hosting a high-level
   discussion focusing on Abu Dhabi’s Falcon Economy.     Abu Dhabi is targeting

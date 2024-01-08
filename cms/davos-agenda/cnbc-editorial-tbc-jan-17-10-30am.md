@@ -8,6 +8,7 @@ f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: Are Regulators Finally Ready to
   Tackle the Crypto Industry?"
 f_time: 10:30 AM - 11 AM
 f_time-start: 2024-01-17T09:30:42.514Z
+f_day: Wed
 f_description: "Controversy has stalked the crypto industry, from the collapse
   of FTX and the subsequent criminal trial of its founder Sam Bankman-Fried, to
   Binance CEO Changpeng Zhao admitting criminal charges as part of a $4.3

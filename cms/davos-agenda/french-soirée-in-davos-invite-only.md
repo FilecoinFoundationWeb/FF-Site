@@ -6,6 +6,7 @@ published-on: 2024-01-03T14:11:28.428Z
 f_title-of-event: French Soirée in Davos [Private, Invite-Only Event]
 f_time: 6:30 PM - 8:30 PM
 f_time-start: 2024-01-17T17:30:28.435Z
+f_day: Wed
 f_description: ""
 tags: davos-agenda
 layout: "[davos-agenda].html"

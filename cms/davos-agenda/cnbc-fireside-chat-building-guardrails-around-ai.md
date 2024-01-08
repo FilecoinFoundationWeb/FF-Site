@@ -6,6 +6,7 @@ published-on: 2024-01-05T12:16:44.776Z
 f_title-of-event: "CNBC FIRESIDE CHAT: Building Guardrails Around AI"
 f_time: 10:45 AM - 11 AM
 f_time-start: 2024-01-16T09:45:44.779Z
+f_day: Tue
 f_description: "Lila Ibrahim, chief operating officer of Google DeepMind talks
   to CNBC Senior Tech Correspondent Arjun Kharpal about the company’s
   advancements in artificial intelligence, how to develop technology

@@ -6,6 +6,7 @@ published-on: 2024-01-05T12:43:44.492Z
 f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: Navigating the Energy Transition"
 f_time: 3:50 PM - 4:30 PM
 f_time-start: 2024-01-16T14:50:44.499Z
+f_day: Tue
 f_description: COP 28 climate summit reached a historic deal to transition away
   from fossil fuels but did the agreement go far enough? According to the IEA’s
   World Energy Outlook for 2023, countries must do more to limit global warming

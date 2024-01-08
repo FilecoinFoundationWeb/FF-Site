@@ -8,6 +8,7 @@ f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: How AI Makes Hackers Smarter - And
   What the Cybersecurity Industry is Doing to Fight Back"
 f_time: 1:30 PM - 2 PM
 f_time-start: 2024-01-17T12:30:06.833Z
+f_day: Wed
 f_description: Generative artificial intelligence gives hackers new tools to
   commit cyberattacks. Our panel discusses the threat to people and businesses
   and how security firms are fighting back.

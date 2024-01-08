@@ -6,6 +6,7 @@ published-on: 2024-01-03T13:54:19.117Z
 f_title-of-event: "FILECOIN FOUNDATION PRESENTS: The Future of the Web"
 f_time: 2 PM - 2:30 PM
 f_time-start: 2024-01-17T13:00:19.125Z
+f_day: Wed
 f_description: Today’s tech leaders will discuss how a decentralized web can
   create an Internet for everyone.
 tags: davos-agenda

@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:43:20.506Z
 f_title-of-event: "SINSO Presents: The Role of Layer 2 in Web3 Protocols"
 f_time: 10 AM - 10:30 AM
 f_time-start: 2024-01-16T09:00:20.512Z
+f_day: Tue
 f_description: "Let's dive into the wild world of data. We're all data-making
   machines. 90% percent of the world’s data was created in the last two years.
   And every two years, the volume of data across the world doubles in size.

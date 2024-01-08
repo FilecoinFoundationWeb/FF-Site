@@ -8,6 +8,7 @@ f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: The Internet is Broken. These Tech
   Leaders Have Ideas to Fix it."
 f_time: 11:30 AM - 12 PM
 f_time-start: 2024-01-16T10:30:56.009Z
+f_day: Tue
 f_description: "A growing number of tech leaders and innovators warn about the
   power of Big Tech firms and believe the current state of the internet is
   broken. We hear about their fears and their ideas to reform the internet.   "

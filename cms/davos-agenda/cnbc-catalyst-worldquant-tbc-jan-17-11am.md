@@ -8,6 +8,7 @@ f_title-of-event: "CATALYST SPOTLIGHT: AI Transforming Work - Skills-Based
   Education for and Inclusive and Advanced Workforce"
 f_time: 11 AM - 11:30 AM
 f_time-start: 2024-01-17T10:30:07.406Z
+f_day: Wed
 f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   WorldQuant University     As AI fundamentally reshapes the world, how do we
   provide training and skills development to equip the workforce to participate

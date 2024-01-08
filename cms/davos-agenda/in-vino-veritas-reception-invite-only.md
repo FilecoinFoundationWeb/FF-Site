@@ -6,6 +6,7 @@ published-on: 2024-01-03T14:12:58.600Z
 f_title-of-event: In Vino Veritas with IMAGINE & FT Moral Money [Private, Invite-Only Event]
 f_time: 9 PM - 11 PM
 f_time-start: 2024-01-17T20:00:58.604Z
+f_day: Wed
 f_description: As we near the end of this historic year, we need to imagine a
   world with no need for greed or hunger... nothing to kill or die for... all
   the poeple sharing all the world. Joing IMAGINE and FT Moral Money for

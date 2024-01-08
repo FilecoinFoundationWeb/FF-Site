@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:56:05.863Z
 f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: Innovating to Feed the World"
 f_time: 12:30 PM - 1 PM
 f_time-start: 2024-01-16T11:30:00.000Z
+f_day: Tue
 f_description: The world’s population has doubled in just 40 years to more than
   8 billion and is forecast to rise another 2 billion in the next 30. Today, 250
   million people face acute hunger or starvation, according to the Food Security

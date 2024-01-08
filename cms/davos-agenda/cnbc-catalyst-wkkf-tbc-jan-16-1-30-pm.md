@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:59:21.145Z
 f_title-of-event: "FILECOIN FOUNDATION PRESENTS: The Next Frontier in Space "
 f_time: 2 PM - 2:30 PM
 f_time-start: 2024-01-16T13:00:21.149Z
+f_day: Tue
 f_description: "We’ll explore how decentralized technologies can be the backbone
   of communications infrastructure for the emerging space economy. "
 f_speakers: Marta Belcher, Filecoin Foundation. Sara Sabry, Deep Space Initiative

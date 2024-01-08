@@ -6,6 +6,7 @@ published-on: 2024-01-05T13:24:45.997Z
 f_title-of-event: "CATALYST SPOTLIGHT: Catalysing Global Trade - Connecting Dynamic Markets"
 f_time: 2:40 PM - 3 PM
 f_time-start: 2024-01-17T13:40:46.003Z
+f_day: Wed
 f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   Standard Chartered     Globalisation has delivered economic growth and lifted
   living standards for millions. However, some developing markets and smaller

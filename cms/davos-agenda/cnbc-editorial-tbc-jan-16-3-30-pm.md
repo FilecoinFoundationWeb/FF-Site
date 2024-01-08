@@ -8,6 +8,7 @@ f_title-of-event: "CNBC EDITORIAL SPOTLIGHT: Lessons from COP 28 - Charting a
   Path for Climate Action"
 f_time: 2:50 PM - 3:35 PM
 f_time-start: 2024-01-16T13:50:07.188Z
+f_day: Tue
 f_description: COP 28 in Dubai ended with ministers agreeing to transition away
   from fossil fuels. What needs to happen in 2024 to make progress? And with
   stakeholder nations facing economic pressures, political uncertainty, and

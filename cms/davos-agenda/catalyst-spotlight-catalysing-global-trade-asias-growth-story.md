@@ -6,6 +6,7 @@ published-on: 2024-01-05T14:05:54.048Z
 f_title-of-event: "CATALYST SPOTLIGHT: Catalysing Global Trade - Asia's Growth Story"
 f_time: 11:40 AM - 12 PM
 f_time-start: 2024-01-18T10:40:54.053Z
+f_day: Thur
 f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   Standard Chartered     Fueled by shifts in global supply chains and a growing
   digital economy, Asia continues to stand as a growth anchor for the world,

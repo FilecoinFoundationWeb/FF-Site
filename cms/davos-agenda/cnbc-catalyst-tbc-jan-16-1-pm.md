@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:57:31.172Z
 f_title-of-event: "CATALYST SPOTLIGHT: The Business Case for Racial Equity"
 f_time: 1 PM - 1:30 PM
 f_time-start: 2024-01-16T12:00:31.180Z
+f_day: Tue
 f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   W.K. Kellogg Foundation (WKKF)     The challenges facing racial equity around
   the world and the two-year partnership between their organizations to

@@ -8,6 +8,7 @@ f_title-of-event: "FILECOIN FOUNDATION PRESENTS: Using AI, Blockchain, and
   Predictive Modeling to Protect our Planet "
 f_time: 10 AM - 10:30 AM
 f_time-start: 2024-01-17T09:00:08.320Z
+f_day: Wed
 f_description: "Discover the potential of blockchain, AI, and machine learning
   in addressing climate challenges. "
 f_speakers: Jonathan Dotan, Founder of Equity Lab Megan Klimen, Filecoin

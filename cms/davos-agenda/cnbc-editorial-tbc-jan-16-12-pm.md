@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:54:46.092Z
 f_title-of-event: CNBC EDITORIAL PROGRAMME
 f_time: 12 PM - 12:30 PM
 f_time-start: 2024-01-16T11:00:46.097Z
+f_day: Tue
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-02T12:54:46.101Z

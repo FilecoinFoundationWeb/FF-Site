@@ -6,6 +6,7 @@ published-on: 2024-01-02T12:46:05.923Z
 f_title-of-event: "CNBC FIRESIDE CHAT: How Will the Crypto Industry Rebuild?"
 f_time: 10:30 AM - 10:45 AM
 f_time-start: 2024-01-16T09:30:05.930Z
+f_day: Tue
 f_description: "Brad Garlinghouse, CEO of US crypto company Ripple, talks to
   CNBC Senior Tech Correspondent Arjun Kharpal about the future of the business,
   how blockchain technology is developing, and whether the industry is moving on
