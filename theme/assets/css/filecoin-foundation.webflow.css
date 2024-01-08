@@ -13453,6 +13453,10 @@ blockquote {
     padding-bottom: 40px;
   }
 
+  .project-card__image {
+    max-height: 200px;
+  }
+
   .row {
     flex-direction: column;
   }
@@ -13554,6 +13558,10 @@ blockquote {
   .filters__mobile-modal__close-button {
     padding: .5rem;
     display: flex;
+  }
+
+  .project-card__image-container {
+    object-fit: contain;
   }
 }
 

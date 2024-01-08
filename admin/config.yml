@@ -5299,6 +5299,10 @@ collections:
             label: Text
             name: 9167f58
             widget: text
+          - hint: 'Original text: Featured Content, key: 7fae8287'
+            label: Text
+            name: 7fae8287
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5839,6 +5843,13 @@ collections:
           - hint: 'Original link: https://fil.org/policy, key: -2ba4f9af'
             label: Link
             name: '-2ba4f9af'
+            widget: string
+          - hint: >-
+              Original link:
+              https://airtable.com/apppNMXvdW3i9P1BY/shrvrv4B9JKCP1e4O, key:
+              5f52128f
+            label: Link
+            name: 5f52128f
             widget: string
       - label: Images
         name: images
