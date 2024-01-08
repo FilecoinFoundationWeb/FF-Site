@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<html data-wf-page="6565e60954fbbc2f2f629f1e" data-wf-site="643e42e3c67f1f34ca5017e3"><head>{%- seo seo -%}
+<html data-wf-page="6597e0e1bfa25a32f825f64d" data-wf-site="643e42e3c67f1f34ca5017e3"><head>{%- seo seo -%}
   <meta charset="utf-8">
+  
+  
+  
+  
+  
   
   
   
@@ -27,6 +32,10 @@
   <!--  Plausible  -->
   <script defer="" data-domain="fil.org" src="https://plausible.io/js/script.js"></script>
   <!--  Plausible  -->
+  <!--  [Attributes by Finsweet] CMS Filter  -->
+  <script async="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js"></script>
+  <!--  [Attributes by Finsweet] CMS Sort  -->
+  <script async="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmssort@1/cmssort.js"></script>
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
         }</style></head>
@@ -34,6 +43,17 @@
   <div class="master-container">
     <div class="global-css w-embed">
       <style>
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
 .button{
 	display: inline-flex;
 }
@@ -124,6 +144,62 @@
   background-color: #154ED9;
   color: #F0F7FD;
   box-shadow: 0 0 6px #06094e;
+}
+.button.primary.blue:hover:before {
+  background-color: #08072e;
+}
+.button.primary.blue:hover:after {
+  background-color: #08072e;
+}
+.button.primary.blue:before {
+  background-color: #154ed9;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.blue:after {
+  background-color: #73b4ed;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.blue .button-text {
+  background-color: #08072e;
+  color: #F0F7FD;
+  box-shadow: 0 0 6px #06094e;
+}
+/* -------------------- sort-------------------- */
+.button.primary.sort:hover:before {
+  background-color: #08072e;
+}
+.button.primary.sort:hover:after {
+  background-color: #2354d9;
+}
+.button.primary.sort:before {
+  background-color: #2354d9;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.sort:after {
+  background-color: #3394ff;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.sort .button-text {
+  background-color: #08072e;
+  color: #F0F7FD;
+  box-shadow: 0 0 6px #06094e;
+}
+.button.primary.more:hover:before {
+  background-color: #204fdd;
+}
+.button.primary.more:hover:after {
+  background-color: #2354d9;
+}
+.button.primary.more:before {
+  background-color: #204fdd;
+  box-shadow: 0 0 6px rgba(0, 9, 110, 0.45) inset;
+}
+.button.primary.more:after {
+  background-color: #204fdd;
+  box-shadow: 0 0 6px rgba(6, 33, 164, 0.5) inset, 0 0 6px rgba(6, 9, 78, 0.55);
+}
+.button.primary.more .button-text {
+  color: #F0F7FD;
 }
 .button.primary:focus {
   outline: none;
@@ -283,6 +359,36 @@ color: #08072e;
 .card-director:hover img {
  bottom: 100%;
 }
+.line-1-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-3-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-4-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.w-dropdown:focus-visible {
+    outline: 1px solid white;
+    outline-offset: 3px;
+}
+ .w-slider-dot:focus-visible { outline: 2px solid white; outline-offset: 2px; }
+ .w-dropdown-link:focus-visible { outline: 1px solid white; }
 </style>
     </div>
     <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
@@ -361,7 +467,7 @@ color: #08072e;
                     <div class="spacer-0-5"></div>
                     <a href="{{ links.-1f4d87ce }}" class="dropdown-inner-link">{{ texts.3c6cdb60 }}</a>
                     <div class="spacer-0-5"></div>
-                    <a href="{{ links.794041d0 }}" class="dropdown-inner-link">{{ texts.624b5bcd }}</a>
+                    <a href="{{ links.3c46afa8 }}" class="dropdown-inner-link">{{ texts.624b5bcd }}</a>
                     <div class="spacer-0-5"></div>
                     <a href="{{ links.6368d3d0 }}" class="dropdown-inner-link">{{ texts.4422b111 }}</a>
                   </div>
@@ -396,9 +502,9 @@ color: #08072e;
                     </a>
                     <p class="dropdown-text-block">{{ texts.-7701a10c }}</p>
                     <div class="spacer-1"></div>
-                    <a href="{{ links.-aa08f75 }}" class="dropdown-inner-link">{{ texts.-207b8fed }}</a>
+                    <a href="{{ links.-e2e2547 }}" class="dropdown-inner-link">{{ texts.-319d1026 }}</a>
                     <div class="spacer-0-5"></div>
-                    <a href="{{ links.5e8a99d3 }}" class="dropdown-inner-link">{{ texts.13ede05 }}</a>
+                    <a href="{{ links.-7693c8ad }}" class="dropdown-inner-link">{{ texts.-7eef5065 }}</a>
                   </div>
                 </div>
               </nav>
@@ -635,9 +741,9 @@ color: #08072e;
                     <div class="spacer-1"></div>
                     <a href="{{ links.-4f7e5762 }}" aria-current="page" class="dropdown-inner-link w--current">{{ texts.-22899720 }}</a>
                     <div class="spacer-0-5"></div>
-                    <a href="{{ links.-aa08f75 }}" class="dropdown-inner-link">{{ texts.-207b8fed }}</a>
+                    <a href="{{ links.-e2e2547 }}" class="dropdown-inner-link">{{ texts.-319d1026 }}</a>
                     <div class="spacer-0-5"></div>
-                    <a href="{{ links.5e8a99d3 }}" class="dropdown-inner-link">{{ texts.13ede05 }}</a>
+                    <a href="{{ links.-7693c8ad }}" class="dropdown-inner-link">{{ texts.-7eef5065 }}</a>
                   </div>
                 </div>
               </nav>
@@ -713,7 +819,7 @@ color: #08072e;
         <div class="breadcrumbs">
           <a href="{{ links.2f }}" class="breadcrumb-link">{{ texts.2268ff }}</a>
           <div class="breadcrumb-divider">{{ texts.2f }}</div>
-          <div class="breadcrumb-text">{{ texts.-22899720 }}</div>
+          <div class="breadcrumb-text">{{ texts.-690ed061 }}</div>
         </div>
       </div>
       <div class="w-embed">
@@ -814,583 +920,373 @@ color: #08072e;
 </style>
       </div>
     </div>
-    <div class="main-content">
-      <div class="content-background-layers">
-        <div class="custom-css w-embed">
-          <style>
-.content-background-layers {
-    left: calc(50% - 27.75rem);
-    width: 100%;
-    height: 100%;
-}
-.content-background-layers .layers {
- 		filter: drop-shadow(5px 5px 10px rgba(0,0,0,.5));
- 		border-top-right-radius: 0!important;
-    border-bottom-right-radius: 0!important;
-}
-.layers.layer-1 {
-    width: calc(100% + 3.5rem);
-    height: calc(100% + 3.5rem);
-    top: -1.75rem;
-    left: -1.75rem;
-    z-index: -1;
-    background-color: rgb(115, 180, 237);
-    border-radius: 12.75rem;
-}
-.layers.layer-2 {
-    width: calc(100% + 7rem);
-    height: calc(100% + 7rem);
-    top: -3.5rem;
-    left: -3.5rem;
-    z-index: -2;
-    background-color: rgb(0, 144, 255);
-    border-radius: 14.5rem;
-}
-.layers.layer-3 {
-     width: calc(100% + 10.5rem);
-    height: calc(100% + 10.5rem);
-    top: -5.25rem;
-    left: -5.25rem;
-    z-index: -3;
-    background-color: rgb(21, 78, 217);
-    border-radius: 16.25rem;
-}
-.layers.layer-4 {
- 		width: calc(100% + 14rem);
-    height: calc(100% + 14rem);
-    top: -7rem;
-    left: -7rem;
-    z-index: -4;
-    background-color: rgb(6, 33, 164);
-    border-radius: 18rem;
-}
-@media screen and (max-width: 64rem) {
-.content-background-layers {
-    left: 6rem;
-  }
-  .layers.layer-1 {
-      width: calc(100% + 2rem);
-    height: calc(100% + 2rem);
-    top: -1rem;
-    left: -1rem;
-    z-index: -1;
-    background-color: rgb(115, 180, 237);
-    border-radius: 12.75rem;
-  }
-  .layers.layer-2 {
-      width: calc(100% + 4rem);
-    height: calc(100% + 4rem);
-    top: -2rem;
-    left: -2rem;
-    z-index: -2;
-    background-color: rgb(0, 144, 255);
-    border-radius: 13.75rem;
-  }
-  .layers.layer-3 {
-       width: calc(100% + 6rem);
-    height: calc(100% + 6rem);
-    top: -3rem;
-    left: -3rem;
-    z-index: -3;
-    background-color: rgb(21, 78, 217);
-    border-radius: 14.75rem;
-  }
-  .layers.layer-4 {
-       width: calc(100% + 8rem);
-    height: calc(100% + 8rem);
-    top: -4rem;
-    left: -4rem;
-    z-index: -4;
-    background-color: rgb(6, 33, 164);
-    border-radius: 15.75rem;
-  }
-}
-@media screen and (max-width: 40rem)  {
-.content-background-layers {
-    left: 1.5rem;
-  }
- .layers.layer-1 {
-      width: calc(100% + 0.5rem);
-    height: calc(100% + 0.5rem);
-    top: -0.25rem;
-    left: -0.25rem;
-    z-index: -1;
-    background-color: rgb(115, 180, 237);
-    border-radius: 5rem;
- }
- .layers.layer-2 {
-      width: calc(100% + 1rem);
-    height: calc(100% + 1rem);
-    top: -0.5rem;
-    left: -0.5rem;
-    z-index: -2;
-    background-color: rgb(0, 144, 255);
-    border-radius: 5.25rem;
- }
- .layers.layer-3 {
-  width: calc(100% + 1.5rem);
-    height: calc(100% + 1.5rem);
-    top: -0.75rem;
-    left: -0.75rem;
-    z-index: -3;
-    background-color: rgb(21, 78, 217);
-    border-radius: 5.5rem;
- }
- .layers.layer-4 {
- 	    width: calc(100% + 2rem);
-    height: calc(100% + 2rem);
-    top: -1rem;
-    left: -1rem;
-    z-index: -4;
-    background-color: rgb(6, 33, 164);
-    border-radius: 5.75rem;
- }
-}
-</style>
+    <section class="hero-heading-left">
+      <div class="container-large hero">
+        <div class="hero-wrapper">
+          <div class="hero-split">
+            <h1 class="heading-2">{{ texts.-5d06138e }}</h1>
+            <div class="spacer _18px"></div>
+            <p class="paragraph-10">{{ texts.66cdfe3e }}</p>
+            <div class="spacer _18px"></div>
+            <a href="{{ links.6c48c5a3 }}" class="button-primary outline">{{ texts.-563020ec }}</a>
+          </div>
+          <div class="hero-split hide-mobile"><img src="/assets/images/group-3831.png" loading="lazy" alt="A corgie statue holding a filecoin and a group of people watching a presentation"></div>
         </div>
-        <div class="layers layer-1"></div>
-        <div class="layers layer-2"></div>
-        <div class="layers layer-3"></div>
-        <div class="layers layer-4"></div>
       </div>
-      <section class="page-section first-section-ecosystem">
-        <div class="section-background bg-hawkes-blue"></div>
-        <div class="content-section hero">
-          <div class="container align-center">
-            <div class="col-4_md-9_mi-10">
-              <h1 class="heading">{{ texts.-22899720 }}</h1>
-              <div class="page-section_subheading">{{ texts.4db5b6dc }}</div>
-            </div>
-            <div class="col-5_md-9_mi-10">
-              <div class="column-content-right">
-                <div class="blocks-right full"><img class="blocks-hero-image" src="/assets/images/hero-image2x.png" alt="Multiple people having a conversation while sitting at a table. " data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;80vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;50vw&quot;}]" sizes="(max-width: 767px) 100vw, (max-width: 991px) 80vw, 50vw" loading="lazy" srcset="/assets/images/hero-image2x-p-500.png 500w, /assets/images/hero-image2x-p-800.png 800w, /assets/images/hero-image2x.png 1042w">
-                  <div class="w-embed">
-                    <style>
-.blocks-hero-image {
-    filter: drop-shadow(5px 5px 5px rgba(0,0,0,.15));
-}
-</style>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="w-embed">
-              <style>
-@media screen and (max-width: 40rem) {
-.col-4_md-9_mi-10, .col-5_md-9_mi-10 {
-	margin-left: 8.3333333%;
-}
-}
-</style>
-            </div>
-          </div>
-        </div>
-        <div class="desktop-spacer-9"></div>
-        <div class="content-section theme-dark">
-          <div class="container">
-            <div class="col-7_mi-8">
-              <div class="bounty-column-content no-padding">
-                <div class="blocks-left">
-                  <div class="page-section_subheading">{{ texts.-35f30627 }}<br></div>
-                </div>
-                <div class="blocks-background-layers">
-                  <div class="blocks-bglayer-1"></div>
-                  <div class="blocks-bglayer-2"></div>
-                  <div class="blocks-bglayer-3"></div>
-                  <div class="blocks-bglayer-4"></div>
-                  <div class="blocks-bglayer-5"></div>
-                  <div class="custom-css w-embed">
-                    <style>
-.blocks-bglayer-1 {
- width: calc(100% + 2.75rem);
- height: calc(100% + 2.75rem);
-}
-.blocks-bglayer-2 {
- width: calc(100% + 5.5rem);
- height: calc(100% + 5.5rem);
-}
-.blocks-bglayer-3{
- width: calc(100% + 8.25rem);
- height: calc(100% + 8.25rem);
-}
-.blocks-bglayer-4 {
- width: calc(100% + 11rem);
- height: calc(100% + 11rem);
-}
-.blocks-bglayer-5 {
- width: calc(100% + 13.75rem);
- height: calc(100% + 13.75rem);
-}
-@media screen and (max-width: 1015px) {
-.blocks-bglayer-1 {
- width: calc(100% + 1.5rem);
- height: calc(100% + 1.5rem);
- top: -0.75rem;
- left: -0.75rem;
-}
-.blocks-bglayer-2 {
- width: calc(100% + 3rem);
- height: calc(100% + 3rem);
-  top: -1.5rem;
- left: -1.5rem;
-}
-.blocks-bglayer-3{
- width: calc(100% + 4.5rem);
- height: calc(100% + 4.5rem);
-  top: -2.25rem;
- left: -2.25rem;
-}
-.blocks-bglayer-4 {
- width: calc(100% + 6rem);
- height: calc(100% + 6rem);
-  top: -3rem;
- left: -3rem;
-}
-.blocks-bglayer-5 {
- width: calc(100% + 7.5rem);
- height: calc(100% + 7.5rem);
-  top: -3.75rem;
- left: -3.75rem;
-}
-}
-@media screen and (max-width: 640px) {
-.blocks-bglayer-1 {
- width: calc(100% + 0.5rem);
- height: calc(100% + 0.5rem);
-  top: -0.25rem;
- left: -0.25rem;
-}
-.blocks-bglayer-2 {
- width: calc(100% + 1rem);
- height: calc(100% + 1rem);
-   top: -0.5rem;
- left: -0.5rem;
-}
-.blocks-bglayer-3{
- width: calc(100% + 1.5rem);
- height: calc(100% + 1.5rem);
-   top: -0.75rem;
- left: -0.75rem;
-}
-.blocks-bglayer-4 {
- width: calc(100% + 2rem);
- height: calc(100% + 2rem);
-   top: -1rem;
- left: -1rem;
-}
-.blocks-bglayer-5 {
- width: calc(100% +2.5rem);
- height: calc(100% + 2.5rem);
-   top: -1.25rem;
- left: -1.25rem;
-}
-}
-.blocks-background-layers > * {
-    filter: drop-shadow(5px 5px 5px rgba(0,0,0,.15));
-}
-</style>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="desktop-spacer-9"></div>
-        <div class="content-section hero">
-          <div class="container">
-            <div class="col-5_sm-4_mi-6"><img src="/assets/images/upstairs.png" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" alt=""></div>
-            <div class="col-4_sm-9_mi-10">
-              <div class="content-container">
-                <div class="content-label"><strong>{{ texts.-11b27d67 }}</strong></div>
-                <h2>{{ texts.4375d245 }}</h2>
-                <div class="content-subheading">{{ texts.7a7a354f }}<br><br>{{ texts.21527ac3 }}</div>
-                <div class="button-row">
-                  <a href="{{ links.7894e442 }}" class="button primary w-inline-block">
-                    <p class="button-text">{{ texts.4422b111 }}</p>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="desktop-spacer-9"></div>
-        <div id="board-panel" class="content-section board-panel">
-          <div class="container">
-            <div class="col-9_mi-10">
-              <h1>{{ texts.-22899720 }}<br>{{ texts.-268b032d }}</h1>
-              <p class="subheading">{{ texts.57535dda }}</p>
-            </div>
-          </div>
-        </div>
-        <div class="content-section ecosystem-advisors">
-          <div class="container">
-            <div class="col-9_sm-8_mi-10_ti-8">
-              <div class="container-cards-directors">
-                <div class="card-director"><img src="/assets/images/colinevran.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="A picture of Colin Evran, Ecosystem lead for Protocol Labs and a member of the Filecoin Foundation Ecosystem Advisors group." class="card-director-image">
-                  <div class="card-director-content">
-                    <p class="card-director-title">{{ texts.1794c53 }}</p>
-                    <p class="card-director-description">{{ texts.-e8c8a22 }}</p>
-                  </div>
-                </div>
-                <div class="card-director"><img src="/assets/images/mosh.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="A picture of Michelle Lee, product lead for Protocol Labs and a member of the Filecoin Foundation Ecosystem Advisors group." class="card-director-image">
-                  <div class="card-director-content">
-                    <p class="card-director-title">{{ texts.2151f84d }}</p>
-                    <p class="card-director-description">{{ texts.-52341095 }}</p>
-                  </div>
-                </div>
-                <div class="card-director"><img src="/assets/images/stefaan-vervaet.png" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="A picture of Stefaan Vervaet, Ecosystem and partnership for Protocol Labs and a member of the Filecoin Foundation Ecosystem Advisors group." class="card-director-image">
-                  <div class="card-director-content">
-                    <p class="card-director-title">{{ texts.-36abe357 }}</p>
-                    <p class="card-director-description">{{ texts.-592f052b }}</p>
-                  </div>
-                </div>
-                <div class="card-director"><img src="/assets/images/dietrich-ayala.jpg" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;51vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;28vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;22vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;132px&quot;}]" alt="A picture of Dietrich Ayala, IPFS Ecosystem growth engineer at Protocol Labs and a member of the Filecoin Foundation Ecosystem Advisors group." class="card-director-image">
-                  <div class="card-director-content">
-                    <p class="card-director-title">{{ texts.-2fd7aef2 }}</p>
-                    <p class="card-director-description">{{ texts.-3a3ad7e2 }}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section id="advisors" class="page-section">
-        <div class="content-section">
-          <div class="container align-center">
-            <div class="col-3_md-4_sm-9 mb-9-t">
-              <div id="resources" class="content-label">{{ texts.2fe4ce05 }}</div>
-              <h2>{{ texts.7320d775 }}</h2>
-              <div class="content-richtext w-richtext">
-                <p>{{ texts.446d816 }}<a href="{{ links.29985539 }}" target="_blank">{{ texts.-18b5e843 }}</a>{{ texts.-7c0efa1d }}</p>
-              </div>
-              <div class="spacer-1"></div>
-              <a href="{{ links.73099201 }}" class="button primary w-inline-block">
-                <div class="button-text">{{ texts.-3d2e697c }}</div>
-              </a>
-            </div>
-            <div class="col-6_md-5_sm-9_mi-11_ti-10">
-              <div class="bounty-column-content">
-                <div class="blocks-right">
-                  <div class="card-list">
-                    <a href="{{ links.41f5702e }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/pencil.png" loading="lazy" alt="" class="image-size-regular">
-                      <div class="card-title">{{ texts.133689e0 }}</div>
-                      <div class="card-description">{{ texts.19449f5a }}</div>
-                    </a>
-                    <a href="{{ links.31561323 }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/plus.png" loading="lazy" alt="" class="image-size-regular">
-                      <div class="card-title">{{ texts.-26795c4a }}</div>
-                      <div class="card-description">{{ texts.-6f57abdf }}</div>
-                    </a>
-                    <a href="{{ links.-6dabc742 }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/upstairs.png" loading="lazy" alt="" class="image-size-regular">
-                      <div class="card-title">{{ texts.73434022 }}</div>
-                      <div class="card-description">{{ texts.67d353e3 }}</div>
-                    </a>
-                    <a href="{{ links.77bd29e1 }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/stamp.png" loading="lazy" alt="" class="image-size-regular">
-                      <div class="card-title">{{ texts.3f53a7a5 }}</div>
-                      <div class="card-description">{{ texts.6b113424 }}</div>
-                    </a>
-                    <a href="{{ links.41f5702e }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/key.png" loading="lazy" alt="" class="image-size-regular">
-                      <div class="card-title">{{ texts.-301aa369 }}</div>
-                      <div class="card-description">{{ texts.-d474b62 }}</div>
-                    </a>
-                    <a href="{{ links.-178c9db }}" target="_blank" class="card_type-a w-inline-block"><img src="/assets/images/shield.png" loading="lazy" alt="" sizes="40px" srcset="/assets/images/shield-p-500.png 500w, /assets/images/shield.png 715w" class="image-size-regular">
-                      <div class="card-title">{{ texts.-6276bfe9 }}</div>
-                      <div class="card-description">{{ texts.-5c4fb59f }}<br><br>{{ texts.5a05595d }}</div>
-                    </a>
-                  </div>
-                </div>
-                <div class="blocks-background-layers advisors">
-                  <div class="blocks-bglayer-1 advisors"></div>
-                  <div class="blocks-bglayer-2 advisors"></div>
-                  <div class="blocks-bglayer-3 advisors"></div>
-                  <div class="blocks-bglayer-4 advisors"></div>
-                  <div class="custom-css w-embed">
-                    <style>
-.blocks-bglayer-1 {
- width: calc(100% + 2.75rem);
- height: calc(100% + 2.75rem);
-}
-.blocks-bglayer-2 {
- width: calc(100% + 5.5rem);
- height: calc(100% + 5.5rem);
-}
-.blocks-bglayer-3{
- width: calc(100% + 8.25rem);
- height: calc(100% + 8.25rem);
-}
-.blocks-bglayer-4 {
- width: calc(100% + 11rem);
- height: calc(100% + 11rem);
-}
-.blocks-bglayer-5 {
- width: calc(100% + 13.75rem);
- height: calc(100% + 13.75rem);
-}
-@media screen and (max-width: 1015px) {
-.blocks-bglayer-1 {
- width: calc(100% + 1.5rem);
- height: calc(100% + 1.5rem);
- top: -0.75rem;
- left: -0.75rem;
-}
-.blocks-bglayer-2 {
- width: calc(100% + 3rem);
- height: calc(100% + 3rem);
-  top: -1.5rem;
- left: -1.5rem;
-}
-.blocks-bglayer-3{
- width: calc(100% + 4.5rem);
- height: calc(100% + 4.5rem);
-  top: -2.25rem;
- left: -2.25rem;
-}
-.blocks-bglayer-4 {
- width: calc(100% + 6rem);
- height: calc(100% + 6rem);
-  top: -3rem;
- left: -3rem;
-}
-.blocks-bglayer-5 {
- width: calc(100% + 7.5rem);
- height: calc(100% + 7.5rem);
-  top: -3.75rem;
- left: -3.75rem;
-}
-}
-@media screen and (max-width: 640px) {
-.blocks-bglayer-1 {
- width: calc(100% + 0.5rem);
- height: calc(100% + 0.5rem);
-  top: -0.25rem;
- left: -0.25rem;
-}
-.blocks-bglayer-2 {
- width: calc(100% + 1rem);
- height: calc(100% + 1rem);
-   top: -0.5rem;
- left: -0.5rem;
-}
-.blocks-bglayer-3{
- width: calc(100% + 1.5rem);
- height: calc(100% + 1.5rem);
-   top: -0.75rem;
- left: -0.75rem;
-}
-.blocks-bglayer-4 {
- width: calc(100% + 2rem);
- height: calc(100% + 2rem);
-   top: -1rem;
- left: -1rem;
-}
-.blocks-bglayer-5 {
- width: calc(100% +2.5rem);
- height: calc(100% + 2.5rem);
-   top: -1.25rem;
- left: -1.25rem;
-}
-}
-</style>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="page-section no-margin">
-        <div class="section-background bg-polar last-of-type"></div>
-        <div id="dive-deeper" class="content-section dive-deeper">
-          <div class="container">
-            <div class="col-7_sm-8_mi-9_ti-10">
-              <h1>{{ texts.5f6ba625 }}</h1>
-              <div class="dive-deeper-content-subheading">{{ texts.60ff46a }}<a href="{{ links.6ef75786 }}" target="_blank" class="inline-blue-link"><strong>{{ texts.79a701bd }}</strong></a>{{ texts.2e }}</div>
-            </div>
-          </div>
-          <div class="video-container">
-            <div class="container">
-              <div class="col-6_sm-8_mi-9_ti-11 off-1_sm-2_mi-1">
-                <div class="video-static">
-                  <a video-youtube="" href="{{ links.-31cbb86a }}" class="video-preview bg-hawkes-blue w-inline-block">
-                    <div class="video-overlay">
-                      <div class="video-overlay-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9" width="100%">
-                          <path d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner-video"></path>
-                          <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer-video"></path>
-                        </svg></div>
+    </section>
+    <section data-w-id="f79cfc5e-70f8-35aa-7d27-0969d42a1d3c" class="section-clients">
+      {%- assign collection = collections.ecosystem-partners | sort: "-created-on" -%}<div class="devos-sponsor-list-wrapper w-dyn-list">
+        {%- unless collection.length == 0 -%}<div role="list" class="devos-logos-list w-dyn-items">
+          {%- for item in collection -%}<div role="listitem" class="devos-sponsor-item w-dyn-item"><img alt="{{ item.data.f_brand.alt }}" loading="lazy" width="92" src="{{ item.data.f_brand.url }}" class="main-image"></div>{%- endfor -%}
+        </div>{%- endunless -%}
+        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+          <div>{{ texts.3d503d2b }}</div>
+        </div>{%- endif -%}
+      </div>
+      {%- assign collection = collections.ecosystem-partners | sort: "-created-on" -%}<div class="devos-sponsor-list-wrapper w-dyn-list">
+        {%- unless collection.length == 0 -%}<div role="list" class="devos-logos-list w-dyn-items">
+          {%- for item in collection -%}<div role="listitem" class="devos-sponsor-item w-dyn-item"><img alt="{{ item.data.f_brand.alt }}" loading="lazy" src="{{ item.data.f_brand.url }}" class="main-image"></div>{%- endfor -%}
+        </div>{%- endunless -%}
+        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+          <div>{{ texts.3d503d2b }}</div>
+        </div>{%- endif -%}
+      </div>
+      <div class="filter"></div>
+    </section>
+    <section class="section-projects">
+      <div class="container-large">
+        <div data-delay="4000" data-animation="slide" class="slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
+          <div class="mask w-slider-mask">
+            <div class="project-slide w-slide">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 16 | limit: 1 -%}<div class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                    <div class="slide-content">
+                      <div class="slide-content__main-container">
+                        <div class="project__tag">{{ texts.34879927 }}</div>
+                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                      </div>
+                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
                     </div>
-                    <div class="video-tint"></div><img src="/assets/images/fil-austing.png" loading="lazy" alt="" sizes="(max-width: 479px) 51vw, (max-width: 767px) 55vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/fil-austing-p-500.png 500w, /assets/images/fil-austing-p-800.png 800w, /assets/images/fil-austing-p-1080.png 1080w, /assets/images/fil-austing.png 1278w" class="relative-image">
-                  </a>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              </div>
+            </div>
+            <div class="project-slide w-slide">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 18 | limit: 1 -%}<div class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                    <div class="slide-content">
+                      <div class="slide-content__main-container">
+                        <div class="project__tag">{{ texts.34879927 }}</div>
+                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                      </div>
+                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                    </div>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              </div>
+            </div>
+            <div class="project-slide w-slide">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 32 | limit: 1 -%}<div class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                    <div class="slide-content">
+                      <div class="slide-content__main-container">
+                        <div class="project__tag">{{ texts.34879927 }}</div>
+                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                      </div>
+                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                    </div>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              </div>
+            </div>
+            <div class="project-slide w-slide">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 5 | limit: 1 -%}<div class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                    <div class="slide-content">
+                      <div class="slide-content__main-container">
+                        <div class="project__tag">{{ texts.34879927 }}</div>
+                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                      </div>
+                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                    </div>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              </div>
+            </div>
+            <div data-w-id="b7c0a835-b1e3-f355-8415-375994c4d27e" class="project-slide w-slide">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 41 | limit: 1 -%}<div class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                    <div class="slide-content">
+                      <div class="slide-content__main-container">
+                        <div class="project__tag">{{ texts.34879927 }}</div>
+                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand-image-alt-text }}" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                      </div>
+                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                    </div>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              </div>
+            </div>
+          </div>
+          <div class="left-arrow-2 w-slider-arrow-left">
+            <div class="icon-2 w-icon-slider-left"></div>
+          </div>
+          <div class="right-arrow w-slider-arrow-right">
+            <div class="icon-3 w-icon-slider-right"></div>
+          </div>
+          <div class="slide-nav w-slider-nav w-round"></div>
+        </div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container-large">
+        <h2 id="ecosystem-projects" class="section__header">{{ texts.-319d1026 }}</h2>
+        <p class="section__header-description">{{ texts.3444ec9f }}</p>
+        <div class="spacer _40px"></div>
+        <div class="w-form">
+          <form id="email-form" name="email-form" data-name="email" method="get" fs-cmsfilter-element="filters" class="col-2-grid ecosystem" data-wf-page-id="6597e0e1bfa25a32f825f64d" data-wf-element-id="5dbb3925-27b5-45bc-df26-0ded1918352d" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded">
+            <div id="w-node-f86cef36-c731-9df0-90b2-634f002994c3-f825f64d" class="col pd-0">
+              <a fs-cmsfilter-element="clear" href="{{ links.23 }}" class="clear-all">{{ texts.2b99750e }}</a>
+            </div>
+            <div class="col">
+              <div class="row"><input class="filters__search-input w-input" maxlength="256" name="field" fs-cmsfilter-field="*" data-name="Field" placeholder="Search" type="text" id="field">
+                <div class="filters__filter-sort-buttons">
+                  <div data-hover="false" data-delay="0" fs-cmssort-element="trigger" class="filters__sort-dropdown w-dropdown">
+                    <div class="filters__button w-dropdown-toggle">
+                      <div fs-cmssort-element="dropdown-label" class="filters__filters-button-text">{{ texts.2769be }}</div>
+                    </div>
+                    <nav class="filters__sort-dropdown__list w-dropdown-list">
+                      <a fs-cmssort-field="Name-asc" href="{{ links.23 }}" class="filters__sort-dropdown__list-item w-dropdown-link">{{ texts.-110efd72 }}</a>
+                      <a fs-cmssort-field="Name-desc" href="{{ links.23 }}" class="filters__sort-dropdown__list-item w-dropdown-link">{{ texts.-1103a332 }}</a>
+                    </nav>
+                  </div>
+                  <a data-w-id="a5839ef1-30ce-c12b-144f-a6e7c409d5d5" href="{{ links.23 }}" class="filters__button filters__button--filters w-button">{{ texts.30493bdb }}</a>
+                </div>
+                <div style="display:none;opacity:0" class="filters__mobile-modal">
+                  <div class="filters__mobile-modal__header">
+                    <div class="filters__mobile-modal__heading">{{ texts.-790ec844 }}</div>
+                    <div data-w-id="1796caa8-3d90-4a1d-4c36-68d77d0adc3e" class="filters__mobile-modal__close-button w-embed"><button type="button" style="background-color:transparent">
+                        <svg fill="none" height="14" viewBox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg" aria-labelledby="svgtitle">
+                          <title id="svgtitle">Close</title>
+                          <path d="m12.3137 1-5.65685 5.65685m0 0-5.65685-5.65685m5.65685 5.65685-5.65662 5.65685m5.65662-5.65685 5.65705 5.65685" stroke="#fff" stroke-width="2"></path>
+                        </svg>
+                        <span class="visually-hidden">Close</span>
+                      </button></div>
+                  </div>
+                  <div class="filters__container filters-container--mobile">
+                    <div class="filters__topic-container">
+                      <div class="filters__header"><img loading="lazy" src="/assets/images/22.svg" alt="" class="filters__header-icon">
+                        <div class="filters__header-text">{{ texts.-6c2a32dc }}</div>
+                      </div>
+                      {%- assign collection = collections.ecosystem-topics | sort: "title" -%}<div class="filters__list-container w-dyn-list">
+                        {%- unless collection.length == 0 -%}<div role="list" class="collection-list-7 w-dyn-items">
+                          {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Topic-Mobile" data-name="Checkbox Topic Mobile" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Topic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Topic-Mobile">{{ item.data.title }}</span></label></div>{%- endfor -%}
+                        </div>{%- endunless -%}
+                        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                          <div>{{ texts.3d503d2b }}</div>
+                        </div>{%- endif -%}
+                      </div>
+                    </div>
+                    <div class="filters__subtopic-container">
+                      <div class="filters__header"><img loading="lazy" src="/assets/images/22.svg" alt="" class="filters__header-icon">
+                        <div class="filters__header-text">{{ texts.272c19 }}</div>
+                      </div>
+                      {%- assign collection = collections.ecosystem-tags | sort: "title" -%}<div fs-cmsfilter-field="Subtopic" class="filters__list-container w-dyn-list">
+                        {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                          {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Subtopic-Mobile" data-name="Checkbox Subtopic Mobile" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Subtopic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Subtopic-Mobile">{{ item.data.title }}</span></label></div>{%- endfor -%}
+                        </div>{%- endunless -%}
+                        {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                          <div>{{ texts.3d503d2b }}</div>
+                        </div>{%- endif -%}
+                      </div>
+                    </div>
+                  </div>
+                  <div class="filters__mobile-modal__footer">
+                    <a fs-cmsfilter-element="clear" href="{{ links.23 }}" class="clear-all-link-button">{{ texts.-45d098c7 }}</a>
+                    <a data-w-id="c5dc0409-5636-7f86-55d0-bece21d296b2" href="{{ links.23 }}" class="done-button w-button">{{ texts.2097a2 }}</a>
+                  </div>
                 </div>
               </div>
-              <div class="col-4_sm-8_mi-9_ti-11 flex-center off-1_sm-2_mi-1">
-                <h2>{{ texts.-334ea4f }}</h2>
-                <div class="content-subheading">{{ texts.-1597c0da }}</div>
-                <a video-youtube="" href="{{ links.-31cbb86a }}" class="button tertiary no-margin w-inline-block">
-                  <div class="icon-play">
-                    <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9" width="100%">
-                        <path d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner"></path>
-                        <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer"></path>
-                      </svg></div>
-                  </div>
-                  <div class="button-text">{{ texts.3db38daa }}</div>
+            </div>
+            <div class="filters__container">
+              <div class="filters__topic-container">
+                <div class="filters__header"><img loading="lazy" src="/assets/images/22.svg" alt="" class="filters__header-icon">
+                  <div class="filters__header-text">{{ texts.-6c2a32dc }}</div>
+                </div>
+                {%- assign collection = collections.ecosystem-topics | sort: "title" -%}<div class="filters__list-container w-dyn-list">
+                  {%- unless collection.length == 0 -%}<div role="list" class="collection-list-7 w-dyn-items">
+                    {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Topic" data-name="Checkbox Topic" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Topic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Topic">{{ item.data.title }}</span></label></div>{%- endfor -%}
+                  </div>{%- endunless -%}
+                  {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>{%- endif -%}
+                </div>
+              </div>
+              <div class="filters__subtopic-container">
+                <div class="filters__header"><img loading="lazy" src="/assets/images/22.svg" alt="" class="filters__header-icon">
+                  <div class="filters__header-text">{{ texts.272c19 }}</div>
+                </div>
+                {%- assign collection = collections.ecosystem-tags | sort: "title" -%}<div fs-cmsfilter-field="Subtopic" class="filters__list-container w-dyn-list">
+                  {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                    {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Subtopic" data-name="Checkbox Subtopic" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Subtopic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Subtopic">{{ item.data.title }}</span></label></div>{%- endfor -%}
+                  </div>{%- endunless -%}
+                  {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                    <div>{{ texts.3d503d2b }}</div>
+                  </div>{%- endif -%}
+                </div>
+              </div>
+            </div>
+            <div id="w-node-_3ad3e826-0281-f479-e813-3d559dcebecc-f825f64d" class="col">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" -%}<div fs-cmsfilter-element="list" fs-cmssort-element="list" class="w-dyn-list">
+                {%- unless collection.length == 0 -%}<div role="list" class="grid-2-col w-dyn-items">
+                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                    <div class="project-card" style="background-color: {{item.data.f_background-color}};">
+                      {%- assign ecosystem-tagsOfEcosystem-projects = item.data.f_tag | resolveMultiReferences -%}<div aria-hidden="true" class="project-card__subtopics--visually-hidden visually-hidden w-dyn-list">
+                        {%- unless ecosystem-tagsOfEcosystem-projects.length == 0 -%}<div role="list" class="w-dyn-items">
+                          {%- for item in ecosystem-tagsOfEcosystem-projects -%}<div role="listitem" class="w-dyn-item">
+                            <div fs-cmsfilter-field="Subtopic">{{ item.data.title }}</div>
+                          </div>{%- endfor -%}
+                        </div>{%- endunless -%}
+                      </div>
+                      <div class="div-block-137">
+                        <div class="project-card__image-container"><img loading="lazy" alt="{{ item.data.f_brand-image-alt-text }}" src="{{ item.data.f_brand.url }}" class="project-card__image"></div>
+                        {%- assign ecosystem-topicsOfEcosystem-projects = item.data.f_topic | resolveReference -%}<div fs-cmsfilter-field="Topic" class="project-card__topic line-1-clamp">{{ ecosystem-topicsOfEcosystem-projects.data.title }}</div>
+                        <p fs-cmsfilter-field="Name" fs-cmsfilter-highlight="true" class="project-card__name line-1-clamp">{{ item.data.title }}</p>
+                        <p fs-cmsfilter-field="Description" fs-cmsfilter-highlight="true" class="project-card__description line-4-clamp">{{ item.data.f_card-text-truncated }}</p>
+                      </div>
+                      <a href="{{ item.url }}" class="project-card__read-more">{{ texts.4b48024a }}</a>
+                    </div>
+                  </div>{%- endfor -%}
+                </div>{%- endunless -%}
+                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                  <div>{{ texts.3d503d2b }}</div>
+                </div>{%- endif -%}
+              </div>
+              <div class="spacer _63px"></div>
+              <div class="row align-center hide-mobile">
+                <a href="{{ links.23 }}" class="paginate-button current w-inline-block">
+                  <div>{{ texts.31 }}</div>
+                </a>
+                <a href="{{ links.23 }}" class="paginate-button w-inline-block">
+                  <div>{{ texts.32 }}</div>
+                </a>
+                <a href="{{ links.23 }}" class="paginate-button w-inline-block">
+                  <div>{{ texts.33 }}</div>
+                </a>
+              </div>
+              <div class="row align-center show-mobile">
+                <a href="{{ links.23 }}" class="paginate-button version-mobile w-inline-block">
+                  <div>{{ texts.162663f0 }}</div>
                 </a>
               </div>
             </div>
+          </form>
+          <div class="w-form-done">
+            <div>{{ texts.5a0ea5a1 }}</div>
           </div>
-          <div class="video-container">
-            <div class="container">
-              <div class="col-6_sm-8_mi-9_ti-11 off-1_sm-2_mi-1">
-                <div class="video-static">
-                  <a video-youtube="" href="{{ links.-21fe5819 }}" class="video-preview bg-hawkes-blue w-inline-block">
-                    <div class="video-overlay">
-                      <div class="video-overlay-icon w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9" width="100%">
-                          <path d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner-video"></path>
-                          <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer-video"></path>
-                        </svg></div>
-                    </div>
-                    <div class="video-tint"></div><img src="/assets/images/dweb.png" loading="lazy" alt="" sizes="(max-width: 479px) 51vw, (max-width: 767px) 55vw, (max-width: 991px) 56vw, 424px" srcset="/assets/images/dweb-p-500.png 500w, /assets/images/dweb-p-800.png 800w, /assets/images/dweb-p-1080.png 1080w, /assets/images/dweb.png 1275w" class="relative-image">
-                  </a>
-                </div>
-              </div>
-              <div class="col-4_sm-8_mi-9_ti-11 flex-center off-1_sm-2_mi-1">
-                <h2>{{ texts.-b3ace6f }}</h2>
-                <div class="content-subheading">{{ texts.1991a642 }}</div>
-                <a video-youtube="" href="{{ links.-21fe5819 }}" class="button tertiary no-margin w-inline-block">
-                  <div class="icon-play">
-                    <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.6 14.9" width="100%">
-                        <path d="M2.3,13.5H1.8a1.1,1.1,0,0,1-.5-.9V2.4a1.1,1.1,0,0,1,.5-.9h1l8.9,5.1a.7.7,0,0,1,.5.8.9.9,0,0,1-.5.9L2.8,13.4Z" class="icon__play__triangle-inner"></path>
-                        <path d="M2.3,2.4l8.9,5L2.3,12.5V2.4m0-2L1.3.6a2.2,2.2,0,0,0-1,1.8V12.5a1.9,1.9,0,0,0,1,1.7,1.9,1.9,0,0,0,1,.3,1.9,1.9,0,0,0,1-.3l8.9-5a1.9,1.9,0,0,0,1-1.8,1.9,1.9,0,0,0-1-1.7L3.3.6,2.3.4Z" class="icon__play__triangle-outer"></path>
-                      </svg></div>
-                  </div>
-                  <div class="button-text">{{ texts.3db38daa }}</div>
-                </a>
-              </div>
-            </div>
+          <div class="w-form-fail">
+            <div>{{ texts.-7c112e99 }}</div>
           </div>
         </div>
-      </section>
-    </div>
+      </div>
+    </section>
+    <section id="join-the-ecosystem" class="section">
+      <div class="container-large">
+        <div class="w-layout-grid bento-grid">
+          <div id="w-node-_8067630b-198b-76a6-2553-b0ab39ead2dc-f825f64d" class="project-card secondary">
+            <h2 class="_39px-header color-white">{{ texts.57cbde24 }}</h2>
+            <p class="project-card__name">{{ texts.3fa6cf7b }}</p>
+            <a href="{{ links.6c48c5a3 }}" class="button-primary outline">{{ texts.-563020ec }}</a>
+          </div>
+          <a href="{{ links.7cb304f7 }}" class="project-card terthiary w-inline-block"><img src="/assets/images/arrow-3.svg" loading="lazy" alt="" class="arrow show-mobile">
+            <h2 class="_25px-header-6 color-white">{{ texts.-6301ec89 }}</h2>
+            <div class="spacer _20px"></div>
+            <p>{{ texts.-3f5db420 }}</p><img src="/assets/images/arrow-1.svg" loading="lazy" alt="" class="arrow hide-mobile">
+          </a>
+          <a href="{{ links.6ed98b2e }}" class="project-card terthiary w-inline-block"><img src="/assets/images/arrow-3.svg" loading="lazy" alt="" class="arrow show-mobile">
+            <h2 class="_25px-header-6 color-white">{{ texts.28d09245 }}</h2>
+            <div class="spacer _20px"></div>
+            <p>{{ texts.-5af39bc6 }}</p><img src="/assets/images/arrow-1.svg" loading="lazy" alt="" class="arrow hide-mobile">
+          </a>
+        </div>
+      </div>
+    </section>
+    <section id="case-studies" class="section hidden">
+      <div class="container-large">
+        <div class="col">
+          <div class="heading-label">{{ texts.-667f9cc9 }}</div>
+          <p class="section__header-description">{{ texts.-59568307 }}</p>
+          <div class="spacer-34"></div>
+          {%- assign collection = collections.case-studies | sort: "-created-on" -%}<div class="case-studies-wrapper w-dyn-list">
+            {%- unless collection.length == 0 -%}<div role="list" class="case-studies-list w-dyn-items">
+              {%- for item in collection -%}<div role="listitem" class="case-study-item w-dyn-item">
+                <div class="card case-study" style="background-color: {{item.data.f_color}};; border-color: {{item.data.f_border-color}};"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;588.46875px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image-alt-text }}" class="card-case-study-image">
+                  <div class="case-study-card-content">
+                    <div>{{ texts.-1e799b27 }}</div>
+                    <div class="case-study-title clamp-2">{{ item.data.title }}</div>
+                    <p class="clamp-4">{{ item.data.f_description }}</p>
+                    <a href="{{ item.data.f_cta }}" class="case-study-link">{{ item.data.f_cta-text }}</a>
+                  </div>
+                </div>
+              </div>{%- endfor -%}
+            </div>{%- endunless -%}
+            {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+              <div>{{ texts.3d503d2b }}</div>
+            </div>{%- endif -%}
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="spacer _13rem"></div>
     <footer id="site-footer" class="footer">
       <div class="site-footer-section-top">
         <div class="footer-grid-middle">
           <div class="footer-col-4">
             <div class="footer-content">
-              <div class="text-item margin">
-                <p>{{ texts.7f2746de }}</p>
-              </div>
-              <div class="text-item margin">
-                <p>{{ texts.2b4a4742 }}<a href="{{ links.6a225709 }}" target="_blank" class="text-item-link">{{ texts.25efb424 }}</a>{{ texts.2e }}</p>
+              <div class="text-item">
+                <p class="paragraph-6">{{ texts.7f2746de }}</p>
               </div>
               <div class="text-item">
-                <p>{{ texts.14d77b8 }}<a href="{{ links.-7572349d }}" target="_blank" class="text-item-link">{{ texts.2d5d45a2 }}</a>{{ texts.2e }}</p>
+                <p class="paragraph-7">{{ texts.2b4a4742 }}<a href="{{ links.6a225709 }}" target="_blank" class="text-item-link">{{ texts.25efb424 }}</a>{{ texts.2e }}</p>
+              </div>
+              <div class="text-item">
+                <p class="paragraph-8">{{ texts.14d77b8 }}<a href="{{ links.-7572349d }}" target="_blank" class="text-item-link">{{ texts.2d5d45a2 }}</a>{{ texts.2e }}</p>
+              </div>
+              <div class="text-item">
+                <p class="paragraph-9">{{ texts.-e1e40a7 }}<a href="{{ links.199505dc }}" target="_blank" class="text-item-link">{{ texts.5fea9cfc }}</a>{{ texts.2e }}</p>
               </div>
             </div>
           </div>
           <div class="footer-col-5">
-            <div class="footer-content">
-              <a href="{{ links.-d1fa66 }}" target="_blank" class="footer-nav-link button type-f margin"><span class="text">{{ texts.45041158 }}</span></a>
+            <div class="footer-content footer-content-2">
+              <a href="{{ links.-d1fa66 }}" target="_blank" class="footer-nav-link button type-f"><span class="text">{{ texts.45041158 }}</span></a>
               <div class="social-icons">
-                <a href="{{ links.31561323 }}" target="_blank" class="social-icon margin w-inline-block">
+                <a href="{{ links.31561323 }}" target="_blank" class="social-icon w-inline-block">
                   <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 260 252">
                       <defs>
                         <clipPath id="clip-github">
@@ -1400,7 +1296,7 @@ color: #08072e;
                       <path fill="#73B4ED" d="M-177.758,3117.69c-5.606,0-9.538-4.3-9.561-10.46q-.023-6.13-.008-12.263c0-4.463.009-9.075-.014-13.6-.02-3.97-.351-8.553-2.66-12.407a20.556,20.556,0,0,0-2.3-2.859l-.417-.466-6.02-6.772,9.681-1.3a75.684,75.684,0,0,0,13.174-2.546c9.651-3.138,15.795-7.242,19.92-13.292,3.531-5.182,5.69-11.495,6.6-19.3.834-7.148.7-12.49-.45-17.325a31.152,31.152,0,0,0-6.951-13.528,7.273,7.273,0,0,1-1.457-7.641c1.924-5.558,1.777-11.492-.484-18.523a22.118,22.118,0,0,0-5.9,1.67,66.68,66.68,0,0,0-13.537,7,8.439,8.439,0,0,1-4.8,1.514,10.088,10.088,0,0,1-2.508-.336,88.643,88.643,0,0,0-21.69-2.742,88.244,88.244,0,0,0-21.6,2.729,8.947,8.947,0,0,1-7.628-1.3,59.128,59.128,0,0,0-18.245-8.26c-.437-.113-.791-.2-1.079-.26-.1.3-.211.669-.346,1.138-1.908,6.652-1.873,12.486.106,17.831a6.493,6.493,0,0,1-1.379,6.872c-5.671,6.466-8.328,14.227-8.122,23.728.218,10.064,2.13,18,6.018,24.986,2.911,5.231,7.542,9.242,14.572,12.62,5.864,2.822,12.3,4.053,20.17,5.032l9.21,1.148-6.226,6.876a16.175,16.175,0,0,0-3.864,6.01c-.111.359-.241.725-.374,1.091-.083.227-.192.526-.235.686-.079,2.37-1.071,6.4-6.608,7.92a41.214,41.214,0,0,1-10.794,1.757,21.406,21.406,0,0,1-11.471-3.158,24.861,24.861,0,0,1-6.361-5.611c.111.243.221.489.331.735,1.1,2.456,2.052,4.579,3.644,6.017,2.77,2.512,6.266,3.787,11.693,4.273,1.755.153,3.336.233,4.83.233a33.421,33.421,0,0,0,6.674-.619,8.231,8.231,0,0,1,1.61-.176,5.521,5.521,0,0,1,4.864,2.739,6.658,6.658,0,0,1,.809,3.441c0,2.988.036,6.043.073,9,.03,2.333.059,4.669.07,7a10.81,10.81,0,0,1-2.954,7.98,9.48,9.48,0,0,1-6.786,2.709,13.106,13.106,0,0,1-4.265-.755c-24.3-8.383-43.311-24.114-56.518-46.758a98.079,98.079,0,0,1-12.856-63.147c4.987-39.233,26.2-67.48,63.037-83.957a94.412,94.412,0,0,1,38.833-7.987c3.838,0,7.811.2,11.809.606,26.5,2.676,49.09,14.247,67.137,34.394a100.708,100.708,0,0,1,24.867,52.868c.162,1.065.237,2.06.31,3.025a14.693,14.693,0,0,0,.57,3.731l.291.8v17.895l-.572,1.068a6.943,6.943,0,0,0-.24,1.807c-.035.573-.076,1.225-.169,1.911a101.915,101.915,0,0,1-22.425,51.15,102.152,102.152,0,0,1-46.848,32.627A12.977,12.977,0,0,1-177.758,3117.69Zm-2.852-51.64c2.513,5.228,2.906,10.6,2.929,15.265.022,4.556.018,9.185.014,13.661q-.006,6.105.008,12.217a3.965,3.965,0,0,0,.081.839,4.04,4.04,0,0,0,.861-.207,92.62,92.62,0,0,0,42.486-29.582,92.361,92.361,0,0,0,20.355-46.361c.046-.343.073-.765.1-1.215a15.208,15.208,0,0,1,.787-4.476,6.194,6.194,0,0,1-.192-1.674v-2.429a6.314,6.314,0,0,1,.2-1.657v-4.263a6.223,6.223,0,0,1-.2-1.614v.023l0-.153,0-.109a6.388,6.388,0,0,1,.2-1.6v-.6a25.109,25.109,0,0,1-.834-5.421c-.062-.822-.12-1.6-.227-2.3A91.228,91.228,0,0,0-136.56,2956.5c-16.388-18.3-36.88-28.8-60.907-31.226-3.677-.37-7.324-.556-10.839-.556a84.863,84.863,0,0,0-34.885,7.142c-16.676,7.458-29.953,17.611-39.464,30.174-9.622,12.713-15.657,28.251-17.937,46.192a88.645,88.645,0,0,0,11.619,57.077c12.011,20.587,29.279,34.887,51.326,42.491a3.526,3.526,0,0,0,1.079.229,3.576,3.576,0,0,0,.113-1c-.011-2.307-.04-4.616-.069-6.922-.021-1.661-.042-3.351-.057-5.048a55.837,55.837,0,0,1-10-.08c-5.11-.459-11.7-1.634-17.323-6.732-3.092-2.8-4.622-6.216-5.973-9.225q-.221-.494-.444-.988c-1.906-4.18-4.252-8.379-8.464-10.752a12.847,12.847,0,0,1-4.43-4.256c-.553-.852-2.238-3.455-1.014-6.413s4.251-3.614,5.245-3.827a15.736,15.736,0,0,1,8.468.629,27.078,27.078,0,0,1,14.929,12.383,16.372,16.372,0,0,0,5.6,5.927,11.821,11.821,0,0,0,6.431,1.74,31.411,31.411,0,0,0,7.823-1.3,12.639,12.639,0,0,1,.735-2.709c.075-.207.152-.413.215-.616a19.6,19.6,0,0,1,1.106-2.809,58.965,58.965,0,0,1-15.348-4.746c-8.914-4.283-14.9-9.568-18.824-16.623-4.617-8.293-6.983-17.931-7.233-29.465-.245-11.305,2.96-21.1,9.528-29.129-2.149-6.855-2.068-14.127.238-22.167.832-2.9,2.379-8.3,8.515-8.3a18.344,18.344,0,0,1,4.579.729,68.806,68.806,0,0,1,21.165,9.544,97.878,97.878,0,0,1,23.925-3.015,98.248,98.248,0,0,1,23.915,3,76.42,76.42,0,0,1,15.169-7.8,27.948,27.948,0,0,1,10-2.33,16.878,16.878,0,0,1,2.288.153l.085.01a6.038,6.038,0,0,1,5.3,4.01c3.622,9.784,4.148,18.134,1.63,26.171a40.7,40.7,0,0,1,8.348,16.8c1.815,7.664,1.3,15.069.645,20.663-1.1,9.395-3.783,17.119-8.213,23.618-7.009,10.284-17.576,14.65-24.915,17.036A57.881,57.881,0,0,1-180.61,3066.05Z" transform="translate(337.024 -2892.121)"></path>
                     </svg></div>
                 </a>
-                <a href="{{ links.-35689073 }}" target="_blank" class="social-icon margin w-inline-block">
+                <a href="{{ links.-35689073 }}" target="_blank" class="social-icon w-inline-block">
                   <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 257 252">
                       <defs>
                         <clipPath id="clip-reddit">
@@ -1415,7 +1311,7 @@ color: #08072e;
                       </g>
                     </svg></div>
                 </a>
-                <a href="{{ links.-179b493c }}" target="_blank" class="social-icon margin w-inline-block">
+                <a href="{{ links.-179b493c }}" target="_blank" class="social-icon w-inline-block">
                   <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 287 252">
                       <defs>
                         <clipPath id="clip-twitter">
@@ -1427,7 +1323,7 @@ color: #08072e;
                       </g>
                     </svg></div>
                 </a>
-                <a href="{{ links.-296c8967 }}" target="_blank" class="social-icon margin w-inline-block">
+                <a href="{{ links.-296c8967 }}" target="_blank" class="social-icon w-inline-block">
                   <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 274 252">
                       <defs>
                         <clipPath id="clip-linkedin">
@@ -1440,7 +1336,7 @@ color: #08072e;
                       </g>
                     </svg></div>
                 </a>
-                <a href="{{ links.6ef75786 }}" target="_blank" class="social-icon margin w-inline-block">
+                <a href="{{ links.6ef75786 }}" target="_blank" class="social-icon w-inline-block">
                   <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299 252">
                       <defs>
                         <clipPath id="clip-youtube">
@@ -1465,7 +1361,11 @@ color: #08072e;
                       <path d="M63.788 112.358C74.8537 112.358 83.8242 103.405 83.8242 92.3614C83.8242 81.3178 74.8537 72.3652 63.788 72.3652H24.0361C12.9703 72.3652 3.99982 81.3178 3.99982 92.3614C3.99982 103.405 12.9703 112.358 24.0361 112.358H63.788Z" stroke="#70B4F0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
                     </svg></div>
                 </a>
-                <a href="{{ links.29985539 }}" target="_blank" class="social-icon w-inline-block"></a>
+                <a href="{{ links.483ddc82 }}" target="_blank" class="social-icon w-inline-block">
+                  <div class="w-embed"><svg viewBox="-50 -50 430 390" fill="#70B4F0" class="Layout_socialLinkIcon__UxpG0" aria-hidden="true">
+                      <path d="M180 141.964C163.699 110.262 119.308 51.1817 78.0347 22.044C38.4971 -5.86834 23.414 -1.03207 13.526 3.43594C2.08093 8.60755 0 26.1785 0 36.5164C0 46.8542 5.66748 121.272 9.36416 133.694C21.5786 174.738 65.0603 188.607 105.104 184.156C107.151 183.852 109.227 183.572 111.329 183.312C109.267 183.642 107.19 183.924 105.104 184.156C46.4204 192.847 -5.69621 214.233 62.6582 290.33C137.848 368.18 165.705 273.637 180 225.702C194.295 273.637 210.76 364.771 295.995 290.33C360 225.702 313.58 192.85 254.896 184.158C252.81 183.926 250.733 183.645 248.671 183.315C250.773 183.574 252.849 183.855 254.896 184.158C294.94 188.61 338.421 174.74 350.636 133.697C354.333 121.275 360 46.8568 360 36.519C360 26.1811 357.919 8.61012 346.474 3.43851C336.586 -1.02949 321.503 -5.86576 281.965 22.0466C240.692 51.1843 196.301 110.262 180 141.964Z"></path>
+                    </svg></div>
+                </a>
               </div>
             </div>
           </div>
@@ -1605,5 +1505,6 @@ document.querySelectorAll('a[video-youtube]').forEach(link => {
  });
 });
 </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}</body></html>
