@@ -15,8 +15,8 @@ f_description: Sponsored by Schneider Electric     Half the world’s largest
   executives are more reluctant to place sustainability at the core of their
   company’s business strategy. This panel analyses how sustainable values can
   help drive long-term capital growth.
-f_speakers: Rebeca Minguela, CEO, Clarity AI Ester Baiget, CEO, Novozymes Cenk
-  Alper, CEO, Sabancı Holdings Eric Usher, Secretary-general, United Nations
+f_speakers: Rebeca Minguela, CEO, Clarity AI; Ester Baiget, CEO, Novozymes; Cenk
+  Alper, CEO, Sabancı Holdings; Eric Usher, Secretary-general, United Nations
   Environment Programme Finance Initiative
 f_moderator-name: Steve Sedgwick, CNBC’s Presenter and Anchor
 tags: davos-agenda
