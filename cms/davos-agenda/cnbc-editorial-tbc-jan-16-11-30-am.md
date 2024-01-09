@@ -12,8 +12,8 @@ f_day: Tue
 f_description: "A growing number of tech leaders and innovators warn about the
   power of Big Tech firms and believe the current state of the internet is
   broken. We hear about their fears and their ideas to reform the internet.   "
-f_speakers: "Jimmy Wales, Co-Founder, Wikipedia    Meredith Whittaker,
-  President, Signal    Andy L. Yen, Founder & CEO of Proton  "
+f_speakers: "Jimmy Wales, Co-Founder, Wikipedia; Meredith Whittaker, President,
+  Signal; Andy L. Yen, Founder & CEO of Proton  "
 f_moderator-name: Arjun Kharpal, CNBC’s Senior Technology Reporter
 tags: davos-agenda
 layout: "[davos-agenda].html"
