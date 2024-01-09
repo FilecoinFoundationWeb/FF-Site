@@ -22,7 +22,7 @@ f_description: CNBC Catalyst, the commercial division of CNBC, in partnership
   partners to join its journey towards a sustainable and prosperous future –
   based on sustainable and forward-thinking economic development.
 f_speakers: His Excellency Ahmed Jasim Al Zaabi, Chairman of Abu Dhabi Global
-  Market (ADGM)  His Excellency Khaldoon Khalifa Al Mubarak, Managing Director
+  Market (ADGM); His Excellency Khaldoon Khalifa Al Mubarak, Managing Director
   and Group Chief Executive Officer of Mubadala
 f_moderator-name: Emma Crosby, NBCU Catalyst Moderator
 tags: davos-agenda
