@@ -16,7 +16,7 @@ f_description: "Controversy has stalked the crypto industry, from the collapse
   U.S. regulators act. Our panel discusses what comes next for the crypto
   industry.   "
 f_speakers: "Eswar Prasad, Tolani Senior Professor of Trade Policy, Cornell
-  University    Sheila Warren, CEO, Crypto Council for Innovation  "
+  University; Sheila Warren, CEO, Crypto Council for Innovation  "
 f_moderator-name: Arjun Kharpal, CNBC’s Senior Technology Reporter
 tags: davos-agenda
 layout: "[davos-agenda].html"
