@@ -18,7 +18,7 @@ f_bio: Meredith Whittaker is Signal's President. She has over 17 years of
   civil society organizations on privacy, security, artificial intelligence,
   internet policy, and measurement. And she recently completed a term as Senior
   Advisor on AI to the Chair at the US Federal Trade Commission.
-f_vip: false
+f_vip: true
 f_vvip: false
 f_vvvip-1: false
 tags: davos-speakers
