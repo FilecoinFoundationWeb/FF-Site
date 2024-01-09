@@ -17,7 +17,7 @@ f_bio: Danny O'Brien is Senior Fellow and DWeb Strategy at the Filecoin
   Sunday Times and the Irish Times, and defended reporters globally from online
   harassment and cyber-attacks at the Committee to Protect Journalists.
 f_vip: false
-f_vvip: true
+f_vvip: false
 f_vvvip-1: false
 tags: davos-speakers
 layout: "[davos-speakers].html"
