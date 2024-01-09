@@ -6266,6 +6266,14 @@ blockquote {
   color: var(--polar);
 }
 
+.button-3.returntotop {
+  display: flex;
+}
+
+.button-3.returntotop.w--current {
+  background-color: var(--kleinblue);
+}
+
 .cell-7 {
   grid-row-gap: 24px;
   flex-direction: column-reverse;
@@ -6427,7 +6435,7 @@ blockquote {
 ._31px-header.subtitle.davossubtitle {
   height: auto;
   background-color: var(--denim);
-  border-radius: 10px;
+  border-radius: 100px;
   margin-bottom: 10px;
   padding: 10px 20px;
   font-family: Archivo variablefont wdth wght, sans-serif;
@@ -7660,7 +7668,7 @@ blockquote {
 .tab-link-2 {
   border: 3px solid var(--white);
   background-color: var(--jordyblue);
-  border-radius: 20px;
+  border-radius: 100px;
   margin-right: 20px;
 }
 
@@ -7668,7 +7676,6 @@ blockquote {
   border-width: 3px;
   border-color: var(--white);
   background-color: var(--denim);
-  border-radius: 20px;
   margin-right: 19px;
 }
 
@@ -9259,6 +9266,11 @@ blockquote {
   display: flex;
 }
 
+.div-block-140 {
+  flex-direction: column;
+  display: flex;
+}
+
 @media screen and (min-width: 1440px) {
   .nav-dropdown-toggle.full.bold, .nav-dropdown-toggle.full.bold.w--open {
     grid-column-gap: 2px;
@@ -9381,7 +9393,6 @@ blockquote {
   }
 
   .tabs-2 {
-    max-width: 1320px;
     margin-left: auto;
     margin-right: auto;
   }

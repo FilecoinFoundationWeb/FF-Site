@@ -2616,9 +2616,9 @@ collections:
             label: Text
             name: 658c6c9d
             widget: string
-          - hint: 'Original text: Featured Content, key: 7fae8287'
+          - hint: 'Original text: On Our Blog, key: 72d09d37'
             label: Text
-            name: 7fae8287
+            name: 72d09d37
             widget: string
           - hint: 'Original text: Year of Joining Ecosystem, key: 6489f2f2'
             label: Text
@@ -5299,6 +5299,18 @@ collections:
             label: Text
             name: 9167f58
             widget: text
+          - hint: 'Original text: Featured Content, key: 7fae8287'
+            label: Text
+            name: 7fae8287
+            widget: string
+          - hint: 'Original text: Moderator:, key: -15c280b'
+            label: Text
+            name: '-15c280b'
+            widget: string
+          - hint: 'Original text: Return to top, key: -619f3500'
+            label: Text
+            name: '-619f3500'
+            widget: string
           - hint: 'Original text: Page Not Found, key: -40b0787c'
             label: Text
             name: '-40b0787c'
@@ -5696,10 +5708,10 @@ collections:
             widget: string
           - hint: >-
               Original link:
-              https://airtable.com/apppNMXvdW3i9P1BY/shrvrv4B9JKCP1e4O, key:
-              5f52128f
+              https://airtable.com/apppNMXvdW3i9P1BY/shrNJkTFvoYkyE7Fi, key:
+              6c48c5a3
             label: Link
-            name: 5f52128f
+            name: 6c48c5a3
             widget: string
           - hint: 'Original link: https://upload.fil.org/, key: 6ed98b2e'
             label: Link
@@ -5849,6 +5861,13 @@ collections:
           - hint: 'Original link: https://fil.org/policy, key: -2ba4f9af'
             label: Link
             name: '-2ba4f9af'
+            widget: string
+          - hint: >-
+              Original link:
+              https://airtable.com/apppNMXvdW3i9P1BY/shrvrv4B9JKCP1e4O, key:
+              5f52128f
+            label: Link
+            name: 5f52128f
             widget: string
       - label: Images
         name: images
