@@ -22,7 +22,7 @@ f_bio: Lila Ibrahim is Chief Operating Officer of Google DeepMind, overseeing
   Fellow (2011) as well as a World Economic Forum Young Global Leader (2007). In
   2021, she was named a Distinguished Engineering Alumnae by Purdue University,
   where she earned her electrical engineering degree in 1993.
-f_vip: false
+f_vip: true
 f_vvip: false
 f_vvvip-1: false
 tags: davos-speakers
