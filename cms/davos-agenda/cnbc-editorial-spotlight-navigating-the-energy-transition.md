@@ -13,8 +13,8 @@ f_description: COP 28 climate summit reached a historic deal to transition away
   to 1.5 degrees Celsius as demand for oil, coal and natural gas is set to peak
   by the end of the decade. This panel looks at how countries can diversify
   energy supplies while maintaining economic stability.
-f_speakers: Marco Alverà, CEO, TES  Vaishali Sinha, Co-Founder, ReNew  Alfred
-  Stern, Chairman & CEO, OMV  Bold Baatar, CEO, Rio Tinto Copper  Henrik
+f_speakers: Marco Alverà, CEO, TES; Vaishali Sinha, Co-Founder, ReNew; Alfred
+  Stern, Chairman & CEO, OMV; Bold Baatar, CEO, Rio Tinto Copper; Henrik
   Andersen, CEO, Vestas
 f_moderator-name: Steve Sedgwick, CNBC’s Presenter and Anchor
 tags: davos-agenda
