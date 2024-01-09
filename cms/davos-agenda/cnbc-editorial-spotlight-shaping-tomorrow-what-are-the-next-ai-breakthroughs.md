@@ -12,7 +12,7 @@ f_day: Thur
 f_description: "AI is developing rapidly, with high adoption rates among
   businesses and consumers globally. But what comes next? Our panels makes
   predictions for 2024.  "
-f_speakers: Florian Bressand, Chief Business Officer, Mistral AI   Leandro Von
+f_speakers: Florian Bressand, Chief Business Officer, Mistral AI; Leandro Von
   Werra, Machine Learning Engineer, Hugging Face
 f_moderator-name: Arjun Kharpal, CNBC’s Senior Technology Reporter
 tags: davos-agenda
