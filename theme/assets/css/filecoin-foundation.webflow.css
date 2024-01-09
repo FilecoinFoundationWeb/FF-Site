@@ -6275,8 +6275,8 @@ blockquote {
   display: flex;
 }
 
-.button-3.returntotop.w--current:hover {
-  background-color: var(--denim);
+.button-3.returntotop.w--current {
+  background-color: var(--kleinblue);
 }
 
 =======
@@ -9279,7 +9279,6 @@ blockquote {
 <<<<<<< HEAD
 <<<<<<< HEAD
 .div-block-140 {
-  height: auto;
   flex-direction: column;
   display: flex;
 }
