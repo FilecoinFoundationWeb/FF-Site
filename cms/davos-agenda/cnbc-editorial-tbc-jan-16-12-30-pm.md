@@ -15,8 +15,8 @@ f_description: The world’s population has doubled in just 40 years to more tha
   agriculture. This panel explores these challenges, discusses the innovative
   solutions and analyses what else needs to happen to make basic nutrition
   sustainable for everyone.
-f_speakers: Kees Aarts, CEO and Founder, Protix  Christopher Abbott, CEO, Pivot
-  Bio  Bill Anderson, CEO, Bayer
+f_speakers: Kees Aarts, CEO and Founder, Protix; Christopher Abbott, CEO, Pivot
+  Bio; Bill Anderson, CEO, Bayer
 f_moderator-name: Silvia Amaro, CNBC’s TV Reporter & Correspondent
 tags: davos-agenda
 layout: "[davos-agenda].html"
