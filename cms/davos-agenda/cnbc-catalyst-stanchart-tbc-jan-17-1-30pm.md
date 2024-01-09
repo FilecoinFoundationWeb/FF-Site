@@ -12,7 +12,7 @@ f_day: Wed
 f_description: Generative artificial intelligence gives hackers new tools to
   commit cyberattacks. Our panel discusses the threat to people and businesses
   and how security firms are fighting back.
-f_speakers: Dr. Dorit Dor, Chief Technology Officer, Check Point Gary Steele,
+f_speakers: Dr. Dorit Dor, Chief Technology Officer, Check Point; Gary Steele,
   President and Chief Executive Officer, Splunk
 f_moderator-name: Arjun Kharpal, CNBC’s Senior Technology Reporter
 tags: davos-agenda
