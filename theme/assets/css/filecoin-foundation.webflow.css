@@ -6266,18 +6266,23 @@ blockquote {
   color: var(--polar);
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 .button-3.returntotop {
-  height: 56px;
-  background-color: var(--denim);
+  height: auto;
   border-radius: 100px;
   flex-direction: column;
   display: flex;
 }
 
 .button-3.returntotop.w--current {
-  background-color: var(--denim);
+  background-color: var(--kleinblue);
 }
 
+=======
+>>>>>>> parent of 559a982 (Davos)
+=======
+>>>>>>> parent of 559a982 (Davos)
 .cell-7 {
   grid-row-gap: 24px;
   flex-direction: column-reverse;
@@ -6439,7 +6444,7 @@ blockquote {
 ._31px-header.subtitle.davossubtitle {
   height: auto;
   background-color: var(--denim);
-  border-radius: 100px;
+  border-radius: 10px;
   margin-bottom: 10px;
   padding: 10px 20px;
   font-family: Archivo variablefont wdth wght, sans-serif;
@@ -7672,7 +7677,7 @@ blockquote {
 .tab-link-2 {
   border: 3px solid var(--white);
   background-color: var(--jordyblue);
-  border-radius: 100px;
+  border-radius: 20px;
   margin-right: 20px;
 }
 
@@ -7680,6 +7685,7 @@ blockquote {
   border-width: 3px;
   border-color: var(--white);
   background-color: var(--denim);
+  border-radius: 20px;
   margin-right: 19px;
 }
 
@@ -9270,19 +9276,17 @@ blockquote {
   display: flex;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 .div-block-140 {
-  height: 56px;
   flex-direction: column;
   display: flex;
 }
 
-.text-block-13 {
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  font-weight: 700;
-  line-height: 200%;
-}
-
+=======
+>>>>>>> parent of 559a982 (Davos)
+=======
+>>>>>>> parent of 559a982 (Davos)
 @media screen and (min-width: 1440px) {
   .nav-dropdown-toggle.full.bold, .nav-dropdown-toggle.full.bold.w--open {
     grid-column-gap: 2px;
@@ -9405,6 +9409,7 @@ blockquote {
   }
 
   .tabs-2 {
+    max-width: 1320px;
     margin-left: auto;
     margin-right: auto;
   }
