@@ -6273,8 +6273,8 @@ blockquote {
   display: flex;
 }
 
-.button-3.returntotop.w--current {
-  background-color: var(--kleinblue);
+.button-3.returntotop.w--current:hover {
+  background-color: var(--denim);
 }
 
 .cell-7 {
@@ -9270,6 +9270,7 @@ blockquote {
 }
 
 .div-block-140 {
+  height: auto;
   flex-direction: column;
   display: flex;
 }
