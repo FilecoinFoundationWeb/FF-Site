@@ -16,7 +16,7 @@ f_description: COP 28 in Dubai ended with ministers agreeing to transition away
   examines what needs to happen to stay on course.
 f_speakers: Badr Jafar, CEO, Crescent Enterprises and Special Representative for
   Business & Philanthropy for the 28th Conference of the Parties (COP28) to the
-  UN Framework Convention on Climate Change (UNFCCC).  Daniel F. Feldman,
+  UN Framework Convention on Climate Change (UNFCCC); Daniel F. Feldman,
   Partner, Covington and former Chief of Staff and Counselor to Secretary John
   Kerry
 f_moderator-name: Dan Murphy, CNBC’s Anchor and Correspondent
