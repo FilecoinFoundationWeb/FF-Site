@@ -8262,8 +8262,8 @@ blockquote {
 }
 
 .slide-content {
-  max-height: 25rem;
-  min-height: 23rem;
+  max-height: 22rem;
+  min-height: 22rem;
   border: 1px solid var(--white);
   color: var(--white);
   border-radius: 10px;
@@ -9241,7 +9241,6 @@ blockquote {
   flex-direction: column;
   justify-content: space-around;
   align-items: flex-start;
-  margin-bottom: 1.25rem;
   display: flex;
 }
 
