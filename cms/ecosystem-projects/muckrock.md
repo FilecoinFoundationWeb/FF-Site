@@ -5,7 +5,7 @@ updated-on: 2024-01-10T18:11:13.127Z
 published-on: 2024-01-10T18:11:13.198Z
 f_featured: false
 f_brand:
-  url: /assets/images/muckrock-logo.png
+  url: /assets/images/hrdag_logo_white.png
   alt: MuckRock Logo Filecoin Ecosystem Explorer
 f_brand-image-alt-text: MuckRock Logo Filecoin Ecosystem Explorer
 f_topic: cms/ecosystem-topics/public-goods-dweb.md
