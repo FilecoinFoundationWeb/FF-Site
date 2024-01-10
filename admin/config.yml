@@ -5317,6 +5317,10 @@ collections:
             label: Text
             name: 556d64d8
             widget: string
+          - hint: 'Original text: Davos Registration, key: -4931db04'
+            label: Text
+            name: '-4931db04'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json

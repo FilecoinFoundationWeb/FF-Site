@@ -928,7 +928,7 @@ color: #08072e;
           <div id="w-node-_4b4a7da3-6263-7123-3117-d83ab73771c4-f825f647" class="col pd-0">
             <div class="_25px-header">{{ title }}</div>
             {%- assign ecosystem-topicsOfEcosystem-projects = f_topic | resolveReference -%}<div id="js-ecosystem-projects-template-topic" aria-hidden="true" class="visually-hidden">{{ ecosystem-topicsOfEcosystem-projects.data.title }}</div>
-            <p>{{ f_card-text-truncated }}</p>
+            <div class="w-richtext">{{ content | markdown }}</div>
           </div>
           <div id="w-node-f2346b47-6f28-e3bb-96bd-38b103011494-f825f647" class="col pd-0">
             {%- if f_website -%}<a href="{{ f_website }}" class="link-block-5 w-inline-block">
