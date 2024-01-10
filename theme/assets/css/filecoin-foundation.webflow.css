@@ -6266,23 +6266,18 @@ blockquote {
   color: var(--polar);
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .button-3.returntotop {
-  height: auto;
+  height: 56px;
+  background-color: var(--denim);
   border-radius: 100px;
   flex-direction: column;
   display: flex;
 }
 
 .button-3.returntotop.w--current {
-  background-color: var(--kleinblue);
+  background-color: var(--denim);
 }
 
-=======
->>>>>>> parent of 559a982 (Davos)
-=======
->>>>>>> parent of 559a982 (Davos)
 .cell-7 {
   grid-row-gap: 24px;
   flex-direction: column-reverse;
@@ -6444,7 +6439,7 @@ blockquote {
 ._31px-header.subtitle.davossubtitle {
   height: auto;
   background-color: var(--denim);
-  border-radius: 10px;
+  border-radius: 100px;
   margin-bottom: 10px;
   padding: 10px 20px;
   font-family: Archivo variablefont wdth wght, sans-serif;
@@ -6497,8 +6492,7 @@ blockquote {
   color: #fff;
   text-align: center;
   letter-spacing: 0;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0 auto;
   font-size: 76px;
   font-weight: 500;
   line-height: 140%;
@@ -7677,7 +7671,7 @@ blockquote {
 .tab-link-2 {
   border: 3px solid var(--white);
   background-color: var(--jordyblue);
-  border-radius: 20px;
+  border-radius: 100px;
   margin-right: 20px;
 }
 
@@ -7685,7 +7679,6 @@ blockquote {
   border-width: 3px;
   border-color: var(--white);
   background-color: var(--denim);
-  border-radius: 20px;
   margin-right: 19px;
 }
 
@@ -9276,17 +9269,19 @@ blockquote {
   display: flex;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .div-block-140 {
+  height: 56px;
   flex-direction: column;
   display: flex;
 }
 
-=======
->>>>>>> parent of 559a982 (Davos)
-=======
->>>>>>> parent of 559a982 (Davos)
+.text-block-13 {
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 200%;
+}
+
 @media screen and (min-width: 1440px) {
   .nav-dropdown-toggle.full.bold, .nav-dropdown-toggle.full.bold.w--open {
     grid-column-gap: 2px;
@@ -9409,7 +9404,6 @@ blockquote {
   }
 
   .tabs-2 {
-    max-width: 1320px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -12595,6 +12589,10 @@ blockquote {
 
   .col-3-grid {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .project-card__image {
+    max-height: 200px;
   }
 
   .row.search-row {
