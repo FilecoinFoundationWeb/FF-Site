@@ -9030,7 +9030,7 @@ blockquote {
   display: flex;
 }
 
-.show-mobile {
+.condition-wrap.hidden, .show-mobile {
   display: none;
 }
 
