@@ -5,7 +5,7 @@ updated-on: 2024-01-10T16:19:46.268Z
 published-on: 2024-01-10T16:19:46.376Z
 f_featured: false
 f_brand:
-  url: /assets/images/partnerlogo_hrdag.png
+  url: /assets/images/hrdag_logo_white.png
   alt: Human Rights Data Analysis (HRDAG) Human Rights Data from Truth Commissions
     around the World
 f_brand-image-alt-text: Human Rights Data Analysis (HRDAG) Logo Filecoin Ecosystem
