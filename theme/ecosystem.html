@@ -959,16 +959,16 @@ color: #08072e;
         <div data-delay="4000" data-animation="slide" class="slider w-slider" data-autoplay="false" data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3" data-duration="500" data-infinite="true">
           <div class="mask w-slider-mask">
             <div class="project-slide w-slide">
-              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 16 | limit: 1 -%}<div class="w-dyn-list">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 32 | limit: 1 -%}<div class="w-dyn-list">
                 {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
                   {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
                     <div class="slide-content">
                       <div class="slide-content__main-container">
                         <div class="project__tag">{{ texts.34879927 }}</div>
-                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
-                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                        <div class="project__slide__image-container"><img src="/assets/images/democracys-library-logo.png" alt="" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ texts.-5bdb00f3 }}</p>
                       </div>
-                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                      <a href="{{ links.637c8a2d }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
                     </div>
                   </div>{%- endfor -%}
                 </div>{%- endunless -%}
@@ -984,29 +984,10 @@ color: #08072e;
                     <div class="slide-content">
                       <div class="slide-content__main-container">
                         <div class="project__tag">{{ texts.34879927 }}</div>
-                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
-                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                        <div class="project__slide__image-container"><img height="" alt="" loading="lazy" src="/assets/images/muckrock_logo_white.png" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ texts.2d1729e9 }}</p>
                       </div>
-                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
-                    </div>
-                  </div>{%- endfor -%}
-                </div>{%- endunless -%}
-                {%- if collection.length == 0 -%}<div class="w-dyn-empty">
-                  <div>{{ texts.3d503d2b }}</div>
-                </div>{%- endif -%}
-              </div>
-            </div>
-            <div class="project-slide w-slide">
-              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 32 | limit: 1 -%}<div class="w-dyn-list">
-                {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
-                  {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
-                    <div class="slide-content">
-                      <div class="slide-content__main-container">
-                        <div class="project__tag">{{ texts.34879927 }}</div>
-                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
-                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
-                      </div>
-                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                      <a href="{{ links.42760394 }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
                     </div>
                   </div>{%- endfor -%}
                 </div>{%- endunless -%}
@@ -1022,10 +1003,10 @@ color: #08072e;
                     <div class="slide-content">
                       <div class="slide-content__main-container">
                         <div class="project__tag">{{ texts.34879927 }}</div>
-                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand.alt }}" loading="lazy" class="project-slide__image"></div>
-                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                        <div class="project__slide__image-container"><img class="project-slide__image" src="/assets/images/atlas-logowhite-big-1.png" alt="" sizes="100vw" loading="lazy" srcset="/assets/images/atlas-logowhite-big-1-p-500.png 500w, /assets/images/atlas-logowhite-big-1-p-800.png 800w, /assets/images/atlas-logowhite-big-1-p-1080.png 1080w, /assets/images/atlas-logowhite-big-1.png 1915w"></div>
+                        <p class="project-slide__description line-3-clamp">{{ texts.24c3e0aa }}</p>
                       </div>
-                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                      <a href="{{ links.6901637f }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
                     </div>
                   </div>{%- endfor -%}
                 </div>{%- endunless -%}
@@ -1034,17 +1015,17 @@ color: #08072e;
                 </div>{%- endif -%}
               </div>
             </div>
-            <div data-w-id="b7c0a835-b1e3-f355-8415-375994c4d27e" class="project-slide w-slide">
-              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 41 | limit: 1 -%}<div class="w-dyn-list">
+            <div class="project-slide w-slide">
+              {%- assign collection = collections.ecosystem-projects | sort: "title" | offset: 16 | limit: 1 -%}<div class="w-dyn-list">
                 {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
                   {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
                     <div class="slide-content">
                       <div class="slide-content__main-container">
                         <div class="project__tag">{{ texts.34879927 }}</div>
-                        <div class="project__slide__image-container"><img src="{{ item.data.f_brand.url }}" alt="{{ item.data.f_brand-image-alt-text }}" loading="lazy" class="project-slide__image"></div>
-                        <p class="project-slide__description line-3-clamp">{{ item.data.f_card-text-truncated }}</p>
+                        <div class="project__slide__image-container"><img src="/assets/images/dokaz_logo_white.png" alt="" loading="lazy" class="project-slide__image"></div>
+                        <p class="project-slide__description line-3-clamp">{{ texts.-2b1d13ae }}</p>
                       </div>
-                      <a href="{{ item.url }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
+                      <a href="{{ links.-501eb8f0 }}" class="project-slide__link button-primary outline">{{ texts.3b180342 }}</a>
                     </div>
                   </div>{%- endfor -%}
                 </div>{%- endunless -%}
