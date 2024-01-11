@@ -3,7 +3,7 @@ title: Using Formula 1 Know How to Help Scale Climate Solutions
 created-on: 2024-01-11T16:42:22.420Z
 updated-on: 2024-01-11T16:42:22.427Z
 published-on: 2024-01-11T16:42:22.438Z
-f_title-of-event: "FILECOIN FOUNDATION PRESENTS: AI and Decentralization"
+f_title-of-event: Using Formula 1 Know How to Help Scale Climate Solutions
 f_time: 2:30 PM - 3 PM
 f_time-start: 2024-01-18T13:30:22.449Z
 f_day: Thur
