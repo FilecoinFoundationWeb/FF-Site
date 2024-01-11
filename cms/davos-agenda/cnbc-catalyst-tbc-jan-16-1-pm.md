@@ -4,7 +4,7 @@ created-on: 2024-01-02T12:57:31.155Z
 updated-on: 2024-01-02T12:57:31.166Z
 published-on: 2024-01-02T12:57:31.172Z
 f_title-of-event: The Business Case for Racial Equity
-f_time: 1 PM - 1:30 PM
+f_time: 1 PM - 2 PM
 f_time-start: 2024-01-16T12:00:31.180Z
 f_day: Tue
 f_description: Programmed by CNBC Catalyst, the commercial arm of CNBC, in
