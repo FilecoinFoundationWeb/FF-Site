@@ -11,7 +11,7 @@ f_image:
   alt: null
 updated-on: '2024-01-05T12:03:54.849Z'
 created-on: '2024-01-04T20:37:36.624Z'
-published-on: '2024-01-05T12:04:47.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_image-alt-text: Filecoin Foundation Logo
 layout: '[case-studies].html'
 tags: case-studies

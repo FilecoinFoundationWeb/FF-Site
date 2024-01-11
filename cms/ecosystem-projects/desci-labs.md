@@ -21,7 +21,7 @@ f_tag:
   - cms/ecosystem-tags/desci.md
 updated-on: '2024-01-05T21:35:07.007Z'
 created-on: '2024-01-04T22:40:25.317Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_topic: cms/ecosystem-topics/science-climate-space.md
 f_brand-image-alt-text: DeSci Labs Logo
 f_tech-3:

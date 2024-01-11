@@ -15,7 +15,7 @@ f_brand:
 f_topic: cms/ecosystem-topics/storage.md
 updated-on: '2024-01-05T21:40:15.647Z'
 created-on: '2024-01-04T22:40:29.248Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/data-storage-management.md
 f_brand-image-alt-text: Web3.Storage Logo

@@ -15,7 +15,7 @@ f_brand:
 slug: ntent
 updated-on: '2024-01-05T21:38:02.182Z'
 created-on: '2024-01-04T22:40:27.335Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/arts-collectibles.md
 f_topic: cms/ecosystem-topics/media-entertainment.md

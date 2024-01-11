@@ -17,7 +17,7 @@ slug: waterlily-ai
 f_topic: cms/ecosystem-topics/artificial-intelligence.md
 updated-on: '2024-01-05T21:42:22.039Z'
 created-on: '2024-01-04T22:40:29.502Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/ai-productivity-and-utilities.md
   - cms/ecosystem-tags/arts-collectibles.md

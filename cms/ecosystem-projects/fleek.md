@@ -16,7 +16,7 @@ f_brand:
 slug: fleek
 updated-on: '2024-01-05T21:36:56.724Z'
 created-on: '2024-01-04T22:40:25.939Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/developer-tools.md
   - cms/ecosystem-tags/dapp.md

@@ -14,7 +14,7 @@ slug: >-
   seal-storage-making-web3-accessible-for-all-through-ecosystem-leadership-and-the-filecoin-network
 updated-on: '2024-01-05T12:03:59.295Z'
 created-on: '2024-01-04T20:37:03.714Z'
-published-on: '2024-01-05T12:04:47.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_image-alt-text: SEAL Logo
 layout: '[case-studies].html'
 tags: case-studies

@@ -17,7 +17,7 @@ f_brand:
 slug: livepeer
 updated-on: '2024-01-05T21:37:41.454Z'
 created-on: '2024-01-04T22:40:26.783Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/photo-video.md
   - cms/ecosystem-tags/communication-social.md

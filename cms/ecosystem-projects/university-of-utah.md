@@ -17,7 +17,7 @@ f_brand:
 slug: university-of-utah
 updated-on: '2024-01-05T21:39:54.109Z'
 created-on: '2024-01-04T22:40:28.834Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/universities.md
   - cms/ecosystem-tags/climate.md

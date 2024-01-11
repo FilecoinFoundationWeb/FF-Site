@@ -11,7 +11,7 @@ slug: >-
   opsci-how-an-open-science-commons-project-built-on-web3-infrastructure-empowers-community-discovery
 updated-on: '2024-01-05T12:03:42.369Z'
 created-on: '2024-01-04T20:36:11.799Z'
-published-on: '2024-01-05T12:04:47.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_image:
   url: /assets/external/659716c2cb75e7590cac628f_opsci_logo.png
   alt: null

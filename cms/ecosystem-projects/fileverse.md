@@ -19,7 +19,7 @@ f_topic: cms/ecosystem-topics/storage.md
 slug: fileverse
 updated-on: '2024-01-05T21:36:31.390Z'
 created-on: '2024-01-04T22:40:25.815Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_brand-image-alt-text: Fileverse Logo
 f_tech-3:
   - cms/ecosystem-technology/filecoin.md

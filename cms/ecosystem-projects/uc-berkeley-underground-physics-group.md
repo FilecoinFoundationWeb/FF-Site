@@ -17,7 +17,7 @@ f_tag:
 slug: uc-berkeley-underground-physics-group
 updated-on: '2024-01-05T21:39:48.054Z'
 created-on: '2024-01-04T22:40:28.806Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_topic: cms/ecosystem-topics/education-academia-health.md
 f_brand-image-alt-text: UC Berkeley Underground Physics Group Logo
 f_tech-3:

@@ -21,7 +21,7 @@ f_tech-3:
   - cms/ecosystem-technology/ipfs.md
 updated-on: '2024-01-05T21:39:58.347Z'
 created-on: '2024-01-04T22:40:28.856Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_topic: cms/ecosystem-topics/education-academia-health.md
 f_brand-image-alt-text: Victor Change Logo
 layout: '[ecosystem-projects].html'

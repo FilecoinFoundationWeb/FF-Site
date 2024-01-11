@@ -13,7 +13,7 @@ f_brand:
 slug: cavalry
 updated-on: '2024-01-05T21:34:45.600Z'
 created-on: '2024-01-04T22:40:25.195Z'
-published-on: '2024-01-05T21:43:39.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_tag:
   - cms/ecosystem-tags/arts-collectibles.md
   - cms/ecosystem-tags/nfts.md

@@ -18,7 +18,7 @@ f_image:
   alt: null
 updated-on: '2024-01-05T12:04:03.584Z'
 created-on: '2024-01-04T20:23:55.657Z'
-published-on: '2024-01-05T12:04:47.231Z'
+published-on: '2024-01-11T13:26:59.787Z'
 f_image-alt-text: GenRAIT Logo
 layout: '[case-studies].html'
 tags: case-studies
