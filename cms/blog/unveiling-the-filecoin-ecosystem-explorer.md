@@ -24,19 +24,11 @@ seo:
 ---
 Filecoin is the world’s largest decentralized storage network, designed to store humanity's most important information. And it’s made up of an amazing array of builders and storage providers committing their time, energy, expertise and resources to the network. Today, the ecosystem includes more than 14,700 contributors on GitHub, 3,050 projects built on Filecoin and IPFS, and over 450 organizations contributing to the network.
 
-
-
 Who are these teams? What tools are they building? What datasets are they storing? And how can you get involved?
-
-
 
 Enter the [Filecoin Ecosystem Explorer](https://fil.org/ecosystem/), a crowd-sourced and open database that showcases the incredible breadth and depth of projects in the Filecoin ecosystem. This is the best place for community members to add to or browse the ever-growing list of products and services running on Filecoin. While this is not an exhaustive list, given the network’s dynamic growth, the database serves as a launching pad for exploring the ecosystem. 
 
-
-
 The [Filecoin Ecosystem Explorer](https://fil.org/ecosystem/) highlights projects across storage, finance, tooling and productivity, artificial intelligence, science, climate, public goods, gaming, academia, archive, and much more. Our ecosystem is working to solve significant problems and ship innovative applications from – [undersea explorations](https://fil.org/ecosystem-projects/bacalhau/) all the way to [outer space](https://fil.org/ecosystem-projects/seti-institute/). A few highlights:
-
-
 
 * [Bacalhau](https://fil.org/ecosystem-projects/bacalhau/) is a platform for fast, cost-efficient, and secure computation by running jobs where the data is generated and stored. It supports large-scale parallel compute of Filecoin data. The [U.S. Navy chose to work with Bacalhau](https://blog.bacalhau.org/p/us-navy-chooses-bacalhau-to-manage) for undersea AI operations, leveraging Filecoin's distributed framework. Bacalhau meets the Navy's strict security demands, enabling data access and computation over unstable networks.
 * [The SETI Institute](https://fil.org/ecosystem-projects/seti-institute/) is a non-profit research organization with the mission to lead humanity's quest to understand the origins and prevalence of life and intelligence in the universe and share that knowledge with the world. In their continuing search for extraterrestrial life, the SETI Institute [uses Filecoin](https://destor.com/seti) to safeguard their data and is storing 60+ GiBs of data, including a decoded ET transmission. 
@@ -46,16 +38,8 @@ The [Filecoin Ecosystem Explorer](https://fil.org/ecosystem/) highlights project
 * [Starling Lab](https://fil.org/ecosystem-projects/starling-lab/) is the academic research lab innovating with the latest cryptographic methods and decentralized web protocols to meet the technical and ethical challenges of establishing trust in our most sensitive digital records. Starling Lab has worked with many different organizations and fellows on data integrity projects across the domains of history, journalism, and law and incorporates the Filecoin network to support data provenance and authenticity.
 * The Filecoin network also stores large genomic, geospatial, satellite, and climate datasets, from institutions including the [University of Utah](https://fil.org/ecosystem-projects/university-of-utah/), [Berkeley’s Underground Physics Group](https://fil.org/ecosystem-projects/uc-berkeley-underground-physics-group/), and the [ATLAS Experiment at CERN](https://fil.org/ecosystem-projects/atlas-experiment-at-cern/). 
 
-
-
 **Add Your Project**
 
 This index is only as good as the ecosystem makes it! If you don't see your project listed, add it today by [filling out this form](https://airtable.com/apppNMXvdW3i9P1BY/shrvrv4B9JKCP1e4O) to let us know your project or about additional projects that you’d like to see included.
 
-
-
 Thank you to all of those who have submitted use cases and applications, and those who contribute time, ideas and efforts to bring the Filecoin network to life!
-
-
-
-Join us as we work together to build a better internet.
