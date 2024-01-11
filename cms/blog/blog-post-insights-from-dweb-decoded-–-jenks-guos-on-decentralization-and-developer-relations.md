@@ -1,6 +1,6 @@
 ---
-title: "Blog Post: Insights from DWeb Decoded – Jenks Guo's on Decentralization
-  and Developer Relations"
+title: Insights from DWeb Decoded – Jenks Guo's on Decentralization and
+  Developer Relations
 created-on: 2024-01-08T18:40:06.859Z
 updated-on: 2024-01-08T18:40:06.868Z
 published-on: 2024-01-08T18:40:06.885Z
