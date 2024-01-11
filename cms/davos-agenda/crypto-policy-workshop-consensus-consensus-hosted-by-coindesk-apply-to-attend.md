@@ -14,7 +14,7 @@ f_description: This morning roundtable will bring together senior industry
   examining the critical policy questions facing the digital asset industry.
   CoinDesk Chief Content Officer Michael Casey will serve as the MC. The event
   will be held under Chatham House rules to ensure a candid and productive
-  conversation among stakeholders.  Sponsored by Stellar & Hedera
+  conversation among stakeholders.  Sponsored by Stellar & Hedera.
 f_moderator-name: Michael Casey, Chief Content Officer, CoinDesk
 tags: davos-agenda
 layout: "[davos-agenda].html"
