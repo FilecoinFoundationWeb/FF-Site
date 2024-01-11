@@ -11,6 +11,7 @@ f_brand-image-alt-text: Democracy's Library Logo Filecoin Ecosystem Explorer
 f_topic: cms/ecosystem-topics/public-goods-dweb.md
 f_tag:
   - cms/ecosystem-tags/dweb.md
+  - cms/ecosystem-tags/social-impact.md
 f_card-text-truncated: "The Internet Archive’s Democracy’s Library project is
   creating a free, open collection of government data to ensure that government
   research and publications from around the world remain permanently accessible
