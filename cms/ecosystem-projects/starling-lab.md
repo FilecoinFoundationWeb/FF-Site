@@ -10,6 +10,7 @@ f_brand-image-alt-text: Starling Lab Logo
 f_topic: cms/ecosystem-topics/public-goods-dweb.md
 f_tag:
   - cms/ecosystem-tags/dweb.md
+  - cms/ecosystem-tags/social-impact.md
 f_card-text-truncated: The Starling Lab is the academic research lab innovating
   with the latest cryptographic methods and decentralized web protocols to meet
   the technical and ethical challenges of establishing trust in our most
