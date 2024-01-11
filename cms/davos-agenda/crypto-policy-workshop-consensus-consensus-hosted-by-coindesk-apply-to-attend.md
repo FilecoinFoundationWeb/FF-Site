@@ -9,12 +9,13 @@ f_title-of-event: Crypto Policy Workshop | Consensus @ Consensus hosted by
 f_time: 8 AM - 10 AM
 f_time-start: 2024-01-16T09:00:29.452Z
 f_day: Tue
-f_description: This morning roundtable will bring together senior industry
+f_description: "This morning roundtable will bring together senior industry
   representatives and policymakers from around the world for a discussion
   examining the critical policy questions facing the digital asset industry.
   CoinDesk Chief Content Officer Michael Casey will serve as the MC. The event
   will be held under Chatham House rules to ensure a candid and productive
-  conversation among stakeholders.  Sponsored by Stellar & Hedera.
+  conversation among stakeholders. Sponsored by Stellar & Hedera. Apply to
+  attend here: https://cvent.me/YeRYw5"
 f_moderator-name: Michael Casey, Chief Content Officer, CoinDesk
 tags: davos-agenda
 layout: "[davos-agenda].html"
