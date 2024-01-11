@@ -5,7 +5,7 @@ updated-on: 2024-01-02T13:07:07.783Z
 published-on: 2024-01-02T13:07:07.792Z
 f_title-of-event: CNBC FIRESIDE CHAT
 f_time: 3:35 PM - 3:50 PM
-f_time-start: 2024-01-16T14:40:07.799Z
+f_time-start: 2024-01-16T14:35:07.799Z
 f_day: Tue
 f_speakers: Sanda Ojiambo, CEO and Executive Director, UN Global Compact
 f_moderator-name: Tania Bryer, CNBC Host and Executive Producer
