@@ -7268,7 +7268,6 @@ blockquote {
 
 ._1 {
   height: 50px;
-  filter: brightness(1000%);
   object-fit: fill;
 }
 
@@ -8262,8 +8261,8 @@ blockquote {
 }
 
 .slide-content {
-  max-height: 22rem;
-  min-height: 22rem;
+  max-height: 25rem;
+  min-height: 23rem;
   border: 1px solid var(--white);
   color: var(--white);
   border-radius: 10px;
@@ -8338,7 +8337,7 @@ blockquote {
   display: flex;
   top: auto;
   bottom: -38px;
-  left: 94px;
+  left: 81px;
   right: auto;
 }
 
@@ -9027,7 +9026,7 @@ blockquote {
   grid-row-gap: 10px;
   align-items: center;
   margin-bottom: 20px;
-  display: flex;
+  display: none;
 }
 
 .condition-wrap.hidden, .show-mobile {
@@ -9241,6 +9240,7 @@ blockquote {
   flex-direction: column;
   justify-content: space-around;
   align-items: flex-start;
+  margin-bottom: 1.25rem;
   display: flex;
 }
 
@@ -9339,6 +9339,10 @@ blockquote {
 
   .slider {
     display: block;
+  }
+
+  .right-arrow {
+    left: 80px;
   }
 
   .project-card__description.line-clamp {
