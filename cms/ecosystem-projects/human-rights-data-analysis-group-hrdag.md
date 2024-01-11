@@ -12,6 +12,7 @@ f_brand-image-alt-text: Human Rights Data Analysis (HRDAG) Logo Filecoin Ecosyst
 f_topic: cms/ecosystem-topics/public-goods-dweb.md
 f_tag:
   - cms/ecosystem-tags/dweb.md
+  - cms/ecosystem-tags/social-impact.md
 f_card-text-truncated: "Human Rights Data Analysis Group (HRDAG) turns raw data
   into analysis used by UN missions, truth commissions, small and large human
   rights groups, and criminal prosecutions for war crimes and crimes against
@@ -33,4 +34,4 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Human Rights Data Analysis Group (HRDAG) turns raw data into analysis used by UN missions, truth commissions, small and large human rights groups, and criminal prosecutions for war crimes and crimes against humanity. They have recently  published the largest dataset in the history of the human rights movement, a joint project with the Colombian truth commission (CEV in the Spanish acronym) and amnesty courts (JEP) in Colombia. HRDAG and their partners benefit from the Filecoin network for the storage of multiple critical datasets, drawing on distributed storage’s strengths in promoting resilience against data loss.
+Human Rights Data Analysis Group (HRDAG) turns raw data into analysis used by UN missions, truth commissions, small and large human rights groups, and criminal prosecutions for war crimes and crimes against humanity. They have recently published the largest dataset in the history of the human rights movement, a joint project with the Colombian truth commission (CEV in the Spanish acronym) and amnesty courts (JEP) in Colombia. HRDAG and their partners benefit from the Filecoin network for the storage of multiple critical datasets, drawing on distributed storage’s strengths in promoting resilience against data loss.
