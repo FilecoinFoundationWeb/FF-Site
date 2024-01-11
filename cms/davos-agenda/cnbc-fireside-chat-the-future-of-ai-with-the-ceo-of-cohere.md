@@ -1,10 +1,10 @@
 ---
-title: "CNBC FIRESIDE CHAT: The Future of AI With the CEO of Cohere"
+title: The Future of AI With the CEO of Cohere
 created-on: 2024-01-05T14:04:23.338Z
 updated-on: 2024-01-05T14:04:23.349Z
 published-on: 2024-01-05T14:04:23.357Z
-f_title-of-event: "CNBC FIRESIDE CHAT: The Future of AI With the CEO of Cohere"
-f_time: 11:20 AM - 11:40 AM
+f_title-of-event: The Future of AI With the CEO of Cohere
+f_time: 11:20 AM - 11:35 AM
 f_time-start: 2024-01-18T10:20:23.366Z
 f_day: Thur
 f_description: Global AI company Cohere, co-headquartered in Toronto and SF, is
@@ -14,7 +14,7 @@ f_description: Global AI company Cohere, co-headquartered in Toronto and SF, is
   serve.  Please note PR corrected us on the bold part- could you please alert
   team who might have taken this to website/promoting material?
 f_speakers: "Aidan Gomez, Co-founder & CEO, Cohere "
-f_moderator-name: Arjun Kharpal, CNBC’s Senior Technology Reporter
+f_moderator-name: Arjun Kharpal, CNBC Senior Technology Reporter
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-05T14:04:23.372Z
