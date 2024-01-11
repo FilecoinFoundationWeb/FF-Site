@@ -1,5 +1,5 @@
 ---
-title: "CATALYST SPOTLIGHT: How AI is Revolutionazing and Reshaping Industries"
+title: "CATALYST SPOTLIGHT: How AI is Revolutionizing and Reshaping Industries"
 created-on: 2024-01-02T12:48:54.655Z
 updated-on: 2024-01-02T12:48:54.664Z
 published-on: 2024-01-02T12:48:54.671Z
