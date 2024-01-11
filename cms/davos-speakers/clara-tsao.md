@@ -4,7 +4,7 @@ created-on: 2024-01-05T17:52:48.774Z
 updated-on: 2024-01-05T17:52:48.783Z
 published-on: 2024-01-05T17:52:48.793Z
 f_organization: Filecoin Foundation
-f_title: Co-founding Officer
+f_title: Founding Officer
 f_headshot:
   url: /assets/images/clara-tsao-filecoin-foundation.jpeg
 f_bio: Clara Tsao is the Co-founding Officer of Filecoin Foundation and Filecoin
