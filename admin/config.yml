@@ -2773,10 +2773,6 @@ collections:
             label: Text
             name: 3fa6cf7b
             widget: text
-          - hint: 'Original text: Submit or Update Your Project, key: -20bcead2'
-            label: Text
-            name: '-20bcead2'
-            widget: string
           - hint: 'Original text: Join Us IRL, key: -6301ec89'
             label: Text
             name: '-6301ec89'
