@@ -1,5 +1,5 @@
 ---
-title: UKRAINE CONFLICT
+title: Ukraine Conflict
 created-on: 2024-01-11T13:25:15.361Z
 updated-on: 2024-01-11T13:25:15.368Z
 published-on: 2024-01-11T13:25:15.375Z
