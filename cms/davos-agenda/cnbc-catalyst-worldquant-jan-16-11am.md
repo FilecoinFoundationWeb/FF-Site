@@ -16,8 +16,11 @@ f_description: CNBC Catalyst, the commercial arm of CNBC, in partnership with
   of AI? Leading industry figures discuss the breakthrough opportunities in
   their sectors – as well as the role of human talent in effectively leveraging
   these new technologies.
-f_speakers: Igor Tulchinsky, Founder, Chairman and CEO, WorldQuant
-f_moderator-name: David Fergusson, NBCU Catalyst Moderator
+f_speakers: Igor Tulchinsky, Founder, Chairman and CEO, WorldQuant; Hossein
+  Rahnama, Professor, MIT Media Lab and Toronto Metropolitan University, Founder
+  and CEO, Flybits Inc.; Tejpreet S. Chopra, President & CEO, BLP Group
+f_moderator-name: David Fergusson, CNBC Catalyst Moderator
+f_tag-1: CNBC Catalyst, the commercial arm of CNBC, in partnership with WorldQuant.
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-02T12:48:54.686Z
