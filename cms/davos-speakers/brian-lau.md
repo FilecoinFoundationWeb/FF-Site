@@ -6,7 +6,7 @@ published-on: 2024-01-05T18:00:45.635Z
 f_organization: SINSO
 f_title: Chief Brand Officer
 f_headshot:
-  url: /assets/images/brian-lau-sinso.jpeg
+  url: /assets/images/brian-lau-sinso.png
 f_bio: " As the Chief Brand Officer, Brian leverages over five years of
   experience in public relations, social media, and corporate operations to
   successfully propel SINSO onto the international stage, significantly
