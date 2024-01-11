@@ -28,4 +28,4 @@ slug: filscan
 tags: ecosystem-projects
 date: 2024-01-11T19:26:55.837Z
 ---
-Headquartered in San Diego, California, PiKNiK is an enterprise-grade decentralized storage provider that makes it easy for anyone to store and provide storage on the Filecoin network, without any technical knowledge required.
+Filscan.io is a Filecoin blockchain explorer and data service platform, offering a range of one-stop data services, including mining ranking, blockchain data query, visualization charts, and FVM ecosystem data analysis.
