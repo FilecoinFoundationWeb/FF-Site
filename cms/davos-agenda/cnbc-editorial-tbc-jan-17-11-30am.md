@@ -4,7 +4,7 @@ created-on: 2024-01-03T13:48:22.766Z
 updated-on: 2024-01-03T13:48:22.774Z
 published-on: 2024-01-03T13:48:22.783Z
 f_title-of-event: CNBC Fireside Chat with Nicola Mendelsohn
-f_time: 11:30 AM - 1:50 PM
+f_time: 11:30 AM - 11:50 PM
 f_time-start: 2024-01-17T10:30:22.789Z
 f_day: Wed
 f_description: ""
