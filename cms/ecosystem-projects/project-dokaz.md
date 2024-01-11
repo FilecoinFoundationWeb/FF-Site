@@ -10,6 +10,8 @@ f_brand-image-alt-text: Project Dokaz Starling Lab Logo
 f_topic: cms/ecosystem-topics/public-goods-dweb.md
 f_tag:
   - cms/ecosystem-tags/dweb.md
+  - cms/ecosystem-tags/social-impact.md
+  - cms/ecosystem-tags/photo-video.md
 f_card-text-truncated: Project Dokaz is a set of accountability efforts in
   Ukraine that applies Starling Lab's work with especially vulnerable digital
   records.
