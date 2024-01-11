@@ -1,9 +1,9 @@
 ---
-title: SUSTAINABLE FUTURE FORUM
+title: Sustainable Future Forum
 created-on: 2024-01-02T13:05:12.389Z
 updated-on: 2024-01-02T13:05:12.394Z
 published-on: 2024-01-02T13:05:12.399Z
-f_title-of-event: SUSTAINABLE FUTURE FORUM
+f_title-of-event: Sustainable Future Forum
 f_time: 2:50 PM - 4:30 PM
 f_time-start: 2024-01-16T13:50:12.405Z
 f_day: Tue
