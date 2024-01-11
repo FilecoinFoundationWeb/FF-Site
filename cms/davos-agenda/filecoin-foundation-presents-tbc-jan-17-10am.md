@@ -11,8 +11,8 @@ f_time-start: 2024-01-17T09:00:08.320Z
 f_day: Wed
 f_description: "Discover the potential of blockchain, AI, and machine learning
   in addressing climate challenges. "
-f_speakers: Jonathan Dotan, Founder, EQTY Lab; Megan Klimen, Co-founding
-  Officer, Filecoin Foundation; Daniel Erasmus, Digital Thinking Network
+f_speakers: Jonathan Dotan, Founder, EQTY Lab | Megan Klimen, Founding Officer,
+  Filecoin Foundation | Daniel Erasmus, CEO, NEWSCONSOLE/ Erasmus.AI
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-03T13:44:08.324Z
