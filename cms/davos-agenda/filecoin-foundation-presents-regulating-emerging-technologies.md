@@ -11,8 +11,11 @@ f_description: "This session will convene leading figures from across the public
   policy landscape to lay out a sustainable path forward for emerging
   technologies that simultaneously promotes innovation and cleans out the bad
   actors. "
-f_speakers: ""
-f_moderator-name: ""
+f_speakers: Marta Belcher, President and Chari, Filecoin Foundation | Dante
+  Disparte, Chief Strategy Officer; Head, Global Policy at Circle | Shyam
+  Nagarajan, Global Practice Leader, Executive Partner, Blockchain and
+  Responsible AI, IBM
+f_moderator-name: Michael Casey, Chief Content Officer, CoinDesk
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-05T14:10:56.349Z
