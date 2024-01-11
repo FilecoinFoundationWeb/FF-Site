@@ -4,7 +4,7 @@ created-on: 2024-01-05T17:54:07.683Z
 updated-on: 2024-01-05T17:54:07.691Z
 published-on: 2024-01-05T17:54:07.700Z
 f_organization: Filecoin Foundation
-f_title: Co-founding Officer
+f_title: Founding Officer
 f_headshot:
   url: /assets/images/megan-klimen-filecoin-foundation.jpg
 f_bio: Megan Klimen is the co-founding officer of Filecoin Foundation and
