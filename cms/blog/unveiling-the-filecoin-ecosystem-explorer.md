@@ -6,7 +6,7 @@ published-on: 2024-01-11T15:12:45.398Z
 f_description: Introducing the Filecoin Ecosystem Explorer, a crowd-sourced and
   open database that showcases the incredible breadth and depth of projects in
   the Filecoin ecosystem.
-f_featured: false
+f_featured: true
 f_image:
   url: /assets/images/240109-ecosystemexplorerlaunch_blogheader.png
   alt: Filecoin Ecosystem Explorer
