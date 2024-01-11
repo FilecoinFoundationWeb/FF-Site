@@ -16,7 +16,10 @@ f_description: Programmed by CNBC Catalyst, the commercial arm of CNBC, in
   global trade dynamics. As the region continues to grow in scale and navigate
   the trade landscape, what will it take to bridge the East-West gap and
   continue leveraging opportunities to foster equitable and sustainable growth?
-f_speakers: Benjamin Hung, Chief Executive Officer, Asia, Standard Chartered
+f_speakers: Benjamin Hung, Chief Executive Officer, Asia, Standard Chartered |
+  Laura Cha, Chairman, Hong Kong Exchanges and Clearing Ltd (HKEX) | Dr. Tan See
+  Leng, Minister for Manpower and Second Minister for Trade and Industry,
+  Singapore
 f_moderator-name: Emma Crosby, CNBC Catalyst Moderator
 tags: davos-agenda
 layout: "[davos-agenda].html"
