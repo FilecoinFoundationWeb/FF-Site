@@ -5,9 +5,9 @@ updated-on: 2024-01-12T20:27:39.359Z
 published-on: 2024-01-12T20:27:39.380Z
 f_featured: false
 f_brand:
-  url: /assets/images/web-1920-–-1.png
+  url: /assets/images/xbanking_logo_white.png
 f_brand-image-alt-text: XBANKING
-f_topic: cms/ecosystem-topics/tooling-productivity.md
+f_topic: cms/ecosystem-topics/finance.md
 f_tag:
   - cms/ecosystem-tags/leasing-and-staking.md
   - cms/ecosystem-tags/dapp.md
