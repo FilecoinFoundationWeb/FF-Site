@@ -5,7 +5,7 @@ updated-on: 2024-01-12T20:15:45.742Z
 published-on: 2024-01-12T20:15:45.772Z
 f_featured: false
 f_brand:
-  url: /assets/images/logo.png
+  url: /assets/images/idsc_logo_white.png
   alt: Internet Development Studio Company
 f_brand-image-alt-text: Internet Development Studio Company
 f_topic: cms/ecosystem-topics/media-entertainment.md
