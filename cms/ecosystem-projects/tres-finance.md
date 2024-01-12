@@ -5,7 +5,7 @@ updated-on: 2024-01-12T20:09:29.911Z
 published-on: 2024-01-12T20:09:29.923Z
 f_featured: false
 f_brand:
-  url: /assets/images/logo-full-whitebg.jpg
+  url: /assets/images/tres_logo_white.png
 f_brand-image-alt-text: TRES.Finance Logo
 f_topic: cms/ecosystem-topics/finance.md
 f_tag:
