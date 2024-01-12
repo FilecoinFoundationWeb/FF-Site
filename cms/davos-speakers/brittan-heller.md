@@ -6,7 +6,7 @@ published-on: 2024-01-12T16:25:15.911Z
 f_organization: The Car Center for Human Rights
 f_headshot:
   url: /assets/images/brittan-heller.png
-f_bio: "Brittan Heller works at the intersection of technology, human rights and
+f_bio: Brittan Heller works at the intersection of technology, human rights and
   the law. She is currently a lecturer at Stanford University and a visiting
   scholar at Stanford’s Virtual Human Interaction Lab, examining XR's connection
   to society, human rights, privacy, and security. Heller is on the steering
@@ -15,7 +15,9 @@ f_bio: "Brittan Heller works at the intersection of technology, human rights and
   Kennedy School's Carr Center for Human Rights. She is a visiting fellow at the
   Yale Information Society Project, a Senior Non-Residential Fellow at the
   Atlantic Council’s Digital Forensics Research Lab, and an affiliate at the
-  Stanford Program on Democracy and the Internet. "
+  Stanford Program on Democracy and the Internet. Heller has been awarded a 2024
+  Bellagio Residency to write about the intersection of spatial computing and
+  AI.
 f_vip: false
 f_vvip: false
 f_vvvip-1: false
