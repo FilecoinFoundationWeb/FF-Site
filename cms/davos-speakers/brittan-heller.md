@@ -3,6 +3,7 @@ title: Brittan Heller
 created-on: 2024-01-12T16:25:15.896Z
 updated-on: 2024-01-12T16:25:15.904Z
 published-on: 2024-01-12T16:25:15.911Z
+f_organization: The Car Center for Human Rights
 f_headshot:
   url: /assets/images/brittan-heller.png
 f_bio: "Brittan Heller works at the intersection of technology, human rights and
