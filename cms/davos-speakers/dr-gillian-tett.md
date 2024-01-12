@@ -3,8 +3,8 @@ title: Dr. Gillian Tett
 created-on: 2024-01-09T20:25:25.345Z
 updated-on: 2024-01-09T20:25:25.351Z
 published-on: 2024-01-09T20:25:25.356Z
-f_organization: Financial Times US; King’s College Cambridge University
-f_title: Chairman of editorial board and editor-at-large; Provost
+f_organization: Financial Times US
+f_title: Chairman of editorial board and editor-at-large
 f_headshot:
   url: /assets/images/gillian-tett.png
 f_bio: Gillian Tett serves as a chairman of the editorial board and
