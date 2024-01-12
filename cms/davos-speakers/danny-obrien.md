@@ -3,7 +3,7 @@ title: Danny O'Brien
 created-on: 2024-01-05T17:51:12.988Z
 updated-on: 2024-01-05T17:51:12.997Z
 published-on: 2024-01-05T17:51:13.006Z
-f_organization: Filecoin Foundation
+f_organization: Filecoin Foundation for the Decentralized Web
 f_title: Senior Fellow & DWeb Strategy
 f_headshot:
   url: /assets/images/danny-o_brien-filecoin-foundation.jpg
