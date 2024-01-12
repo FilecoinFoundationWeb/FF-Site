@@ -5,7 +5,7 @@ updated-on: 2024-01-12T20:30:19.621Z
 published-on: 2024-01-12T20:30:19.636Z
 f_featured: false
 f_brand:
-  url: /assets/images/mosaia-logo-02.png
+  url: /assets/images/mosaia_logo_white.png
 f_brand-image-alt-text: Mosaia
 f_topic: cms/ecosystem-topics/artificial-intelligence.md
 f_tag:
