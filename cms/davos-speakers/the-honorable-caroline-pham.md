@@ -28,7 +28,7 @@ f_bio: The Honorable Caroline D. Pham was sworn in as a CFTC Commissioner on
   a Visiting Fellow at the Center for Law, Economics and Finance.
 f_vip: false
 f_vvip: false
-f_vvvip-1: false
+f_vvvip-1: true
 tags: davos-speakers
 layout: "[davos-speakers].html"
 date: 2024-01-12T16:22:06.731Z
