@@ -11,7 +11,7 @@ f_description: "This session will convene leading figures from across the public
   policy landscape to lay out a sustainable path forward for emerging
   technologies that simultaneously promotes innovation and cleans out the bad
   actors. "
-f_speakers: Marta Belcher, President and Chari, Filecoin Foundation | Dante
+f_speakers: Marta Belcher, President and Chair, Filecoin Foundation | Dante
   Disparte, Chief Strategy Officer; Head, Global Policy at Circle | Shyam
   Nagarajan, Global Practice Leader, Executive Partner, Blockchain and
   Responsible AI, IBM
