@@ -23,7 +23,7 @@ f_bio: Sara Sabry, a trailblazing astronaut and founder of Deep Space Initiative
   the IAF Emerging Space Leader and STEAM Innovation, aligns with her commitment
   to inclusivity and equality, as she continues to inspire others globally
   through her impactful journey.
-f_vip: true
+f_vip: false
 f_vvip: true
 f_vvvip-1: false
 tags: davos-speakers
