@@ -7,7 +7,7 @@ f_featured: false
 f_brand:
   url: /assets/images/logo-full-whitebg.jpg
 f_brand-image-alt-text: TRES.Finance Logo
-f_topic: cms/ecosystem-topics/tooling-productivity.md
+f_topic: cms/ecosystem-topics/finance.md
 f_tag:
   - cms/ecosystem-tags/data-storage-management.md
   - cms/ecosystem-tags/data-prep.md
