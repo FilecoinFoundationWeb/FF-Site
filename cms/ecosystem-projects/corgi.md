@@ -5,7 +5,7 @@ updated-on: 2024-01-12T20:22:04.184Z
 published-on: 2024-01-12T20:22:04.209Z
 f_featured: false
 f_brand:
-  url: /assets/images/99064d7610dfc8b4442c154b4e4c13ba.png
+  url: /assets/images/corgi_logo_white.png
 f_brand-image-alt-text: FILECORGI
 f_topic: cms/ecosystem-topics/network.md
 f_tag:
