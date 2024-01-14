@@ -3,7 +3,7 @@ title: "CATALYST SPOTLIGHT: How AI is Revolutionizing and Reshaping Industries"
 created-on: 2024-01-02T12:48:54.655Z
 updated-on: 2024-01-02T12:48:54.664Z
 published-on: 2024-01-02T12:48:54.671Z
-f_title-of-event: "CATALYST SPOTLIGHT: How AI is Revolutionazing and Reshaping Industries"
+f_title-of-event: "CATALYST SPOTLIGHT: How AI is Revolutionizing and Reshaping Industries"
 f_time: 11 AM - 11:30 AM
 f_time-start: 2024-01-16T10:00:54.678Z
 f_day: Tue
