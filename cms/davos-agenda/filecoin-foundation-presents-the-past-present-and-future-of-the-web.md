@@ -10,7 +10,7 @@ f_day: Wed
 f_description: A U.S. regulator and blockchain industry leader sit down to
   discuss their approaches to crypto regulation and the road to regulatory
   clarity for the digital assets space.
-f_speakers: CFTC Commissioner Caroline Pham  Marta Belcher, President, Filecoin Foundation
+f_speakers: CFTC Commissioner Caroline Pham | Marta Belcher, President, Filecoin Foundation
 f_moderator-name: Mariam Zaidi, CNBC Catalyst
 tags: davos-agenda
 layout: "[davos-agenda].html"
