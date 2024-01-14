@@ -2431,9 +2431,11 @@ collections:
             label: Text
             name: 4c288cac
             widget: string
-          - hint: 'Original text: Davos, Switzerland, key: -3f39fa6e'
+          - hint: >-
+              Original text: Scalettastrasse 1, Davos, Switzerland, key:
+              6f2b3c75
             label: Text
-            name: '-3f39fa6e'
+            name: 6f2b3c75
             widget: string
           - hint: 'Original text: Partners, key: 4ab920cb'
             label: Text
@@ -2660,9 +2662,9 @@ collections:
             label: Text
             name: 66cdfe3e
             widget: text
-          - hint: 'Original text: Submit Your Project, key: -563020ec'
+          - hint: 'Original text: Submit or Update Your Project, key: -20bcead2'
             label: Text
-            name: '-563020ec'
+            name: '-20bcead2'
             widget: string
           - hint: 'Original text: Featured Project, key: 34879927'
             label: Text
@@ -2773,10 +2775,6 @@ collections:
             label: Text
             name: 3fa6cf7b
             widget: text
-          - hint: 'Original text: Submit or Update Your Project, key: -20bcead2'
-            label: Text
-            name: '-20bcead2'
-            widget: string
           - hint: 'Original text: Join Us IRL, key: -6301ec89'
             label: Text
             name: '-6301ec89'
@@ -5685,10 +5683,10 @@ collections:
             name: '-1924ca11'
             widget: string
           - hint: >-
-              Original link: https://maps.app.goo.gl/ZAWaxcJyB8Dzhhvo7, key:
-              -73487ac7
+              Original link: https://maps.app.goo.gl/wPK1zJEyafFr9eyr5, key:
+              -7bda23f2
             label: Link
-            name: '-73487ac7'
+            name: '-7bda23f2'
             widget: string
           - hint: >-
               Original link:
@@ -5696,6 +5694,12 @@ collections:
               key: -b4ad629
             label: Link
             name: '-b4ad629'
+            widget: string
+          - hint: >-
+              Original link: https://maps.app.goo.gl/ZAWaxcJyB8Dzhhvo7, key:
+              -73487ac7
+            label: Link
+            name: '-73487ac7'
             widget: string
           - hint: 'Original link: /ecosystem#board-panel, key: -aa08f75'
             label: Link

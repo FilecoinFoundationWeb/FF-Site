@@ -9341,6 +9341,7 @@ blockquote {
 .collection-item-6 {
   flex-direction: column;
   align-items: center;
+  padding: 10px 20px;
 }
 
 .collection-list-wrapper-5 {
@@ -12814,6 +12815,11 @@ blockquote {
   .collection-item-4 {
     margin-bottom: 10px;
     margin-right: 10px;
+  }
+
+  .collection-item-6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 
