@@ -9341,7 +9341,7 @@ blockquote {
 .collection-item-6 {
   flex-direction: column;
   align-items: center;
-  padding: 10px 20px;
+  padding: 20px 40px;
 }
 
 .collection-list-wrapper-5 {
@@ -9359,6 +9359,7 @@ blockquote {
 
 .collection-list-8 {
   width: 100%;
+  grid-column-gap: 25px;
   grid-row-gap: 25px;
   flex-flow: wrap;
   grid-template-rows: auto auto;
@@ -12358,7 +12359,7 @@ blockquote {
 
   .div-block-110 {
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
   }
 
   .button-text-3.secondary {
@@ -13094,7 +13095,7 @@ blockquote {
   }
 
   .div-block-110 {
-    align-items: center;
+    width: 70vw;
   }
 
   .std-buttons {
