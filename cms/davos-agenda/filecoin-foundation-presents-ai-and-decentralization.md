@@ -11,8 +11,9 @@ f_description: "We’ll explore how the power of AI can be in the hands of
   everyone rather than just a few powerful companies, and how decentralized
   technologies can help with AI data integrity, accessibility, and
   verifiability. "
-f_speakers: Clara Tsao, Founding Officer, Filecoin Foundation | Yann LeCun,
-  Chief AI Scientist, Meta | Karl Friston, British Neuroscientist
+f_speakers: Sir Tim Berners-Lee, Inventor of the World Wide Web, CTO Inrupt|
+  Clara Tsao, Founding Officer, Filecoin Foundation | Yann LeCun, Chief AI
+  Scientist, Meta | Karl Friston, British Neuroscientist
 f_moderator-name: Gillian Tett, Chairman of editorial board and editor-at-large;
   Provost; Financial Times US; King’s College Cambridge University
 tags: davos-agenda
