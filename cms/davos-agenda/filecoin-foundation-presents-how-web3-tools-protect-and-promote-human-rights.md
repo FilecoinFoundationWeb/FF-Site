@@ -12,9 +12,9 @@ f_description: Global connectivity and decentralized technologies offer new
   can establish trust in our most sensitive digital records. We share real-world
   examples of decentralized tools being used by activists and journalists to
   defend human rights, on the ground and in the courtroom
-f_speakers: Clara Tsao, Founding Officer, Filecoin Foundation | Bernhard
-  Kowatsch, Head of UN World Food Programme Innovation Accelerator | Jonathan
-  Dotan, Founding Director, Starling Lab
+f_speakers: Danny O’Brien, Senior Fellow & DWeb Strategy, Filecoin Foundation
+  for the Decentralized Web | Bernhard Kowatsch, Head of UN World Food Programme
+  Innovation Accelerator | Jonathan Dotan, Founding Director, Starling Lab
 f_moderator-name: Brittan Heller, The Car Center for Human Rights
 tags: davos-agenda
 layout: "[davos-agenda].html"
