@@ -12,8 +12,7 @@ f_day: Wed
 f_description: "Discover the potential of blockchain, AI, and machine learning
   in addressing climate challenges. "
 f_speakers: Jonathan Dotan, Founder, EQTY Lab | Megan Klimen, Founding Officer,
-  Filecoin Foundation | Daniel Erasmus, CEO, NEWSCONSOLE/ Erasmus.AI | Alan
-  Ransil, Founder, Filecoin Green
+  Filecoin Foundation | Daniel Erasmus, CEO, NEWSCONSOLE/ Erasmus.AI
 f_moderator-name: David Fergusson, CNBC Catalyst Moderator
 tags: davos-agenda
 layout: "[davos-agenda].html"
