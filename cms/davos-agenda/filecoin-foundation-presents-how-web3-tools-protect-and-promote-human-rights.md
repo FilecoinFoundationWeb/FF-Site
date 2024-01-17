@@ -15,7 +15,7 @@ f_description: Global connectivity and decentralized technologies offer new
 f_speakers: Danny O’Brien, Senior Fellow & DWeb Strategy, Filecoin Foundation
   for the Decentralized Web | Bernhard Kowatsch, Head of UN World Food Programme
   Innovation Accelerator | Jonathan Dotan, Founding Director, Starling Lab
-f_moderator-name: Brittan Heller, The Car Center for Human Rights
+f_moderator-name: Brittan Heller, Lecturer, Stanford University
 tags: davos-agenda
 layout: "[davos-agenda].html"
 date: 2024-01-05T13:58:55.901Z
