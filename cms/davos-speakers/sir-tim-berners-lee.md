@@ -6,7 +6,7 @@ published-on: 2024-01-16T09:57:06.679Z
 f_organization: Inrupt
 f_title: Inventor of the World Wide Web; CTO
 f_headshot:
-  url: /assets/images/qdmugcxcjfk0imojvne6.webp
+  url: /assets/images/image.jpg
 f_bio: Sir Tim Berners-Lee, an Oxford graduate and British computer scientist,
   invented the World Wide Web in 1989. Named one of Time Magazine’s ‘100 Most
   Important People of the 20th Century,’ he is the co-founder and CTO of Inrupt,
