@@ -8,7 +8,7 @@ f_time: 3:15 PM - 3:40 PM
 f_time-start: 2024-01-18T14:15:10.222Z
 f_day: Thur
 f_description: "AI is developing rapidly, with high adoption rates among
-  businesses and consumers globally. But what comes next? Our panels makes
+  businesses and consumers globally. But what comes next? Our panelists make
   predictions for 2024.  "
 f_speakers: Florian Bressand, Chief Business Officer, Mistral AI | Leandro Von
   Werra, Machine Learning Engineer, Hugging Face
