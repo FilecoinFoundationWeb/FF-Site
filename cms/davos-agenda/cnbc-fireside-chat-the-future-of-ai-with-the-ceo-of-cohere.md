@@ -7,12 +7,11 @@ f_title-of-event: The Future of AI With the CEO of Cohere
 f_time: 11:20 AM - 11:35 AM
 f_time-start: 2024-01-18T10:20:23.366Z
 f_day: Thur
-f_description: Global AI company Cohere, co-headquartered in Toronto and SF, is
+f_description: "Global AI company Cohere, co-headquartered in Toronto and SF, is
   one of a crop of AI companies focused on large language models. Aidan Gomez,
   the company’s co-founder, talks to CNBC Senior Tech Correspondent Arjun
-  Kharpal about the technology’s development and the applications it will
-  serve.  Please note PR corrected us on the bold part- could you please alert
-  team who might have taken this to website/promoting material?
+  Kharpal about the technology’s development and the applications it will serve.
+  "
 f_speakers: "Aidan Gomez, Co-founder & CEO, Cohere "
 f_moderator-name: Arjun Kharpal, CNBC Senior Technology Reporter
 tags: davos-agenda
