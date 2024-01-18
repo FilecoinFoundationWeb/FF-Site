@@ -5,7 +5,7 @@ updated-on: 2024-01-18T17:56:20.306Z
 published-on: 2024-01-18T17:56:20.316Z
 f_featured: false
 f_brand:
-  url: /assets/images/filscriptions.png
+  url: /assets/images/filscriptions_logo_white.png
 f_brand-image-alt-text: Filscriptions
 f_topic: cms/ecosystem-topics/tooling-productivity.md
 f_tag:
