@@ -24,7 +24,7 @@ f_tech-3:
   - cms/ecosystem-technology/ipfs.md
 f_social-media: https://twitter.com/filemarket_xyz/
 f_video:
-  url: https://www.youtube.com/watch?v=MSOpSJnoFvQ
+  url: https://youtu.be/MSOpSJnoFvQ?si=17fHQIFmprRe1fqr
 f_year-2: 2022-09-01T15:06:37.800Z
 f_last-updated-2: 2024-01-18T16:06:37.829Z
 tags: ecosystem-projects
