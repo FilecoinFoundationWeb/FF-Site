@@ -11,7 +11,8 @@ f_brand-image-alt-text: "Functionland Logo: A Decentralized storage replacement 
 f_topic: cms/ecosystem-topics/storage.md
 f_tag:
   - cms/ecosystem-tags/data-storage-management.md
-f_card-text-truncated: " A Decentralized storage replacement for cloud."
+f_card-text-truncated: Functionland has built a peer-to-peer platform (Fula)
+  that aims to disrupt traditional cloud storage.
 f_website: https://fx.land/
 f_repo: https://github.com/functionland
 f_tech-3:
