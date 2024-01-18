@@ -5,7 +5,7 @@ updated-on: 2024-01-17T14:44:30.857Z
 published-on: 2024-01-17T14:44:30.872Z
 f_featured: false
 f_brand:
-  url: /assets/images/crossfi.jpg
+  url: /assets/images/crossfi_logo_white.png
   alt: CrossFi
 f_brand-image-alt-text: CrossFi
 f_topic: cms/ecosystem-topics/finance.md
