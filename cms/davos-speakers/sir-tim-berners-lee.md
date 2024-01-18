@@ -4,7 +4,7 @@ created-on: 2024-01-16T09:57:06.619Z
 updated-on: 2024-01-16T09:57:06.665Z
 published-on: 2024-01-16T09:57:06.679Z
 f_organization: Inrupt
-f_title: Inventor of the World Wide Web; CTO
+f_title: Inventor of the World Wide Web
 f_headshot:
   url: /assets/images/image.jpg
 f_bio: Sir Tim Berners-Lee, an Oxford graduate and British computer scientist,
