@@ -1,5 +1,5 @@
 ---
-title: Functionland Fula
+title: Functionland
 created-on: 2024-01-18T16:17:36.549Z
 updated-on: 2024-01-18T16:17:36.566Z
 published-on: 2024-01-18T16:17:36.584Z
