@@ -9296,7 +9296,8 @@ blockquote {
 }
 
 .rich-text-block {
-  display: flex;
+  text-indent: 45px;
+  display: block;
 }
 
 .logos-5 {
