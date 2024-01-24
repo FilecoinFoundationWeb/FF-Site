@@ -35,8 +35,10 @@ Repl tokenizes pledged FIL in the Filecoin Protocol and enables liquidity and ex
 
 There are three main components of the Repl Protocol.
 
-* Tokenizing Pledged FIL: Any storage provider can pledge a Miner Actor to the Repl Protocol to repledge their locked assets. For every locked FIL that’s considered safe, the storage provider can mint pFIL tokens at a 1:1 ratio.
-* An Open Market for pFIL: Storage providers can sell their minted pFIL to obtain liquidity, and token holders can acquire pFIL tokens to earn FIL mining return. pFIL tokens can also be used in additional use cases such as restaking to secure new networks on Filecoin.
-* Risk Recovery and Reward Distribution: When locked FIL is released or pledged Miner Actors earn block rewards, the Repl protocol recovers liquid FIL and buys back pFIL through auctions. The amount of pFIL equivalent to FIL recovered is burned, and excess proceeds are distributed as rewards.
+Tokenizing Pledged FIL: Any storage provider can pledge a Miner Actor to the Repl Protocol to repledge their locked assets. For every locked FIL that’s considered safe, the storage provider can mint pFIL tokens at a 1:1 ratio.
+
+An Open Market for pFIL: Storage providers can sell their minted pFIL to obtain liquidity, and token holders can acquire pFIL tokens to earn FIL mining return. pFIL tokens can also be used in additional use cases such as restaking to secure new networks on Filecoin.
+
+Risk Recovery and Reward Distribution: When locked FIL is released or pledged Miner Actors earn block rewards, the Repl protocol recovers liquid FIL and buys back pFIL through auctions. The amount of pFIL equivalent to FIL recovered is burned, and excess proceeds are distributed as rewards.
 
 For each of the three components, we use Filecoin and the FVM to mint pFIL tokens, manage risks, and facilitate transactions.
