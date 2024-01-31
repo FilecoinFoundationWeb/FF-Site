@@ -8,7 +8,8 @@ f_description: San Francisco, CA
 f_start-date: 2024-04-13T14:47:33.396Z
 f_end-date: 2024-04-14T14:47:33.405Z
 f_image:
-  url: /assets/images/aab59b94a140de5ee8f1be88eed1a956.svg
+  url: /assets/images/funding-the-commons.png
+  alt: Funding the Commons SF
 f_event-date: 2024-04-13T14:47:33.415Z
 f_ff-involvement: Sponsored by FF
 f_icon-type: Info
