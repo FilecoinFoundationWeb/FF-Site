@@ -8,7 +8,7 @@ f_description: San Francisco, CA
 f_start-date: 2024-10-18T15:16:41.373Z
 f_end-date: 2024-10-19T15:16:41.380Z
 f_image:
-  url: /assets/images/consensus-2026.png
+  url: /assets/images/ethsf24.png
   alt: ETH San Francisco Filecoin Orbit Event
 f_event-date: 2024-10-18T15:16:41.389Z
 f_ff-involvement: Supported by FF
