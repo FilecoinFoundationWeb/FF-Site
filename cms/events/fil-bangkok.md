@@ -8,7 +8,7 @@ f_cta-text: ""
 f_start-date: 2024-11-10T16:18:33.964Z
 f_end-date: 2024-11-15T16:18:33.972Z
 f_image:
-  url: /assets/images/fil-city-placeholder-1-.png
+  url: /assets/images/filbangkok.png
   alt: FIL Bangkok
 f_event-date: 2024-11-10T16:18:33.979Z
 f_ff-involvement: Hosted by FF
