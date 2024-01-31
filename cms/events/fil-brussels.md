@@ -10,6 +10,7 @@ f_start-date: 2024-07-08T14:53:57.431Z
 f_end-date: 2024-07-11T14:53:57.438Z
 f_image:
   url: /assets/images/fil-city-placeholder.png
+  alt: FIL Brussels
 f_event-date: 2024-07-08T14:53:57.447Z
 f_ff-involvement: Hosted by FF
 f_icon-type: Info
