@@ -8,7 +8,7 @@ f_description: Brussels, Belgium
 f_start-date: 2024-07-10T14:51:57.398Z
 f_end-date: 2024-07-11T14:51:57.409Z
 f_image:
-  url: /assets/images/consensus-2025.png
+  url: /assets/images/ethcc-24.png
   alt: EthCC Filecoin Booth
 f_event-date: 2024-07-10T14:51:57.420Z
 f_ff-involvement: Sponsored by FF
