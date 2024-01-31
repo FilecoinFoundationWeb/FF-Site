@@ -8,7 +8,8 @@ f_description: Singapore
 f_start-date: 2024-09-18T15:14:23.235Z
 f_end-date: 2024-09-19T15:14:23.249Z
 f_image:
-  url: /assets/images/fil-city-placeholder.png
+  url: /assets/images/fil-singapore.png
+  alt: FIL Singapore
 f_event-date: 2024-09-18T15:14:23.262Z
 f_ff-involvement: Supported by FF
 f_icon-type: Info
