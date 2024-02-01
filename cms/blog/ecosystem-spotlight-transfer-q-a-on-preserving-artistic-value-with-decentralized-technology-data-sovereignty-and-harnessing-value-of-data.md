@@ -10,7 +10,7 @@ f_description: >
   of data in unique ways.
 f_featured: false
 f_image:
-  url: /assets/images/020124_transfer.png
+  url: /assets/images/transfer.png
   alt: Filecoin Foundation TRANSFER Blog Post
 f_post-date: 2024-02-01T15:32:12.295Z
 tags: blog
