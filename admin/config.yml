@@ -5840,6 +5840,10 @@ collections:
             label: Link
             name: '-2ba4f9af'
             widget: string
+          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
+            label: Link
+            name: '42500560'
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
