@@ -8,8 +8,8 @@ f_cta: ""
 f_cta-text: ""
 f_start-date: 2024-09-04T15:09:58.111Z
 f_image:
-  url: /assets/images/fil-seoul.png
-  alt: FIL Seoul Network Base
+  url: /assets/images/fil-seoul-24.png
+  alt: FIL Seoul Network Base Logo
 f_event-type: Event
 published-on: 2024-01-29T16:09:58.042Z
 f_end-date: 2024-09-10T15:09:58.126Z
