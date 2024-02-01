@@ -10,7 +10,7 @@ f_description: >
   of data in unique ways.
 f_featured: false
 f_image:
-  url: /assets/images/transfer-ff-blog.png
+  url: /assets/images/020124-transfer.png
   alt: Filecoin Foundation TRANSFER Blog Post
 f_post-date: 2024-02-01T15:32:12.295Z
 tags: blog
@@ -20,8 +20,8 @@ seo:
   noindex: false
   twitter:title: Filecoin Foundation TRANSFER Spotlight
   twitter:card: Filecoin Foundation TRANSFER Spotlight
-  og:image: /assets/images/020124_transfer.png
-  twitter:image: /assets/images/020124_transfer.png
+  og:image: /assets/images/020124-transfer.png
+  twitter:image: /assets/images/020124-transfer.png
   title: Filecoin Foundation TRANSFER Spotlight
 ---
 Experimental media art has long been overlooked by the traditional art world, and because of the rapid rate of obsolescence, much of the work is at risk of loss. 
