@@ -9,7 +9,7 @@ f_start-date: 2024-07-10T14:51:57.398Z
 f_end-date: 2024-07-11T14:51:57.409Z
 f_image:
   url: /assets/images/ethcc-24.png
-  alt: EthCC Filecoin Booth
+  alt: EthCC Logo
 f_event-date: 2024-07-10T14:51:57.420Z
 f_ff-involvement: Sponsored by FF
 f_icon-type: Info
