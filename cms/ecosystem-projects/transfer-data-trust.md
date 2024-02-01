@@ -22,6 +22,7 @@ f_repo: https://github.com/TRANSFERArchive
 f_tech-3:
   - cms/ecosystem-technology/ipfs.md
   - cms/ecosystem-technology/filecoin.md
+f_case-study: https://fil.org/blog/ecosystem-spotlight-transfer-q-a-on-preserving-artistic-value-with-decentralized-technology-data-sovereignty-and-harnessing-value-of-data/
 f_social-media: https://twitter.com/transfergallery/
 f_year-2: 2024-02-01T15:51:35.152Z
 f_last-updated-2: 2024-02-01T15:51:35.165Z
