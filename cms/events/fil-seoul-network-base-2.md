@@ -4,8 +4,6 @@ created-on: 2024-01-29T16:09:58.003Z
 updated-on: 2024-01-29T16:09:58.015Z
 f_featured: false
 f_description: Seoul, South Korea
-f_cta: ""
-f_cta-text: ""
 f_start-date: 2024-09-04T15:09:58.111Z
 f_image:
   url: /assets/images/fil-seoul-24.png
