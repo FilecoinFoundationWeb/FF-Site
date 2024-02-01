@@ -9,7 +9,7 @@ f_start-date: 2024-05-29T14:50:42.632Z
 f_end-date: 2024-05-31T14:50:42.640Z
 f_image:
   url: /assets/images/consensus-2024.png
-  alt: Consensus Filecoin Orbit Event
+  alt: Consensus Logo
 f_event-date: 2024-05-29T14:50:42.646Z
 f_ff-involvement: Sponsored by FF
 f_icon-type: Info
