@@ -11,7 +11,7 @@ f_cta-text: Learn More
 f_start-date: 2024-02-27T14:00:51.036Z
 f_end-date: 2024-02-27T21:00:51.050Z
 f_image:
-  url: /assets/images/https___cdn.evbuc.com_images_680202249_1037917064043_1_original.png
+  url: /assets/images/sis24.png
 f_event-date: 2024-02-27T15:35:51.070Z
 f_ff-involvement: Supported by FF
 f_icon-type: Register
