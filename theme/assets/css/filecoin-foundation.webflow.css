@@ -1479,6 +1479,10 @@ blockquote {
   z-index: 45;
 }
 
+.page-section.view-all {
+  padding: 2rem;
+}
+
 .page-section.public-data-first-section {
   z-index: 5;
   padding-top: 4.125rem;
@@ -1509,7 +1513,7 @@ blockquote {
 
 .content-section.hero {
   padding-top: 0;
-  padding-bottom: 2rem;
+  padding-bottom: 0;
 }
 
 .content-section.theme-dark {
