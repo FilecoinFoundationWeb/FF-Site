@@ -8,7 +8,8 @@ f_description: Denver, CO
 f_start-date: 2024-02-28T15:38:54.833Z
 f_end-date: 2024-03-03T15:38:54.840Z
 f_image:
-  url: /assets/images/ed-announcement.png
+  url: /assets/images/ethdenver24.png
+  alt: ETH Denver Logo
 f_event-date: 2024-02-28T15:38:54.856Z
 f_ff-involvement: Sponsored by FF
 f_icon-type: Info
