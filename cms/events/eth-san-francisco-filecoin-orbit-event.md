@@ -9,7 +9,7 @@ f_start-date: 2024-10-18T15:16:41.373Z
 f_end-date: 2024-10-19T15:16:41.380Z
 f_image:
   url: /assets/images/ethsf24.png
-  alt: ETH San Francisco Filecoin Orbit Event
+  alt: ETH San Francisco Logo
 f_event-date: 2024-10-18T15:16:41.389Z
 f_ff-involvement: Supported by FF
 f_icon-type: Info
