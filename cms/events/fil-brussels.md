@@ -1,5 +1,5 @@
 ---
-title: FIL Brussels
+title: FIL Brussels alongside EthCC
 created-on: 2024-01-29T15:53:57.402Z
 updated-on: 2024-01-29T15:53:57.411Z
 published-on: 2024-01-29T15:53:57.423Z
