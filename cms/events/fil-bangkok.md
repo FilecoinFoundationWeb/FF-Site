@@ -1,5 +1,5 @@
 ---
-title: FIL Bangkok
+title: FIL Bangkok alongside DevCon
 created-on: 2024-01-29T16:18:33.938Z
 updated-on: 2024-01-29T16:18:33.946Z
 published-on: 2024-01-29T16:18:33.953Z
