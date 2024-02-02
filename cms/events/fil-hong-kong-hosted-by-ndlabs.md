@@ -8,7 +8,7 @@ f_description: Hong Kong
 f_cta: https://fil-hk.io/
 f_cta-text: Save the Date
 f_start-date: 2024-04-05T14:42:24.931Z
-f_end-date: 2024-04-09T14:42:24.941Z
+f_end-date: 2024-04-08T14:42:24.941Z
 f_image:
   url: /assets/images/filhk24.png
   alt: FIL Hong Kong Logo
