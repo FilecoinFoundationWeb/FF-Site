@@ -2638,10 +2638,6 @@ collections:
             label: Text
             name: '-4ffbe6fe'
             widget: string
-          - hint: 'Original text: Ecosystem Advisors, key: -207b8fed'
-            label: Text
-            name: '-207b8fed'
-            widget: string
           - hint: 'Original text: Share to: , key: 8c7f2a2'
             label: Text
             name: 8c7f2a2
@@ -2893,9 +2889,9 @@ collections:
             widget: string
           - hint: >-
               Original text: Want to join our Filecoin Orbit Ambassador
-              community? Email events@fil.org, key: -2f801d75
+              community? Click to learn more. , key: -44890c3f
             label: Text
-            name: '-2f801d75'
+            name: '-44890c3f'
             widget: string
           - hint: 'Original text: Get, key: 11736'
             label: Text
@@ -5621,18 +5617,6 @@ collections:
             label: Link
             name: '-73487ac7'
             widget: string
-          - hint: 'Original link: /ecosystem#board-panel, key: -aa08f75'
-            label: Link
-            name: '-aa08f75'
-            widget: string
-          - hint: 'Original link: /ecosystem#resources, key: 5e8a99d3'
-            label: Link
-            name: 5e8a99d3
-            widget: string
-          - hint: 'Original link: /old-ecosystem-page/, key: -68d397c2'
-            label: Link
-            name: '-68d397c2'
-            widget: string
           - hint: >-
               Original link:
               https://airtable.com/apppNMXvdW3i9P1BY/shrvrv4B9JKCP1e4O, key:
@@ -5670,12 +5654,9 @@ collections:
             label: Link
             name: 6ed98b2e
             widget: string
-          - hint: >-
-              Original link:
-              https://airtable.com/appCMDwVy5ZXyAwYJ/shrlzCyr7Y6rm7qwM, key:
-              -19928f9c
+          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
             label: Link
-            name: '-19928f9c'
+            name: '42500560'
             widget: string
           - hint: 'Original link: mailto:meghan@fil.org, key: 5c86dad'
             label: Link
@@ -5683,10 +5664,10 @@ collections:
             widget: string
           - hint: >-
               Original link:
-              https://airtable.com/appAGdqyYrqoFNuPI/shrKrbPOdxGNnMM9C, key:
-              37c79e52
+              https://filecoin.notion.site/Filecoin-Orbit-Community-Program-3d8a03c8d5444d3491908249664e55e9,
+              key: -179056ea
             label: Link
-            name: 37c79e52
+            name: '-179056ea'
             widget: string
           - hint: 'Original link: https://jobs.lever.co/filecoin, key: 1a0bd1e3'
             label: Link
@@ -5839,10 +5820,6 @@ collections:
           - hint: 'Original link: https://fil.org/policy, key: -2ba4f9af'
             label: Link
             name: '-2ba4f9af'
-            widget: string
-          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
-            label: Link
-            name: '42500560'
             widget: string
       - label: Images
         name: images
