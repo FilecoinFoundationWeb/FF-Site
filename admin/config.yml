@@ -5662,12 +5662,9 @@ collections:
             label: Link
             name: 5c86dad
             widget: string
-          - hint: >-
-              Original link:
-              https://filecoin.notion.site/Filecoin-Orbit-Community-Program-3d8a03c8d5444d3491908249664e55e9,
-              key: -179056ea
+          - hint: 'Original link: https://hub.fil.org/orbit, key: 431e4d92'
             label: Link
-            name: '-179056ea'
+            name: 431e4d92
             widget: string
           - hint: 'Original link: https://jobs.lever.co/filecoin, key: 1a0bd1e3'
             label: Link

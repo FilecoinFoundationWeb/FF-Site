@@ -6877,6 +6877,7 @@ blockquote {
 }
 
 .link-dev._1 {
+  width: auto;
   height: auto;
   filter: none;
   flex-direction: column;
