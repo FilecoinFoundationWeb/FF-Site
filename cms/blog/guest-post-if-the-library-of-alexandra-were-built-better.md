@@ -1,5 +1,5 @@
 ---
-title: "Guest Post: If the Library of Alexandra Were Built Better "
+title: "Guest Post: If the Library of Alexandria Were Built Better "
 created-on: 2024-02-12T15:40:26.928Z
 updated-on: 2024-02-12T15:40:26.957Z
 published-on: 2024-02-12T15:40:26.981Z
