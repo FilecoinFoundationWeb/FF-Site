@@ -7,7 +7,7 @@ f_description: Guest Post from Museum of Crypto Art on preserving the crypto art
   movement on the Filecoin network.
 f_featured: false
 f_image:
-  url: /assets/images/021224-guest-moca.png
+  url: /assets/images/021224-guest-moca-1-.png
 f_post-date: 2024-02-12T15:40:26.993Z
 tags: blog
 layout: "[blog].html"
@@ -17,8 +17,8 @@ seo:
   twitter:title: "Guest Post: If the Library of Alexandra Were Built Better "
   twitter:card: "Guest Post: If the Library of Alexandra Were Built Better "
   title: "Guest Post: If the Library of Alexandra Were Built Better "
-  twitter:image: /assets/images/021224-guest-moca.png
-  og:image: /assets/images/021224-guest-moca.png
+  twitter:image: /assets/images/021224-guest-moca-1-.png
+  og:image: /assets/images/021224-guest-moca-1-.png
 ---
 B﻿y: Maxwell Cohen, Museum of Crypto Art
 
