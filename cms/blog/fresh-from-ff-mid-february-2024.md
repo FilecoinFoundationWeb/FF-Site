@@ -31,24 +31,24 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 
 **Developer Advocacy**
 
-* Calling all builders! Join us for [the first Filecoin hackathons of 2024](https://hackathons.filecoin.io/).
+* Calling all builders! Join us for the first Filecoin hackathons of 2024
 
   1. The [Data Economy Hackathon](https://dorahacks.io/hackathon/filecoin-data-economy/detail) is a six-week virtual hackathon beginning on February 18 and focusing on Filecoin and IPC. The hackathon emphasizes projects that harness data value, innovate for scalability, create dApps utilizing Filecoin, and enhance the network. 
   2. The [Filecoin track at ETHGlobal London](https://ethglobal.com/events/london2024/prizes/filecoin), March 15-17, will be an in-person Filecoin hackathon — track details will be announced soon.
-
-FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule) and [FIL Hong Kong](https://fil-hk.io/). Reach out if you want to set up time to chat with developer advocates at either event. 
+* FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule) and [FIL Hong Kong](https://fil-hk.io/). Reach out if you want to set up time to chat with developer advocates at either event. 
 
 **Storage** 
 
 * This month we laid out FF's 2024 priorities for supporting the storage provider community; read more [on Filecoin Slack](https://filecoinproject.slack.com/archives/C02GQUMFQVA/p1707172145882549). Some of FF’s 2024 focus areas for supporting storage providers include:
 
-  1. Paid storage: FF is focused on supporting the launch of 6+ software platforms in Q1-Q2 2024 (complete with SP integrations) by supporting testing, design, partnerships, contracts, enablement, community engagement, and amplification. Multiple UIs aimed at supporting deal-making with different target users will help increase network activity.   
+  1. Paid storage: FF is focused on supporting the launch of 6+ software platforms in Q1-Q2 2024 (complete with SP integrations) by supporting testing, design, partnerships, contracts, enablement, community engagement, and amplification. Multiple UIs aimed at supporting deal-making with different target users will help increase network activity.   AI & Filecoin: FF is incubating 3 AI-specific initiatives that use Filecoin as a key part of their value proposition. 
+  2.
+  3.
+  4.
 
-  AI & Filecoin: FF is incubating 3 AI-specific initiatives that use Filecoin as a key part of their value proposition. 
-
-  * New Entrants: FF is focusing on community recruitment of MSP/VAR/GSIs and improving the underlying health of the ecosystem.
-  * Community Activations: Since December 2023, FF supported five events across the globe to create opportunities to discuss key topics and to drive awareness of capabilities, with [more planned throughout 2024](https://fil.org/events/). 
   * Creating actionable community content: Weekly Storage Provider Working Group meetings, the [Zero To One Program](https://www.youtube.com/watch?v=QqhV8Pj7xpA&list=PLp3zrT1ewY0mxPnE89z5NCb_pgCAMhuO3) for potential and new ecosystem entrants, a monthly Customer Working Group, and multiple [DWeb Decoded](https://www.youtube.com/playlist?list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy) episodes on the future of Filecoin/AI/DePiN and other prominent community topics are just some of the ways FF is here to support the storage provider community.
+* Community Activations: Since December 2023, FF supported five events across the globe to create opportunities to discuss key topics and to drive awareness of capabilities, with [more planned throughout 2024](https://fil.org/events/). 
+* New Entrants: FF is focusing on community recruitment of MSP/VAR/GSIs and improving the underlying health of the ecosystem.
 
 ### Network Operations
 
