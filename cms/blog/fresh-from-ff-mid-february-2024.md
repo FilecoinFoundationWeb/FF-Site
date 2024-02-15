@@ -23,39 +23,48 @@ seo:
 ---
 *Check out the latest updates about what the Filecoin Foundation team has been up to.*
 
+
+
 ### Mid-February Highlight
 
-Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule). Join the Filecoin Foundation team February 29 through March 3, at EthDenver Devtopia, Booth 204, to explore the ecosystem with our team and engage in immersive demonstrations and discussions. On March 1, join us for the [Filecoin Orbit Ecosystem Showcase](https://filecoindenver.io/) to hear projects across the ecosystem present lightning talks and demos. You can also hear from Filecoin Foundation staff at [FIL Dev Summit](https://fildev.io/FDS-3), which FF is sponsoring. The summit is a gathering of developers, builders, and engaged community members who contribute to the core protocol and network evolution of Filecoin.
+Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule). Join the Filecoin Foundation team February 29 through March 3, at ETHDenver Devtopia, Booth 204, to explore the ecosystem with our team and engage in immersive demonstrations and discussions. On March 1, join us for the [Filecoin Orbit Ecosystem Showcase](https://filecoindenver.io/) to hear projects across the ecosystem present lightning talks and demos. You can also hear from Filecoin Foundation staff at [FIL Dev Summit](https://fildev.io/FDS-3), which FF is sponsoring. The summit is a gathering of developers, builders, and engaged community members who contribute to the core protocol and network evolution of Filecoin.
 
-### Staff Ecosystem
+### Ecosystem
 
 **Developer Advocacy**
 
 * Calling all builders! Join us for [the first Filecoin hackathons of 2024](https://hackathons.filecoin.io/).
 
-  * The [Data Economy Hackathon](https://dorahacks.io/hackathon/filecoin-data-economy/detail) is a six-week virtual hackathon beginning on February 18 focusing on Filecoin and IPC. The hackathon emphasizes projects that harness data value, innovate for scalability, create dApps utilizing Filecoin, and enhance the network. 
-  * The [Filecoin track at ETHGlobal London](https://ethglobal.com/events/london2024/prizes/filecoin), March 15-17, will be ant in-person Filecoin hackathon — track details will be announced soon.
-* FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule) and [FIL Hong Kong](https://fil-hk.io/). Reach out if you want to set up time to chat with developer advocates on the ground at either event. 
+  1. The [Data Economy Hackathon](https://dorahacks.io/hackathon/filecoin-data-economy/detail) is a six-week virtual hackathon beginning on February 18 and focusing on Filecoin and IPC. The hackathon emphasizes projects that harness data value, innovate for scalability, create dApps utilizing Filecoin, and enhance the network. 
+  2.
+
+FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule) and [FIL Hong Kong](https://fil-hk.io/). Reach out if you want to set up time to chat with developer advocates at either event. 
 
 **Storage** 
 
 * This month we laid out FF's 2024 priorities for supporting the storage provider community; read more [on Filecoin Slack](https://filecoinproject.slack.com/archives/C02GQUMFQVA/p1707172145882549). Some of FF’s 2024 focus areas for supporting storage providers include:
 
-  * Paid storage: FF is focused on supporting the launch of 6+ software platforms in Q1-Q2 2024 (complete with SP integrations) by supporting testing, design, partnerships, contracts, enablement, community engagement, and amplification. Multiple UIs aimed at supporting deal-making with different target users will help increase network activity.   
-  * AI & Filecoin: FF is incubating 3 AI-specific initiatives that use Filecoin as a key part of their value proposition. 
+  1. Paid storage: FF is focused on supporting the launch of 6+ software platforms in Q1-Q2 2024 (complete with SP integrations) by supporting testing, design, partnerships, contracts, enablement, community engagement, and amplification. Multiple UIs aimed at supporting deal-making with different target users will help increase network activity.   
+
+  AI & Filecoin: FF is incubating 3 AI-specific initiatives that use Filecoin as a key part of their value proposition. 
+
   * New Entrants: FF is focusing on community recruitment of MSP/VAR/GSIs and improving the underlying health of the ecosystem.
   * Community Activations: Since December 2023, FF supported five events across the globe to create opportunities to discuss key topics and to drive awareness of capabilities, with [more planned throughout 2024](https://fil.org/events/). 
-  * Creating actionable community content: Weekly Storage Provider Working Group meetings, the [Zero To One Program](https://www.youtube.com/watch?v=QqhV8Pj7xpA&list=PLp3zrT1ewY0mxPnE89z5NCb_pgCAMhuO3) for potential and new ecosystem entrants, a monthly Customer Working Group, and multiple [DWeb Decoded](https://www.youtube.com/watch?v=wsQuNbWbByA&list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy) episodes on the future of Filecoin/AI/DePiN and other prominent community topics are just some of the ways FF is here to support the storage provider community.
+  * Creating actionable community content: Weekly Storage Provider Working Group meetings, the [Zero To One Program](https://www.youtube.com/watch?v=QqhV8Pj7xpA&list=PLp3zrT1ewY0mxPnE89z5NCb_pgCAMhuO3) for potential and new ecosystem entrants, a monthly Customer Working Group, and multiple [DWeb Decoded](https://www.youtube.com/playlist?list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy) episodes on the future of Filecoin/AI/DePiN and other prominent community topics are just some of the ways FF is here to support the storage provider community.
+
+
 
 ### Network Operations
 
-**Protocol Governance**
+**Governance**
 
 * FF’s governance team is finalizing an audit for on-chain voting tooling and refining edits to a public plan to test sentiment analysis tooling. 
 * Additional documentation and support work for new Working Groups and FIP0001v2 remains ongoing. 
 * Follow the [governance GitHub](https://github.com/filecoin-project/FIPs/discussions) for weekly updates on the latest topics and developments surrounding network FIPs and governance. 
 
-**Filecoin Plus**
+
+
+**Fil Plus** 
 
 * Wrapping up the v5 Notary Allocator election process, Filecoin Foundation’s Fil Plus team reviewed and scored 97 allocator applications and selected 85 new allocators. New allocators were announced in the [February 6 Governance call](https://www.youtube.com/watch?v=HdyFRW2-CYY). The Fil Plus team provided information to organizations not selected as an allocator on how to update their applications and resubmit during the next cycle, beginning in March. 
 
@@ -66,9 +75,9 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 * Following its dogfooding session last year, UXIT is planning to implement usability fixes to CID.Contact. 
 * The Fil.org website redesign is underway, focusing on: 
 
-  * Addressing SEO issues arising from subdomains
-  * Working alongside the design team on a site-wide style guide 
-  * Analyzing results from usability testing
+1. Addressing SEO issues arising from subdomains
+2. Working alongside the design team on a site-wide style guide 
+3. Analyzing results from usability testing
 
 ### Comms, Marketing, & Events
 
@@ -78,17 +87,25 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 
 **Events** 
 
-* FF announced its 2024 events calendar! Visit [fil.org/events](http://fil.org/events) to find the events FF will host, sponsor, and support, and learn more about how to get involved in some of the best opportunities to learn, build, and network with community members around the globe.
+* FF announced its 2024 events calendar! Visit [fil.org/events](http://fil.org/events) to find the events FF will host, sponsor, and support, and discover how to get involved in some of the best opportunities to learn, build, and network with community members around the globe.
 * Check out the [Filecoin at ETHDenver website](https://hub.fil.org/ethdenver2024) for all of the ecosystem events happening throughout the week. This site will serve as the place to list all events for the Filecoin community. If you are organizing an event and do not see it listed, please add it via the form on the website.
-* Don’t miss our upcoming community events! FF and FFDW San Francisco Events: 
-
-  * 2/27 - [Social Impact Summit](https://www.blockchainlawsg.org/socialimpactsummit2024),sponsored by FFDW, in partnership with Blockchain Law for Social Good Center
-  * 2/28 - FFDW Coworking and Collaboration Day
+* Don’t miss our upcoming community events!
+* * FF and FFDW San Francisco Events 
+* 2/27 - [Social Impact Summit](https://www.blockchainlawsg.org/socialimpactsummit2024), sponsored by FFDW, in partnership with Blockchain Law for Social Good Center
+* 2/28 - FFDW Coworking and Collaboration Day
 * FF ETHDenver Events
-
-  * 2/29-3/3 - Filecoin Foundation ETHDenver Booth
-  * 3/1 - Filecoin Orbit Side Event, 5:30-9:30 p.m. @ CSU Spur
+* * 2/29-3/3 - Filecoin Foundation ETHDenver Booth
+  * 3/1 - [Filecoin Orbit Side Event](https://filecoindenver.io/), 5:30-9:30 p.m. @ CSU Spur
   * PLN Events Happening: [FIL Dev Summit](https://fildev.io/FDS-3), DePin Summit, DSA Workshop, [PLN Meetup](https://lu.ma/dg1bhavg), Libp2p Day
+
+
+
+Published blog posts/announcements 
+
+* [Guest Post: If the Library of Alexandria Were Built Better](https://fil.org/blog/guest-post-if-the-library-of-alexandra-were-built-better/)
+* [Decentralization, Digital Rights, and the Future of the Internet with Cory Doctorow | DWeb Decoded](https://www.youtube.com/watch?v=wsQuNbWbByA)
+* [Banyan's Vision with Claudia Richoux | DWeb Decoded](https://www.youtube.com/watch?v=j65dCi5tf74)
+* [The Upload V28](https://upload.fil.org/p/filecoin-foundation-deploys-ipfs-space)
 
 ### FFDW
 
