@@ -46,7 +46,8 @@ Belcher and Pham also discussed the many non-financial use cases of cryptocurren
 
 This mission, conducted with Lockheed Martin-developed software, demonstrated how IPFS – a decentralized content distribution system – can bring the benefits of decentralized technologies to space to enable better communications across long distances and progress to more resilient architectures as humanity expands its horizons in space.
 
-Commissioner Pham applauded the successful completion of this mission, adding, “It’s amazing to see what we as humans can accomplish.”\
+Commissioner Pham applauded the successful completion of this mission, adding, “It’s amazing to see what we as humans can accomplish.”
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/32MRo6zv9wE?si=ou30OG_wsKoPqbST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 And ICYMI: [Dive deeper](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/) into why this milestone is critical for advancing networking in space.
@@ -57,6 +58,7 @@ On a panel about how AI, blockchain, and predictive modeling are helping achieve
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eaWxODvlmes?si=wSSap18Bmmk4Kml1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+\
 **Regulating Emerging Technologies**
 
 In another session on how to regulate emerging technologies, FF’s Marta Belcher was joined by Circle’s Dante Disparte, IBM’s Shyam Nagarajan, and Casper Klynge, former Danish Ambassador for Technology, to lay out a sustainable path forward for emerging technologies that simultaneously promotes innovation and cleans out the bad actors.
@@ -67,6 +69,7 @@ Disparte noted that overzealous regulation can slow job growth, hinder technolog
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3V0xcj1-4VU?si=OR5hTBFyqQZTNeW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+\
 Thank you to the thousands of attendees who joined us on the ground in Davos to learn more about the benefits of the Filecoin network and the projects across our ecosystem that are working together to build the next generation of the web.
 
 For more panels from Davos check out our [Filecoin Sanctuary YouTube playlist](https://www.youtube.com/playlist?list=PLp3zrT1ewY0lsLIsGAQYREZnP9QKE6zlU).
