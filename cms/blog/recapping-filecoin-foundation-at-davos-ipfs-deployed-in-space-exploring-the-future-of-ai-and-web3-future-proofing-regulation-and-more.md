@@ -46,7 +46,8 @@ Belcher and Pham also discussed the many non-financial use cases of cryptocurren
 
 This mission, conducted with Lockheed Martin-developed software, demonstrated how IPFS – a decentralized content distribution system – can bring the benefits of decentralized technologies to space to enable better communications across long distances and progress to more resilient architectures as humanity expands its horizons in space.
 
-Commissioner Pham applauded the successful completion of this mission, adding, “It’s amazing to see what we as humans can accomplish.”\
+Commissioner Pham applauded the successful completion of this mission, adding, “It’s amazing to see what we as humans can accomplish.”
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/32MRo6zv9wE?si=ou30OG_wsKoPqbST" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 And ICYMI: [Dive deeper](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/) into why this milestone is critical for advancing networking in space.
