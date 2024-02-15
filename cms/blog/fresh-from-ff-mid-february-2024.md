@@ -20,9 +20,9 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-As one of the many teams and organizations building in the Filecoin ecosystem, Filecoin Foundation (FF) engages in constant work to facilitate governance of the Filecoin network, fund critical development projects, support the growth of the ecosystem, and advocate for the decentralized web. 
+*Check out the latest updates about what the Filecoin Foundation team has been up to.*
 
-Fresh from FF is a new, biweekly series dedicated to disseminating the latest information and updates from FF teams in their ongoing efforts to support our incredible community of developers, storage providers, storage clients, project partners, advocates, and more as we work toward our mission of building a stronger, more decentralized internet.
+
 
 ### Mid-February Highlight
 
