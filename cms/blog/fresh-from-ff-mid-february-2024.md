@@ -90,13 +90,6 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
   * 3/1 - [Filecoin Orbit Side Event](https://filecoindenver.io/), 5:30-9:30 p.m. @ CSU Spur
   * PLN Events Happening: [FIL Dev Summit](https://fildev.io/FDS-3), DePin Summit, DSA Workshop, [PLN Meetup](https://lu.ma/dg1bhavg), Libp2p Day
 
-Published blog posts/announcements 
-
-* [Guest Post: If the Library of Alexandria Were Built Better](https://fil.org/blog/guest-post-if-the-library-of-alexandra-were-built-better/)
-* [Decentralization, Digital Rights, and the Future of the Internet with Cory Doctorow | DWeb Decoded](https://www.youtube.com/watch?v=wsQuNbWbByA)
-* [Banyan's Vision with Claudia Richoux | DWeb Decoded](https://www.youtube.com/watch?v=j65dCi5tf74)
-* [The Upload V28](https://upload.fil.org/p/filecoin-foundation-deploys-ipfs-space)
-
 ### FFDW
 
 * FFDW project partner Starling Lab [published a Dispatch](https://dispatch.starlinglab.org/p/mom-i-see-war) about the technical work behind its project, "Mom, I See War." The digital museum is a collection of over 10,000 drawings from children in Ukraine, which are stored on IPFS and encrypted archives, with more sensitive metadata stored on Filecoin.
