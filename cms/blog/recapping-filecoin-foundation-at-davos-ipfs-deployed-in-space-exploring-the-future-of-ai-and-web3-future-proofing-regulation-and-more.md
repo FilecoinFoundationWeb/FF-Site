@@ -58,6 +58,7 @@ On a panel about how AI, blockchain, and predictive modeling are helping achieve
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eaWxODvlmes?si=wSSap18Bmmk4Kml1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+\
 **Regulating Emerging Technologies**
 
 In another session on how to regulate emerging technologies, FF’s Marta Belcher was joined by Circle’s Dante Disparte, IBM’s Shyam Nagarajan, and Casper Klynge, former Danish Ambassador for Technology, to lay out a sustainable path forward for emerging technologies that simultaneously promotes innovation and cleans out the bad actors.
@@ -68,6 +69,7 @@ Disparte noted that overzealous regulation can slow job growth, hinder technolog
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3V0xcj1-4VU?si=OR5hTBFyqQZTNeW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+\
 Thank you to the thousands of attendees who joined us on the ground in Davos to learn more about the benefits of the Filecoin network and the projects across our ecosystem that are working together to build the next generation of the web.
 
 For more panels from Davos check out our [Filecoin Sanctuary YouTube playlist](https://www.youtube.com/playlist?list=PLp3zrT1ewY0lsLIsGAQYREZnP9QKE6zlU).
