@@ -28,8 +28,6 @@ Fresh from FF is a new, biweekly series dedicated to disseminating the latest in
 
 Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule). Join the Filecoin Foundation team February 29 through March 3, at EthDenver Devtopia, Booth 204, to explore the ecosystem with our team and engage in immersive demonstrations and discussions. On March 1, join us for the [Filecoin Orbit Ecosystem Showcase](https://filecoindenver.io/) to hear projects across the ecosystem present lightning talks and demos. You can also hear from Filecoin Foundation staff at [FIL Dev Summit](https://fildev.io/FDS-3), which FF is sponsoring. The summit is a gathering of developers, builders, and engaged community members who contribute to the core protocol and network evolution of Filecoin.
 
-
-
 ### Staff Ecosystem
 
 **Developer Advocacy**
@@ -68,7 +66,8 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 * The UXIT completed its dogfooding exercise for [dashboard.starboard.ventures](https://dashboard.starboard.ventures/dashboard). Once the team compiles implementation recommendations, it will share feedback with the Starboard team. 
 * Following its dogfooding session last year, UXIT is planning to implement usability fixes to CID.Contact. 
 * The Fil.org website redesign is underway, focusing on: 
-* * Addressing SEO issues arising from subdomains
+
+  * Addressing SEO issues arising from subdomains
   * Working alongside the design team on a site-wide style guide 
   * Analyzing results from usability testing
 
