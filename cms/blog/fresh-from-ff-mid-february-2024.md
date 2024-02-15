@@ -22,8 +22,6 @@ seo:
 ---
 *Check out the latest updates about what the Filecoin Foundation team has been up to.*
 
-
-
 ### Mid-February Highlight
 
 Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule). Join the Filecoin Foundation team February 29 through March 3, at EthDenver Devtopia, Booth 204, to explore the ecosystem with our team and engage in immersive demonstrations and discussions. On March 1, join us for the [Filecoin Orbit Ecosystem Showcase](https://filecoindenver.io/) to hear projects across the ecosystem present lightning talks and demos. You can also hear from Filecoin Foundation staff at [FIL Dev Summit](https://fildev.io/FDS-3), which FF is sponsoring. The summit is a gathering of developers, builders, and engaged community members who contribute to the core protocol and network evolution of Filecoin.
@@ -81,17 +79,15 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 
 * FF announced its 2024 events calendar! Visit [fil.org/events](http://fil.org/events) to find the events FF will host, sponsor, and support, and learn more about how to get involved in some of the best opportunities to learn, build, and network with community members around the globe.
 * Check out the [Filecoin at ETHDenver website](https://hub.fil.org/ethdenver2024) for all of the ecosystem events happening throughout the week. This site will serve as the place to list all events for the Filecoin community. If you are organizing an event and do not see it listed, please add it via the form on the website.
-* Don’t miss our upcoming community events!
+* Don’t miss our upcoming community events! FF and FFDW San Francisco Events: 
 
-  * FF and FFDW San Francisco Events 
+  * 2/27 - [Social Impact Summit](https://www.blockchainlawsg.org/socialimpactsummit2024),sponsored by FFDW, in partnership with Blockchain Law for Social Good Center
+  * 2/28 - FFDW Coworking and Collaboration Day
+* FF ETHDenver Events
 
-    * 2/27 - [Social Impact Summit](https://www.blockchainlawsg.org/socialimpactsummit2024),sponsored by FFDW, in partnership with Blockchain Law for Social Good Center
-    * 2/28 - FFDW Coworking and Collaboration Day
-  * FF ETHDenver Events
-
-    * 2/29-3/3 - Filecoin Foundation ETHDenver Booth
-    * 3/1 - Filecoin Orbit Side Event, 5:30-9:30 p.m. @ CSU Spur
-    * PLN Events Happening: [FIL Dev Summit](https://fildev.io/FDS-3), DePin Summit, DSA Workshop, [PLN Meetup](https://lu.ma/dg1bhavg), Libp2p Day
+  * 2/29-3/3 - Filecoin Foundation ETHDenver Booth
+  * 3/1 - Filecoin Orbit Side Event, 5:30-9:30 p.m. @ CSU Spur
+  * PLN Events Happening: [FIL Dev Summit](https://fildev.io/FDS-3), DePin Summit, DSA Workshop, [PLN Meetup](https://lu.ma/dg1bhavg), Libp2p Day
 
 ### FFDW
 
