@@ -11,6 +11,7 @@ f_description: Fresh from FF is a new, biweekly series dedicated to
 f_featured: false
 f_image:
   url: /assets/images/0215-ff.png
+  alt: "Fresh from FF, Mid-February, 2024 on a radial blue background. "
 f_post-date: 2024-02-15T20:13:07.501Z
 tags: blog
 layout: "[blog].html"
