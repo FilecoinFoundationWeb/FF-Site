@@ -66,9 +66,9 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 * Following its dogfooding session last year, UXIT is planning to implement usability fixes to CID.Contact. 
 * The Fil.org website redesign is underway, focusing on: 
 
-1. Addressing SEO issues arising from subdomains
-2. Working alongside the design team on a site-wide style guide 
-3. Analyzing results from usability testing
+  1. Addressing SEO issues arising from subdomains
+  2. Working alongside the design team on a site-wide style guide 
+  3. Analyzing results from usability testing
 
 ### Comms, Marketing, & Events
 
@@ -81,7 +81,13 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 * FF announced its 2024 events calendar! Visit [fil.org/events](http://fil.org/events) to find the events FF will host, sponsor, and support, and discover how to get involved in some of the best opportunities to learn, build, and network with community members around the globe.
 * Check out the [Filecoin at ETHDenver website](https://hub.fil.org/ethdenver2024) for all of the ecosystem events happening throughout the week. This site will serve as the place to list all events for the Filecoin community. If you are organizing an event and do not see it listed, please add it via the form on the website.
 * Don’t miss our upcoming community events!
-* * FF and FFDW San Francisco Events 
+
+<!---->
+
+* FF and FFDW San Francisco Events 
+
+<!---->
+
 * 2/27 - [Social Impact Summit](https://www.blockchainlawsg.org/socialimpactsummit2024), sponsored by FFDW, in partnership with Blockchain Law for Social Good Center
 * 2/28 - FFDW Coworking and Collaboration Day
 * FF ETHDenver Events
