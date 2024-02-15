@@ -23,8 +23,6 @@ seo:
 ---
 *Check out the latest updates about what the Filecoin Foundation team has been up to.*
 
-
-
 ### Mid-February Highlight
 
 Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule). Join the Filecoin Foundation team February 29 through March 3, at ETHDenver Devtopia, Booth 204, to explore the ecosystem with our team and engage in immersive demonstrations and discussions. On March 1, join us for the [Filecoin Orbit Ecosystem Showcase](https://filecoindenver.io/) to hear projects across the ecosystem present lightning talks and demos. You can also hear from Filecoin Foundation staff at [FIL Dev Summit](https://fildev.io/FDS-3), which FF is sponsoring. The summit is a gathering of developers, builders, and engaged community members who contribute to the core protocol and network evolution of Filecoin.
@@ -36,7 +34,7 @@ Connect with the [Filecoin community at ETHDenver](https://hub.fil.org/events/et
 * Calling all builders! Join us for [the first Filecoin hackathons of 2024](https://hackathons.filecoin.io/).
 
   1. The [Data Economy Hackathon](https://dorahacks.io/hackathon/filecoin-data-economy/detail) is a six-week virtual hackathon beginning on February 18 and focusing on Filecoin and IPC. The hackathon emphasizes projects that harness data value, innovate for scalability, create dApps utilizing Filecoin, and enhance the network. 
-  2.
+  2. The [Filecoin track at ETHGlobal London](https://ethglobal.com/events/london2024/prizes/filecoin), March 15-17, will be an in-person Filecoin hackathon — track details will be announced soon.
 
 FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.fil.org/events/ethdenver/menu/see-the-schedule) and [FIL Hong Kong](https://fil-hk.io/). Reach out if you want to set up time to chat with developer advocates at either event. 
 
@@ -52,8 +50,6 @@ FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.
   * Community Activations: Since December 2023, FF supported five events across the globe to create opportunities to discuss key topics and to drive awareness of capabilities, with [more planned throughout 2024](https://fil.org/events/). 
   * Creating actionable community content: Weekly Storage Provider Working Group meetings, the [Zero To One Program](https://www.youtube.com/watch?v=QqhV8Pj7xpA&list=PLp3zrT1ewY0mxPnE89z5NCb_pgCAMhuO3) for potential and new ecosystem entrants, a monthly Customer Working Group, and multiple [DWeb Decoded](https://www.youtube.com/playlist?list=PLp3zrT1ewY0micCUXk2G1B1-ukbpuclJy) episodes on the future of Filecoin/AI/DePiN and other prominent community topics are just some of the ways FF is here to support the storage provider community.
 
-
-
 ### Network Operations
 
 **Governance**
@@ -61,8 +57,6 @@ FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.
 * FF’s governance team is finalizing an audit for on-chain voting tooling and refining edits to a public plan to test sentiment analysis tooling. 
 * Additional documentation and support work for new Working Groups and FIP0001v2 remains ongoing. 
 * Follow the [governance GitHub](https://github.com/filecoin-project/FIPs/discussions) for weekly updates on the latest topics and developments surrounding network FIPs and governance. 
-
-
 
 **Fil Plus** 
 
@@ -97,8 +91,6 @@ FF’s developer advocacy team will be on the ground at [ETHDenver](https://hub.
 * * 2/29-3/3 - Filecoin Foundation ETHDenver Booth
   * 3/1 - [Filecoin Orbit Side Event](https://filecoindenver.io/), 5:30-9:30 p.m. @ CSU Spur
   * PLN Events Happening: [FIL Dev Summit](https://fildev.io/FDS-3), DePin Summit, DSA Workshop, [PLN Meetup](https://lu.ma/dg1bhavg), Libp2p Day
-
-
 
 Published blog posts/announcements 
 
