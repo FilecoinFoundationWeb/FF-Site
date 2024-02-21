@@ -6121,6 +6121,10 @@ blockquote {
   display: flex;
 }
 
+.std-buttons.hidden {
+  display: none;
+}
+
 .button-text-3 {
   color: #fff;
   letter-spacing: .1em;
@@ -7792,6 +7796,13 @@ blockquote {
   font-family: Archivo variablefont wdth wght, sans-serif;
   font-size: 25px;
   font-weight: 600;
+}
+
+._25px-header-6.email {
+  color: var(--white);
+  text-align: center;
+  font-family: Archivo variablefont wdth wght, sans-serif;
+  font-weight: 400;
 }
 
 .image-53 {
@@ -9479,6 +9490,20 @@ blockquote {
 
 .section-5 {
   display: flex;
+}
+
+.div-block-144 {
+  grid-column-gap: 24px;
+  grid-row-gap: 24px;
+  flex-direction: column;
+  display: flex;
+}
+
+.recapvideocontainer {
+  width: 100%;
+  border: 3px solid #ffad00;
+  border-radius: 30px;
+  overflow: hidden;
 }
 
 @media screen and (min-width: 1440px) {

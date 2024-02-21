@@ -2445,9 +2445,9 @@ collections:
             label: Text
             name: 3ec1f1d
             widget: string
-          - hint: 'Original text: The Filecoin Sanctuary, key: 14b24780'
+          - hint: 'Original text: Thank You for Joining Us!, key: 740abe0d'
             label: Text
-            name: 14b24780
+            name: 740abe0d
             widget: string
           - hint: 'Original text: Register, key: -25496d3d'
             label: Text
@@ -2457,6 +2457,13 @@ collections:
             label: Text
             name: '-428a83c'
             widget: string
+          - hint: >-
+              Original text: Sign up for our newsletter to hear the latest on
+              upcoming events and developments in the Filecoin ecosystem, key:
+              627090d9
+            label: Text
+            name: 627090d9
+            widget: text
           - hint: 'Original text: January 15–18, 2024 , key: 4c288cac'
             label: Text
             name: 4c288cac
@@ -2474,6 +2481,10 @@ collections:
           - hint: 'Original text: ABOUT, key: 3b32b6d'
             label: Text
             name: 3b32b6d
+            widget: string
+          - hint: 'Original text: The Filecoin Sanctuary, key: 14b24780'
+            label: Text
+            name: 14b24780
             widget: string
           - hint: >-
               Original text: Hosted by Filecoin Foundation and brought to you by
@@ -5943,4 +5954,5 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
+local_backend: true
 publish_mode: editorial_workflow
