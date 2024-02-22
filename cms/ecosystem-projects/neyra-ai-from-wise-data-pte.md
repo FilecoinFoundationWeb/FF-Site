@@ -16,7 +16,7 @@ f_card-text-truncated: "Neyra AI is an innovative personal assistant and storage
 f_website: https://drive.neyra.ai/
 f_tech-3:
   - cms/ecosystem-technology/filecoin.md
-f_year-2: 2024-02-22T19:39:58.216Z
+f_year-2: 2023-11-01T18:39:58.216Z
 f_last-updated-2: 2024-02-22T19:39:58.228Z
 tags: ecosystem-projects
 layout: "[ecosystem-projects].html"
