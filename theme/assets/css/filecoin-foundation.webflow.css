@@ -8345,6 +8345,14 @@ blockquote {
   object-position: 0% 50%;
 }
 
+.project-slide__image.small {
+  max-width: 50%;
+}
+
+.project-slide__image.large {
+  width: 125%;
+}
+
 .left-arrow-2 {
   width: 13px;
   height: 13px;
@@ -9501,7 +9509,7 @@ blockquote {
 
 .recapvideocontainer {
   width: 100%;
-  border: 3px solid #ffad00;
+  border: 3px solid var(--kleinblue);
   border-radius: 30px;
   overflow: hidden;
 }
