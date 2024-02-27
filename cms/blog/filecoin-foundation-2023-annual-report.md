@@ -23,7 +23,7 @@ seo:
 ---
 At a time when trust in emerging technology waivers and our daily online interactions are controlled by a handful of corporations, it’s more important than ever that we recognize the value decentralized technologies offer for a new version of the web. In this increasingly online and interconnected world, preserving humanity’s most important information for the long term remains in the foreground for Filecoin Foundation’s (FF) work. 
 
-This report highlights FF’s accomplishments in 2023 –– from events, network-wide initiatives, partnerships, and governance to network upgrades and core infrastructure improvements. It also provides a touchpoint to reflect on the potential of the Filecoin network, the promises of the decentralized web, and the mission of the Foundation. This report also provides additional details on FF’s annual budget. 
+This report highlights FF’s accomplishments in 2023 –– from events, network-wide initiatives, partnerships, and governance, to network upgrades and core infrastructure improvements. It also provides a touchpoint to reflect on the potential of the Filecoin network, the promises of the decentralized web, and the mission of the Foundation. This report also provides additional details on FF’s annual budget. 
 
 We are thrilled to highlight our efforts from the past year in the pages to come, and FF is honored to have the opportunity to support the ecosystem into 2024.
 
