@@ -18,7 +18,9 @@ f_tag:
   - cms/ecosystem-tags/gpus.md
   - cms/ecosystem-tags/storage-software.md
   - cms/ecosystem-tags/depin.md
-f_card-text-truncated: Swan is a distributed data and computing platform.
+f_card-text-truncated: An L2 AI Computing blockchain built with OP Stack
+  technology, helping Web3 and AI projects integrate storage, computing,
+  bandwidth, and payment into one suite.
 f_website: https://www.swanchain.io
 f_repo: https://github.com/swanchain
 f_tech-3:
@@ -35,4 +37,6 @@ slug: swan
 f_what-s-new: ""
 date: 2024-02-27T20:56:26.996Z
 ---
-Swan is a Layer 2 AI Computing blockchain built with OP Stack technology, helping Web3 and AI projects integrate storage, computing, bandwidth, and payment into one suite.
+Leveraging cutting-edge technologies like Kubernetes, global data center connectivity, and Zero-Knowledge proofs, Swan Chain is set to transform the AI and DePIN computing landscape, offering secure, scalable, and cost-effective computing solutions.
+
+Swan Chain is an Ethereum layer 2 AI computing blockchain built on OP Stack, helping Web3 and AI projects to integrate storage, computing, CDN, and payment into one suite.
