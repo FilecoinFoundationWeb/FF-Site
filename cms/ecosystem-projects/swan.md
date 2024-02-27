@@ -1,27 +1,38 @@
 ---
-f_social-media: https://twitter.com/swan_chain
-f_repo: https://github.com/filswan
-f_website: https://www.swanchain.io
-f_featured: false
 title: Swan
-f_card-text-truncated: Swan is a distributed data and computing platform.
-f_what-s-new: ''
-slug: swan
+created-on: 2024-01-04T22:40:28.333Z
+updated-on: 2024-01-05T21:39:15.639Z
+published-on: 2024-01-11T13:26:59.787Z
+f_featured: false
 f_brand:
   url: /assets/external/65974d7eb7581c4ee8e5dcf7_swan-logo.png
-  alt: null
+  alt: Swan Chain
+f_brand-image-alt-text: Swan Chain
+f_topic: cms/ecosystem-topics/storage.md
 f_tag:
   - cms/ecosystem-tags/developer-tools.md
-updated-on: '2024-01-05T21:39:15.639Z'
-created-on: '2024-01-04T22:40:28.333Z'
-published-on: '2024-01-11T13:26:59.787Z'
-f_topic: cms/ecosystem-topics/tooling-productivity.md
-f_brand-image-alt-text: Swan Logo
+  - cms/ecosystem-tags/ai-productivity-and-utilities.md
+  - cms/ecosystem-tags/data-curation-monetization.md
+  - cms/ecosystem-tags/desci.md
+  - cms/ecosystem-tags/infrastructure.md
+  - cms/ecosystem-tags/gpus.md
+  - cms/ecosystem-tags/storage-software.md
+  - cms/ecosystem-tags/depin.md
+f_card-text-truncated: Swan is a distributed data and computing platform.
+f_website: https://www.swanchain.io
+f_repo: https://github.com/swanchain
 f_tech-3:
   - cms/ecosystem-technology/filecoin.md
   - cms/ecosystem-technology/ipfs.md
-layout: '[ecosystem-projects].html'
+f_social-media: https://twitter.com/swan_chain
+f_video:
+  url: https://www.youtube.com/channel/UCcvrZdNqFWYl3FwfcHS9xIg
+f_year-2: 2024-02-27T20:56:26.966Z
+f_last-updated-2: 2024-02-27T20:56:26.983Z
 tags: ecosystem-projects
+layout: "[ecosystem-projects].html"
+slug: swan
+f_what-s-new: ""
+date: 2024-02-27T20:56:26.996Z
 ---
-
-Swan is a leading provider of cross-chain cloud computing solutions, offering a suite of tools to help developers access resources across multiple chains, including Filecoin.
+Swan is a Layer 2 AI Computing blockchain built with OP Stack technology, helping Web3 and AI projects integrate storage, computing, bandwidth, and payment into one suite.
