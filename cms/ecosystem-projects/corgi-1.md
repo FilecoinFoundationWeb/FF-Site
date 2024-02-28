@@ -11,8 +11,8 @@ f_brand-image-alt-text: FILECORGI
 f_topic: cms/ecosystem-topics/finance.md
 f_tag:
   - cms/ecosystem-tags/communication-social.md
-f_card-text-truncated: We using Filecoin for $Corgi as memecoin on Filecoin, but
-  not just a memecoin, we will building on Filecoin with utility and community.
+f_card-text-truncated: $Corgi is memecoin on Filecoin, but not just a memecoin,
+  building on Filecoin with utility and community.
 f_website: https://filecorgi.xyz/
 f_repo: https://github.com/CORGIFILE/whitepaper
 f_tech-3:
