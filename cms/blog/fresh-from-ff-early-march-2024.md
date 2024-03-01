@@ -3,8 +3,8 @@ title: "Fresh From FF: Early March, 2024"
 created-on: 2024-03-01T17:08:58.836Z
 updated-on: 2024-03-01T17:08:58.852Z
 published-on: 2024-03-01T17:08:58.863Z
-f_description: "*Check out the latest updates about what the Filecoin Foundation
-  team has been up to.*"
+f_description: Check out the latest updates about what the Filecoin Foundation
+  team has been up to.
 f_featured: false
 f_image:
   url: /assets/images/0215-ff-1-.png
@@ -20,6 +20,8 @@ seo:
 *Check out the latest updates about what the Filecoin Foundation team has been up to.* 
 
 ### Early March Highlights
+
+
 
 **Dive into the FF and FFDW Annual Reports to learn more about the work of these two organizations!** The [FF annual report](https://link.fil.org/report24) highlights the organizations’ accomplishments in 2023 –– from events, network-wide initiatives, partnerships, and governance, to network upgrades and core infrastructure improvements. It also provides a touchpoint to reflect on the potential of the Filecoin network, the promises of the decentralized web, and the mission of the Foundation. The [FFDW annual report](https://link.ffdweb.org/report24) outlines the progress achieved by FFDW and its exceptional roster of project partners in creating profound and wide-reaching impact during a moment of growing interest and appreciation for decentralized values.
 
