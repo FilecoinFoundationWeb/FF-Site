@@ -71,10 +71,8 @@ seo:
 * Don’t miss our upcoming community events!
 
   * 4/5-4/8 - [FIL Hong Kong](https://fil-hk.io/) hosted by NDLabs alongside Hong Kong Web3 Festival
-
-    4/13-4/14 - [Funding the Commons SF](https://fundingthecommons.io/san-francisco-bay-area-2024), sponsored by FF
-
-    * 4/16 - 4/19 - Token2049 Dubai Filecoin Orbit Meetup Event
+  * 4/13-4/14 - [Funding the Commons SF](https://fundingthecommons.io/san-francisco-bay-area-2024), sponsored by FF
+  * 4/16 - 4/19 - Token2049 Dubai Filecoin Orbit Meetup Event
 
 ### FFDW
 
