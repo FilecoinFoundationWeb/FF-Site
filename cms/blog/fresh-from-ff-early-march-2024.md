@@ -37,7 +37,8 @@ seo:
 **Storage** 
 
 * Check out these new tools for SPs:
-* * The [Data Onboarding Dashboard and API for CIDgravity](https://app.cidgravity.com/) offers a seamless onboarding experience, designed to streamline the process for clients and offer onramps for engaging with SPs who manage their deal flow through CIDgravity.
+
+  * The [Data Onboarding Dashboard and API for CIDgravity](https://app.cidgravity.com/) offers a seamless onboarding experience, designed to streamline the process for clients and offer onramps for engaging with SPs who manage their deal flow through CIDgravity.
   * New software platforms such as [Steeldome](https://www.steeldomecyber.com/), [Lighthouse](https://fil.org/ecosystem-projects/lighthouse/), [GhostDrive](https://ghostdrive.com/), and [Banyan](https://fil.org/ecosystem-projects/banyan/) are supporting deal-making and help driving more data onto the network. 
   * [Web3Mine](https://www.web3mine.io/provide) is helping SPs build a viable, performant cloud storage business with Web3 tech for operations looking to further monetize storage capacity while simplifying Filecoin orchestration. 
 * Porter Stowell presented on the Filecoin network's incentive model, the role of storage providers, and the opportunities for developers at [FIL Dev Summit](https://fildev.io/FDS-3).
