@@ -19,8 +19,6 @@ seo:
 ---
 *Check out the latest updates about what the Filecoin Foundation team has been up to.* 
 
-
-
 ### Early March Highlights
 
 **Dive into the FF and FFDW Annual Reports to learn more about the work of these two organizations!** The [FF annual report](https://link.fil.org/report24) highlights the organizations’ accomplishments in 2023 –– from events, network-wide initiatives, partnerships, and governance, to network upgrades and core infrastructure improvements. It also provides a touchpoint to reflect on the potential of the Filecoin network, the promises of the decentralized web, and the mission of the Foundation. The [FFDW annual report](https://link.ffdweb.org/report24) outlines the progress achieved by FFDW and its exceptional roster of project partners in creating profound and wide-reaching impact during a moment of growing interest and appreciation for decentralized values.
@@ -28,8 +26,6 @@ seo:
 **Filecoin Foundation announced the formation of the [Developer Working Group (DevWG)](https://github.com/filecoin-project/DeveloperWG).** Community members can share knowledge and perspectives in areas that incorporate their technical or industry expertise, raise challenges and questions for collective deliberation, advocate the importance of developing in specific areas of the Filecoin Network, provide updates on projects and plans within the Filecoin ecosystem, and discuss open FIPs and develop a coordinated presence in the Filecoin governance process. Learn more on the [ReadMe](https://github.com/filecoin-project/DeveloperWG) and join the [\#dev-wg](https://filecoinproject.slack.com/archives/C06G5K8H3J7) Slack channel to participate.
 
 **FFDW hosted the inaugural Social Impact Summit on February 27.** Co-hosted with the Blockchain Law for Social Good Center (BL4SG), the Summit dove into how emerging technologies can create lasting impact, empower communities, and foster collaboration across diverse industries. The Summit welcomed a diverse audience – from academics, to changemakers in the human rights space – to learn about socially beneficial use cases of decentralized technologies, including FFDW project partners [Flickr Foundation](https://www.flickr.org/), [Guardian Project](https://guardianproject.info/), [MuckRock](https://www.muckrock.com/), and [Starling Lab](https://www.starlinglab.org/). 
-
-
 
 ### Ecosystem
 
@@ -73,11 +69,12 @@ seo:
 * Check out the [Filecoin at ETHDenver website](https://hub.fil.org/ethdenver2024) for all of the Filecoin community events happening throughout the week. 
 * The Filecoin Orbit team announced an ETHDenver [bounty](https://www.ethdenver.com/buidl-sponsors/filecoin-foundation) to build an app to track and reward the activities of the Filecoin Orbit ambassador program in the form of NFT “achievements” and associated ERC20 token reward points. The aim of the bounty is to build an app that creates a standard rewards system for the Orbit program on FVM.
 * Don’t miss our upcoming community events!
-* * 4/5-4/8 - [FIL Hong Kong](https://fil-hk.io/) hosted by NDLabs alongside Hong Kong Web3 Festival
-  * 4/13-4/14 - [Funding the Commons SF](https://fundingthecommons.io/san-francisco-bay-area-2024), sponsored by FF
-  * 4/16 - 4/19 - Token2049 Dubai Filecoin Orbit Meetup Event
 
+  * 4/5-4/8 - [FIL Hong Kong](https://fil-hk.io/) hosted by NDLabs alongside Hong Kong Web3 Festival
 
+    4/13-4/14 - [Funding the Commons SF](https://fundingthecommons.io/san-francisco-bay-area-2024), sponsored by FF
+
+    * 4/16 - 4/19 - Token2049 Dubai Filecoin Orbit Meetup Event
 
 ### FFDW
 
