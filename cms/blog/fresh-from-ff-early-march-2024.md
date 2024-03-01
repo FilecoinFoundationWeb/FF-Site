@@ -3,8 +3,8 @@ title: "Fresh From FF: Early March, 2024"
 created-on: 2024-03-01T17:08:58.836Z
 updated-on: 2024-03-01T17:08:58.852Z
 published-on: 2024-03-01T17:08:58.863Z
-f_description: "*Check out the latest updates about what the Filecoin Foundation
-  team has been up to.*"
+f_description: Check out the latest updates about what the Filecoin Foundation
+  team has been up to.
 f_featured: false
 f_image:
   url: /assets/images/0215-ff-1-.png
