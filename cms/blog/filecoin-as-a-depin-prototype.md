@@ -60,12 +60,9 @@ Filecoin isn't just another storage solution; it's effectively a prototype versi
 
 **Open and Accessible**: Anyone can join the Filecoin network, whether as a storage provider, data client, or developer. This fosters an open and inclusive environment, which is crucial for realizing a distributed model for DePIN networks.
 
-**Innovation Mindset**: The Filecoin community is constantly pushing boundaries, developing new features and functionality that enhance the network's capabilities and security. For example, the Filecoin Virtual Machine was rolled out in 2023 – bringing smart contract programmability and EVM compatibility to the network.
-
+**Innovation Mindset**: The Filecoin community is constantly pushing boundaries, developing new features and functionality that enhance the network's capabilities and security. For example, the Filecoin Virtual Machine was rolled out in 2023 – bringing smart contract programmability and EVM compatibility to the network.\
 **\
 Real-World Impact**: At the end of the day, a DePIN network needs actual users to be of any value. There are hundreds of [real-world institutions](https://destor.com/en-us/filecoin-network-client-explorer) storing data on Filecoin, including universities and research institutions, media properties, non-profit groups, leading Web3 projects like Solana, and more. 
-
-
 
 The Filecoin network is also uniquely positioned to empower other DePIN networks:
 
@@ -75,8 +72,6 @@ The Filecoin network is also uniquely positioned to empower other DePIN networks
 * Sensors: [WeatherXM](https://fil.org/ecosystem-projects/weatherxm/) is a community-powered weather network that rewards weather station owners and provides accurate weather services to individuals, businesses, and research organizations. The data collected by WeatherXM stations are stored on IPFS, allowing permissionless access.
 
 ## Path Forward
-
-
 
 The need for reliable decentralized infrastructure is becoming clearer every day. The explosive growth of artificial intelligence is pushing the limits of the current physical and digital resources that make up the existing backbone of the internet. Traditional storage models, computation software, and hardware providers are already having a difficult time keeping up with increased demand. 
 
