@@ -2708,38 +2708,37 @@ collections:
             name: '34879927'
             widget: string
           - hint: >-
-              Original text: MuckRock is a non-profit collaborative news site
-              that gives people the tools to keep governments transparent and
-              accountable., key: 2d1729e9
+              Original text: Tableland is a Web3 database to store and query
+              contract metadata with (structured query language) SQL., key:
+              -64f1d8e
             label: Text
-            name: 2d1729e9
+            name: '-64f1d8e'
             widget: text
           - hint: 'Original text: See More, key: 3b180342'
             label: Text
             name: 3b180342
             widget: string
           - hint: >-
-              Original text: The ATLAS Collaboration has partnered with Seal
-              Storage Technology in a pilot project to explore decentralized
-              cloud storage as an efficient and cost-effective option for
-              archival data storage., key: 24c3e0aa
+              Original text: Fleek ​​allows users to host websites, store and
+              deliver files, and develop dapps for the decentralized web., key:
+              53fda748
             label: Text
-            name: 24c3e0aa
+            name: 53fda748
             widget: text
           - hint: >-
-              Original text: The Internet Archive’s Democracy’s Library project
-              is creating a free, open collection of government data to ensure
-              that government research and publications from around the world
-              remain permanently accessible to the public., key: -5bdb00f3
+              Original text: Banyan is making decentralized, content-addressed
+              storage accessible for enterprise clients on the Filecoin network,
+              with a focus on user-controlled privacy and verifiability., key:
+              1365e2d1
             label: Text
-            name: '-5bdb00f3'
+            name: 1365e2d1
             widget: text
           - hint: >-
-              Original text: Project Dokaz is a set of accountability efforts in
-              Ukraine that applies Starling Lab's work with especially
-              vulnerable digital records., key: -2b1d13ae
+              Original text: Lighthouse provides perpetual storage on the
+              Filecoin network, allowing users to store their files long-term at
+              a fixed price., key: -6203757a
             label: Text
-            name: '-2b1d13ae'
+            name: '-6203757a'
             widget: text
           - hint: >-
               Original text: Discover the diverse landscape of Filecoin
@@ -5280,35 +5279,6 @@ collections:
             label: Text
             name: 9167f58
             widget: text
-          - hint: >-
-              Original text: Tableland is a Web3 database to store and query
-              contract metadata with (structured query language) SQL., key:
-              -64f1d8e
-            label: Text
-            name: '-64f1d8e'
-            widget: text
-          - hint: >-
-              Original text: Fleek ​​allows users to host websites, store and
-              deliver files, and develop dapps for the decentralized web., key:
-              53fda748
-            label: Text
-            name: 53fda748
-            widget: text
-          - hint: >-
-              Original text: Banyan is making decentralized, content-addressed
-              storage accessible for enterprise clients on the Filecoin network,
-              with a focus on user-controlled privacy and verifiability., key:
-              1365e2d1
-            label: Text
-            name: 1365e2d1
-            widget: text
-          - hint: >-
-              Original text: Lighthouse provides perpetual storage on the
-              Filecoin network, allowing users to store their files long-term at
-              a fixed price., key: -6203757a
-            label: Text
-            name: '-6203757a'
-            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -5665,30 +5635,28 @@ collections:
             name: 5f52128f
             widget: string
           - hint: >-
-              Original link: http://fil.org/ecosystem-projects/muckrock/, key:
-              42760394
+              Original link: https://fil.org/ecosystem-projects/tableland/, key:
+              584e6cff
             label: Link
-            name: '42760394'
+            name: 584e6cff
             widget: string
           - hint: >-
-              Original link:
-              http://fil.org/ecosystem-projects/atlas-experiment-at-cern/, key:
-              6901637f
+              Original link: https://fil.org/ecosystem-projects/fleek/, key:
+              -ae3eb8d
             label: Link
-            name: 6901637f
+            name: '-ae3eb8d'
             widget: string
           - hint: >-
-              Original link:
-              http://fil.org/ecosystem-projects/democracys-library/, key:
-              637c8a2d
+              Original link: https://fil.org/ecosystem-projects/banyan/, key:
+              -376ff4b1
             label: Link
-            name: 637c8a2d
+            name: '-376ff4b1'
             widget: string
           - hint: >-
-              Original link: http://fil.org/ecosystem-projects/project-dokaz/,
-              key: -501eb8f0
+              Original link: https://fil.org/ecosystem-projects/lighthouse/,
+              key: 5e96a5c
             label: Link
-            name: '-501eb8f0'
+            name: 5e96a5c
             widget: string
           - hint: 'Original link: https://upload.fil.org/, key: 6ed98b2e'
             label: Link
@@ -5858,30 +5826,6 @@ collections:
             label: Link
             name: '-2ba4f9af'
             widget: string
-          - hint: >-
-              Original link: https://fil.org/ecosystem-projects/tableland/, key:
-              584e6cff
-            label: Link
-            name: 584e6cff
-            widget: string
-          - hint: >-
-              Original link: https://fil.org/ecosystem-projects/fleek/, key:
-              -ae3eb8d
-            label: Link
-            name: '-ae3eb8d'
-            widget: string
-          - hint: >-
-              Original link: https://fil.org/ecosystem-projects/banyan/, key:
-              -376ff4b1
-            label: Link
-            name: '-376ff4b1'
-            widget: string
-          - hint: >-
-              Original link: https://fil.org/ecosystem-projects/lighthouse/,
-              key: 5e96a5c
-            label: Link
-            name: 5e96a5c
-            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
@@ -6007,5 +5951,4 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
-local_backend: true
 publish_mode: editorial_workflow

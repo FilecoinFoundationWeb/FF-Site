@@ -1666,7 +1666,7 @@ filter: drop-shadow(5px 5px 5px rgba(0,0,0,.15));
                 {%- assign collection = collections.case-studies | sort: "-created-on" -%}<div class="case-studies-wrapper w-dyn-list">
                   {%- unless collection.length == 0 -%}<div role="list" class="case-studies-list w-dyn-items">
                     {%- for item in collection -%}<div role="listitem" class="case-study-item w-dyn-item">
-                      <div class="card case-study"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;588.46875px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="card-case-study-image">
+                      <div class="card case-study"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;588.46875px&quot;}]" src="{{ item.data.f_image.url }}" alt="" class="card-case-study-image">
                         <div class="case-study-card-content">
                           <div>{{ texts.-1e799b27 }}</div>
                           <div class="case-study-title clamp-2">{{ item.data.title }}</div>
