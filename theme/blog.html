@@ -1000,7 +1000,7 @@ color: #08072e;
         <div class="container relative">
           {%- assign collection = collections.blog | filter: "f_featured,eq,true", "ALL", page.inputPath | limit: 1 | sort: "-created-on" -%}<div class="w-dyn-list">
             {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
-              {%- for item in collection -%}<div role="listitem" class="relative w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;944px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="full-image radius">
+              {%- for item in collection -%}<div role="listitem" class="relative w-dyn-item"><img loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;92vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;95vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;944px&quot;}]" src="{{ item.data.f_image.url }}" alt="" class="full-image radius">
                 <div class="post-background-layers">
                   <div class="post-layer layer-1"></div>
                   <div class="post-layer layer-2"></div>
@@ -1114,19 +1114,19 @@ input.addEventListener('input', () => {
           {%- assign collection = collections.blog | sort: "-f_post-date" -%}{%- assign pagination = collection | paginate: 9 -%}<div class="full-width w-dyn-list">
             {%- unless pagination.length == 0 -%}<div role="list" class="blog-posts w-dyn-items">
               {%- for item in pagination[0] -%}<div role="listitem" class="blog-post w-dyn-item">
-                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;282.07293701171875px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="blog-card-image">{%- endif -%}
+                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}<img class="blog-card-image" src="{{ item.data.f_image.url }}" alt="" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;282.07293701171875px&quot;}]" loading="lazy">{%- endif -%}
                   {%- unless item.data.f_image -%}<div class="blog-card-date-image">
                     <div class="flex">
-                      <div>{{ item.data.f_post-date | formatDate: "MM" }}</div>
+                      <div class="">{{ item.data.f_post-date | markdown }}</div>
                       <div>{{ texts.2f }}</div>
-                      <div>{{ item.data.f_post-date | formatDate: "dd" }}</div>
+                      <div class="">{{ item.data.f_post-date | markdown }}</div>
                     </div>
-                    <div>{{ item.data.f_post-date | formatDate: "yyyy" }}</div>
+                    <div class="">{{ item.data.f_post-date | markdown }}</div>
                   </div>{%- endunless -%}
                   <div class="blog-card-content">
                     <div class="blog-card-title">{{ item.data.title }}</div>
                     <div class="blog-post-description">{{ item.data.f_description }}</div>
-                    <div class="blog-card-date">{{ item.data.f_post-date | formatDate: "MMMM d, yyyy" }}</div>
+                    <div class="blog-card-date">{{ item.data.f_post-date | markdown }}</div>
                     <div class="blog-card-read-more">
                       <div class="icon-read">
                         <div class="html-embed w-embed"><svg width="15" height="12" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -1139,19 +1139,19 @@ input.addEventListener('input', () => {
                 </a>
               </div>{%- endfor -%}
             {%- for paginationPage in pagination -%}{%- if forloop.index > 1 -%}{%- assign paginationFilePath = "/public/_data/paginations" | appendMultiple: page.filePathStem, "/page--72f6103d-", forloop.index, ".html" -%}<template data-pagination-index="{{ forloop.index }}" data-pagination-url="{{ paginationFilePath | replace: "/public", "" }}">{% capture currentPageHTML %}{%- for item in paginationPage -%}<div role="listitem" class="blog-post w-dyn-item">
-                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}<img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;282.07293701171875px&quot;}]" src="{{ item.data.f_image.url }}" alt="{{ item.data.f_image.alt }}" class="blog-card-image">{%- endif -%}
+                <a href="{{ item.url }}" class="blog-card w-inline-block">{%- if item.data.f_image -%}<img class="blog-card-image" src="{{ item.data.f_image.url }}" alt="" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;87vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;41vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;282.07293701171875px&quot;}]" loading="lazy">{%- endif -%}
                   {%- unless item.data.f_image -%}<div class="blog-card-date-image">
                     <div class="flex">
-                      <div>{{ item.data.f_post-date | formatDate: "MM" }}</div>
+                      <div class="w-dyn-bind-empty">{{ item.data.f_post-date | markdown }}</div>
                       <div>{{ texts.2f }}</div>
-                      <div>{{ item.data.f_post-date | formatDate: "dd" }}</div>
+                      <div class="w-dyn-bind-empty">{{ item.data.f_post-date | markdown }}</div>
                     </div>
-                    <div>{{ item.data.f_post-date | formatDate: "yyyy" }}</div>
+                    <div class="w-dyn-bind-empty">{{ item.data.f_post-date | markdown }}</div>
                   </div>{%- endunless -%}
                   <div class="blog-card-content">
-                    <div class="blog-card-title">{{ item.data.title }}</div>
-                    <div class="blog-post-description">{{ item.data.f_description }}</div>
-                    <div class="blog-card-date">{{ item.data.f_post-date | formatDate: "MMMM d, yyyy" }}</div>
+                    <div class="blog-card-title w-dyn-bind-empty">{{ item.data.title }}</div>
+                    <div class="blog-post-description w-dyn-bind-empty">{{ item.data.f_description }}</div>
+                    <div class="blog-card-date w-dyn-bind-empty">{{ item.data.f_post-date | markdown }}</div>
                     <div class="blog-card-read-more">
                       <div class="icon-read">
                         <div class="html-embed w-embed"><svg width="15" height="12" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
