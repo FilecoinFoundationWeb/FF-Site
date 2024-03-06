@@ -14,9 +14,9 @@ f_brand:
   alt: null
 slug: piknik
 f_topic: cms/ecosystem-topics/storage.md
-updated-on: '2024-01-05T21:38:36.175Z'
+updated-on: '2024-01-18T17:50:21.911Z'
 created-on: '2024-01-04T22:40:27.442Z'
-published-on: '2024-01-11T13:26:59.787Z'
+published-on: '2024-01-29T20:42:23.861Z'
 f_tag:
   - cms/ecosystem-tags/storage-provider.md
   - cms/ecosystem-tags/storage-software.md
