@@ -931,7 +931,7 @@ color: #08072e;
             <div class="spacer _18px"></div>
             <a href="{{ links.5f52128f }}" target="_blank" class="button-primary outline">{{ texts.-20bcead2 }}</a>
           </div>
-          <div class="hero-split hide-mobile"><img src="/assets/images/ecosystem_header.png" loading="lazy" width="479.5" sizes="(max-width: 991px) 100vw, (max-width: 1439px) 46vw, 462.546875px" alt="A corgi statue holding a filecoin and a group of people at a Filecoin Event" srcset="/assets/images/ecosystem_header-p-500.png 500w, /assets/images/ecosystem_header-p-800.png 800w, /assets/images/ecosystem_header.png 959w"></div>
+          <div class="hero-split hide-mobile"><img src="/assets/images/ecosystem_header.png" loading="lazy" width="479.5" sizes="(max-width: 767px) 100vw, (max-width: 991px) 456.2500305175781px, (max-width: 1439px) 46vw, 462.54632568359375px" alt="A corgi statue holding a filecoin and a group of people at a Filecoin Event" srcset="/assets/images/ecosystem_header-p-500.png 500w, /assets/images/ecosystem_header-p-800.png 800w, /assets/images/ecosystem_header.png 959w"></div>
         </div>
       </div>
     </section>
@@ -1051,7 +1051,7 @@ color: #08072e;
                       </div>
                       {%- assign collection = collections.ecosystem-topics | sort: "title" -%}<div class="filters__list-container w-dyn-list">
                         {%- unless collection.length == 0 -%}<div role="list" class="collection-list-7 w-dyn-items">
-                          {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Topic-Mobile" data-name="Checkbox Topic Mobile" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Topic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Topic-Mobile">{{ item.data.title | markdown }}</span></label></div>{%- endfor -%}
+                          {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Topic-Mobile" data-name="Checkbox Topic Mobile" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Topic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Topic-Mobile">{{ item.data.title }}</span></label></div>{%- endfor -%}
                         </div>{%- endunless -%}
                         {%- if collection.length == 0 -%}<div class="w-dyn-empty">
                           <div>{{ texts.3d503d2b }}</div>
@@ -1064,7 +1064,7 @@ color: #08072e;
                       </div>
                       {%- assign collection = collections.ecosystem-tags | sort: "title" -%}<div fs-cmsfilter-field="Subtopic" class="filters__list-container w-dyn-list">
                         {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
-                          {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Subtopic-Mobile" data-name="Checkbox Subtopic Mobile" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Subtopic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Subtopic-Mobile">{{ item.data.title | markdown }}</span></label></div>{%- endfor -%}
+                          {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Subtopic-Mobile" data-name="Checkbox Subtopic Mobile" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Subtopic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Subtopic-Mobile">{{ item.data.title }}</span></label></div>{%- endfor -%}
                         </div>{%- endunless -%}
                         {%- if collection.length == 0 -%}<div class="w-dyn-empty">
                           <div>{{ texts.3d503d2b }}</div>
@@ -1086,7 +1086,7 @@ color: #08072e;
                 </div>
                 {%- assign collection = collections.ecosystem-topics | sort: "title" -%}<div class="filters__list-container w-dyn-list">
                   {%- unless collection.length == 0 -%}<div role="list" class="collection-list-7 w-dyn-items">
-                    {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Topic" data-name="Checkbox Topic" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Topic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Topic">{{ item.data.title | markdown }}</span></label></div>{%- endfor -%}
+                    {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Topic" data-name="Checkbox Topic" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Topic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Topic">{{ item.data.title }}</span></label></div>{%- endfor -%}
                   </div>{%- endunless -%}
                   {%- if collection.length == 0 -%}<div class="w-dyn-empty">
                     <div>{{ texts.3d503d2b }}</div>
@@ -1099,7 +1099,7 @@ color: #08072e;
                 </div>
                 {%- assign collection = collections.ecosystem-tags | sort: "title" -%}<div fs-cmsfilter-field="Subtopic" class="filters__list-container w-dyn-list">
                   {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
-                    {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Subtopic" data-name="Checkbox Subtopic" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Subtopic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Subtopic">{{ item.data.title | markdown }}</span></label></div>{%- endfor -%}
+                    {%- for item in collection -%}<div role="listitem" class="w-dyn-item"><label class="w-checkbox filters__topic-checkbox"><input type="checkbox" name="Checkbox-Subtopic" data-name="Checkbox Subtopic" class="w-checkbox-input filters__topic-checbox__box"><span fs-cmsfilter-field="Subtopic" class="filters__topic-checkbox__label w-form-label" for="Checkbox-Subtopic">{{ item.data.title }}</span></label></div>{%- endfor -%}
                   </div>{%- endunless -%}
                   {%- if collection.length == 0 -%}<div class="w-dyn-empty">
                     <div>{{ texts.3d503d2b }}</div>
@@ -1115,15 +1115,15 @@ color: #08072e;
                       {%- assign ecosystem-tagsOfEcosystem-projects = item.data.f_tag | resolveMultiReferences -%}<div aria-hidden="true" class="project-card__subtopics--visually-hidden visually-hidden w-dyn-list">
                         {%- unless ecosystem-tagsOfEcosystem-projects.length == 0 -%}<div role="list" class="w-dyn-items">
                           {%- for item in ecosystem-tagsOfEcosystem-projects -%}<div role="listitem" class="w-dyn-item">
-                            <div fs-cmsfilter-field="Subtopic" class="">{{ item.data.title | markdown }}</div>
+                            <div fs-cmsfilter-field="Subtopic" class="">{{ item.data.title }}</div>
                           </div>{%- endfor -%}
                         </div>{%- endunless -%}
                       </div>
                       <div class="div-block-137">
                         <div class="project-card__image-container"><img alt="" src="{{ item.data.f_brand.url }}" loading="lazy" class="project-card__image"></div>
-                        <div fs-cmsfilter-field="Topic" class="project-card__topic line-1-clamp"></div>
-                        <p fs-cmsfilter-field="Name" fs-cmsfilter-highlight="true" class="fontsize-larger line-1-clamp">{{ item.data.title | markdown }}</p>
-                        <p fs-cmsfilter-field="Description" fs-cmsfilter-highlight="true" class="project-card__description line-4-clamp">{{ item.data.f_card-text-truncated | markdown }}</p>
+                        {%- assign ref = item.data.f_topic | resolveReference -%}<div fs-cmsfilter-field="Topic" class="project-card__topic line-1-clamp">{{ ref.data.title }}</div>
+                        <p fs-cmsfilter-field="Name" fs-cmsfilter-highlight="true" class="fontsize-larger line-1-clamp">{{ item.data.title }}</p>
+                        <p fs-cmsfilter-field="Description" fs-cmsfilter-highlight="true" class="project-card__description line-4-clamp">{{ item.data.f_card-text-truncated }}</p>
                       </div>
                       <a href="{{ item.url }}" class="project-card__read-more">{{ texts.4b48024a }}</a>
                     </div>
@@ -1194,8 +1194,8 @@ color: #08072e;
                 <div class="card case-study" style="background-color: {{item.data.f_color}};; border-color: {{item.data.f_border-color}};"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;588.46875px&quot;}]" src="{{ item.data.f_image.url }}" class="card-case-study-image">
                   <div class="case-study-card-content">
                     <div>{{ texts.-1e799b27 }}</div>
-                    <div class="case-study-title clamp-2">{{ item.data.title | markdown }}</div>
-                    <p class="clamp-4">{{ item.data.f_description | markdown }}</p>
+                    <div class="case-study-title clamp-2">{{ item.data.title }}</div>
+                    <p class="clamp-4">{{ item.data.f_description }}</p>
                     <a href="{{ item.data.f_cta }}" class="case-study-link">{{ item.data.f_cta-text }}</a>
                   </div>
                 </div>
