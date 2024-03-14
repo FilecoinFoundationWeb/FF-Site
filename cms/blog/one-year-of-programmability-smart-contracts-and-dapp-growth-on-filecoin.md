@@ -84,13 +84,13 @@ And recently, [Binance completed the integration of FIL](https://www.binance.com
 
 # What’s Next
 
-With user programmability, the network’s capabilities are expanding to new frontiers for creativity and technological advancements within the ecosystem. The FVM launch kicked off step three in the [Filecoin Masterplan](https://filecoin.io/blog/posts/the-filecoin-masterplan/):
+With user programmability, the network’s capabilities are expanding to new frontiers of creativity and technological advancements within the ecosystem. The FVM launch kicked off step three in the [Filecoin Masterplan](https://filecoin.io/blog/posts/the-filecoin-masterplan/):
 
 1. Build the world’s largest decentralized storage network
 2. Onboard and safeguard humanity’s data
 3. **Bring retrieval and compute capabilities to the data to build scalable applications**
 
-The coming year will bring more decentralized services to unleash the utility of the Filecoin network. In addition to FVM, [Interplanetary Consensus (IPC)](https://www.ipc.space/) was also introduced in 2023. IPC is a revolutionary blockchain technology that powers planetary-scale Web3 apps. Teams already building using FVM-based smart contracts, tooling, and dapps can effortlessly transition and harness the power of IPC and scale hot storage layers, compute networks, CDNs, indexing engines, databases, aggregators, storage provider collectives, retrievability networks, QoS evaluators, and more.
+The coming year will bring even more decentralized services to unleash the utility of the Filecoin network. In addition to FVM, [Interplanetary Consensus (IPC)](https://www.ipc.space/) was also introduced in 2023. IPC is a revolutionary blockchain technology that powers planetary-scale Web3 apps. Teams already building using FVM-based smart contracts, tooling, and dapps can effortlessly transition and harness the power of IPC and scale hot storage layers, compute networks, CDNs, indexing engines, databases, aggregators, storage provider collectives, retrievability networks, QoS evaluators, and more.
 
 Last month at ETHDenver, [Fluence announced the upcoming mainnet launch](https://filecoin.io/blog/posts/interplanetary-consensus--fluence-power-the-future-of-cloudless-computing/?utm_source=upload.fil.org&utm_medium=newsletter&utm_campaign=the-depin-opportunity) of its IPC-powered decentralized serverless computing platform, which offers cheaper, provable, and truly decentralized computing for Web3 builders. Fluence is just one example of a project building a decentralized physical infrastructure network (DePIN) using Filecoin, freeing computation from centralized cloud providers by offering natively decentralized, low-cost, and verifiable compute. 
 
