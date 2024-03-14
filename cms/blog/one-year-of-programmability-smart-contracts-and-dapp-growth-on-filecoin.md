@@ -22,47 +22,27 @@ seo:
 ---
 One year ago at 3:14 PM UTC on March 14, 2023 (epoch 2,683,348), the launch of the [Filecoin Virtual Machine](https://fvm.filecoin.io/) (FVM) brought onchain programmability and smart contracts live on Filecoin mainnet. Dapps can tap into storage primitives on Filecoin with valuable workflows including perpetual storage, data access control, compute-over-data, Data DAOs, and more. These capabilities solidify Filecoin’s position as the Layer-1 blockchain uniquely positioned to power an open data economy. 
 
-
-
-As of March 2024, 800+ FVM projects from startups, hackathons, and builders on Filecoin created about 680,000 wallets and deployed 3,100+ unique contracts. 
-
-
-
+As of March 2024, 800+ FVM projects from startups, hackathons, and builders on Filecoin created about 680,000 wallets and deployed thousands of contracts. \
+\
 Let’s take a look at the tremendous network milestones and brand-new use cases that FVM has unlocked on Filecoin in the last year.
 
 # Unlocking New Use Cases and Possibilities
 
 Over the last year, dapp and smart contract builders developed features, integrations, and resources to enable a wide variety of projects and possibilities built on Filecoin. Some themes include: 
 
-
-
 Data onboarding and management enables tools that automate storage dealmaking. Perpetual data storage contracts allow users to make storage deals once and their files are stored perpetually with [Lighthouse](https://www.lighthouse.storage/). Enabled by FVM capabilities, Lighthouse also implemented the first Proof of Data Segment Inclusion which acts like a certificate of authenticity. And the NFT.Storage's [NFT Forever Project](https://blog.nft.storage/posts/2023-03-14-announcing-nft-forever-project) guarantees verifiable storage with smart contracts, providing trustless, perpetual storage for NFTs. Plus [programmatic storage,](https://github.com/filecoin-project/community/discussions/676) enables the option for automatic or user-defined conditional upload, retrieval, and management of storage deals on Filecoin. Projects like [Livepeer](https://livepeer.org/), an open video infrastructure network for live and on-demand streaming, allow for dapps to provide [permanent storage guarantees](https://docs.livepeer.org/developers/tutorials/decentralized-app-with-fvm) of user content through smart contracts that store video data securely on Filecoin. 
-
-
 
 Compute-over-data networks like [Bacalhau](https://www.bacalhau.org/) provide a platform for fast, cost-efficient, and secure computation that enables users to efficiently run compute jobs at the place where the data is stored (aka Filecoin). And [CoopHive](https://www.coophive.network/) is a marketplace for compute, connecting clients and compute nodes for computational resources.
 
-
-
 The network is uniquely positioned to support large-scale off-chain computation since Filecoin storage providers have compute resources such as GPUs and CPUs colocated with their data. [Web3mine](https://www.web3mine.io/) is actively building a network that uses the compute resources of storage providers to democratize the process of creating and capturing value. 
-
-
 
 DataDAOs facilitate the collective creation, curation, and monetization of valuable datasets. [Lagrange DAO](https://lagrangedao.org/main) is a DAO for data value realization and decentralized science (DeSci) which provides data sharing and analytic spaces. Researchers can upload datasets and models to their workspace and share them with the community. And [DALN](https://app.daln.io/) is developing a DataDAO for user-defined access control and monetizing credit card transaction data. 
 
-
-
 Cross-chain interoperability. The Filecoin Network has taken a significant leap forward in cross-chain interoperability with the mainnet launch of messaging and token bridging solutions by [Axelar](https://axelar.network/how-axelar-works) and [Celer Network](https://celer.network/). These integrations enable seamless communication and asset transfers between Filecoin and more than 30 other leading Web3 chains such as Polygon, Ethereum, Binance Smart Chain, Avalanche, and more.
-
-
 
 Reward contracts from [Filecoin Saturn](https://saturn.tech/), a decentralized content delivery network for fast retrievals on Filecoin, or on [Filecoin Station](https://www.filstation.app/), which connects your computer’s idle resources to the Filecoin network and rewards you with FIL.
 
-
-
 Important tooling was added with [six new block explorers](https://filecoin-io.ipns.dweb.link/blog/posts/the-fvm-imaginarium-block-explorers/) including [Filfox](https://filfox.info/), [Beryx Explorer](https://beryx.zondax.ch/), and [Starboard](https://fvm.starboard.ventures/calibration/explorer). And the newly refreshed [Filecoin Dataset Explorer](https://datasets.filecoin.io/) has FVM-enabled retrieval of public datasets for easy discovery of open-access datasets stored on the Filecoin network.
-
-
 
 Here are a few more early-stage projects to keep an eye on that are building on FVM:
 
@@ -76,8 +56,6 @@ Here are a few more early-stage projects to keep an eye on that are building on 
 # Empowering Builders on Filecoin
 
 There has been incredible builder growth on the Filecoin network since launch. FVM’s full compatibility with the Ethereum Virtual Machine (EVM), helps many new-to-Filecoin developers make rapid progress when deploying their projects on the Filecoin blockchain.
-
-
 
 * More than one-third of approved projects of the Filecoin Foundation Dev Grants Program in FY23 were for projects empowering FVM including block explorers, libraries, toolsets, and more. 
 * At launch, early builders shipped 30+ projects to mainnet, with 20 of them entering leading accelerator cohorts with Graph Paper Capital, Longhash, and more. 
@@ -100,15 +78,9 @@ The Filecoin core dev team has been hard at work launching new platform capabili
 
 FVM fueled the growth of the Filecoin storage provider ecosystem. Dapps built on top of FVM have helped connect Filecoin token holders with storage providers to provide pledge collateral, fueling increased capacity and data on the network.
 
-
-
 In just one year, several finance platforms on the Filecoin network have sprung up to support storage provider access to collateral, including projects such as [Glif](https://www.glif.io/en), [stFIL](https://stfil.io/#/), [SFT Protocol](https://www.sftproject.io/), [HashKing](https://www.hashking.fi/), [FilFi](https://filfi.io/), [Filet Finance](https://www.filet.finance/), [MineFi](https://www.minefi.io/), [HashMix](https://hashmix.org/en/), [CollectifDAO](https://www.collectif.finance/), and [FILLiquid](https://filliquid.io/). 
 
-
-
 Prominent third parties have also launched FVM integrations, including cross-chain bridges ([Axelar](https://axelar.network/blog/filecoin-cross-chain-datadaos-axelar-and-fvm) /Squid Router, [Celer](https://blog.celer.network/2023/03/20/celer-cbridge-and-im-support-launched-on-the-filecoin-virtual-machine-fvm/)) and Wallet services ([Brave](https://brave.com/), [Metamask](https://metamask.io/)).
-
-
 
 And recently [Binance completed integration of FIL](https://www.binance.com/en/support/announcement/binance-completes-integration-of-filecoin-fil-on-filevm-network-opens-deposits-5af3fc32fe71451ba942799189ae4d0a), allowing token holders to deposit and withdraw using f410 addresses with Binance.
 
@@ -116,24 +88,14 @@ And recently [Binance completed integration of FIL](https://www.binance.com/en/s
 
 With user programmability, the network’s capabilities are expanding to new frontiers for creativity and technological advancements within the ecosystem. The FVM launch kicked off step three in the [Filecoin Masterplan](https://filecoin.io/blog/posts/the-filecoin-masterplan/):
 
-
-
 1. Build the world’s largest decentralized storage network
 2. Onboard and safeguard humanity’s data
 3. Bring retrieval and compute capabilities to the data to build scalable applications
 
-
-
 The coming year will bring more decentralized services to unleash the utility of the Filecoin network. In addition to FVM, [Interplanetary Consensus (IPC)](https://www.ipc.space/) was also introduced in 2023. IPC is a revolutionary blockchain technology that powers planetary-scale Web3 apps. Teams already building using FVM-based smart contracts, tooling, and dapps can effortlessly transition and harness the power of IPC and scale hot storage layers, compute networks, CDNs, indexing engines, databases, aggregators, storage provider collectives, retrievability networks, QoS evaluators, and more.
-
-
 
 Last month at ETHDenver, [Fluence announced the upcoming mainnet launch](https://filecoin.io/blog/posts/interplanetary-consensus--fluence-power-the-future-of-cloudless-computing/?utm_source=upload.fil.org&utm_medium=newsletter&utm_campaign=the-depin-opportunity) of its IPC-powered decentralized serverless computing platform, which offers cheaper, provable, and truly decentralized computing for Web3 builders. Fluence is just one example of a project building a decentralized physical infrastructure network (DePIN) using Filecoin, freeing computation from centralized cloud providers by offering natively decentralized, low-cost, and verifiable compute. 
 
-
-
 The Filecoin network is now [critical infrastructure](https://twitter.com/duckie_han/status/1765523492706173314) for enabling decentralized AI, compute, and DePIN, sitting at the cross-section of many scarce resources in the world.
-
-
 
 So today, we say a big thank you to the developers, builders, teams, and all those who have contributed to the Filecoin network in the last year and are helping us build the next generation of the internet!
