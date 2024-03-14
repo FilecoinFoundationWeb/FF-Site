@@ -22,19 +22,17 @@ seo:
 ---
 One year ago at 3:14 PM UTC on March 14, 2023 (epoch 2,683,348), the launch of the [Filecoin Virtual Machine](https://fvm.filecoin.io/) (FVM) brought onchain programmability and smart contracts live on Filecoin mainnet. Dapps can tap into storage primitives on Filecoin with valuable workflows including perpetual storage, data access control, compute-over-data, Data DAOs, and more. These capabilities solidify Filecoin’s position as the Layer-1 blockchain uniquely positioned to power an open data economy. 
 
-As of March 2024, 800+ FVM projects from startups, hackathons, and builders on Filecoin created about 680,000 wallets and deployed thousands of contracts. \
+As of March 2024, 800+ FVM projects from startups, hackathons, and builders on Filecoin created about 680,000 wallets and deployed more than 3,000 total contracts.\
 \
 Let’s take a look at the tremendous network milestones and brand-new use cases that FVM has unlocked on Filecoin in the last year.
 
 # Unlocking New Use Cases and Possibilities
 
-Over the last year, dapp and smart contract builders developed features, integrations, and resources to enable a wide variety of projects and possibilities built on Filecoin. Some themes include: 
+Over the last year, dapp and smart contract builders developed features, integrations, and resources to enable a wide variety of projects built on Filecoin. Some themes include: 
 
 Data onboarding and management enables tools that automate storage dealmaking. Perpetual data storage contracts allow users to make storage deals once and their files are stored perpetually with [Lighthouse](https://www.lighthouse.storage/). Enabled by FVM capabilities, Lighthouse also implemented the first Proof of Data Segment Inclusion which acts like a certificate of authenticity. And the NFT.Storage's [NFT Forever Project](https://blog.nft.storage/posts/2023-03-14-announcing-nft-forever-project) guarantees verifiable storage with smart contracts, providing trustless, perpetual storage for NFTs. Plus [programmatic storage,](https://github.com/filecoin-project/community/discussions/676) enables the option for automatic or user-defined conditional upload, retrieval, and management of storage deals on Filecoin. 
 
-Compute-over-data networks like [Bacalhau](https://www.bacalhau.org/) provide a platform for fast, cost-efficient, and secure computation that enables users to efficiently run compute jobs at the place where the data is stored (aka Filecoin). And [CoopHive](https://www.coophive.network/) is a marketplace for compute, connecting clients and compute nodes for computational resources.
-
-The network is uniquely positioned to support large-scale off-chain computation since Filecoin storage providers have compute resources such as GPUs and CPUs colocated with their data. [Web3mine](https://www.web3mine.io/) is actively building a network that uses the compute resources of storage providers to democratize the process of creating and capturing value. 
+Compute-over-data networks uniquely positioned to support large-scale off-chain computation since Filecoin storage providers have compute resources such as GPUs and CPUs colocated with their data.  [Web3mine](https://www.web3mine.io/) is actively building a network that uses the compute resources of storage providers to democratize the process of creating and capturing value. 
 
 DataDAOs facilitate the collective creation, curation, and monetization of valuable datasets. [Lagrange DAO](https://lagrangedao.org/main) is a DAO for data value realization and decentralized science (DeSci) which provides data sharing and analytic spaces. Researchers can upload datasets and models to their workspace and share them with the community. And [DALN](https://app.daln.io/) is developing a DataDAO for user-defined access control and monetizing credit card transaction data. 
 
