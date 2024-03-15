@@ -19,8 +19,6 @@ seo:
 ---
 ### M﻿id-March Highlights
 
-![]()
-
 **The Filecoin community came together for events hosted by Filecoin Foundation at ETHDenver**, gathering founders, developers, and builders to learn about the latest network advancements, reflect on the evolution of the network, and share project highlights. More than 1,000 ETHDenver attendees stopped by FF’s Filecoin Booth for lightning talks and demos. At FIL Dev Summit, builders came together to contribute to the core protocol and network evolution of Filecoin. And at the Filecoin Orbit Ecosystem Showcase and Happy Hour, Juan Benet stopped by for a community AMA. For more talks and workshops, check out the [Filecoin Foundation at ETHDenver YouTube playlist](https://www.youtube.com/playlist?list=PLp3zrT1ewY0n5abZ0vr8KdPe0AH05-2pR). 
 
 **We’re celebrating 1 year since the launch of the Filecoin Virtual Machine!** As of March 2024, 800+ FVM projects have created about 680,000 wallets and deployed 3,100+ unique contracts. Over this last year, dapp and smart contract builders have developed new features, integrations, and resources to enable a wide variety of projects built on Filecoin. [Read more on the FF blog](https://fil.org/blog/one-year-of-programmability-smart-contracts-and-dapp-growth-on-filecoin/).
