@@ -19,8 +19,6 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-![](/assets/images/ethdenver.png)
-
 ETHDenver brought together founders, developers, and builders from across the Filecoin ecosystem for a week of collaboration and innovation –– to usher the network into a new era of adoption and growth. 
 
 At the Spork Castle, the Filecoin Foundation team hosted lightning talks and demos in our booth. Juan Benet stopped by the Filecoin Orbit Ecosystem Showcase for a community AMA. And FF’s Clara Tsao took the ETHDenver stage to talk about building the next generation of data storage for artificial intelligence systems. 
