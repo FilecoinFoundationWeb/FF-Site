@@ -26,4 +26,4 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Building a specific wallet for Filecoin Virtual Machine so that users have easier access, ability to see graphs, and prices inside the wallet.
+Building a specific wallet for Filecoin Virtual Machine so that users have easy access, ability to see graphs, and prices inside the wallet.
