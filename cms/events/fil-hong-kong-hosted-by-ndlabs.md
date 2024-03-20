@@ -10,7 +10,7 @@ f_cta-text: Save the Date
 f_start-date: 2024-04-05T14:42:24.931Z
 f_end-date: 2024-04-08T14:42:24.941Z
 f_image:
-  url: /assets/images/filhk24.png
+  url: /assets/images/fhk-vertical-light.png
   alt: FIL Hong Kong Logo
 f_event-date: 2024-04-05T14:42:24.952Z
 f_ff-involvement: Supported by FF
