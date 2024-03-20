@@ -17,7 +17,7 @@ f_website: https://hashguard.io/
 f_tech-3:
   - cms/ecosystem-technology/ipfs.md
 f_social-media: https://twitter.com/hashguard_/
-f_year-2: 2024-03-20T14:14:44.368Z
+f_year-2: 2022-09-07T14:14:44.368Z
 f_last-updated-2: 2024-03-20T14:14:44.394Z
 tags: ecosystem-projects
 layout: "[ecosystem-projects].html"
