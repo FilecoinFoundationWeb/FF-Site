@@ -13961,11 +13961,6 @@ blockquote {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
-#w-node-e8ac1cb9-16e1-f232-d86a-92ff7d71814b-daf71fd9 {
-  grid-template-rows: auto auto auto auto;
-  grid-template-columns: 1fr;
-}
-
 #w-node-f86cef36-c731-9df0-90b2-634f002994c3-daf71fda {
   grid-area: span 1 / span 1 / span 1 / span 1;
   align-self: center;

@@ -944,7 +944,7 @@ color: #08072e;
             </a>{%- endif -%}
             {%- if f_year-2 -%}<div class="condition-wrap">
               <div class="bold-text">{{ texts.6489f2f2 }}</div>
-              {%- if f_year-2 -%}<p class="">{{ f_year-2 | markdown }}</p>{%- endif -%}
+              {%- if f_year-2 -%}<p class="">{{  f_year-2 | formatDate: "yyyy" }}</p>{%- endif -%}
             </div>{%- endif -%}
           </div>
           <div class="spacer _34px hide-mobile"></div>

@@ -1368,28 +1368,28 @@ border-radius: 0;
                     <div class="card event-card governance">
                       {%- unless item.data.f_image -%}<div class="card-date-block">
                         {%- if item.data.f_event-date -%}<div class="flex">
-                          <div class="">{{ item.data.f_event-date | markdown }}</div>
+                          <div class="">{{  item.data.f_event-date | formatDate: "MM" }}</div>
                           <div>{{ texts.2f }}</div>
-                          <div class="">{{ item.data.f_event-date | markdown }}</div>
+                          <div class="">{{  item.data.f_event-date | formatDate: "dd" }}</div>
                         </div>{%- endif -%}
                         {%- unless item.data.f_event-date -%}<div class="flex">
-                          <div class="">{{ item.data.f_start-date | markdown }}</div>
+                          <div class="">{{  item.data.f_start-date | formatDate: "MM" }}</div>
                           <div>{{ texts.2f }}</div>
-                          <div class="">{{ item.data.f_start-date | markdown }}</div>
+                          <div class="">{{  item.data.f_start-date | formatDate: "dd" }}</div>
                         </div>{%- endunless -%}
                         {%- if item.data.f_event-date -%}<div>
-                          <div class="">{{ item.data.f_event-date | markdown }}</div>
+                          <div class="">{{  item.data.f_event-date | formatDate: "yyyy" }}</div>
                         </div>{%- endif -%}
                         {%- unless item.data.f_event-date -%}<div>
-                          <div class="">{{ item.data.f_start-date | markdown }}</div>
+                          <div class="">{{  item.data.f_start-date | formatDate: "yyyy" }}</div>
                         </div>{%- endunless -%}
                       </div>{%- endunless -%}
                       {%- if item.data.f_image -%}<div class="card-background-image" style="background-image: url('{{item.data.f_image.url}}');"></div>{%- endif -%}
                       <div class="event-card-content secondary">
                         <div class="flex gap">
                           {%- assign current_date = item.data.f_event-date | date: "%s" | minus: 0 -%}{%- assign check_date = "now" | date: "%s" | minus: 86400 %}{%- if current_date <= check_date -%}<div class="card-date">{{ texts.-2df6250f }}</div>{%- endif -%}
-                          {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | markdown }}</div>{%- endif -%}
-                          {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | markdown }}</div>{%- endif -%}
+                          {%- if item.data.f_start-date -%}<div class="card-date">{{  item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                          {%- if item.data.f_end-date -%}<div class="card-date">{{  item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                         </div>
                         <div class="card-title secondary">{{ item.data.title }}</div>
                         {%- if item.data.f_cta -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">

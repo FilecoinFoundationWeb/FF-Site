@@ -952,27 +952,27 @@ color: #08072e;
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MMMM d, yyyy" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MMMM d, yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MMMM d, yyyy" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MMMM d, yyyy" }}</div>
                           </div>{%- endunless -%}
                           {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MMMM d, yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MMMM d, yyyy" }}</div>
                           </div>{%- endunless -%}
-                        </div>{%- endunless -%}<img loading="lazy" alt="{{ item.data.f_image.alt }}" src="{{ item.data.f_image.url }}" class="image-57">
+                        </div>{%- endunless -%}<img loading="lazy" alt="" src="{{ item.data.f_image.url }}" class="image-57">
                         <div class="event-card-content secondary">
                           <div class="flex gap">
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{  item.data.f_start-date | formatDate: "MMMM d, yyyy" }}</div>{%- endif -%}
                             <div class="text-block-14">{{ texts.2d }}</div>
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{  item.data.f_end-date | formatDate: "MMMM d, yyyy" }}</div>{%- endif -%}
                           </div>
                           <div class="card-title secondary">{{ item.data.title }}</div>
                           <div class="event-description">{{ item.data.f_description }}</div>
@@ -1014,27 +1014,27 @@ color: #08072e;
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "dd" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "dd" }}</div>
                           </div>{%- endunless -%}
                           {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "yyyy" }}</div>
                           </div>{%- endunless -%}
-                        </div>{%- endunless -%}<img loading="lazy" alt="{{ item.data.f_image.alt }}" src="{{ item.data.f_image.url }}" class="image-57">
+                        </div>{%- endunless -%}<img loading="lazy" alt="" src="{{ item.data.f_image.url }}" class="image-57">
                         <div class="event-card-content secondary">
                           <div class="flex gap">
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{  item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                             <div class="text-block-14">{{ texts.2d }}</div>
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{  item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                           </div>
                           <div class="card-title secondary">{{ item.data.title }}</div>
                           <div class="event-description">{{ item.data.f_description }}</div>
@@ -1076,27 +1076,27 @@ color: #08072e;
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "dd" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "dd" }}</div>
                           </div>{%- endunless -%}
                           {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "yyyy" }}</div>
                           </div>{%- endunless -%}
-                        </div>{%- endunless -%}<img loading="lazy" alt="{{ item.data.f_image.alt }}" src="{{ item.data.f_image.url }}" class="image-57">
+                        </div>{%- endunless -%}<img loading="lazy" alt="" src="{{ item.data.f_image.url }}" class="image-57">
                         <div class="event-card-content secondary">
                           <div class="flex gap">
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{  item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                             <div class="text-block-14">{{ texts.2d }}</div>
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{  item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                           </div>
                           <div class="card-title secondary">{{ item.data.title }}</div>
                           <div class="event-description">{{ item.data.f_description }}</div>
@@ -1138,27 +1138,27 @@ color: #08072e;
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "dd" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "dd" }}</div>
                           </div>{%- endunless -%}
                           {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "yyyy" }}</div>
                           </div>{%- endunless -%}
-                        </div>{%- endunless -%}<img loading="lazy" alt="{{ item.data.f_image.alt }}" src="{{ item.data.f_image.url }}" class="image-57">
+                        </div>{%- endunless -%}<img loading="lazy" alt="" src="{{ item.data.f_image.url }}" class="image-57">
                         <div class="event-card-content secondary">
                           <div class="flex gap">
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{  item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                             <div class="text-block-14">{{ texts.2d }}</div>
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{  item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                           </div>
                           <div class="card-title secondary">{{ item.data.title }}</div>
                           <div class="event-description">{{ item.data.f_description }}</div>
@@ -1200,27 +1200,27 @@ color: #08072e;
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "dd" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "dd" }}</div>
                           </div>{%- endunless -%}
                           {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_event-date | formatDate: "yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                            <div class="">{{  item.data.f_start-date | formatDate: "yyyy" }}</div>
                           </div>{%- endunless -%}
-                        </div>{%- endunless -%}<img loading="lazy" alt="{{ item.data.f_image.alt }}" src="{{ item.data.f_image.url }}" class="image-57">
+                        </div>{%- endunless -%}<img loading="lazy" alt="" src="{{ item.data.f_image.url }}" class="image-57">
                         <div class="event-card-content secondary">
                           <div class="flex gap">
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div class="card-date">{{  item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                             <div class="text-block-14">{{ texts.2d }}</div>
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div class="card-date">{{  item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                           </div>
                           <div class="card-title secondary">{{ item.data.title }}</div>
                           <div class="event-description">{{ item.data.f_description }}</div>
@@ -1253,30 +1253,30 @@ color: #08072e;
                       <div class="card event-card-events-page">
                         {%- unless item.data.f_image -%}<div class="card-date-block">
                           {%- if item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_event-date | formatDate: "MM" }}</div>
+                            <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;MM&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;event-date&quot;}}}}}" class="w-dyn-bind-empty">{{  item.data.f_event-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_event-date | formatDate: "dd" }}</div>
+                            <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;DD&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;event-date&quot;}}}}}" class="w-dyn-bind-empty">{{  item.data.f_event-date | formatDate: "dd" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div class="flex">
-                            <div>{{ item.data.f_start-date | formatDate: "MM" }}</div>
+                            <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;MM&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;start-date&quot;}}}}}" class="w-dyn-bind-empty">{{  item.data.f_start-date | formatDate: "MM" }}</div>
                             <div>{{ texts.2f }}</div>
-                            <div>{{ item.data.f_start-date | formatDate: "dd" }}</div>
+                            <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;DD&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;start-date&quot;}}}}}" class="w-dyn-bind-empty">{{  item.data.f_start-date | formatDate: "dd" }}</div>
                           </div>{%- endunless -%}
                           {%- if item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_event-date | formatDate: "yyyy" }}</div>
+                            <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;YYYY&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;event-date&quot;}}}}}" class="w-dyn-bind-empty">{{  item.data.f_event-date | formatDate: "yyyy" }}</div>
                           </div>{%- endif -%}
                           {%- unless item.data.f_event-date -%}<div>
-                            <div>{{ item.data.f_start-date | formatDate: "yyyy" }}</div>
+                            <div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;YYYY&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;start-date&quot;}}}}}" class="w-dyn-bind-empty">{{  item.data.f_start-date | formatDate: "yyyy" }}</div>
                           </div>{%- endunless -%}
-                        </div>{%- endunless -%}<img loading="lazy" alt="{{ item.data.f_image.alt }}" src="{{ item.data.f_image.url }}" class="image-57">
+                        </div>{%- endunless -%}<img loading="lazy" alt="" src="{{ item.data.f_image.url }}" class="image-57">
                         <div class="event-card-content secondary">
                           <div class="flex gap">
-                            {%- if item.data.f_start-date -%}<div class="card-date">{{ item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_start-date -%}<div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;M/D/YYYY&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;start-date&quot;}}}}}" class="card-date w-dyn-bind-empty">{{  item.data.f_start-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                             <div class="text-block-14">{{ texts.2d }}</div>
-                            {%- if item.data.f_end-date -%}<div class="card-date">{{ item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
+                            {%- if item.data.f_end-date -%}<div sym-bind="{&quot;children&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Call&quot;,&quot;val&quot;:{&quot;fun&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:[&quot;DynamoGateway&quot;,&quot;dynamoDateToListOfElements&quot;]},&quot;arg&quot;:{&quot;type&quot;:&quot;Enum&quot;,&quot;val&quot;:&quot;M/D/YYYY&quot;}}},&quot;arg&quot;:{&quot;type&quot;:&quot;Select&quot;,&quot;val&quot;:{&quot;from&quot;:{&quot;type&quot;:&quot;Variable&quot;,&quot;val&quot;:&quot;Dynamo&quot;},&quot;prop&quot;:&quot;end-date&quot;}}}}}" class="card-date w-dyn-bind-empty">{{  item.data.f_end-date | formatDate: "M/d/yyyy" }}</div>{%- endif -%}
                           </div>
-                          <div class="card-title secondary">{{ item.data.title }}</div>
-                          <div class="event-description">{{ item.data.f_description }}</div>
+                          <div class="card-title secondary w-dyn-bind-empty">{{ item.data.title }}</div>
+                          <div class="event-description w-dyn-bind-empty">{{ item.data.f_description }}</div>
                           {%- if item.data.f_cta -%}{%- if item.data.f_cta-text -%}<a href="{{ item.data.f_cta }}" class="button secondary no-margin w-inline-block">
                             <div class="icon-info">
                               <div class="w-embed"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.3 21.1">
@@ -1297,7 +1297,7 @@ color: #08072e;
 </style>
                               </div>
                             </div>
-                            <div class="button-text">{{ item.data.f_cta-text }}</div>
+                            <div class="button-text w-dyn-bind-empty">{{ item.data.f_cta-text }}</div>
                           </a>{%- endif -%}{%- endif -%}
                         </div>
                       </div>

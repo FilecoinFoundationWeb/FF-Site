@@ -1058,7 +1058,7 @@ color: #08072e;
           <div class="container align-center relative blog-image">
             <div class="col-10_md-8_mi-12 text-center">
               {%- if f_featured == true -%}<div class="post-label">{{ texts.-7f418f2c }}</div>{%- endif -%}
-              <div class="post-date">{{ f_post-date | markdown }}</div>
+              <div class="post-date">{{  f_post-date | formatDate: "MMMM d, yyyy" }}</div>
               <h1 class="post-title">{{ title }}</h1>
             </div>
             <div class="col-10_md-8_sm-10_mi-12"><img loading="lazy" data-sizes="[{&quot;max&quot;:767,&quot;size&quot;:&quot;16px&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;2vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;16px&quot;}]" src="{{ f_image.url }}" alt="" class="post-image"></div>
