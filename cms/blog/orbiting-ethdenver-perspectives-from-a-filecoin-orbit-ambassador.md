@@ -25,49 +25,25 @@ Filecoin Orbit is a global community that organizes events, hackathons, and othe
 
 **Alex Mirran, cofounder of [Leto](https://leto.gg) and Filecoin Orbit Ambassador who led the Denver event, spent some time thinking about what this event meant for the community and the future of the Orbit program. Read on to hear from Alex!**
 
-
-
 An increasing number of developers around the world are looking for straight-forward tools that leverage open web systems. With this in mind, community members from [Filecoin Orbit North America](https://austinorbit.io) hosted an [ecosystem showcase](https://twitter.com/austin_orbit/status/1760893603314811024) at ETHDenver 2024. We welcomed over 150 attendees with 10 Filecoin ecosystem teams presenting on topics such as decentralized storage, DePin networks, and tooling for the network.
-
-
 
 [Nodle](https://www.nodle.com/) demoed their camera application [Click](https://clickapp.com/) which lets you take a photo or a video and prove its authenticity by making a record on the blockchain. And the [Interplanetary Consensus](https://www.ipc.space/) team presented how they are building out planetary-scale blockchain capacity with subnets! Through engaging talks, demos, and networking sessions with leading companies such as [Tableland](https://tableland.xyz/), [Banyan](https://banyan.computer/), [Fleek](https://fleek.co/), [Lighthouse](https://www.lighthouse.storage/), [stFIL](https://stfil.io/#/), [Glif](https://www.glif.io/en), [Leto](https://leto.gg) and [Huddle01](https://huddle01.com/), the event exemplified the community's dedication to building an open, resilient web for humanity.
 
-
-
 Planning and hosting the Filecoin Orbit event in Denver was a great experience for our team. Support from Filecoin Foundation helped to make the night possible! The Orbit program gives our team at Leto a unique opportunity to connect with builders as well as new entrants to the open web. 
 
-
-
-![](https://lh7-us.googleusercontent.com/Ku4lIMIeaYV3WmE1bI-G2lXBW_8qPOgr-CdBYFTTkvcqYNLy7nbNOSG7LXIZsehwbgzZHzni1j_CUCDN__z7JsO6eOfU6W34yya7kvUzZ9EmNQU0mu9EBP9PtibuIg-8Ozr-aYA9wBzye2adZST6G1I)![](https://lh7-us.googleusercontent.com/mVhZ4T-Pz2npDdkddI-PhpMvW3PYZM_BKM_yIYVde4LpyIWvzuF4Z3KWH8nW3mHoALPWSvOYoEzCeK35YQlMYyNuNjyFVYmDEiYOChzRaij7sbIg3PzEdUmyu0B6X9eCChNRpwshL0hnOXK6mXJAbOs)![](https://lh7-us.googleusercontent.com/eT7EAmIj2qscVzZFHiPPi4E2-Zy7CBF4TAEw-JKnhtWOGWrHQF_4pRKp2Tb_5xyi5Wi2eJqxdv_mdk8kMg-wbkL5srvgKooHLoMVoKQNM2VnXnhKvltlnLOC5g86sQ_W8E2U-Xe_eErWrV8xNagQMII)
-
-
+![](https://lh7-us.googleusercontent.com/eT7EAmIj2qscVzZFHiPPi4E2-Zy7CBF4TAEw-JKnhtWOGWrHQF_4pRKp2Tb_5xyi5Wi2eJqxdv_mdk8kMg-wbkL5srvgKooHLoMVoKQNM2VnXnhKvltlnLOC5g86sQ_W8E2U-Xe_eErWrV8xNagQMII)
 
 Our [North America team](https://austinorbit.io) is based in Austin, Texas, and hosts a monthly meetup with developer workshops, demos, or speakers. Our goal is to host awesome speakers as well as organize events that bring individuals and companies together. The focus is often on developer tooling used to implement open web networks and tools into a typical software stack. Supported by the Filecoin Foundation, [Leto](https://leto.gg/), and [Cloud Forest](https://cloudforest.cloud/), we aim to bring builders and the community together to share ideas, collaborate, and have some fun! Join us in downtown Austin for the [next event](https://www.meetup.com/austin-filecoin-orbit-meetup-group/). The events hosted in Austin are also available on the [Filecoin Orbit Austin Github](https://github.com/Filecoin-Orbit-Austin).
 
-
-
-
-
 **Do you want to be a  Filecoin Orbit Ambassador?**
-
-
 
 The Filecoin Orbit program engages with the next generation of builders at top universities through workshops at hackathons, blockchain conferences, and blockchain clubs. Orbit Ambassadors have delivered educational talks at the University of Oxford, National University of Singapore, Hong Kong University of Science and Technology, University of Pennsylvania, Indian Institutes of Technology, University of Lagos, and many more. Read more about the Filecoin Orbit program milestones in the [2023 Orbit Year in Review](https://fil.org/events/).
 
-
-
 And apply to become a [Filecoin Orbit ambassador](https://airtable.com/appAGdqyYrqoFNuPI/shrKrbPOdxGNnMM9C) for your city or university.
 
-
-
-![](https://lh7-us.googleusercontent.com/lPGlGnds3qGCC9ZGjFICk93WO83EdB6_zBjGF6Ct-sVcL43NOV0r_OLxEXNcWxgfOE0nzHtJ7rlEMSiUKKAss0ZBtATXmr8oQ-UuSXV-ASuOCHLbwPjhgOO6eNFuk-WgELAvJhzdvrE5NscWbgwgdbM)![](https://lh7-us.googleusercontent.com/NUR-LMYxMGBJjnNRLjCSBlFfKqVxi4ecCSgR8Gs-JM4mYQus_sv3ugipOV3Oq5mx9M6iVMCZzOagpMdGQxNs6uKoqKmvvEQzDf6rYjZDA0wyeR8n56trp_YMXLOep-jwVODG8otcyGcaTiJewh9cxPI)
-
-
+![](https://lh7-us.googleusercontent.com/lPGlGnds3qGCC9ZGjFICk93WO83EdB6_zBjGF6Ct-sVcL43NOV0r_OLxEXNcWxgfOE0nzHtJ7rlEMSiUKKAss0ZBtATXmr8oQ-UuSXV-ASuOCHLbwPjhgOO6eNFuk-WgELAvJhzdvrE5NscWbgwgdbM)![]()
 
 **Upcoming [Filecoin Ecosystem Events](https://fil.org/events/)**
-
-
 
 * April 5 - 8, 2024 - Fil Hong Kong
 * April 13 - 14, 2024 - Funding the Commons San Francisco
@@ -75,7 +51,5 @@ And apply to become a [Filecoin Orbit ambassador](https://airtable.com/appAGdqyY
 * May 29 - 31, 2024 - Consensus Filecoin Orbit Meetup Event
 * July 8 - 11, 2024 - FIL Brussels alongside EthCC
 * Sept 4 - 10, 2024 - FIL Seoul Network Base alongside Korea Blockchain Week
-
-
 
 Find the full [Filecoin Foundation event schedule](https://fil.org/events/).
