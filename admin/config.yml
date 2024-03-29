@@ -2848,61 +2848,6 @@ collections:
             label: Text
             name: '-1e799b27'
             widget: string
-          - hint: 'Original text: All, key: 10181'
-            label: Text
-            name: '10181'
-            widget: string
-          - hint: 'Original text: Hosted, key: -7ed0db99'
-            label: Text
-            name: '-7ed0db99'
-            widget: string
-          - hint: 'Original text: Sponsored, key: 36c52119'
-            label: Text
-            name: 36c52119
-            widget: string
-          - hint: 'Original text: Supported, key: 7643f48e'
-            label: Text
-            name: 7643f48e
-            widget: string
-          - hint: 'Original text: Past events, key: 13e134c7'
-            label: Text
-            name: 13e134c7
-            widget: string
-          - hint: 'Original text: -, key: 2d'
-            label: Text
-            name: 2d
-            widget: string
-          - hint: 'Original text: Interested in getting involved?, key: -2b2897e8'
-            label: Text
-            name: '-2b2897e8'
-            widget: string
-          - hint: >-
-              Original text: For potential partnerships, or to be a featured
-              partner at an upcoming Filecoin Foundation event, reach out!, key:
-              6eb6bc48
-            label: Text
-            name: 6eb6bc48
-            widget: text
-          - hint: 'Original text: Connect, key: -6412ef36'
-            label: Text
-            name: '-6412ef36'
-            widget: string
-          - hint: >-
-              Original text: To invite Filecoin Foundation staff or leadership
-              to speak at your event, email meghan@fil.org, key: -5ee30132
-            label: Text
-            name: '-5ee30132'
-            widget: text
-          - hint: 'Original text: Filecoin Orbit, key: -18eb8789'
-            label: Text
-            name: '-18eb8789'
-            widget: string
-          - hint: >-
-              Original text: Want to join our Filecoin Orbit Ambassador
-              community? Click to learn more. , key: -44890c3f
-            label: Text
-            name: '-44890c3f'
-            widget: string
           - hint: 'Original text: Get, key: 11736'
             label: Text
             name: '11736'
@@ -2978,6 +2923,228 @@ collections:
             label: Text
             name: 1276df03
             widget: text
+          - hint: 'Original text: All, key: 10181'
+            label: Text
+            name: '10181'
+            widget: string
+          - hint: 'Original text: Hosted, key: -7ed0db99'
+            label: Text
+            name: '-7ed0db99'
+            widget: string
+          - hint: 'Original text: Sponsored, key: 36c52119'
+            label: Text
+            name: 36c52119
+            widget: string
+          - hint: 'Original text: Supported, key: 7643f48e'
+            label: Text
+            name: 7643f48e
+            widget: string
+          - hint: 'Original text: Past events, key: 13e134c7'
+            label: Text
+            name: 13e134c7
+            widget: string
+          - hint: 'Original text: -, key: 2d'
+            label: Text
+            name: 2d
+            widget: string
+          - hint: 'Original text: Interested in getting involved?, key: -2b2897e8'
+            label: Text
+            name: '-2b2897e8'
+            widget: string
+          - hint: >-
+              Original text: For potential partnerships, or to be a featured
+              partner at an upcoming Filecoin Foundation event, reach out!, key:
+              6eb6bc48
+            label: Text
+            name: 6eb6bc48
+            widget: text
+          - hint: 'Original text: Connect, key: -6412ef36'
+            label: Text
+            name: '-6412ef36'
+            widget: string
+          - hint: >-
+              Original text: To invite Filecoin Foundation staff or leadership
+              to speak at your event, email meghan@fil.org, key: -5ee30132
+            label: Text
+            name: '-5ee30132'
+            widget: text
+          - hint: 'Original text: Filecoin Orbit, key: -18eb8789'
+            label: Text
+            name: '-18eb8789'
+            widget: string
+          - hint: >-
+              Original text: Want to join our Filecoin Orbit Ambassador
+              community? Click to learn more. , key: -44890c3f
+            label: Text
+            name: '-44890c3f'
+            widget: string
+          - hint: 'Original text: Email for more info, key: -7a049a2'
+            label: Text
+            name: '-7a049a2'
+            widget: string
+          - hint: 'Original text: Developer, key: 72a307aa'
+            label: Text
+            name: 72a307aa
+            widget: string
+          - hint: >-
+              Original text: The Foundation funds talented and eager teams that
+              want to work with us to build a more robust, efficient, and
+              decentralized web., key: 8846171
+            label: Text
+            name: '8846171'
+            widget: text
+          - hint: 'Original text: Open Grants, key: 10d9716d'
+            label: Text
+            name: 10d9716d
+            widget: string
+          - hint: >-
+              Original text: Have an idea for pushing the Filecoin ecosystem
+              forward? Grants are available to support projects that advance the
+              Filecoin ecosystem, scale users, or directly advance Filecoin’s
+              mission to preserve humanity’s most important information., key:
+              -d4c6bb3
+            label: Text
+            name: '-d4c6bb3'
+            widget: text
+          - hint: 'Original text: Requests for Proposal, key: -156c0cbb'
+            label: Text
+            name: '-156c0cbb'
+            widget: string
+          - hint: >-
+              Original text: These grants generally have clearly scoped
+              deliverables, milestones, and funding limits. While there is some
+              flexibility in RFP deliverables, we expect teams will deliver what
+              is in scope in the RFP., key: 4e788d98
+            label: Text
+            name: 4e788d98
+            widget: text
+          - hint: 'Original text: Microgrants, key: 39b1267b'
+            label: Text
+            name: 39b1267b
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Foundation awards grants to
+              early-stage projects that have developed initial protocols using
+              Filecoin., key: -7ef82b5c
+            label: Text
+            name: '-7ef82b5c'
+            widget: text
+          - hint: 'Original text: For more information on grants, , key: -4d9844fc'
+            label: Text
+            name: '-4d9844fc'
+            widget: string
+          - hint: 'Original text: email us , key: 7e4b6ebe'
+            label: Text
+            name: 7e4b6ebe
+            widget: string
+          - hint: 'Original text: or see our , key: 17b8eb9e'
+            label: Text
+            name: 17b8eb9e
+            widget: string
+          - hint: 'Original text: Github repo, key: -498a3291'
+            label: Text
+            name: '-498a3291'
+            widget: string
+          - hint: >-
+              Original text:  for a more in-depth introduction to the grants
+              program., key: 1256bab5
+            label: Text
+            name: 1256bab5
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Foundation and its sister organization
+              the Filecoin Foundation for the Decentralized Web (FFDW) provide
+              funding to build the greater decentralized web and open-source
+              communities., key: -538068bc
+            label: Text
+            name: '-538068bc'
+            widget: text
+          - hint: 'Original text: Our initiatives seek to:, key: 3d5e0c04'
+            label: Text
+            name: 3d5e0c04
+            widget: string
+          - hint: >-
+              Original text: Accelerate the adoption of open, decentralized
+              technologies, key: 2ebd2117
+            label: Text
+            name: 2ebd2117
+            widget: string
+          - hint: >-
+              Original text: Build communities that are mutually supportive and
+              self-sustaining, key: 686e61a5
+            label: Text
+            name: 686e61a5
+            widget: string
+          - hint: >-
+              Original text: Communicate the benefits of decentralization and
+              open sourcing to wider audiences, key: -546318d
+            label: Text
+            name: '-546318d'
+            widget: string
+          - hint: 'Original text: email us., key: 7e4b6ecc'
+            label: Text
+            name: 7e4b6ecc
+            widget: string
+          - hint: 'Original text: Support, key: -b54e851'
+            label: Text
+            name: '-b54e851'
+            widget: string
+          - hint: 'Original text: Growth, key: 7fa2cde7'
+            label: Text
+            name: 7fa2cde7
+            widget: string
+          - hint: >-
+              Original text:  There are stakeholders in the Filecoin ecosystem:
+              Storage Providers, Developers, Researchers, Token Holders,
+              Clients, Users. We want to support them all., key: 13b1d6a8
+            label: Text
+            name: 13b1d6a8
+            widget: text
+          - hint: >-
+              Original text: We accelerate the growth of the Filecoin ecosystem
+              through partnerships and collaborations., key: -45a4ab6b
+            label: Text
+            name: '-45a4ab6b'
+            widget: text
+          - hint: >-
+              Original text: As an open-source project, it is vital that
+              Filecoin has transparent, community-driven governance. The
+              Foundation facilitates the governance process, including the
+              Filecoin Improvement Proposals process., key: 10031f37
+            label: Text
+            name: 10031f37
+            widget: text
+          - hint: "Original text: WHAT\_WE\_DO, key: -7620613f"
+            label: Text
+            name: '-7620613f'
+            widget: string
+          - hint: >-
+              Original text: Filecoin Plus: Incentivize Useful Storage on
+              Filecoin, key: -29fc76c8
+            label: Text
+            name: '-29fc76c8'
+            widget: string
+          - hint: >-
+              Original text: A brief overview of the motivation, principles, and
+              mechanisms of Filecoin Plus, and how it incentivizes useful
+              storage on the network., key: 6e1e35f6
+            label: Text
+            name: 6e1e35f6
+            widget: text
+          - hint: >-
+              Original text: How to get involved in the Filecoin community, key:
+              -4943a1a
+            label: Text
+            name: '-4943a1a'
+            widget: string
+          - hint: 'Original text: Events & Hackathons, key: 603e9a01'
+            label: Text
+            name: 603e9a01
+            widget: string
+          - hint: 'Original text: (Past) , key: -2df6250f'
+            label: Text
+            name: '-2df6250f'
+            widget: string
           - hint: 'Original text: Community Driven, key: -37290785'
             label: Text
             name: '-37290785'
@@ -3217,173 +3384,6 @@ collections:
           - hint: 'Original text: Hackathons, key: -290151c0'
             label: Text
             name: '-290151c0'
-            widget: string
-          - hint: 'Original text: (Past) , key: -2df6250f'
-            label: Text
-            name: '-2df6250f'
-            widget: string
-          - hint: 'Original text: Email for more info, key: -7a049a2'
-            label: Text
-            name: '-7a049a2'
-            widget: string
-          - hint: 'Original text: Developer, key: 72a307aa'
-            label: Text
-            name: 72a307aa
-            widget: string
-          - hint: >-
-              Original text: The Foundation funds talented and eager teams that
-              want to work with us to build a more robust, efficient, and
-              decentralized web., key: 8846171
-            label: Text
-            name: '8846171'
-            widget: text
-          - hint: 'Original text: Open Grants, key: 10d9716d'
-            label: Text
-            name: 10d9716d
-            widget: string
-          - hint: >-
-              Original text: Have an idea for pushing the Filecoin ecosystem
-              forward? Grants are available to support projects that advance the
-              Filecoin ecosystem, scale users, or directly advance Filecoin’s
-              mission to preserve humanity’s most important information., key:
-              -d4c6bb3
-            label: Text
-            name: '-d4c6bb3'
-            widget: text
-          - hint: 'Original text: Requests for Proposal, key: -156c0cbb'
-            label: Text
-            name: '-156c0cbb'
-            widget: string
-          - hint: >-
-              Original text: These grants generally have clearly scoped
-              deliverables, milestones, and funding limits. While there is some
-              flexibility in RFP deliverables, we expect teams will deliver what
-              is in scope in the RFP., key: 4e788d98
-            label: Text
-            name: 4e788d98
-            widget: text
-          - hint: 'Original text: Microgrants, key: 39b1267b'
-            label: Text
-            name: 39b1267b
-            widget: string
-          - hint: >-
-              Original text: The Filecoin Foundation awards grants to
-              early-stage projects that have developed initial protocols using
-              Filecoin., key: -7ef82b5c
-            label: Text
-            name: '-7ef82b5c'
-            widget: text
-          - hint: 'Original text: For more information on grants, , key: -4d9844fc'
-            label: Text
-            name: '-4d9844fc'
-            widget: string
-          - hint: 'Original text: email us , key: 7e4b6ebe'
-            label: Text
-            name: 7e4b6ebe
-            widget: string
-          - hint: 'Original text: or see our , key: 17b8eb9e'
-            label: Text
-            name: 17b8eb9e
-            widget: string
-          - hint: 'Original text: Github repo, key: -498a3291'
-            label: Text
-            name: '-498a3291'
-            widget: string
-          - hint: >-
-              Original text:  for a more in-depth introduction to the grants
-              program., key: 1256bab5
-            label: Text
-            name: 1256bab5
-            widget: string
-          - hint: >-
-              Original text: The Filecoin Foundation and its sister organization
-              the Filecoin Foundation for the Decentralized Web (FFDW) provide
-              funding to build the greater decentralized web and open-source
-              communities., key: -538068bc
-            label: Text
-            name: '-538068bc'
-            widget: text
-          - hint: 'Original text: Our initiatives seek to:, key: 3d5e0c04'
-            label: Text
-            name: 3d5e0c04
-            widget: string
-          - hint: >-
-              Original text: Accelerate the adoption of open, decentralized
-              technologies, key: 2ebd2117
-            label: Text
-            name: 2ebd2117
-            widget: string
-          - hint: >-
-              Original text: Build communities that are mutually supportive and
-              self-sustaining, key: 686e61a5
-            label: Text
-            name: 686e61a5
-            widget: string
-          - hint: >-
-              Original text: Communicate the benefits of decentralization and
-              open sourcing to wider audiences, key: -546318d
-            label: Text
-            name: '-546318d'
-            widget: string
-          - hint: 'Original text: email us., key: 7e4b6ecc'
-            label: Text
-            name: 7e4b6ecc
-            widget: string
-          - hint: 'Original text: Support, key: -b54e851'
-            label: Text
-            name: '-b54e851'
-            widget: string
-          - hint: 'Original text: Growth, key: 7fa2cde7'
-            label: Text
-            name: 7fa2cde7
-            widget: string
-          - hint: >-
-              Original text:  There are stakeholders in the Filecoin ecosystem:
-              Storage Providers, Developers, Researchers, Token Holders,
-              Clients, Users. We want to support them all., key: 13b1d6a8
-            label: Text
-            name: 13b1d6a8
-            widget: text
-          - hint: >-
-              Original text: We accelerate the growth of the Filecoin ecosystem
-              through partnerships and collaborations., key: -45a4ab6b
-            label: Text
-            name: '-45a4ab6b'
-            widget: text
-          - hint: >-
-              Original text: As an open-source project, it is vital that
-              Filecoin has transparent, community-driven governance. The
-              Foundation facilitates the governance process, including the
-              Filecoin Improvement Proposals process., key: 10031f37
-            label: Text
-            name: 10031f37
-            widget: text
-          - hint: "Original text: WHAT\_WE\_DO, key: -7620613f"
-            label: Text
-            name: '-7620613f'
-            widget: string
-          - hint: >-
-              Original text: Filecoin Plus: Incentivize Useful Storage on
-              Filecoin, key: -29fc76c8
-            label: Text
-            name: '-29fc76c8'
-            widget: string
-          - hint: >-
-              Original text: A brief overview of the motivation, principles, and
-              mechanisms of Filecoin Plus, and how it incentivizes useful
-              storage on the network., key: 6e1e35f6
-            label: Text
-            name: 6e1e35f6
-            widget: text
-          - hint: >-
-              Original text: How to get involved in the Filecoin community, key:
-              -4943a1a
-            label: Text
-            name: '-4943a1a'
-            widget: string
-          - hint: 'Original text: Events & Hackathons, key: 603e9a01'
-            label: Text
-            name: 603e9a01
             widget: string
           - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
             label: Text
@@ -5662,18 +5662,6 @@ collections:
             label: Link
             name: 6ed98b2e
             widget: string
-          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
-            label: Link
-            name: '42500560'
-            widget: string
-          - hint: 'Original link: mailto:meghan@fil.org, key: 5c86dad'
-            label: Link
-            name: 5c86dad
-            widget: string
-          - hint: 'Original link: https://hub.fil.org/orbit, key: 431e4d92'
-            label: Link
-            name: 431e4d92
-            widget: string
           - hint: 'Original link: https://jobs.lever.co/filecoin, key: 1a0bd1e3'
             label: Link
             name: 1a0bd1e3
@@ -5695,6 +5683,38 @@ collections:
               -15c334a4
             label: Link
             name: '-15c334a4'
+            widget: string
+          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
+            label: Link
+            name: '42500560'
+            widget: string
+          - hint: 'Original link: mailto:meghan@fil.org, key: 5c86dad'
+            label: Link
+            name: 5c86dad
+            widget: string
+          - hint: 'Original link: https://hub.fil.org/orbit, key: 431e4d92'
+            label: Link
+            name: 431e4d92
+            widget: string
+          - hint: >-
+              Original link: https://github.com/filecoin-project/devgrants, key:
+              2ac34b40
+            label: Link
+            name: 2ac34b40
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.youtube.com/watch?v=-kxNpRiEd_c&embeds_euri=https%3A%2F%2Ffil.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo,
+              key: 63539967
+            label: Link
+            name: '63539967'
+            widget: string
+          - hint: >-
+              Original link:
+              https://docs.filecoin.io/basics/how-storage-works/filecoin-plus/,
+              key: -5e94051
+            label: Link
+            name: '-5e94051'
             widget: string
           - hint: 'Original link: #what-is-a-fip, key: -42a4b81c'
             label: Link
@@ -5741,26 +5761,6 @@ collections:
               key: 6a8c8b11
             label: Link
             name: 6a8c8b11
-            widget: string
-          - hint: >-
-              Original link: https://github.com/filecoin-project/devgrants, key:
-              2ac34b40
-            label: Link
-            name: 2ac34b40
-            widget: string
-          - hint: >-
-              Original link:
-              https://www.youtube.com/watch?v=-kxNpRiEd_c&embeds_euri=https%3A%2F%2Ffil.org%2F&source_ve_path=Mjg2NjY&feature=emb_logo,
-              key: 63539967
-            label: Link
-            name: '63539967'
-            widget: string
-          - hint: >-
-              Original link:
-              https://docs.filecoin.io/basics/how-storage-works/filecoin-plus/,
-              key: -5e94051
-            label: Link
-            name: '-5e94051'
             widget: string
           - hint: 'Original link: https://fil.org/employees, key: -48acf9fa'
             label: Link
