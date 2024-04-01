@@ -19,7 +19,7 @@ seo:
 ---
 ## **Early April Highlights**
 
-📖 **Filecoin Foundation is now accepting article abstracts from the community for the inaugural edition of the Filecoin Ecosystem Digest.** Published by FF and guest edited by Ansa Research’s Jonathan Victor, the digest will feature articles from ecosystem contributors sharing their vision for the web's future and how decentralized storage applications will play a part. To apply, fill out the[Filecoin Ecosystem Digest interest form](https://airtable.com/appQReX5uAegC0yom/pagoKQqs5z4LCWleW/form).
+📖 **Filecoin Foundation is now accepting article abstracts from the community for the inaugural edition of the Filecoin Ecosystem Digest.** Published by FF and guest edited by Ansa Research’s Jonathan Victor, the digest will feature articles from ecosystem contributors sharing their vision for the web's future and how decentralized storage applications will play a part. To apply, fill out the [Filecoin Ecosystem Digest interest form](https://airtable.com/appQReX5uAegC0yom/pagoKQqs5z4LCWleW/form).
 
 🧰 **Filecoin Foundation’s [Comms Toolkit](https://hub.fil.org/comms) is live!** This new site connects you with FF’s Marketing and Communications team so we can help spread the word about projects you're building and the work you’re doing in the Filecoin ecosystem. Fill out this [intake form](https://airtable.com/appNJXvQHmep8Dx9E/shr3Kc8Ort7T5ehuX), and our team will follow up with you to help you tell your story.
 
