@@ -11,7 +11,7 @@ f_topic: cms/ecosystem-topics/tooling-productivity.md
 f_tag:
   - cms/ecosystem-tags/dapp.md
   - cms/ecosystem-tags/data-storage-management.md
-f_card-text-truncated: A fully decentralized and open-source Web3 Cloud Storage solution
+f_card-text-truncated: A fully decentralized and open-source Web3 Cloud Storage solution.
 f_website: https://app.valist.io/d-drive/d-drive-pwa
 f_tech-3:
   - cms/ecosystem-technology/ipfs.md
