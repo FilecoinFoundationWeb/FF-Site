@@ -5,7 +5,7 @@ updated-on: 2024-04-03T18:07:28.315Z
 published-on: 2024-04-03T18:07:28.332Z
 f_featured: false
 f_brand:
-  url: /assets/images/defluencerlogo.png
+  url: /assets/images/defluencer_logo_blur.svg
 f_brand-image-alt-text: Defluencer logo
 f_topic: cms/ecosystem-topics/media-entertainment.md
 f_tag:
