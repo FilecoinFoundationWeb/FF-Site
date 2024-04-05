@@ -12,7 +12,7 @@ f_topic: cms/ecosystem-topics/tooling-productivity.md
 f_tag:
   - cms/ecosystem-tags/developer-tools.md
   - cms/ecosystem-tags/data-curation-monetization.md
-f_card-text-truncated: Help metrics for users and devs to help manage data on IPFS.
+f_card-text-truncated: Metrics for users and devs to help manage data on IPFS.
 f_website: https://leto.gg/
 f_repo: https://github.com/Leto-gg
 f_tech-3:
