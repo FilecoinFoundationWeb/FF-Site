@@ -26,4 +26,4 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-FrogHub aims to provide cheap and easy-to-use storage to facilitate a smoother user experience within the IPFS network. FrogHub provides services including IPFS file storage, customized distributed storage for Filecoin, sector recovery, and more.
+FrogHub aims to provide low cost and easy-to-use storage to facilitate a smoother user experience within the IPFS network. FrogHub provides services including IPFS file storage, customized distributed storage for Filecoin, sector recovery, and more.
