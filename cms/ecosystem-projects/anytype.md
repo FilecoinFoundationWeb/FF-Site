@@ -26,6 +26,6 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-Private, local-first, P2P computing no-code dapp to compose beautifully. Available on Mac, Windows, Linux, iOS & Android.
+Meet Anytype, a private hub for all your data: docs, tasks, files, bookmarks, contacts and more. It’s built on a new architecture that protects your privacy and data sovereignty, even when working across devices. Use it to create elegant dashboards, documents, and knowledge graphs.
 
 By developing a tool where anyone can create and share without an intermediary, our hope is to demonstrate a system wherein cooperation can flourish without third-party intervention, oversight, and control. We use a private [IPFS](https://docs.ipfs.tech/concepts/what-is-ipfs/) network to handle storage.
