@@ -26,4 +26,4 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
-As part of the Open Grid Alliance initiative, blocz delivers decentralized storage, edge computing, and CDN services in Las Vegas. As a founding member, blocz's focus is to innovate and deliver the technologies required to build the internet of tomorrow, such as; edge, decentralized cloud compute and storage, AI at the Edge, Private 5G, security, Open Metaverse, and Gaming at the Edge, solutions to name but a few.
+As part of the Open Grid Alliance initiative, blocz delivers decentralized storage, edge computing, and CDN services in Las Vegas. As a founding member, blocz's focus is to innovate and deliver the technologies required to build the internet of tomorrow, such as; edge, decentralized cloud compute and storage, AI at the edge, private 5G, security, open metaverse, and gaming at the edge, solutions to name but a few.
