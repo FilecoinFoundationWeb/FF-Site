@@ -5,7 +5,7 @@ updated-on: 2024-01-24T13:45:47.628Z
 published-on: 2024-01-24T13:45:47.636Z
 f_featured: false
 f_brand:
-  url: /assets/images/20240122-144933.jpeg
+  url: /assets/images/filliquid.png
   alt: FILLiquid Logo
 f_brand-image-alt-text: FILLiquid Logo
 f_topic: cms/ecosystem-topics/finance.md
