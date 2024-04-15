@@ -11,7 +11,7 @@ f_description: Decentralized compute is a distributed computing model that
   being dependent on a single provider.
 f_featured: false
 f_image:
-  url: /assets/images/decentralized-compute-1-.png
+  url: /assets/images/decentralized-compute-v2.png
 f_post-date: 2024-04-11T15:25:37.579Z
 tags: blog
 layout: "[blog].html"
