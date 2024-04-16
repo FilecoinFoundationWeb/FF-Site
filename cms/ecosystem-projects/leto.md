@@ -5,7 +5,7 @@ updated-on: 2024-04-05T23:01:19.919Z
 published-on: 2024-04-05T23:01:19.933Z
 f_featured: false
 f_brand:
-  url: /assets/images/favicon.png
+  url: /assets/images/leto-logo.png
   alt: ""
 f_brand-image-alt-text: Leto Logo
 f_topic: cms/ecosystem-topics/tooling-productivity.md
@@ -27,4 +27,5 @@ seo:
   twitter:title: summary
   twitter:card: summary
 ---
+
 Leto is an open-source, community-operated Metrics Engine built for the Open-Web and its users. Leto empowers developers and users by providing insights about data stored on IPFS by making it easy to collect anonymized information about IPFS content and generate insights needed to grow and protect applications, websites, NFTs, and more.
