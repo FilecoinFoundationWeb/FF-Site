@@ -24,17 +24,11 @@ seo:
   twitter:image: /assets/images/blogheader-filhk24recap-1-.png
   og:image: /assets/images/blogheader-filhk24recap-1-.png
 ---
-![](/assets/images/blogheader-filhk24recap-1-.png)
-
-
-
 The Filecoin ecosystem was on full display at [FIL Hong Kong](http://fil-hk.io), hosted by ND Labs and supported by Filecoin Foundation. Hundreds of attendees from around the world gathered in the burgeoning Web3 hub of Hong Kong to explore the latest developments in the Filecoin ecosystem and envision the future of decentralized storage. 
 
 Spread across three days of talks and presentations, reps from many exciting projects built on the Filecoin network came together to share their latest developments in decentralized AI tech, decentralized physical infrastructure networks (DePIN), and Filecoin Virtual Machine (FVM) projects.
 
 ![Jen King and Mara McMahon from the FilStor/DeStor team shared insights on aligning product strategies with customer needs to drive Filecoin adoption. ](/assets/images/unnamed.png)
-
-
 
 ### Highlights from Filecoin & Storage Provider Day
 
@@ -48,36 +42,20 @@ Day two of FIL Hong Kong dove deep into the cutting-edge applications and advanc
 
 ![A packed house at FIL HK](/assets/images/unnamed-1-.png)
 
-
-
-
-
 ### Web3 Festival Showcases Filecoin's Potential
 
-
-
 The final day of FIL Hong Kong took place on a dedicated stage at Web3 Festival, where attendees gained a deeper understanding of Filecoin's integration with other technologies. Filecoin Foundation Founding Officer Clara Tsao outlined the various pathways for participation in the ecosystem. She highlighted some of the major organizations that currently have data stored on the Filecoin network, such as NASA, Solana, and the National Library of Medicine.
-
-
 
 FF’s Yan Bo Ng explored the potential of integrating FVM with artificial intelligence to enhance data processing capabilities across the Filecoin network. He emphasized the potential for FVM to serve as a backbone for AI applications, highlighting the synergy between decentralized storage and advanced computational technologies. 
 
 ![FF’s Yan Bo Ng explored the potential of integrating FVM with artificial intelligence to enhance data processing capabilities across the Filecoin network.](/assets/images/unnamed-2-.jpg)
 
-
-
 Titan Network’s Konstantin Tkachuk presented on the transformative potential of using idle edge devices within the framework of DePIN. “In order to really capture the DePIN opportunity, and bring this technology closer to people, to you and me, we have to use the resources that are already available in this space,” Tkachuk said. “And by those resources I mean smartphones, tablets, PCs, and other devices that are surrounding us on a day-to-day basis.” Billions of global edge and personal devices, often overlooked Tkachuk said represent a vast untapped resource that could significantly advance the decentralization movement. 
 
 ![](/assets/images/unnamed-3-.jpg)
 
-
-
 ### Commitment and Collaboration Drive Ecosystem Growth
 
-
-
 Coming out of FIL Hong Kong it is clear that the elements needed to propel decentralized technology to mainstream adoption are rapidly converging. The Filecoin network is positioned as the backbone of many of these essential systems, from AI to DePIN and beyond. FIL Hong Kong showcased truly global collaboration and development within the Filecoin ecosystem. 
-
-
 
 To see everything from FIL Hong Kong, check out the [YouTube playlist](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kmq5JSUq2IrqO3Y33PVJsK).
