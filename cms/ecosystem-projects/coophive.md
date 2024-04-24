@@ -29,8 +29,8 @@ seo:
 ---
 CoopHive is a compute marketplace that can facilitate a number of diverse applications. It is providing the base layer for autonomous agents to execute arbitrary compute and exchange real-world assets, scientists to write and read verifiable computational histories with provenance, and mechanism designers to implement custom reward logic for multi-agent systems.\
 \
-Filecoin is the world’s largest decentralized storage infrastructure, boasting tens of exabytes of storage capacity. One of Filecoin’s missions is to make digital storage a public good, exemplified by its FIL+ program, which rewards storage providers for storing datasets valuable to humanity.
-
-Instrumental to this vision is running compute over Filecoin data, which dramatically enhances its value. CoopHive achieves this by creating a two-sided marketplace for compute combined with a flexible architecture that enables a wide variety of applications.
-
-Enriching the value of datasets on Filecoin unlocks an enormous, untapped source of wealth. In collaboration with the FVM (Filecoin Virtual Machine) and IPC (Inter-Planetary Consensus) teams, CoopHive is building a scalable, comprehensive compute + storage solution to take Filecoin data to the next level.
+Filecoin is the world’s largest decentralized storage infrastructure, boasting tens of exabytes of storage capacity. One of Filecoin’s missions is to make digital storage a public good, exemplified by its FIL+ program, which rewards storage providers for storing datasets valuable to humanity.\
+\
+Instrumental to this vision is running compute over Filecoin data, which dramatically enhances its value. CoopHive achieves this by creating a two-sided marketplace for compute combined with a flexible architecture that enables a wide variety of applications.\
+\
+Enriching the value of datasets on Filecoin unlocks an enormous, untapped source of wealth. In collaboration with the FVM (Filecoin Virtual Machine) and IPC (Inter-Planetary Consensus) teams, CoopHive is building a scalable, comprehensive compute + storage solution to take Filecoin data to the next lev
