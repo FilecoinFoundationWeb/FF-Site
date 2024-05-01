@@ -1,10 +1,12 @@
 ---
-title: Consensus Filecoin Orbit Meetup Event
+title: Consensus Filecoin Booth
 created-on: 2024-01-29T15:50:42.605Z
 updated-on: 2024-01-29T15:50:42.614Z
 published-on: 2024-01-29T15:50:42.621Z
 f_featured: false
 f_description: Austin, TX
+f_cta: https://hub.fil.org/consensus-24
+f_cta-text: Learn More
 f_start-date: 2024-05-29T14:50:42.632Z
 f_end-date: 2024-05-31T14:50:42.640Z
 f_image:
