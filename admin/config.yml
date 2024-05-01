@@ -2695,9 +2695,16 @@ collections:
               dynamic growth, this is not an exhaustive list but serves as a
               launching pad for exploring the ecosystem. If you’re a part of the
               Filecoin ecosystem and don’t see your project listed, share your
-              details., key: 66cdfe3e
+              details. , key: 72f1c9a2
             label: Text
-            name: 66cdfe3e
+            name: 72f1c9a2
+            widget: text
+          - hint: >-
+              Original text: Inclusion in the Filecoin Ecosystem Explorer is not
+              an endorsement of any project, any company, or any company’s
+              products or services., key: 306c136c
+            label: Text
+            name: 306c136c
             widget: text
           - hint: 'Original text: Submit or Update Your Project, key: -20bcead2'
             label: Text
