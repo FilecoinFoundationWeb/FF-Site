@@ -927,7 +927,7 @@ color: #08072e;
           <div class="hero-split">
             <h1 class="heading-2">{{ texts.-5d06138e }}</h1>
             <div class="spacer _18px"></div>
-            <p class="paragraph-10">{{ texts.66cdfe3e }}</p>
+            <p class="paragraph-10">{{ texts.72f1c9a2 }}<em>{{ texts.306c136c }}</em></p>
             <div class="spacer _18px"></div>
             <a href="{{ links.5f52128f }}" target="_blank" class="button-primary outline">{{ texts.-20bcead2 }}</a>
           </div>
@@ -1191,7 +1191,7 @@ color: #08072e;
           {%- assign collection = collections.case-studies | sort: "-created-on" -%}<div class="case-studies-wrapper w-dyn-list">
             {%- unless collection.length == 0 -%}<div role="list" class="case-studies-list w-dyn-items">
               {%- for item in collection -%}<div role="listitem" class="case-study-item w-dyn-item">
-                <div class="card case-study" style="background-color: {{item.data.f_color}};; border-color: {{item.data.f_border-color}};"><img alt="" loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;588.46875px&quot;}]" src="{{ item.data.f_image.url }}" class="card-case-study-image">
+                <div class="card case-study" style="background-color: {{item.data.f_color}};; border-color: {{item.data.f_border-color}};"><img loading="lazy" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;100vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;42vw&quot;},{&quot;max&quot;:991,&quot;size&quot;:&quot;43vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;588.46875px&quot;}]" src="{{ item.data.f_image.url }}" alt="" class="card-case-study-image">
                   <div class="case-study-card-content">
                     <div>{{ texts.-1e799b27 }}</div>
                     <div class="case-study-title clamp-2">{{ item.data.title }}</div>
