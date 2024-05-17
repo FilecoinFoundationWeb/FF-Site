@@ -44,15 +44,15 @@ Ansa Research recently published a post laying out ideas for [Filecoin growth](h
 
 ### Three Keys to Filecoin Network Growth in 2024
 
-1) Growing the storage client pipeline: A healthy pipeline helps bolster the underlying businesses that have committed to building on Filecoin. This makes Filecoin more robust, resilient, and attractive for additional clients seeking battle-tested decentralized storage solutions.
+Growing the storage client pipeline: A healthy pipeline helps bolster the underlying businesses that have committed to building on Filecoin. This makes Filecoin more robust, resilient, and attractive for additional clients seeking battle-tested decentralized storage solutions.
 
-2) More onchain activity: People and protocols paying to use block space is a sign of user adoption and activity. Network usability, deal renewals, and smart contracts are examples of onchain operations with quantifiable metrics that demonstrate the network's health and utility. 
+More onchain activity: People and protocols paying to use block space is a sign of user adoption and activity. Network usability, deal renewals, and smart contracts are examples of onchain operations with quantifiable metrics that demonstrate the network's health and utility. 
 
 * Usability: We can track this by tracking that data on the network is both being retrieved and put to use. For data to be usable, it needs to be indexed, like [Solana’s block history](https://x.com/FilFoundation/status/1778828615557214380) stored on the Filecoin network.
 * Renewals: How many storage clients are renewing their deals? This is another sign of utility. We want to see these numbers going up and to the right.  
 * Smart Contracts: The library of smart contracts available on Filecoin continues to swell. Smart contracts make Filecoin easier to use both within the Filecoin ecosystem and across chains. 
 
-3) Proving Filecoin’s value-add: Filecoin can be an indispensable tool for all companies that rely on big data –– across Web2, Web2.5, and Web3. Mainstay tech companies looking to capitalize on the data economy can use the network for robust, secure, and low-cost data storage. And Filecoin complements emerging compute protocols, making it the go-to solution for secure and decentralized data storage and archiving. As new blockchain networks and layer-2s gain traction, Filecoin can be deeply embedded within their architectures, serving as a reliable and trustless storage layer. And with the emergence of more AI tools, every AI marketplace could offer Filecoin as the default storage option, for this data verifiability and traceability. This is a great opportunity for DePIN and compute networks to build on and build with Filecoin. 
+Proving Filecoin’s value-add: Filecoin can be an indispensable tool for all companies that rely on big data –– across Web2, Web2.5, and Web3. Mainstay tech companies looking to capitalize on the data economy can use the network for robust, secure, and low-cost data storage. And Filecoin complements emerging compute protocols, making it the go-to solution for secure and decentralized data storage and archiving. As new blockchain networks and layer-2s gain traction, Filecoin can be deeply embedded within their architectures, serving as a reliable and trustless storage layer. And with the emergence of more AI tools, every AI marketplace could offer Filecoin as the default storage option, for this data verifiability and traceability. This is a great opportunity for DePIN and compute networks to build on and build with Filecoin. 
 
 ### Seven Ideas for Filecoin Ecosystem Development
 
