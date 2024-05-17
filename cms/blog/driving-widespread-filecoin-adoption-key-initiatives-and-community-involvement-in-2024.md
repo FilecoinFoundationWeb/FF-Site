@@ -46,7 +46,7 @@ Ansa Research recently published a post laying out ideas for [Filecoin growth](h
 
 1) Growing the storage client pipeline: A healthy pipeline helps bolster the underlying businesses that have committed to building on Filecoin. This makes Filecoin more robust, resilient, and attractive for additional clients seeking battle-tested decentralized storage solutions.
 
-2)More onchain activity: People and protocols paying to use block space is a sign of user adoption and activity. Network usability, deal renewals, and smart contracts are examples of onchain operations with quantifiable metrics that demonstrate the network's health and utility. 
+2) More onchain activity: People and protocols paying to use block space is a sign of user adoption and activity. Network usability, deal renewals, and smart contracts are examples of onchain operations with quantifiable metrics that demonstrate the network's health and utility. 
 
 * Usability: We can track this by tracking that data on the network is both being retrieved and put to use. For data to be usable, it needs to be indexed, like [Solana’s block history](https://x.com/FilFoundation/status/1778828615557214380) stored on the Filecoin network.
 * Renewals: How many storage clients are renewing their deals? This is another sign of utility. We want to see these numbers going up and to the right.  
