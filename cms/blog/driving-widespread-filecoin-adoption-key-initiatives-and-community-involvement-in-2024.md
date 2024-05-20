@@ -4,7 +4,7 @@ title: "Driving Widespread Filecoin Adoption: Key Initiatives and Community
 created-on: 2024-05-17T19:51:58.627Z
 updated-on: 2024-05-17T19:51:58.641Z
 published-on: 2024-05-17T19:51:58.651Z
-f_description: "Fileocin Foundation is one of many teams in the Filecoin network
+f_description: "Filecoin Foundation is one of many teams in the Filecoin network
   committed to the growth and success of the protocol. In this post, we
   highlight Filecoin's growth metrics and outline what some Ecosystem leaders
   suggest are the keys to further expansion in 2024. "
