@@ -9,7 +9,7 @@ f_cta: ""
 f_start-date: 2024-07-08T14:53:57.431Z
 f_end-date: 2024-07-11T14:53:57.438Z
 f_image:
-  url: /assets/images/1000004458.svg
+  url: /assets/images/1000004461.svg
   alt: FIL Brussels Logo
 f_event-date: 2024-07-08T14:53:57.447Z
 f_ff-involvement: Hosted by FF
