@@ -25,8 +25,6 @@ Last week, the Filecoin community convened in Austin against the backdrop of Con
 
 ### The Filecoin network is critical infrastructure for enabling decentralized compute and DePIN
 
-
-
 FF Founding Officer Megan Klimen joined Akash Accelerate and the [R3al World DePIN House](https://www.youtube.com/watch?v=yzRnT5T58R0), where she spoke on how protocols like Filecoin are redefining conventional infrastructure frameworks and how Filecoin provides the infrastructure for a decentralized web that is completely distributed, with data stored on a network on computers around the world.
 
 In today's digital age, data is the lifeblood of nearly every industry, and the demand for computing resources is skyrocketing. As AI continues to generate data and consume compute resources at an increasingly frenzied pace, Decentralized Physical Infrastructure Networks (DePIN) like Filecoin will become an even more important layer of the Internet. Recently, [IoTeX](https://iotex.io/) and [WeatherXM](https://weatherxm.com/) completed a [proof of concept](https://blog.textile.io/weeknotes-basin-launch-poc) with [Basin](https://basin.textile.io/), a high-throughput data layer powered by Filecoin for long-term data availability. This spotlights the growing demand for scalability, security, and resilience that DePINs offer over centralized solutions and Filecoin’s unique position to empower other DePIN networks.  
@@ -34,8 +32,6 @@ In today's digital age, data is the lifeblood of nearly every industry, and the 
 The Filecoin network can broker [computational resources](https://fil.org/blog/unleashing-the-power-of-decentralized-compute-with-filecoin/?utm_source=upload.fil.org&utm_medium=referral&utm_campaign=unleashing-the-power-of-decentralized-compute-with-filecoin), incentivize compute execution, distribute workloads across available storage providers, and prove the validity of the computation's results. By harnessing the power of global networks, we can foster a more open, resilient, and democratized computing ecosystem.
 
 ### Filecoin and AI 
-
-
 
 No tool is better positioned to support the data economy than Filecoin: the key to data provenance, authenticity, and verifiability in the high-frequency information age. FF Head of Community Porter Stowell demoed AI agents built for Filecoin at Theoriq’s AI Odyssey event. He highlighted four reasons why Filecoin will power the data economy.  
 
@@ -47,8 +43,6 @@ No tool is better positioned to support the data economy than Filecoin: the key 
 These points combined with the proliferation and capabilities of AI agents will dramatically increase the usability and trust of data globally to unlock a new era of analytics and insights.  
 
 ### Storage is Just the Start
-
-
 
 The Filecoin Booth at Consensus was a hub for attendees to learn more about the Filecoin network – from developers to potential storage clients and providers. The booth highlighted talks from FF and the ecosystem, providing valuable insights into the network’s capabilities and real-world applications of decentralized storage. 
 
